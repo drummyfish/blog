@@ -19,6 +19,7 @@
 .fish {
   width: 200px;
   height: 200px;
+  margin: 50px 0 0 0;
   background-image: url('../images/fish.png');
   float: right;
   clear: none;
@@ -55,7 +56,7 @@ h5 {font-size: 1.143em}	/* 16px */
 h6 {font-size: 1em}		/* 14px */
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+	font-weight: 400;
 	line-height: 1.1;
         margin-top: 1.5em;
 	margin-bottom: .8em;
@@ -69,9 +70,9 @@ hr { border: 2px solid #EEEEEE; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	/*color: #C74350;*/
+	color: #000;
 	padding: 0 1px;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:hover, a:active {
@@ -181,8 +182,9 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner h1 {font-size: 3.571em; line-height: 0;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
+                font-size: 75px;
 		display: block;
-		font-weight: bold;
+		font-weight: 400;
 		margin: 0 0 .6em .2em;
 		text-decoration: none;
 	}
@@ -284,7 +286,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 /*
 	Extras
 *****************/
-#extras {margin: 0 auto 3em auto; overflow: hidden;}
+#extras {display: none; margin: 0 auto 3em auto; overflow: hidden;}
 
 #extras ul {list-style: none; margin: 0;}
 #extras h2 {
@@ -296,7 +298,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #extras a:link, #extras a:visited {
 	color: #444;
-	display: block;
+	display: inline;
 	text-decoration: none;
 	padding: .3em .25em;
 }
@@ -312,18 +314,24 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
 	
 	/* Social */
-	#extras .social {
-		float: right;
-		width: 175px;
+	.social {
+		width: 100%;
+                margin-top: 2em;
 	}
 	
-	#extras div[class='social'] a {
+        .social li {
+                display: inline;
+                padding: 1em 0.3em;
+        }
+
+	div[class='social'] a {
 		background-repeat: no-repeat;
-		background-position: 3px 6px;
+		background-position: 3px 3px;
 		padding-left: 25px;
 	}
 	
 		/* Icons */
+                .social a[href*='deviantart.com'] {background-image: url('../images/icons/deviantart.png');}
 		.social a[href*='about.me'] {background-image: url('../images/icons/aboutme.png');}
 		.social a[href*='bitbucket.org'] {background-image: url('../images/icons/bitbucket.png');}
 		.social a[href*='delicious.com'] {background-image: url('../images/icons/delicious.png');}
@@ -355,7 +363,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	About
 *****************/
 #about {
-	background: #fff;
+	/* background: #fff; */
 	font-style: normal;
 	margin-bottom: 2em;
 	overflow: hidden;
@@ -379,7 +387,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 /*
 	Footer
 *****************/
-#contentinfo {padding-bottom: 2em; text-align: right;}
+#contentinfo {padding-bottom: 2em; text-align: right; line-height: 1.4;}
 
 /***** Sections *****/
 /* Blog */
