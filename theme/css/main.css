@@ -29,6 +29,11 @@
   max-width: 100%;
 }
 
+.publish-info {
+  font-size: 10px;
+  color: gray;
+}
+
 nav a {
   color: black;
 }
@@ -358,6 +363,28 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		.social a[href*='twitter.com'] {background-image: url('../images/icons/twitter.png');}
 		.social a[href*='vimeo.com'] {background-image: url('../images/icons/vimeo.png');}
 		.social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png');}
+
+/* Emoticons */
+
+.emoji {
+  display: inline-block; width: 20px; height: 20px;
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  }
+
+.emoji-smile {background-image: url('../images/emoticons/smile.png');}
+.emoji-sad {background-image: url('../images/emoticons/sad.png');}
+.emoji-grin {background-image: url('../images/emoticons/grin.png');}
+.emoji-cry {background-image: url('../images/emoticons/cry.png');}
+.emoji-sideways {background-image: url('../images/emoticons/sideways.png');}
+.emoji-thumbsup {background-image: url('../images/emoticons/thumbsup.png');}
+.emoji-heart {background-image: url('../images/emoticons/heart.png');}
+.emoji-neutral {background-image: url('../images/emoticons/neutral.png');}
+.emoji-tongue {background-image: url('../images/emoticons/tongue.png');}
+.emoji-eyebrows {background-image: url('../images/emoticons/eyebrows.png');}
+.emoji-openmouth {background-image: url('../images/emoticons/openmouth.png');}
+.emoji-check {background-image: url('../images/emoticons/check.png');}
+.emoji-no {background-image: url('../images/emoticons/no.png');}
 
 /*
 	About
