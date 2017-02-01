@@ -5,6 +5,6 @@
     <h1 class="entry-title">{{ page.title }}</h1>
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
-    {{ page.content|process_macros }}
+    {{ page.content }}
 </section>
 {% endblock %}

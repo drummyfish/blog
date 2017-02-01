@@ -24,6 +24,10 @@
   clear: none;
 }
 
+.img-desc img {
+  max-width: 100%;
+}
+
 nav a {
   color: black;
 }

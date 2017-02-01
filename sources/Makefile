@@ -10,6 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SOURCEDIR=sources
 OUTPUTSOURCEDIR = $(OUTPUTDIR)/$(SOURCEDIR)
 THEMEDIR=$(BASEDIR)/themes
+PLUGINDIR=$(BASEDIR)/plugins
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -104,10 +105,10 @@ publish: clean
 	mkdir "$(OUTPUTSOURCEDIR)"                # include sources
 	cp -r $(INPUTDIR) "$(OUTPUTSOURCEDIR)"
 	cp -r $(THEMEDIR) "$(OUTPUTSOURCEDIR)"
+	cp -r $(PLUGINDIR) "$(OUTPUTSOURCEDIR)"
 	cp Makefile "$(OUTPUTSOURCEDIR)"
 	cp pelicanconf.py "$(OUTPUTSOURCEDIR)"
 	cp publishconf.py "$(OUTPUTSOURCEDIR)"
-	cp filters.py "$(OUTPUTSOURCEDIR)"
 	cp fabfile.py "$(OUTPUTSOURCEDIR)"
 
 ssh_upload: publish

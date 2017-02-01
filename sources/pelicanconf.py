@@ -5,12 +5,12 @@ from __future__ import unicode_literals
 import sys
 sys.path.append('.')
 
-import filters
-JINJA_FILTERS = {'process_macros':filters.process_macros}
-
 AUTHOR = u'Miloslav \u010c\xed\u017e'
 SITENAME = u'tastyfish'
 SITEURL = ''
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['jinja2content']
 
 PATH = 'content'
 

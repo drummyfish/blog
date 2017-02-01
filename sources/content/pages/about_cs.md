@@ -3,11 +3,13 @@ Date: 2010-12-03 10:24
 Slug: about
 Lang: cs
 
+{% import 'macros.html' as macros %}
+
 Zdravím NSA, stalkery, personalisty a potenciální zaměstnavatele. Děkuji, že se o mě zajímáte 
 
 Jmenuji se Miloslav Číž a studuji informatiku na FIT VUT. Zaměřuji se na počítačovou grafiku,
 ale baví mě více či méně exaktní vědy v celé šíři. Mám rád spoustu dalších věcí, jako např. hudbu,
-sport atd. $fit_but_cheatsheet(ABC,3,dTsnYWy)
+sport atd.
 
 ## Fun facts:
 
@@ -37,4 +39,4 @@ makeup, PewDiePie, Smosh, tetování, módy do her, piercing, politická korektn
 zbytečné práce (jako např. odhrnování listí), komunismus, hořká (nikoliv horká) čokoláda, zima,
 alkohol, kouření, Zeman, Česká republika, Steam, Hra o trůny, marketing
 
-<img src="http://i.imgur.com/sQNYr3g.png" style="width: 100%"></img>
+{{ macros.img_desc('http://i.imgur.com/sQNYr3g.png','já','baví mě potápění :)') }}
