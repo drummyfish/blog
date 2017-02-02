@@ -25,6 +25,18 @@
   clear: none;
 }
 
+.fit-but-cheatsheet {
+  width: 135px;
+  height: 230px;
+  float: right;
+  margin: 10px;
+}
+
+.fit-but-cheatsheet img {
+  width: 135px;
+  height: 180px;
+}
+
 .img-desc img {
   max-width: 100%;
 }
