@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>under construction</title><link href="drummyfish.github.io/" rel="alternate"></link><link href="drummyfish.github.io/all.rss.xml" rel="self"></link><id>drummyfish.github.io/</id><updated>2017-01-30T00:44:00+01:00</updated><entry><title>Ing. at FIT – 5th semester</title><link href="drummyfish.github.io/ing-at-fit-5th-semester.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2017-01-30:drummyfish.github.io/ing-at-fit-5th-semester.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
+<feed xmlns="http://www.w3.org/2005/Atom"><title>under construction</title><link href="drummyfish.github.io/" rel="alternate"></link><link href="drummyfish.github.io/all.rss.xml" rel="self"></link><id>drummyfish.github.io/</id><updated>2017-01-30T00:44:00+01:00</updated><entry><title>Ing. na FIT – 5. semestr</title><link href="drummyfish.github.io/ing5.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2017-01-30:drummyfish.github.io/ing5.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
 předměty jsou, to ano, ale rozhodl jsem se, možná trochu zbaběle leč
 racionálně, že kvůli svým (nyní už dlouhodobým) psychickým problémům své
 působení na VŠ ukončím inženýrem. Tedy snad. Zde je zhodnocení
@@ -163,15 +163,36 @@ studentů v naší skupince.&lt;/p&gt;
 vedoucím a na vašem postoji. Zde lze pouze doporučit vybrat zajímavé
 téma, průběžně pracovat a konzultovat.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                          získaných bodů   známka&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Počítačové vidění (POV)                          90/100           A
-  Grafická uživatelská rozhraní v X Window (GUX)   65/100           D
-  Semestrální projekt (SEP)                        90/100           A&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Počítačové vidění (POV)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Grafická uživatelská rozhraní v X Window (GUX)&lt;/td&gt;
+&lt;td&gt;65/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Semestrální projekt (SEP)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,5&lt;br /&gt;
 pořadí v ročníku: 15.-21. z 90&lt;br /&gt;
 pořadí v ročníku oboru: 3.-4. z 22&lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Ing. at FIT – 4th semester</title><link href="drummyfish.github.io/ing-at-fit-4th-semester.html" rel="alternate"></link><published>2016-05-23T12:28:00+02:00</published><updated>2016-05-23T12:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2016-05-23:drummyfish.github.io/ing-at-fit-4th-semester.html</id><summary type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ, VNV a
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Ing. na FIT – 4. semestr</title><link href="drummyfish.github.io/ing4.html" rel="alternate"></link><published>2016-05-23T12:28:00+02:00</published><updated>2016-05-23T12:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2016-05-23:drummyfish.github.io/ing4.html</id><summary type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ, VNV a
 ARC. Mým cílem bylo především odbýt si PVC (ARC) a PVM (VNV) předměty a
 neměl jsem tak při zápisu příliš na výběr. Myslím, že s PV předměty se
 to přehání a studenti se kvůli nim nemohou naplno věnovat …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ, VNV a
@@ -394,15 +415,36 @@ přišlo mi nakonec 38 bodů a éčko.&lt;/p&gt;
 ARC pro vás, jinak ale ne. Jako grafik bych teď asi sáhl po jiném PVC
 předmětu.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                                 získaných bodů   známka&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Vizualizace a CAD (VIZ)                                 88/100           B
-  Vysoce náročné výpočty (VNV)                            73/100           C
-  Architektura a programování paralelních systémů (ARC)   58/100           E&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Vizualizace a CAD (VIZ)&lt;/td&gt;
+&lt;td&gt;88/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vysoce náročné výpočty (VNV)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Architektura a programování paralelních systémů (ARC)&lt;/td&gt;
+&lt;td&gt;58/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 2,166&lt;br /&gt;
 pořadí v ročníku: 107.-112. z 203&lt;br /&gt;
 pořadí v ročníku oboru: 4. z 46&lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content></entry><entry><title>Ing. at FIT – 3rd semester</title><link href="drummyfish.github.io/ing-at-fit-3rd-semester.html" rel="alternate"></link><published>2016-02-13T18:46:00+01:00</published><updated>2016-02-13T18:46:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2016-02-13:drummyfish.github.io/ing-at-fit-3rd-semester.html</id><summary type="html">&lt;p&gt;Jelikož se &lt;a href="http://tastyfish.cz/?p=522"&gt;opakuje situace z konce mého bakalářského
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Ing. na FIT – 3. semestr</title><link href="drummyfish.github.io/ing3.html" rel="alternate"></link><published>2016-02-13T18:46:00+01:00</published><updated>2016-02-13T18:46:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2016-02-13:drummyfish.github.io/ing3.html</id><summary type="html">&lt;p&gt;Jelikož se &lt;a href="http://tastyfish.cz/?p=522"&gt;opakuje situace z konce mého bakalářského
 studia&lt;/a&gt;, opět jsem studium rozvolnil a
 zapsal si na rok jenom pět předmětů. Pozor - pokud byste se ocitli v
 podobné situaci, pamatujte, že musíte za rok získat alespoň 30 kreditů,
@@ -521,14 +563,31 @@ semestru předmět VIZ, který je velmi podobný.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://img01.deviantart.net/9388/i/2015/299/c/8/sci_fi_chess_by_drummyfish-d9effp7.png" /&gt;{.aligncenter
 width="640" height="400"}&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                     získaných bodů   známka&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Grafická a zvuková rozhraní a normy (GZN)   85/100           B
-  Kreativní grafika (KRG)                     90/100           A&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Grafická a zvuková rozhraní a normy (GZN)&lt;/td&gt;
+&lt;td&gt;85/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kreativní grafika (KRG)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,277&lt;br /&gt;
 pořadí v ročníku: 10. z 211&lt;br /&gt;
 pořadí v ročníku oboru: 4. z 47&lt;br /&gt;
-prospěchové stipendium: coming soon&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Ing. at FIT - 2nd semester</title><link href="drummyfish.github.io/ing-at-fit-2nd-semester.html" rel="alternate"></link><published>2015-06-06T11:14:00+02:00</published><updated>2015-06-06T11:14:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2015-06-06:drummyfish.github.io/ing-at-fit-2nd-semester.html</id><summary type="html">&lt;p&gt;Druhý magisterský semestr na FITu byl na grafice hlavně o
+prospěchové stipendium: coming soon&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Ing. na FIT – 2. semestr</title><link href="drummyfish.github.io/ing2.html" rel="alternate"></link><published>2015-06-06T11:14:00+02:00</published><updated>2015-06-06T11:14:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2015-06-06:drummyfish.github.io/ing2.html</id><summary type="html">&lt;p&gt;Druhý magisterský semestr na FITu byl na grafice hlavně o
 signálech. Postaraly se o to předměty MUL, ZPO a ZRE. Celkem drsné bylo
 zkouškové období, které začínalo hned dva dny po přednáškovém, a všechny
 zkoušky byly vtěsnané do dvou týdnů, což se neblaze projevilo dvěma
@@ -542,7 +601,7 @@ zkoušky byly vtěsnané do dvou týdnů, což se neblaze projevilo dvěma
 který tradičně pořádal ÚPGM a jehož jsem se zúčastnil. Tentokrát byl
 herní a všichni jsme si jej velmi užili, proto neváhejte a přijďte si
 příště taky zaprogramovat - mrkněte se na
-&lt;a href="https://www.youtube.com/watch?v=hbMwbd4FPPQ"&gt;timelapse&lt;/a&gt; :)&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=hbMwbd4FPPQ"&gt;timelapse&lt;/a&gt; &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Fyzikální optika (FYO)&lt;/h2&gt;
 &lt;p&gt;Předmět ala IFY s jednou výhodou - žádný FEKT, žádné laboratoře. Jenom
 mě štvalo, že přednášky byly vždycky v úterý odpoledne v podzemním
@@ -962,7 +1021,7 @@ správnou odpovědí. Otázky se daly považovat za velmi jednoduché a na
 plných 10 bodů mi stačilo si krátce projít přednášky.&lt;/p&gt;
 &lt;p&gt;Zkoušku už si nejsem ani schopný vybavit, což nejspíš znamená, že byla
 taky jednoduchá. Získal jsem 42 bodů (z 51), lepší číslo jsem si snad
-ani nemohl přát :) Takže slušné B.&lt;/p&gt;
+ani nemohl přát &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Takže slušné B.&lt;/p&gt;
 &lt;p&gt;ZPO mě naučilo hlavně práci s OpenCV a zároveň tomu, abych se této
 knihovně radši vyhýbal. Jako jeden ze stěžejních předmětů grafiky taky
 probral nějakou tu užitečnou teorii. Předmět není těžký a jediné, s čím
@@ -1003,15 +1062,52 @@ chválit.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="http://i.imgur.com/Z7KEPEM.png" /&gt;{.aligncenter width="640"
 height="400"}&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                         získaných bodů   známka&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Fyzikální optika (FYO)                          58/100           E
-  Multimédia (MUL)                                92/100           A
-  Přenos dat, počítačové sítě a protokoly (PDS)   54/100           E
-  Zpracování obrazu (ZPO)                         86/100           B
-  Zpracování řečových signálů (ZRE)               85/100           B
-  Internetové aplikace (WAP)                      94/100           A
-  Výtvarná informatika (VIN)                      100/100          A&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Fyzikální optika (FYO)&lt;/td&gt;
+&lt;td&gt;58/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Multimédia (MUL)&lt;/td&gt;
+&lt;td&gt;92/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Přenos dat, počítačové sítě a protokoly (PDS)&lt;/td&gt;
+&lt;td&gt;54/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zpracování obrazu (ZPO)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zpracování řečových signálů (ZRE)&lt;/td&gt;
+&lt;td&gt;85/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Internetové aplikace (WAP)&lt;/td&gt;
+&lt;td&gt;94/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Výtvarná informatika (VIN)&lt;/td&gt;
+&lt;td&gt;100/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,714&lt;br /&gt;
 pořadí v ročníku: 19.-21.&lt;br /&gt;
 pořadí v ročníku oboru: 3.&lt;br /&gt;
@@ -1044,7 +1140,7 @@ zdá, vyřešil program Bumblebee, který napsali dobří lidé z komunity.&lt;/
 &lt;p&gt;Pokud vás štve, že se vám při instalaci programů instaluje software,
 který jste vůbec nechtěli, nebo že se musíte rozhodovat, zda si koupit
 nový Office nebo ho ukradnout, zvažte přechod na Linux. Není jenom
-zdarma, je svobodný.[:]&lt;/p&gt;</content></entry><entry><title>Ing. at FIT - 1st semester</title><link href="drummyfish.github.io/ing-at-fit-1st-semester.html" rel="alternate"></link><published>2015-03-06T16:40:00+01:00</published><updated>2015-03-06T16:40:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2015-03-06:drummyfish.github.io/ing-at-fit-1st-semester.html</id><summary type="html">&lt;p&gt;První semestr magisterského studia grafiky je úspěšně za mnou a
+zdarma, je svobodný.[:]&lt;/p&gt;</content></entry><entry><title>Ing. na FIT – 1. semestr</title><link href="drummyfish.github.io/ing1.html" rel="alternate"></link><published>2015-03-06T16:40:00+01:00</published><updated>2015-03-06T16:40:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2015-03-06:drummyfish.github.io/ing1.html</id><summary type="html">&lt;p&gt;První semestr magisterského studia grafiky je úspěšně za mnou a
 už se těším, co pěkného o něm napíšu. To ovšem neznamená, že o něm
 napíšu jenom samé pěkné věci - tak třeba za prvé: byl hodně náročný.
 Jeden z nejnáročnějších vůbec. Dobrá zpráva však je, že jakmile jej máte
@@ -1136,7 +1232,7 @@ dobře připravily na zkoušku - proto úkoly neopisujte a snažte se je
 nejdřív vyřešit sami, opravdu vám to hodně pomůže. Těžší mi přišly až
 některé příklady třetího a čtvrtého úkolu, a to hlavně proto, že nám
 občas omylem zadali mnohem těžší příklad, než měli v úmyslu (jednou šlo
-dokonce o dosud nevyřešený problém teoretické informatiky \^\^). Chyby
+dokonce o dosud nevyřešený problém teoretické informatiky &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;). Chyby
 byly sice opraveny, ale vždy až na poslední chvíli. Celkově vzato úkoly
 mohl člověk zvládnout sám, ale jelikož v TINu je potřeba sbírat co
 nejvíc bodů a nehrát si na hrdinu, je mnohem lepší dát dohromady skupinu
@@ -1582,7 +1678,7 @@ které se mi za pár dní objevilo ve wisu - byla to moje první známka na
 magisterském a měl jsem z ní velkou radost, navíc když nikdo jiný A
 neměl. Myslím, že nebylo úplně náhodou, že mi písemka vyšla přesně na 90
 bodů, ale jak už jsem psal, lidi z grafiky jsou hrozně přátelští a pokud
-se dá někde najít bodík na lepší známku, určitě vám ho dají :)&lt;/p&gt;
+se dá někde najít bodík na lepší známku, určitě vám ho dají &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Celkově je PGP parádní předmět. Nemá možná stoprocentně zvládnutou
 organizaci, ale přednášející jsou přímo nadšení pro své téma, jsou
 přátelští a ochotní s čímkoliv pomoct. Písemky a projekty jsou rychle
@@ -1664,8 +1760,7 @@ samozřejmě nikdo nic neměl, studenti opravdu nestíhali a doprošovali se
 zázrakem se mi podařilo "nějak" dodělat všechny příklady a odevzdat pár
 minut před koncem prodloužení, ale většina lidí to prostě nestihla.
 Písemka byla naštěstí opravena asi za čtyři dny, což je jedno z mála
-pozitiv MATu. Dostal jsem nakonec 66 bodů z 80 a tedy mi známka vyšla na
-B.&lt;/p&gt;
+pozitiv MATu. Dostal jsem nakonec 66 bodů z 80 a tedy mi známka vyšla na B.&lt;/p&gt;
 &lt;p&gt;MAT má bohužel seriózní problémy po pedagogické stránce, a to už dlouhé
 roky. Především jde o špatné přednášky, málo času na písemky a výsměch
 do očí zoufalých studentů. Já mám naštěstí matematiku rád, a jsem
@@ -1676,26 +1771,2835 @@ nebo jen se spolužáky. Snažte se co nejlíp napsat půlsemestrálku - hodně
 vám to pomůže. Tohle budou asi jediné užitečné rady do doby, než se
 předmět trochu zlepší.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Teoretická informatika (TIN)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pokročilé databázové systémy (PDB)&lt;/td&gt;
+&lt;td&gt;70/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Seminář teoretické informatiky (STI)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dějiny a filozofie techniky (FIT)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hardware/Software Codesign (HSC)&lt;/td&gt;
+&lt;td&gt;66/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Počítačová grafika (PGR)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pokročilá počítačová grafika (PGP)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Matematické struktury v informatice (MAT)&lt;/td&gt;
+&lt;td&gt;80/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr: 1,583
+pořadí v ročníku: 10. z 106 (studenti bez F s alespoň 25 kredity)
+pořadí v ročníku oboru: 3. z 55
+prospěchové stipendium: 9913 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 7. a 8. semestr</title><link href="drummyfish.github.io/bc7.html" rel="alternate"></link><published>2014-07-01T16:31:00+02:00</published><updated>2014-07-01T16:31:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2014-07-01:drummyfish.github.io/bc7.html</id><summary type="html">&lt;p&gt;Tento rok jsem studoval rozvolněně, což znamená, že v zimním
+semestru jsem si prošel pouze jeden volitelný předmět a v letním mě pak
+čekaly jenom státnice. Navíc jsem ale dělal na bakalářce, kterou jsem
+značně rozšířil, takže zase taková flákačka to nebyla &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Pokročilé asemblery (IPA)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/TsejqZz.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/TsejqZzm.jpg" alt="IPA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPA tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/snoxpFV.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/snoxpFVm.jpg" alt="IPA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPA …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Tento rok jsem studoval rozvolněně, což znamená, že v zimním
+semestru jsem si prošel pouze jeden volitelný předmět a v letním mě pak
+čekaly jenom státnice. Navíc jsem ale dělal na bakalářce, kterou jsem
+značně rozšířil, takže zase taková flákačka to nebyla &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Pokročilé asemblery (IPA)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/TsejqZz.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/TsejqZzm.jpg" alt="IPA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPA tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/snoxpFV.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/snoxpFVm.jpg" alt="IPA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPA tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Volba předmětu pro zimní semestr bylo IPA, protože jsem na něj slyšel
+dobrá hodnocení a taky předmět IAS v prvním ročníku byl fajn. Pozitivní
+faktem ohledně předmětu bylo, že si studenti částečně mohli pomocí
+dotazníku zvolit, co se bude probírat. Jde přeci jenom o volitelný
+předmět, takže je to logické a velmi vítané.&lt;/p&gt;
+&lt;p&gt;Začnu klasicky přednáškami, které měl dr. Orság. Byl jsem celkem
+spokojen se vším ohledně výkladu, i když detaily byly někdy
+komplikované, možná proto, že už uplynul nějaký ten pátek, co jsem
+prošel asemblery v prváku, takže stihnul proběhnout garbage collecting a
+věci se mi vykouřily z hlavy. Navíc je tenhle předmět částečně o
+operačních systémech a naráží na věci jako je třeba virtuální paměť.
+Všechno se oficiálně probíralo pro systém Windows a taky jeho rozhraní
+WinApi se objevilo v rozvrhu přednášek. Přiznám se, že jsem se zde
+WinApi naučil líp než v povinných předmětech. Kdo chtěl pracovat v
+Linuxu, měl možnost, ale musel si všechno zprovoznit sám, jelikož z
+přednášek se mu k tomuto tématu informací nedostalo. Předmět se týkal
+hlavně multimediálních instrukcí MMX/SSE a chráněného režimu, ale
+dozvěděli jsme se taky něco málo třeba o 64 bitovém programování.&lt;/p&gt;
+&lt;p&gt;Podle některých recenzí minulých let byla v IPA cvičení nebodovaná a na
+body se psala půlsemestrálka. V našem ročníku to bylo jinak -
+půlsemestrálka byla zrušena a body se přesunuly do cvičení. Ta u mě vedl
+ing. Klubal a celkem jich bylo 7 po 2 bodech. Podařilo se mi sice získat
+plný počet, ale většinou to nebylo zcela triviální. Nešlo ani tak o
+výsledné řešení, kdy stačilo dopsat někdy jenom 10 řádků do kostry kódu,
+ale vždycky mi hrozně dlouho trvalo pochopit, co dělá ten kód okolo a co
+se po mě vůbec chce za použití čeho. Zdá se mi, že nás, nebo alespoň mě,
+v asmblerových schopnostech cvičící trochu přecenil &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Na druhou stranu
+zůstával klidně přesčas a ochotně pomáhal podobným zoufalým případům,
+které tam seděly stejně dlouho jako já.&lt;/p&gt;
+&lt;p&gt;Musím pochválit projekt, který byl hodně volný asi díky tomu, že
+studentů předmětu nebylo mnoho. Mám rád, když si můžu projekt sám zadat
+a když z něj vznikne něco užitečného a ne jenom kód, který se po
+odevzdání zmuchlá a zahodí. V podstatě byla na výběr dvě témata:
+libovolná aplikace a benchmark. V benchmarku jste si vybrali z nabídky
+algoritmů a museli jste se jej pokusit co nejvíc urychlit. Já jsem
+zvolil vlastní aplikaci, konkrétně hru hledání min ve WinApi (výsledek
+&lt;a href="/ke_stazeni"&gt;ke stažení&lt;/a&gt;) následně ohodnocenou 20 body z 26.&lt;/p&gt;
+&lt;p&gt;Další pochvala patří studijní opoře, která mi pomohla v přípravě na
+zkoušku. Na té se objevilo bohužel něco trochu jiného, než jsem čekal,
+takže nedopadla nic moc. Předpokládal jsem něco podobného jako v IAS,
+tzn. psaní programů s tím, že budeme mít k dispozici seznam alespoň
+složitějších instrukcí, ale nic takového se v písemce neobjevilo, místo
+toho se testovala znalost instrukcí z hlavy. Základní instrukce nebyly
+problém, ale u těch složitějších jsem musel střílet a ty byly samozřejmě
+za víc bodů. Jinak se vyskytla jedna teoretická otázka a taky pár
+testových. Celkem jsem tedy dostal 23 bodů z 60, takže nic moc, ale
+aspoň na první termín.&lt;/p&gt;
+&lt;p&gt;Počítám, že IPA je přínosné hlavně studentům chystajícím se na
+magisterské studium hardwaru, avšak mně jako studentovi se zájmem o
+grafiku se znalost multimediálních instrukcí potenciálně hodí taky. Koho
+baví především optimalizace a snaha urychlovat aplikace o každou
+nanosekundu a nebo se jenom chce přiučit, jakými instrukcemi operační
+systém zajišťuje multitasking, ochranu paměti atd., přijde si zde na
+své.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky (zimní semestr)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Pokročilé asemblery (IPA)&lt;/td&gt;
+&lt;td&gt;57/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr: 3
+pořadí v ročníku: 125.-138. místo z 164
+prospěchové stipendium: 0 Kč&lt;/p&gt;
+&lt;h2&gt;Bakalářská práce (IBP)&lt;/h2&gt;
+&lt;p&gt;Co se týká bakalářky, pokračoval jsem stejným tématem jako loni: nástroj
+pro návrh procedurálních textur. Svou knihovnu jsem rozšířil o Phongův
+osvětlovací model, L-systémy, částicové systémy, celulární automaty a
+další zajímavé metody. Můj vedoucí mě ke konci semestru dokonce pozval
+na setkání doktorandské renderingové skupiny, kde jsem v prezentaci
+krátce předvedl své výsledky (přičemž těsně před začátkem prezentace mi
+bylo sděleno, že by vzhledem k zahraničním hostům bylo vhodné
+prezentovat anglicky, což jsem samozřejmě vůbec nečekal, takže dostala
+zabrat i moje schopnost improvizace v cizím jazyce &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;).&lt;/p&gt;
+&lt;p&gt;Po zimním semestru přišla řada na implementaci grafického nástroje a
+taky na psaní technické dokumentace. Díky dostatku volného času to nebyl
+problém a zanedlouho jsem měl hotovo, celkem v předstihu. Práci jsem
+nechal svázat v &lt;a href="http://www.milangruber.cz/rubrika/copycentrum/"&gt;copycentru na
+Purkyňkách&lt;/a&gt; - na poprvé
+sice udělali na mých deskách malou chybu, tu však po reklamaci ještě ten
+samý den bez problémů opravili, takže všem můžu doporučit tisk práce
+právě zde. Po odevzdání nastal čas učit se na státnice, nicméně ještě
+jsem se stihl se svou bakalářkou zúčastnit akce multimediální demo 2014,
+kde jsem dokonce za umístění vyhrál kus nějaké luxusní uzeniny a
+prohlédl jsem si spoustu zajímavých diplomek. Účast na soutěži a podobné
+aktivity jsou zmiňovány v posudku, takže pokud máte příležitost svou
+práci někde prezentovat, doporučuji tak učinit.&lt;/p&gt;
+&lt;p&gt;Výsledek svojí práce jsem zveřejnil pod licencí GPL, takže si ji můžete
+&lt;a href="/ke_stazeni"&gt;stáhnout&lt;/a&gt;. Teď jsem sice už rád, že mám bakalářku za sebou
+a že se konečně můžu začít zabývat jiným tématem než texturami, nicméně
+práce na ní mi dala velmi mnoho zkušeností v konkrétně zaměřeném oboru
+grafiky a velmi jsem si ji užil. Velkou zásluhu na tom měl i vedoucí
+mojí práce, který mi nechával hodně volnosti a hodně mě podporoval.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/2uslhok32tg7p7c/BP%20elektronicka%20verze.pdf?dl=0"&gt;BP
+text&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" src="http://tastyfish.cz/uploaded/texturemaker.png" /&gt;{.center
+width="640"}&lt;/p&gt;
+&lt;h2&gt;Státní závěrečná zkouška (ISZ)&lt;/h2&gt;
+&lt;p&gt;Nepamatuju si, kdy jsem byl naposledy před nějakým zkoušením tak
+nervózní jako před ISZ. Ke zkoušce jsem měl jít v pořadí jako třetí hned
+první státnicový den, a to k poměrně pohodové komisi vedené panem prof.
+Zemčíkem.&lt;/p&gt;
+&lt;p&gt;Když pominu fakt, že jsem si celý rok vytvářel vlastnoruční souhrn všech
+otázek (jenž je zde samozřejmě ke stažení), tak samotné učení mi trvalo
+asi měsíc. Každou otázku jsem důkladně několikrát prošel, ale i tak jsem
+se nemohl zbavit pocitu, že spoustu věcí umím jenom povrchně. Naštěstí
+byl na učení docela klid díky rozvolněnému roku. Z dojmů studentů z
+minulých let bohužel vyplývalo, že u státnic chtějí někteří zkoušející
+znát věci do větších podrobností než u zkoušek z konkrétně zaměřených
+předmětů, což byl hlavní důvod mé nervozity. Státnice jsou v někdy dost
+o štěstí a na studentovi je, aby si co nejvíce naklonil pravděpodobnost
+úspěchu.&lt;/p&gt;
+&lt;p&gt;V den D jsem měl natočené dva budíky na 6:30 ráno, ale nebyly vůbec
+potřeba, moc jsem toho nenaspal. Před zkouškovou místností v CVT jsem
+tedy byl přítomný velmi brzo se spoustou nervozity, která naštěstí
+trochu opadla ve chvíli, kdy dorazili ostatní studenti a začali jsme si
+trochu povídat. Hodně z nich teprve předchozí den prošlo poslední
+otázku, takže na tom asi nebyli o moc líp než já. Zanedlouho se
+odstartovalo a pak už to šlo rychlejším tempem. První oběť z naší
+skupiny bohužel dostala za bakalářku F, takže rozhodně neplatí, že se
+první nevyhazuje. Potom šel kolega číslo dvě a následně konečně já.&lt;/p&gt;
+&lt;p&gt;Když jsem vstoupil, předseda komise mě přivítal, stručně mi popsal
+průběh zkoušky a pak mi předal slovo k prezentaci. Tu jsem měl naučenou
+slovo od slova, takže jsem se mohl plně soustředit na to, jak vystupuju
+a ne jenom na to, co říkám. Skončil jsem v časovém limitu pěti minut,
+jak to má být. I když členové komise dávali pozor spíše místy a dokonce
+se během mého výkladu polohlasně o něčem bavili, zřejmě je moje práce
+aspoň trochu zaujala. Následovalo čtení posudků, které práci poměrně
+chválily a navrhovaly mi známky A (vedoucí) a B (oponent). Pak přišla
+řada na dotazy, ale nebyly žádné, ani z posudku oponenta, ani od komise.&lt;/p&gt;
+&lt;p&gt;Už během prezentace jsem tušil, že mě bude zkoušet pan doc. Kotásek,
+protože ten mi věnoval asi nejvíc pozornosti. To se mi taky po přečtení
+posudků potvrdilo, když mi podali otázku s číslem 2 - kombinační obvody,
+zaměření na multiplexor. Nebudu zapírat, že taková otázka víceméně
+každého potěší, takže jsem si celkem oddechl. Po minutě přípravy, kdy
+jsem si na papír načmáral realizaci multiplexoru pomocí logických
+hradel, jsem přistoupil k tabuli a začal povídat o kombinačních obvodech
+a následně o multiplexoru. Nakreslil jsem to, co jsem měl na papíře, a
+pan Kotásek mi položil otázku, jaké je typické využití multiplexoru.
+Tady jsem se trochu zarazil a nemohl jsem si vzpomenout na dobrý
+příklad. Pan docent mě začal povzbuzovat tím, že jsem u něj měl z IPZ za
+A, načež jsem uvedl, že multiplexorem můžeme realizovat logické funkce,
+což je sice pravda, ale není to to, co chtěl slyšet. Nakonec se mi
+dostalo nápovědy, že teda serializér, a to už jsem se chytil a všechno
+vysvětlil. Další otázkou bylo, kde se serializér používá, na což jsem
+odpověděl, že v pevných discích a při sériových síťových přenosech.
+Komise mi poděkovala a poslala mě spolu se spolužáky (kteří mě přišli
+jako veřejnost sledovat) ven, aby se poradila o známkách.&lt;/p&gt;
+&lt;p&gt;Oproti předchozím kolegům se radili jen krátce a hned mě zase zavolali
+zpátky. Pan Zemčík se usmíval a sdělil mi, že moje známky jsou A
+(bakalářka) a B (ústní část), celkově B. Taky zmínil, že jsem díky této
+známce a průměru pod dva prospěl "velmi dobře" (za což mi došlo nějakých
+600 Kč jako "mimořádné stipendium"). Pogratuloval mi a bylo po všem.&lt;/p&gt;
+&lt;p&gt;Takže má rada ke státnicím zní: nepodceňujte ústní část, je velmi
+krátká, což znamená, že pokud dostanete konkrétní podotázku, o které nic
+neřeknete, můžete snadno vyletět - nikoho moc nezajímá, že víte tuny
+věcí o něčem jiném. Na druhou stranu bylo příjemným zjištěním, že komise
+má informace o vašich dosavadních výsledcích a přihlíží k nim, stejně
+jako ke kvalitě bakalářské práce, která vám může pomoct. Naučte se
+všechny otázky, ať máte jakoukoli komisi, a věnujte dost času
+prezentaci, jak kvalitě slajdů, tak nacvičení prezentace - dobrým dojmem
+na začátku si jenom pomůžete a zvýšíte pravděpodobnost úspěchu (viz
+&lt;a href="http://www.herout.net/tao-diplomky/"&gt;blog pana doc. Herouta&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/aq30uwvws1snj3q/otazky%20bc.zip?dl=0"&gt;státnice
+otázky&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky (letní semestr)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;SZZ - bakalářská práce&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SZZ - ústní část&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SZZ - celkově&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr celého studia: 1,948&lt;/p&gt;
+&lt;p&gt;pořadí v ročníku: 6. místo z 164&lt;/p&gt;
+&lt;p&gt;prospěchové stipendium: 600 Kč&lt;/p&gt;
+&lt;h2&gt;Závěrem k bakalářskému studiu&lt;/h2&gt;
+&lt;p&gt;Tímto bych tedy rád uzavřel své články o bakalářském studiu na FITu,
+nicméně na základě průměru jsem byl přijat na magisterský obor
+počítačová grafika a multimedia a pokusím se tedy stejným způsobem
+pokračovat v psaní dál. Na závěr bych rád uvedl několik (snad)
+užitečných informací pro ty, kteří třeba o této škole uvažují a chtějí
+vědět, co všechno se naučí.&lt;/p&gt;
+&lt;p&gt;Fakulta je obecně na velmi vysoké úrovni, určitě mezi prvními v
+republice. Nikoho proto nemůže překvapit, že studium je poměrně těžké
+(pokud člověk není vyloženě génius), ale na druhé straně nesmírně
+přínosné a obohacující. Je časově náročné a to v průběhu celého
+semestru, hlavně kvůli velkému množství projektů, proto není dobré při
+škole pracovat, i když to spousta lidí dělá (a spousta jich taky
+vyletí). Pokud se někdo snaží studiem jenom prolézt, a že je takových
+lidí dost, pak musím říct, že si zbytečně komplikuje život, protože
+titul bez námahy se dá získat mnohem jednodušeji na jiných školách.&lt;/p&gt;
+&lt;p&gt;Abych jenom nechválil, pokusím se taky pár věcí zkritizovat, nicméně jde
+jenom o maličkosti. Menza na FITu je otevřená jenom na oběd. Studijní
+poradce píše e-maily v šifrách. Občas musíme chodit na hnusný FEKT.
+Posudky diplomek a bakalářek nejsou (např. oproti MUNI) veřejné, takže
+se nemůžu po večerech bavit pročítáním hodnocení prací špatných
+studentů. Takových detailů bych našel ještě víc, ale nemá to valného
+smyslu, neboť nejde o nic světoborného. Pokud něčeho za dobu studia
+lituji, tak snad jenom toho, že jsem si nezapsal předmět IKR.&lt;/p&gt;
+&lt;p&gt;Dal jsem si tu práci a sestavil pár statistik. Za dobu studia jsem
+absolvoval/získal:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;37 předmětů&lt;/li&gt;
+&lt;li&gt;30 zkoušek (z toho 2 ústní)&lt;/li&gt;
+&lt;li&gt;185 kreditů (dle definice 11100 hodin studia a práce)&lt;/li&gt;
+&lt;li&gt;cca 43 projektů (od malých domácích úkolů až po větší týmové
+    projekty a kvalifikační práci)&lt;/li&gt;
+&lt;li&gt;cca 30 semestrálních testů&lt;/li&gt;
+&lt;li&gt;6 obhajob&lt;/li&gt;
+&lt;li&gt;2622 bodů&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A konečně malý výčet toho, co jsem se (konkrétně já) naučil:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;vysokoškolskou matematiku a trochu fyziky (hlavně elektroniky),
+    především diskrétní matematiku, analýzu, pravděpodobnost, numerické
+    metody a teorii signálů.&lt;/li&gt;
+&lt;li&gt;teorii informatiky: algoritmy, formální jazyky, fungování
+    překladačů, principy operačních systémů, základy algoritmické
+    složitosti&lt;/li&gt;
+&lt;li&gt;teoreticky rozumět jednoduchému hardwaru prakticky na všech
+    úrovních, tj. od elektronických a logických obvodů až po návrh
+    procesoru a celého počítače jako celku&lt;/li&gt;
+&lt;li&gt;pracovat se systémy Windows a Linux&lt;/li&gt;
+&lt;li&gt;dobře a efektivně programovat, především imperativně a objektově,
+    ale také na nízké úrovni (jazyk symbolických instrukcí), programovat
+    vícevláknové, událostmi řízené, grafické a síťové aplikace&lt;/li&gt;
+&lt;li&gt;navrhnout a implementovat celý informační systém pro danou firmu&lt;/li&gt;
+&lt;li&gt;vytvářet dynamické webové stránky pomocí HTML, CSS, PHP, SQL,
+    JavaScriptu atd.&lt;/li&gt;
+&lt;li&gt;programovací jazyky: velmi dobře C a C++, dále alespoň na základní
+    úrovni běžné jazyky jako Java, JavaScript, Perl, Python, PhP, IA32
+    apod., částečně Bash, Lisp, Prolog, C#, VHDL, apod.&lt;/li&gt;
+&lt;li&gt;jiné jazyky: XML, SQL, Latex, ...&lt;/li&gt;
+&lt;li&gt;pracovat v malém týmu (2 - 5 lidí), v časovém presu a paralelně na
+    více projektech&lt;/li&gt;
+&lt;li&gt;rozumět počítačovým sítím a Internetu&lt;/li&gt;
+&lt;li&gt;psát dokumentace a technické zprávy, psát a prezentovat v angličtině&lt;/li&gt;
+&lt;li&gt;rozumět cizímu kódu a hledat informace v literatuře, i cizojazyčné&lt;/li&gt;
+&lt;li&gt;základy důležitých odvětví informatiky jako jsou grafika, umělá
+    inteligence, databáze, uživatelská rozhraní, počítačové simulace
+    nebo softwarové inženýrství&lt;/li&gt;
+&lt;li&gt;pár věcí z volitelných předmětů jako španělština, typografie,
+    psychologie nebo právní minimum&lt;/li&gt;
+&lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 6. semestr</title><link href="drummyfish.github.io/bc6.html" rel="alternate"></link><published>2013-06-20T16:28:00+02:00</published><updated>2013-06-20T16:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2013-06-20:drummyfish.github.io/bc6.html</id><summary type="html">&lt;p&gt;Šestý semestr je za mnou, však bakalář zatím nejsem &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; I když
+jsem touto dobou už doufal být, musím rozvolňovat a pracovat na
+zdravotním stavu, takže prozatím zde shrnu dva absolvované předměty a
+příští rok doplním vše zbývající.&lt;/p&gt;
+&lt;h2&gt;Typografie a publikování (ITY)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/HZTO5w0.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/HZTO5w0m.jpg" alt="ITY tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ITY tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Typografie je užitečný a přece nenáročný předmět …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Šestý semestr je za mnou, však bakalář zatím nejsem &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; I když
+jsem touto dobou už doufal být, musím rozvolňovat a pracovat na
+zdravotním stavu, takže prozatím zde shrnu dva absolvované předměty a
+příští rok doplním vše zbývající.&lt;/p&gt;
+&lt;h2&gt;Typografie a publikování (ITY)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/HZTO5w0.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/HZTO5w0m.jpg" alt="ITY tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ITY tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Typografie je užitečný a přece nenáročný předmět. Na otázku, jaká je
+motivace pro zápis ITY, odpovím jednoduše - dobře vás připraví na psaní
+technických dokumentů, mezi něž se počítá především bakalářská práce,
+ale rovněž tak malé dokumentace do jakéhokoliv předmětu. Předmět by si
+podle mě měl do názvu přidat zmínku o LaTeXu, protože se zabývá
+prakticky jen tímto typografickým systémem.&lt;/p&gt;
+&lt;p&gt;Na přednáškách se typografie jako věda probírá celkem letmo, čekal jsem
+víc teorie o písmu a vizuální stránce dokumentů, ale té se dr. Křena
+(známý z IUS) věnuje na úplně základní úrovni. Předmět je orientován
+převážně na praxi. Po úvodní přednášce o základech typografie se vždycky
+probírá nějaké téma (matematika, tabulky, obrázky, …) a potom způsob
+jeho realizace v systému LaTeX (čtěte latech). Přednášky se konaly
+vždycky jednou za dva týdny a byly, slovy pana Honzíka, poslouchabilní.
+Dávaly se dokonce bonusové body za odpovědi na otázky a jednou jsem i
+věděl odpověd, bohužel jsem sledoval záznam &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Praktickému zaměření předmětu nasvědčovalo množství projektů. Každou
+přednášku (kromě úvodní) následoval projekt na probrané téma. Ze začátku
+šlo o sázení dokumentů tak, aby se co nejvíce podobaly vzorovému pdf, ke
+konci pak mohli studenti dokonce předvést trochu kreativity při sázení
+dokumentů na vlastní téma. Hodně užitečný mi přišel projekt zaměřený na
+bibliografické citace. Práce samozřejmě nikoho nemohly zaskočit svou
+náročností, nebo spíš nenáročností. Člověk si s nimi ale muset vyhrát,
+aby byla jejich preciznost dostatečná. To se mi jednak moc nechtělo a
+jednak jsem měl celkem dost jiných starostí a proto jsem nějaký ten bod,
+či dva nebo i pět občas ztratil. Obecně s projekty problém nebyl a
+patřily k těm příjemnějším.&lt;/p&gt;
+&lt;p&gt;Na písemce se dalo získat až 30 bodů a to se mi i povedlo. Bylo zde pár
+příkladů na psaní příkazů v LaTeXu, něco na citaci a jeden příklad na
+interpretaci obrázku zapsaného v LaTeXu. Na závěr se objevila jako výzva
+bonusová otázka ohledně nějakého starodávného písma, na níž se mi
+povedlo získat pár bodíků, které jsem jinde ztratil, a dosáhl jsem tak
+na plný počet &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ITY mi dalo cenné základy jednoho z nejkvalitnějších typografických
+nástrojů, jež jistě využiju nejen při psaní bakalářské práce. Předmět je
+velmi prakticky zaměřený, na nic si nehraje, a není vůbec složitý. Je
+jednoznačně dobrou volbou, pokud se vám podaří jej ukořistit při zápisu.&lt;/p&gt;
+&lt;h2&gt;Španělština: začátečníci 2/2 (JS1)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/dSkUVkU.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/dSkUVkUm.jpg" alt="JS1 tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+JS1 tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Druhá část dvousemestrálních základů španělštiny. Z důvodů zmíněných v
+minulém článku jsem tentokrát nechodil na hodiny. Dr. Borecká mi
+naštěstí vstřícně povolila samostudium z domu a komunikovala se mnou
+e-mailem. Na zkoušku a zápočet jsem se pochopitelně musel dostavit
+osobně, ale to nebyl problém &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Předpokládám, že hodiny probíhaly stejně jako minulý semestr. Probíraly
+se dva minulé časy, měsíce, vyšší číslovky, a pokračovalo se v
+gramatice. Lekcí se tento semestr probralo trochu míň a ke konci
+probíhalo opakování na zápočet a zkoušku.&lt;/p&gt;
+&lt;p&gt;Zápočtová písemka byla podobná té v minulém semestru, styl doplňování
+slov do vět by ji asi nejlépe vystihl. Minimum bylo ne příliš překvapivě
+50 % a už o něco více překvapivě jsem uspěl hned na první pokus s 15
+body z 20 i přes své nepříliš pilné samostudium. Pro ty, kterým se
+zápočet nepovedl, byl k dispozici ještě jeden termín.&lt;/p&gt;
+&lt;p&gt;Závěrečná písemka byla rozdělena na dvě části - poslech a porozumění
+psanému textu. Poslech se skládal ze dvou velmi pomalých a dvakrát
+přehrávaných rozhovorů a my jsme měli za úkol doplňovat krátké odpovědi
+na dané otázky. Ve druhé části jsme dostali dva články, otázky k nim a
+30 minut na jejich zpracování. K dispozici při tom byly slovníky.
+Nejednalo se o nic extra náročného a dostal jsem myslím skoro plný počet
+bodů.&lt;/p&gt;
+&lt;p&gt;Tento semestr jsem si nebyl jistý, zda zvládnu studovat zcela sám
+dostatečně, abych byl schopný složit zkoušku, ale ukázalo se, že jsem to
+dokázal a to dokonce i při nižším nasazení. Španělsky teď umím opravdu
+jenom hodně málo, ale se slovníkem dokážu přečíst jednoduchý test.
+Myslím, že co se týká základů, tento kurz splnil očekávání.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Typografie a publikování (ITY)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Španělština: začátečníci 2/2 (JS1)&lt;/td&gt;
+&lt;td&gt;85/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr: 1,5  &lt;/p&gt;
+&lt;p&gt;pořadí v ročníku: 47.-65. místo z 377 (studenti bez F s alespoň 25
+kredity)  &lt;/p&gt;
+&lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 5. semestr</title><link href="drummyfish.github.io/bc5.html" rel="alternate"></link><published>2013-02-05T16:25:00+01:00</published><updated>2013-02-05T16:25:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2013-02-05:drummyfish.github.io/bc5.html</id><summary type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě nebyly na
+úrovni hardcore, ale bylo jich mnoho a spousta měla týmové projekty.
+Inovaci představoval týden zkouškového již před Vánoci. Rovněž se
+sloučily skupiny BIA a BIB a tak měla každá přednáška pouze jeden
+termín, což se nepříjemně podepsalo na …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě nebyly na
+úrovni hardcore, ale bylo jich mnoho a spousta měla týmové projekty.
+Inovaci představoval týden zkouškového již před Vánoci. Rovněž se
+sloučily skupiny BIA a BIB a tak měla každá přednáška pouze jeden
+termín, což se nepříjemně podepsalo na organizaci rozvrhu. Bohužel by to
+nebyl ten pravý semestr, kdyby se neobjevilo něco, co mi jej ke konci
+značně zkomplikuje...&lt;/p&gt;
+&lt;h2&gt;Komplikace&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="sad face" class="right alignright" src="/uploaded/sadface.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Ano, bohužel jsem to se školou trochu přehnal a těsně před zkouškami se
+mi značně zhoršil zdravotní stav - ne, bohužel nešlo o pouhou chřipku.
+Za všechno může pravděpodobně delší stres, odpíraný odpočinek a problémy
+z minulého roku, jež jsem nemoudře přecházel tak, že asociálního
+introverta, jakým jsem, musely nevyhnutelně dostihnout. Od osudného dne
+před zkouškami až doposud (tedy asi dva měsíce) nejsem schopný sebemenší
+námahy, mám zhoršený zrak, paměť, migrény, deprese a doktoři zatím
+neznají diagnózu. Během ledna mě na nohách držely jen prášky a zkoušky
+mi daly zabrat jako nikdy předtím. Studium budu muset evidentně
+rozvolnit a doufat, že rok odpočinku pomůže.&lt;/p&gt;
+&lt;p&gt;Nechci nikoho zatěžovat osobními problémy - důvod, proč sem cpu tyto
+pochmurné informace, je ten, že se chci podělit o svou největší životní
+lekci. Vy, kdo jste podobně stresově náchylní jako já, neberte školu a
+nic jiného jako jedinou věc v životě. Najděte si čas na odpočinek - není
+pouhá fráze, že zdraví je to nejdůležitější. Teď už ale konečně k
+předmětům...&lt;/p&gt;
+&lt;p&gt;edit: viz &lt;a href="http://cs.wikipedia.org/wiki/Visual_snow"&gt;http://cs.wikipedia.org/wiki/Visual_snow&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Informační systémy (IIS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/t12eXEo.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/t12eXEom.jpg" alt="IIS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IIS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/AMoX73W.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/AMoX73Wm.jpg" alt="IIS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IIS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Předmět IIS s "velkolepou slávou" završil všechno, co se studenti
+naučili v IUS a IDS. Díky projektu si konečně vyzkoušeli implementovat
+kompletní informační systém, o nichž se celou dobu všude možně učí tolik
+teorie. Mnozí moji spolužáci hodnotili IIS jako zbytečný, zatímco já jej
+považuji za nastolenou povinnost kvůli tomu, že by se studenti před
+státnicemi měli setkat s PHP, JavaScriptem a XML. Je pochopitelné, že
+každá povinnost bývá nepříjemná, a nepopírám, že tomu tak bylo i v tomto
+případě.&lt;/p&gt;
+&lt;p&gt;Bohužel mě zklamal přednášející, prof. Hruška. Přišel mi značně
+pesimistický a kritizoval veškeré technologie, jež přednášel. Snadné
+věci vysvětloval na mě až příliš nepochopitelně. Jde ale jen o můj
+skromný subjektivní pocit a není to nic osobního vůči panu Hruškovi. O
+informačních systémech jsme se učili všechno od jejich klasifikace a
+formálních definic až k jazykům HTML, XML, DTD, XSLT apod. Jak systém
+prakticky naprogramovat nám ale vlastně nikdo přijatelně a srozumitelně
+neukázal a mě zachraňovaly spíš osobní zkušenosti než znalosti z
+přednášek.&lt;/p&gt;
+&lt;p&gt;Projektem byla, jak jsem již psal, realizace typického webového
+informačního systému na libovolném dostupném serveru a to podle
+dřívějšího návrhu z předmětů IUS/IDS (na platformě PHP, popř. podobné).
+Jednalo se o projekt pro dva lidi, kteří spolu měli minulý semestr IDS.
+V mém týmu jsem se práce s odvahou chopil sám, zatímco kolega si vzal na
+starost projekt do ITU. Šlo o zatím nejrozsáhlejší PHP program, co jsem
+kdy psal. Přiznávám, že návrh nebyl dvakrát nejlepší. Tím pádem jsem se
+v něm ke konci začal trochu ztrácet, nakonec jsem ale projekt za pár dní
+zvládl. Vynesl nám posléze až nečekaně plný počet 30 bodů (možná trochu
+vděčíme podprahovým signálům v názvu naší domény
+&lt;a href="http://www.chceme-acko-z-iis.php5.cz"&gt;chceme-acko-z-iis.php5.cz&lt;/a&gt; -
+chtěli jsme taky nechat na pozadí problikávat áčka, ale k tomu už nám
+chyběla odvaha \^\^). Dost se mi ulevilo, protože kolegovi se nepovedla
+půlsemestrálka a potřeboval aspoň 20 bodů.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IIS projekt" class="center" src="/uploaded/iis_screenshot.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Učení na půlsemestrálku jsem věnoval dost času, neboť jsem se bál laťky
+zápočtu nasazené poměrně vysoko na 25 bodů. S teoretickými otázkami jsem
+se nakonec vypořádal celkem dobře, nicméně dostal mě příklad na XSLT a
+DTD, jež jsem příliš pečlivě nestudoval. I tak jsem nakonec vybojoval
+obstojných 15 bodů z 19.&lt;/p&gt;
+&lt;p&gt;Zkouška mi přišla podobná půlsemestrálce, opět jsem vsázel spíš na
+teorii, ale napsal jsem něco málo i ke znovu se objevivšímu příkladu na
+XSLT. Mrzí mě, že jsem se nemohl víc učit a získat lepší známku, ale
+zdraví pro mě bylo přednější a IIS tak opouštím trochu nešťastně s
+69bodovým déčkem.&lt;/p&gt;
+&lt;p&gt;Na tomhle předmětu mě celkově trochu zklamaly přednášky a vysoký
+zápočet, naopak hodnocení projektu potěšilo a zkoušky byly taky OK,
+takže zase takový problém to pro mě nebyl. Je však co zlepšovat a měl
+jsem rozhodně i lepší předměty.&lt;/p&gt;
+&lt;h2&gt;Mikroprocesorové a vestavěné systémy (IMP)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/rgPOm4H.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/rgPOm4Hm.jpg" alt="IMP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IMP tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/Tgapi0t.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/Tgapi0tm.jpg" alt="IMP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IMP tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Obtížnost IMP nebyla vysoká, ale přínos tento předmět jistě měl. Celý se
+točil okolo mikrokontroléru HCS08, u nějž jsme se učili jeho
+architekturu, ne příliš povedený jazyk symbolických instrukcí (dále
+raději jen assembler) a programování v C.&lt;/p&gt;
+&lt;p&gt;Přednášky doc. Schwarze byly standardně dobré, byl velmi sympatický a
+nedělal studentům žádné problémy. Jednou pozval pro odlehčení experta z
+praxe. Obzvlášť užitečná se mi zdála jedna z posledních přednášek o
+fuzzy logice, kterou jsme tady probrali trochu podrobněji než v IMS. Už
+konečně tuším, oč v ní jde. Dále zde byl projekt se zápočtovým minimem 5
+bodů ze 14.&lt;/p&gt;
+&lt;p&gt;Při jeho registraci mi ze začátku naháněla strach témata, která se měla
+realizovat na FitKitu a u nichž bylo potřeba pájet nějaké součástky a
+odpory, k čemuž mám zase já svůj odpor. Naštěstí byla v nabídce spousta
+projektů realizovaných pouze jako simulace HCS08 v prostředí
+CodeWarrior, s nímž se pracovalo na cvičeních. Na ty jsem se zaměřil a
+naštěstí i jedno ukořistil. Šlo o simulaci konfigurovatelného čítače v
+assembleru pro výše uvedený mikrokontrolér. Projekt byl nakonec celkem
+jednoduchý, horší to však bylo s instalací CodeWarrioru, který funguje
+jenom na 32bitových systémech, takže jsem jej musel nahrát do
+VirtualBoxu. Měli jsme taky odevzdat krátkou dokumentaci podobně jako u
+ostatních projektů tohoto semestru. S hodnocením však nebyl problém a
+dostal jsem plných 14 bodů.&lt;/p&gt;
+&lt;p&gt;Čtyři laboratorní cvičení po 4 bodech začínala ne až tak triviálními
+úkoly v assembleru. Postupně přecházela k jednodušším v hardwarovém
+jazyce C, vše samozřejmě pro mikrokontrolér HCS08. Jednalo se většinou o
+procházení datasheetů na internetu a hledání registrů a instrukcí
+potřebných k vyřešení daného úkolu, přičemž cvičící (u mě ing. Šimek)
+byl ochotný pomáhat a občas i se zájmem vysvětlit, k čemu slouží různá
+záhadná zařízení v laboratoři (např. hadice, co vypadala trochu jako
+vysavač a trochu jako lampa, popř. jakási podivná mikrovlnka). Při
+nejhorším se dalo řešení úloh najít někde na internetu, ale k tomu jsem
+se nesnížil. Se spolužáky jsem vždycky dal řešení dohromady za plný
+počet bodů.&lt;/p&gt;
+&lt;p&gt;Půlsemestrálka u mě vyhrála cenu v kategorii nejjednodušší
+půlsemestrální test v historii. Byla formou testu s jednou správnou
+odpovědí a možností mít s sebou jakékoliv materiály. Vzal jsem si s
+sebou tedy tahák a vytištěné slajdy z přednášek. Trochu se stydím, že
+hodnocení nedosáhlo na plný počet bodů, ale pouze 15 z 19.&lt;/p&gt;
+&lt;p&gt;Podobně lehká byla i závěrečná zkouška. Jednak zůstaly povolené písemné
+materiály a jednak neměla minimum, takže mi stačilo získat 5 bodů. Test
+byl tentokrát už s možností více správných odpovědí a samozřejmě přibyly
+i fulltextové otázky, které se ale daly zvládnout. Bohužel jsem se vůbec
+neučil, sil na tuto poslední zkoušku už v zásobách mnoho nezbývalo, tak
+jsem se na známku pro jednou vykašlal, koneckonců to bylo poprvé a měl
+jsem opodstatněné důvody. Bodů nakonec dorazilo 24, což bohatě stačilo
+na D, jít žebrat o 2 body na céčko se mi už rozhodně nechtělo. Ve svém
+stavu jsem byl za výsledek samozřejmě rád, jinak bych ale u tak lehkého
+předmětu spokojený nebyl.&lt;/p&gt;
+&lt;p&gt;IMP se drželo úrovně všech hardwarových předmětů minulých let a docela
+hezky je završilo. Nejvíc oceňuji učivo o fuzzy logice a procvičení
+assembleru. Jinak předpokládám, že veškeré znalosti o HCS08 brzy
+zapomenu, ale aspoň mám za sebou určitou praxi s konkrétním hardwarem a
+ne jen samou teorii.&lt;/p&gt;
+&lt;h2&gt;Modelování a simulace (IMS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/igJBrzp.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/igJBrzpm.jpg" alt="IMS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IMS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/qgWvkfT.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/qgWvkfTm.jpg" alt="IMS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IMS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;IMS byl nejobávanější předmět semestru. Podle mě však byly obavy z něj
+do velké míry nadsazené. Ano, šlo o stěžejní předmět, ale nebyl to IOS2
+ani IPP2. Učiva bylo relativně málo a šlo v drtivé většině nikoliv o
+memorování pojmů, ale spíš o porozumění principům, které navíc nebyly
+tak strašidelně komplikované jako např. legendární transformace signálů
+v ISS ve druhém ročníku.&lt;/p&gt;
+&lt;p&gt;S dr. Peringerem, který nám přednášel, jsem byl navzdory občasným
+opačným názorům okolí spokojený. Je pravda, že při opravování písemek
+bývá nekompromisní, na druhou stranu se však s jeho stylem přednášení
+probralo dost málo věcí a tak se nelze divit, že se vyžadovala jejich
+slušná znalost. U každého slajdu se pan garant zastavuje poměrně dlouho
+a zmiňuje ke všemu spousty příkladů, což je podle mě dobře. Takové
+přednášky mi vyhovovaly a všechno jsem víceméně pochopil. Probíraly se
+věci jako generování náhodných čísel, diskrétní/spojité simulace,
+celulární automaty a okrajově taky fuzzy logika.&lt;/p&gt;
+&lt;p&gt;Jednou za čas byla na rozvrhu taky demonstrační cvičení s dr. Hrubým,
+který je jeden z nejlepších a nejpohodovějších přednášejících. Mimo to
+má velký smysl pro humor, což vždycky oceňuju. Na cvičeních nás naučil,
+jak fungují Petriho sítě a dával nám rady k projektům, které měl na
+starost. Mimo jiné musel také řešit menší nedorozumění na brněnském
+letišti, které způsobila skupinka našich spolužáků s tématem simulace
+letiště. Zorganizovali totiž hromadné sbírání dat "z terénu" a
+zalarmovali tamní ochranku, která si to nejspíš vyložila jako špionáž.
+Dr. Hrubý následně podotkl, že je to v pořádku a že "to k modelářské
+práci patří". \^\^&lt;/p&gt;
+&lt;p&gt;Poté co nás patřičně naučili modelovat pomocí Petriho sítí, následovala
+ověřovací půlsemestrální písemka na toto téma s jednou teoretickou
+otázkou jako bonus. Jako příprava mi na ni sloužily příklady z minulých
+let - prošel jsem všechny, které jsem našel. Písemka nakonec nebyla tak
+hrozná a dostal jsem 8 bodů z 10. do zápočtu tím pádem zbývaly jen 2.&lt;/p&gt;
+&lt;p&gt;Zmíněné projekty byly pro dvoučlenné týmy a témata se přidělovala
+nikoliv přes refresh war, jak bývá zvykem, nýbrž náhodně. Cílem bylo
+vždy zpracovat simulační studii na základě vlastní počítačové simulace
+za použití metod a nástrojů definovaných zadáním. Mě a mému kolegovi
+připadlo docela přijatelné téma diskrétní simulace počítačového serveru
+v jazyce C++ pomocí knihovny Simlib (dílo pana Peringera z dob jeho
+mládí, jež nás provázelo celým předmětem). Práci jsme nejdřív začali s
+kolegou společně. Já jsem pak projekt převzal s tím, že už mám hotové
+IIS a neměl jsem tak co na práci. Model musel být založen na reálně
+zjištěných nebo naměřených datech a všechno muselo být ve studii přesně
+citováno a odůvodňováno. Ve výsledku jsem si pár dat domyslel, model měl
+taky nějaké chyby a tak jsem se bál velkých bodových srážek. Nakonec nám
+překvapivě byla práce ohodnocena, jako většině týmů, plným počtem 20
+bodů. U projektů se celkově hodně kontrolovalo plagiátorství a kladl se
+důraz na to, aby je studenti neodbývali.&lt;/p&gt;
+&lt;p&gt;Na zkoušce při mě stálo velké štěstí, neboť se její zadání, pokud si
+dobře pamatuju, téměř naprosto shodovalo s jedním ze dvou starších,
+která jsem si jako jediná byl schopný předchozí den letmo projít. Díky
+tomu jsem znal postup řešení, nicméně mi nebylo nejlíp a pod vlivem
+prášků jsem asi desetkrát přepočítával Eulerovu metodu numerické
+integrace, neboť jsem nebyl schopný ani základních aritmetických
+operací. Jinak podle očekávání bylo teorie minimum, šlo ve většině
+případů o početní příklady nebo programování na papír, ale rozhodně o
+nic, co by se za normálních okolností nedalo zvládnout. Petriho sítě zde
+už nebyly v takovém rozsahu jako na půlsemestrálce. V programovacím
+příkladu jsem napsal konstantu pí zpaměti na 30 desetinných míst a
+doufal, že to opravující ocení. \^\^ Poslední příklad už jsem bohužel
+nestihl, nicméně i tak jsem nakonec zkoušku udělal na 44 bodů ze 70 a
+známku C.&lt;/p&gt;
+&lt;p&gt;Po hrůzostrašných zvěstech předcházejících tento předmět musím říct, že
+nebyl až tak těžký. Byla třeba trocha přípravy a taky vložit určité
+úsilí do projektu, zkrátka na to nekašlat, k čemuž mají studenti třetího
+ročníku už většinou, jak známo, sklony. Když jsem jej ale udělal já a
+ještě pod vlivem negativního dopingu, nevidím důvod se strachovat.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/smbjud77r7wclj9/studie.pdf?dl=0"&gt;studie&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Periferní zařízení (IPZ)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/UeSni1o.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/UeSni1om.jpg" alt="IPZ tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPZ tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/OT7vTUC.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/OT7vTUCm.jpg" alt="IPZ tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPZ tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Fanoušci sběrnic, monitorů a hardwaru vůbec si v IPZ přijdou na své. Je
+to jednodušší předmět, který vám udělá jasno v pojme jako PCI, PCI-X,
+USB, IDE, SCSI, southbridge/northbridge apod.&lt;/p&gt;
+&lt;p&gt;Přednášky se mi v IPZ kryly se španělštinou tak, že jsem stíhal jen
+jejich část a většiny znalostí se mi dostávalo z asi pět let starých
+záznamů, takže jsem doufal, že se předmět od té doby moc nezměnil. \^\^
+Garant a přednášející, doc. Kotásek, je velice sympatický, trochu jako
+starší pan Zbořil. Pořád dokola opakuje věci, o nichž si myslí, že jsou
+zásadní, a je to tak nejspíš i dobře. Hlavní pojmy jsem si tak vryl
+hluboko do paměti. Trochu mě ale nepotěšil některými otázkami na
+půlsemestrálce.&lt;/p&gt;
+&lt;p&gt;Zmíněný půlsemestrální test byl křížkovací s více možnými správnými
+odpověďmi. Při vymýšlení otázek ale autorovi někdy zjevně docházela
+fantazie a objevovaly se otázky, jako např. zda zkratka RLL znamená run
+length limited nebo run limited length - podle mě evidentní výplod
+zoufalství. Jiné otázky se zase zdály nejednoznačné. Ať už to byl jen
+můj pocit nebo ne, napsal jsem test na pěkných 26 bodů z 30.&lt;/p&gt;
+&lt;p&gt;V IPZ byla pro zpestření také dvě lehčí cvičení (na FAT a USB) po 2
+bodech a pro mě stála za docházku už kvůli VELMI sympatické doktorandce,
+ing. Šimkové. Pamatuju si, že jednou jsem měl cvičení z IPZ překrývající
+se s cvičením z ISA, na kterém jsem nemohl chybět kvůli testu, tak jsem
+na IPZ makal co nejrychleji a po přidělení bodů utíkal bez přezutí v
+ponožkách do laboratoří, uřícený nabootoval počítač, napsal test a
+odešel.&lt;/p&gt;
+&lt;p&gt;Zkouška byla poměrně jednoduchá, kombinace testu a fulltextu. Byla první
+ve zkouškovém a měl jsem na ni ještě dost sil se učit. Utekly mi jenom 2
+body a vyšla na krásné áčko.&lt;/p&gt;
+&lt;p&gt;IPZ mě celkově naučilo, jak počítač funguje jako celek, tzn. propojení
+jednotlivých částí, o kterých jsme se učili do teď. Taky mi osvětlilo
+spoustu pojmů z oblasti hardwaru, za což jsem velmi rád. Předmět přitom
+nebyl těžký a zanechal ve mě pozitivní dojmy.&lt;/p&gt;
+&lt;h2&gt;Síťové aplikace a správa sítí (ISA)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/Pul1ubm.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/Pul1ubmm.jpg" alt="ISA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ISA tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/GJglnnL.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/GJglnnLm.jpg" alt="ISA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ISA tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Jak jsem zjistil v minulém semestru, počítačové sítě nejsou mojí
+nejsilnější stránkou a ISA mi to spíš potvrdila než vyvrátila. Přesto
+věřím, že většina normálních lidí tento předmět neměla za tak obtížný
+jako já. Zajímavostí zde byla možnost vybírat si z více termínů zkoušek
+a to jak písemných, tak i ústních (samozřejmě v součtu měl každý na
+zkoušku maximálně tři pokusy).&lt;/p&gt;
+&lt;p&gt;Přednášky hodnotím jako velmi dobré a dokonce zajímavé. Nezřídka se
+stalo, že jsem se zájmem poslouchal přednášejícího, dr. Matouška, který
+má podle mě alespoň nějaké základní pedagogické vzdělání. Jenom mi
+trochu vadil obsah učiva - spousta zkratek a služeb, které jistě nikdy
+nevyužiju. Super zajímavá byla naopak přednáška o streamingu, kterou si
+vzala na starosti mgr. Skokanová (ta paní, co se stará o záznamy). Vzala
+s sebou zařízení na videokonference za asi 500 tisíc, s obří obrazovkou
+a pohyblivou kamerou, takže studenti vůbec nevěnovali pozornost
+přednášce. Naučil jsem se, že plně vybavené videokonferenční místnosti
+se nevyplatí kupovat, protože jsou tak ohromě drahé, že i když si ji
+pořídíte, nebudete mít s kým videokonference pořádat.&lt;/p&gt;
+&lt;p&gt;A teď se dostanu ke stinným stránkám předmětu. Za prvé, ISA nemají
+webové stránky jako každý normální předmět. Informace se místo toho
+zveřejňují přes Usenet, který nikdo nikdy dobrovolně nepoužívá. Téměř
+všichni si na tento způsob ztěžují a k informacím se nejde jednoduše
+dostat. Tím pádem nejenom mě ale i mnoha jiným unikaly organizační
+informace, diskuze k projektům, cvičením apod. Dále bych k tématu záporů
+zmínil projekt a cvičení.&lt;/p&gt;
+&lt;p&gt;Registraci projektu jsem promeškal a tak na mě zbylo poslední téma,
+které nikdo nechtěl.\^\^ Mapování IPv6 sítě pomocí ICMPv6 protokolu je
+možná zábavné teoretické téma, ale v praxi bych ho nikomu nepřál. Práce
+s ICMPv6 pomocí BSD socketů není nikde na internetu srozumitelně
+zdokumentovaná a funguje tak podivně, že na principy fungování jsme se
+skupinkou kamarádů přišli až po několika dnech metodou pokus/omyl.
+Výsledný program se nedal testovat na školním serveru, protože
+potřeboval práva roota. Pochopitelně rovněž nefungoval v žádné IPv4
+síti. Tím pádem jsme museli sestavit IPv6 síť z virtuálních strojů,
+jejichž konfigurace opět zabrala několik dní. Nemáte dost výkonný
+počítač, aby rozjel tři virtuální počítače zaráz? Smůla. To vše ve
+stresu, jestli dostanete dost bodů na zápočet. Prostě strašlivý projekt.
+Nakonec mi naštěstí dost bodů přinesla dokumentace a projekt jakš takš
+fungoval, takže jsem obdržel 16 bodů z 21. Zápočet jsem tak díkybohu
+získal, ale stálo mě to dost nervů.&lt;/p&gt;
+&lt;p&gt;Cvičení jsou opět samostatnou kapitolou. Na začátku se vždycky psal test
+na počítači až za 8 bodů. Jelikož jsem nečetl Usenet, nevěděl jsem, že
+se mám učit z materiálů ke cvičením a z prvního jsem dostal 2 body, což
+mi zkazilo plán získat zápočet jen za cvičení a pěkně mě
+vynervovalo.\^\^ Po testu následovalo (naštěstí) nepovinné cvičení, kdy
+jsme konfigurovali vlastní DNS servery a podobné pro mě ne až tak
+zajímavé/zábavné věci, takže jsem tohle absolvoval jen na prvním
+cvičení. Na další testy jsem se dost učil a z obou dostal po 7 bodech.
+Po testu jsem to pak vždycky zabalil a šel na byt.&lt;/p&gt;
+&lt;p&gt;Učení na zkoušku už jsem absolvoval bohužel pod vlivem zdravotních
+problémů a nedal jsem tomu to, co bych dal za normálních okolností.
+Pamatuji si nějaké početní příklady, jež jsem odvodil, jak by asi mohly
+s největší pravděpodobností vycházet, teoretické otázky taky nezůstaly
+prázdné, ale jednalo se o tipování a domýšlení, byl jsem na tom docela
+špatně. Hrozně mě potěšilo, že zkouška dopadla pozitivně s hodnocením 33
+z 55 bodů. Známka D byla pro mě víceméně irelevantní.&lt;/p&gt;
+&lt;p&gt;ISA mi celkově dala dost zabrat, nešlo o nejlehčí předmět a měl spoustu
+nedostatků. Přednášky byly pěkné ale sítím se na nižší než aplikační
+vrstvě asi věnovat moc nebudu.&lt;/p&gt;
+&lt;h2&gt;Semestrální projekt (ISP)&lt;/h2&gt;
+&lt;p&gt;ISP představuje v podstatě první část bakalářské práce. Její téma je
+možné zvolit buď předem (po domluvě) anebo v průběhu začátku semestru
+při refresh waru. Témat bylo v nabídce tradičně cca 800, avšak drtivá
+většina mi naprosto nevyhovovala. Buď jsem vůbec netušil, oč jde, nebo
+šlo o náročná témata mimo oblast mého zájmu. Zprvu jsem chtěl nějakou
+hru, popř. něco z oblasti počítačové grafiky. Skončil jsem nakonec s asi
+10 kandidáty.&lt;/p&gt;
+&lt;p&gt;Tím nejnadějnějším byl nástroj na generování procedurálních textur. Byla
+to počítačová grafika, částečně umělecké téma a nebylo mi úplně cizí,
+tak jsem napsal den před refresh warem vedoucímu práce (ing. Miletovi),
+zda by mě pro velký zájem nemohl na téma zapsat. Byl velmi ochotný a
+ihned mi tuto práci přidělil.&lt;/p&gt;
+&lt;p&gt;ISP byl pouze za zápočet a jeho podmínky záležely na konkrétním
+vedoucím. Můj kamarád, který rozvolňuje, např. dostal zápočet úplně
+zadarmo s podmínkou, že práci dožene příští rok. Většina ostatních
+vedoucích na první konzultaci vysvětlila studentovi, co se po něm chce,
+a ti pak celý semestr nic nedělali, až ke konci narychlo něco sepsali,
+aby shrábli zápočet.&lt;/p&gt;
+&lt;p&gt;U ing. Mileta to bylo trochu jinak, alespoň v mém případě. Na první
+konzultaci mi téma vysvětlil a mě velmi zaujalo. Bylo dost podobné jeho
+diplomové práci a tak jsme z něj oba sdíleli velké nadšení. Byl ochotný
+mi poskytnout materiály, rady i části zdrojových kódů. Potom naznačil,
+že bych měl zhruba jednou za dva týdny chodit na konzultace, aby viděl
+postup práce. Ihned po konzultaci jsem začal programovat a brzy jsem měl
+oproti ostatním dost rozsáhlou knihovnu. Konzultace jsem pravidelně
+využíval a byl jsem prý dost napřed oproti ostatním studentům. Dostávalo
+se mi dokonce pochval za mé výsledky, prostě mě práce bavila. \^\^&lt;/p&gt;
+&lt;p&gt;Pro zápočet bylo potřeba udělat v lednu malou prezentaci před pár
+doktorandy. Bohužel, nebyl jsem ve stavu, kdy bych tuto prezentaci
+zvládl a tak jsem požádal pana Mileta, zda by mi ji neprominul. Rovněž
+jsem ho informoval, že budu ze zdravotních důvodů rozvolňovat a že bych
+toto téma pod jeho vedením rád za rok dokončil. Velmi ochotně mi vyhověl
+a zápočet mi udělil.&lt;/p&gt;
+&lt;p&gt;K ISP bych tedy radil hlavně zvolit si dobré téma. Cokoliv vás zaujme se
+vám bude dělat stokrát líp než něco, co děláte jen kvůli titulu. Jinak
+jakékoliv téma, které vás zaujme a je u ing. Mileta, doporučuji, protože
+je to skvělý vedoucí.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="texture examples" class="center" src="http://i.imgur.com/R0IAux5.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;Tvorba uživatelských rozhraní (ITU)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/Mzy2vMw.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/Mzy2vMwm.jpg" alt="ITU tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ITU tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Tento předmět se vymykal už jen tím, že jako jako jediný povinný v
+bakalářském studiu neměl zkoušku. Probíral z mého pohledu spíš ze široka
+než do hloubky veškerá témata a technologie týkající se uživatelských,
+především samozřejmě grafických, rozhraní. Hlavně se zaměřil na jejich
+návrh a testování. To jsme my jako studenti dosud dělali intuitivně. Zde
+nás naučili, jak s kvalitou rozhraní pracovat co nejvíc objektivně.&lt;/p&gt;
+&lt;p&gt;Předmět vedl dr. "Víťa" (jak sám sebe nazýval) Beran, který mi přišel
+jako zvláštní typ člověka, který je do velké míry jak technikem tak i
+umělcem a velkým pohodářem, jenž se dá stěží jednoduše popsat. Přednášky
+jinak měli na starost všemožní lidé a jeden po nás dokonce chtěl,
+abychom neměli zapnuté notebooky (už nevím, kdo to byl). Probíraly se
+jak základní principy systémů řízených událostmi, tak i konkrétní
+technologie/rozhraní jako WinAPI, X-Window, webová GUI apod.&lt;/p&gt;
+&lt;p&gt;Tento předmět očividně projevoval snahu se co nejvíce odlišit.
+Počítačová cvičení měl na starost vždycky jiný cvičící a obtížnost úkolů
+kolísala od standardu až k vyšší náročnosti. Občas jsem nestíhal, ale
+nakonec mi unikl jen 1 bod. Většinou šlo samozřejmě o vyzkoušení
+probíraných technologií (JavaScript, WinAPI, QT, …). Poslední cvičení
+bylo nejspíš pro odlehčení pojato jako diskuze o projektech mezi
+studenty navzájem. Každé z nich bylo až za 5 bodů.&lt;/p&gt;
+&lt;p&gt;Přednášky netrvaly celý semestr a logicky došly konce s půlsemestrální
+zkouškou, neboť pak už by je jaksi díky absenci zkoušky nikdo
+nenavštěvoval. Navzdory vší prestiži FITu byl test opět pouze
+zaškrtávací, kdy spousta možností byla jednoduše eliminovatelná - např.
+na otázku "Na základě čeho se děje překreslování oken ve Windows? "
+evidentně není správná odpověď "Na přání pana Billa Gatese". Díky těmto
+legráckám jsem dosáhl na 18 bodů z 20.&lt;/p&gt;
+&lt;p&gt;ITU by nejspíš ani nemohl být předmětem pátého semestru, aniž by mu
+chyběl vlastní týmový projekt. Ten byl tentokrát určen pro tři lidi a
+téma se určovalo opět DDOS útokem na školní servery, tedy klikací
+válkou. Já a moji spojenci v této bitvě jsme ukořistili téma editor
+fotografií, jež nebylo nejhorší. Implementace projektu se nakonec ujal
+kolega, protože měl zkušenosti s QT z minulého semestru, zatímco já jsem
+dělal projekty do jiných předmětů. Nicméně celý náš tým měl velký podíl
+na návrhu a testování, dělali jsme schůzky podobně jako při IFJ, i když
+ne tak intenzivní. Taky jsme museli během semestru odevzdat pár PDF
+zpráv o průběhu projektu. Kolega nakonec odvedl záslužnou práci. Program
+neměl sice plnou funkcionalitu, ale tím hlavním bylo rozhraní, obzvlášť
+když někteří jedinci údajně program na poslední chvíli implementovali ve
+Photoshopu a zápočet dostali i tak. Celé dílo bylo následně dle zadání
+testováno na lidech (většinou příslušnících našich rodin) a rovněž na
+pár stránkách zdokumentováno. Výsledkem veškeré práce byla nakonec
+krátká PDF prezentace.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="/uploaded/fotoedit_screenshot.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Ta probíhala před ostatními studenty na daném termínu. Pan garant seděl
+vzadu učebny, vše s občasným komentářem sledoval a na závěr prezentací
+rozdal body. Hotové programy podle mě ani neviděl, šlo prakticky jen o
+prezentaci. Jak se dá čekat, k jeho hodnocení měli studenti nesčetné
+výhrady, neboť šlo do jisté míry o subjektivní dojem z prezentace
+okomentovaný např. slovy "Je to pěkné, ale něco se mi na tom nelíbilo, i
+když nevím přesně co". Jeden den studenti dostávali míň bodů, jindy víc,
+zkrátka výsledek závisel velkou mírou na dojmu garanta, ale myslím, že
+není třeba nějaký ten bod hrotit. Je lepší, když se do prezentace zapojí
+všichni, ale my jsme tuto špinavou práci zbaběle přenechali slečně
+kolegyni z týmu a ta nám nakonec vyobhajovala krásných 43 bodů z 55 a
+tedy pro mě známku B.&lt;/p&gt;
+&lt;p&gt;V ITU jsem si moc nezaprogramoval ale naučilo mě např. to, že i věci
+jako přívětivost uživatelského rozhraní se dají měřit. Navíc mi trochu
+rozšířilo všeobecný přehled v technologiích týkajících se GUI a nebylo
+ani tak těžké získat pěknou známku, takže si nemám na co stěžovat.&lt;/p&gt;
+&lt;h2&gt;Španělština: začátečníci 1/2 (JS1)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/ZfLkEHz.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/ZfLkEHzm.jpg" alt="JS1 tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+JS1 tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nebudu zapírat, že jsem si tento dvousemestrální předmět zapsal hlavně
+ze strategických důvodů, nebyl to však rozhodně důvod jediný.
+Španělština se mi vždy líbila a chtěl jsem se ji naučit už dávno. Jenom
+jsem kvůli ní musel zase docházet na FEKT...&lt;/p&gt;
+&lt;p&gt;Na hodinách nás bylo asi patnáct a učila nás dr. Borecká. Dalo se s ní
+dobře vycházet a měla velký smysl pro humor, na hodinách byla většinou
+zábava. Musím upozornit, že od nás vyžadovala 80% účast a netolerovala
+notebooky ani mobily. Jinak do výuky nás zapojovala všechny a za dvě
+hodiny týdně mě osobně naučila až zázračně mnoho. Výuka zahrnovala
+samozřejmě poslechy i malé domácí úkoly. Učebnici jsme si museli buď
+koupit nebo vytisknout, v elektronické podobě (na notebooku/tabletu) být
+nemohla.&lt;/p&gt;
+&lt;p&gt;Na konci semestru se konal zápočtový testík, který svou obtížností
+rozhodně nedostál mým očekáváním, tzn. byl docela lehký a musel ho
+zvládnout každý, kdo učení během semestru neflákal. Příští semestr má
+následovat podobný test a závěrečná zkouška i s poslechem (prý bude
+povolený papírový slovník). Paní Borecká byla tak hodná, že mi povolila
+druhou část kurzu absolvovat ze zdravotních důvodů samostudiem z domu.&lt;/p&gt;
+&lt;p&gt;Španělštinu můžu doporučit. Je to dobrý předmět a anglicky dneska umí
+skoro každý, takže určitě není na škodu umět něco víc.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky&lt;/h2&gt;
 &lt;hr /&gt;
 &lt;p&gt;předmět                  získaných bodů           známka&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;Teoretická informatika   86/100                   B
-  (TIN)                                             &lt;/p&gt;
-&lt;p&gt;Pokročilé databázové     70/100                   C
-  systémy (PDB)                                     &lt;/p&gt;
-&lt;p&gt;Seminář teoretické                                zápočet
-  informatiky (STI)                                 &lt;/p&gt;
-&lt;p&gt;Dějiny a filozofie                                zápočet
-  techniky (FIT)                                    &lt;/p&gt;
-&lt;p&gt;Hardware/Software        66/100                   D
-  Codesign (HSC)                                    &lt;/p&gt;
-&lt;p&gt;Počítačová grafika (PGR) 90/100                   A&lt;/p&gt;
-&lt;p&gt;Pokročilá počítačová     90/100                   A
-  grafika (PGP)                                     &lt;/p&gt;
-&lt;p&gt;Matematické struktury v  80/100                   B
-  informatice (MAT)                                 &lt;/p&gt;
+&lt;p&gt;Informační systémy (IIS) 69/100                   D&lt;/p&gt;
+&lt;p&gt;Mikroprocesorové a       68/100                   D
+  vestavěné systémy (IMP)                           &lt;/p&gt;
+&lt;p&gt;Modelování a simulace    72/100                   C
+  (IMS)                                             &lt;/p&gt;
+&lt;p&gt;Periferní zařízení (IPZ) 93/100                   A&lt;/p&gt;
+&lt;p&gt;Síťové aplikace a správa 65/100                   D
+  sítí (ISA)                                        &lt;/p&gt;
+&lt;p&gt;Semestrální projekt      100/100                  zápočet
+  (ISP)                                             &lt;/p&gt;
+&lt;p&gt;Tvorba uživatelských     85/100                   B
+  rozhraní (ITU)                                    &lt;/p&gt;
+&lt;p&gt;Španělština: začátečníci                          zápočet
+  1/2 (JS1)                                         &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;průměr: 1,583&lt;/p&gt;
-&lt;p&gt;pořadí v ročníku: 10. z 106 (studenti bez F s alespoň 25 kredity)&lt;/p&gt;
-&lt;p&gt;pořadí v ročníku oboru: 3. z 55&lt;/p&gt;
-&lt;p&gt;prospěchové stipendium: 9913 Kč&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;průměr: 2,053&lt;/p&gt;
+&lt;p&gt;pořadí v ročníku: 95.-97. místo z 240 (studenti bez F s alespoň 25
+kredity)&lt;/p&gt;
+&lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 4. semestr</title><link href="drummyfish.github.io/bc4.html" rel="alternate"></link><published>2012-06-15T16:22:00+02:00</published><updated>2012-06-15T16:22:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2012-06-15:drummyfish.github.io/bc4.html</id><summary type="html">&lt;p&gt;Výsledky čtvrtého semestru se mi teda příliš nevyvedly, ale jak
+už jsem psal, škola nebyla tentokrát moje jediná starost. Je to ale tak,
+že čtvrtý semestr byl časově možná nejnáročnější z celého studia a
+museli jsme se za něj stihnout naučit asi sedm programovacích jazyků
+(sice jenom základy, ale i …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Výsledky čtvrtého semestru se mi teda příliš nevyvedly, ale jak
+už jsem psal, škola nebyla tentokrát moje jediná starost. Je to ale tak,
+že čtvrtý semestr byl časově možná nejnáročnější z celého studia a
+museli jsme se za něj stihnout naučit asi sedm programovacích jazyků
+(sice jenom základy, ale i tak)! V každém předmětu byl tentokrát
+vyžadovaný zápočet a zkoušky opět nasadily minima, i když většinou jenom
+kolem 40 %. Navíc opravování všech projektů a písemek trvalo hrozně
+dlouho a do poslední chvíle byl boj o zápočty napínavý.&lt;/p&gt;
+&lt;h2&gt;Databázové systémy (IDS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/FRXsJ.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/FRXsJm.jpg" alt="IDS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IDS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/83kwH.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/83kwHm.jpg" alt="IDS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IDS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Tohle byl předmět, kterému u mě předcházely smíšené pocity pramenící
+jednak z ne úplného nadšení pro databáze (nechápu, co je zábavného na
+vymýšlení super složitých SQL příkazů) a jednak z faktu, že se to prostě
+musím jednou naučit. Nakonec IDS ale nesplnilo obavy a spíš zanechalo
+vesměs pozitivní dojmy.&lt;/p&gt;
+&lt;p&gt;Byl jsem docela zvědavý na pana děkana, který nám měl přednášet. Doc.
+Zendulka je nesmírně sympatický, ale nedělá vůbec žádné vtipy a mluví
+extrémně pomalu, takže jsem někdy až usínal. Na druhou stranu se toho
+probere tímto tempem docela málo a procházení slajdů ke zkoušce
+probíhalo velmi rychle, protože jsou prostě přizpůsobeny tempu pana
+Zendulky a je jich tudíž hrozně málo. Z pozitivních stránek musím zmínit
+spolupráci a diskuzi se studenty a také pravidelně konané tzv. hromadné
+konzultace. Šlo o to, že si dobrovolně přihlášení studenti přichystali
+krátkou prezentaci nějakého příkladu k probírané látce a za body ji
+předvedli na konci přednášky za dozoru pana děkana.&lt;/p&gt;
+&lt;p&gt;Jednoho dne opět nadešlo půlsemestrálkové období. Potěšením bylo
+zjištění, že na IDS se objevuje kreslení ER diagramu, což už vlastně
+umíme z IUSu a tak nebylo zase tolik stresů a učení potřeba. ER diagram
+se nakonec opravdu objevil spolu s příklady na převedení na schéma
+databáze apod. Opravování trvalo dlouho, ale výsledek 12,5 z 14 více než
+potěšil.&lt;/p&gt;
+&lt;p&gt;Co mě tento semestr dost vytáčelo, byl projekt do IDS, který se dělal
+opět v týmech po dvou lidech (asi je dobré udělat si tým s člověkem, s
+nímž máte seminář Java/C++, mě se to bohužel nepodařilo). Ze začátku šlo
+jenom o napsání nějakých skriptů pro vytvoření databáze a její naplnění
+testovacími daty, nejhorší se ale ukázala poslední část. Šlo o vytvoření
+GUI aplikace nad naší databází v nějakém hrozně podivném Windowsovském
+vývojovém prostředí od firmy Oracle a celou dobu jsem neměl vůbec
+ponětí, co to vlastně dělám a hrozně mě tento projekt štval. Před
+odevzdáním aplikaci můj tým věnovat celý den a nějak se projekt splácal
+dohromady. Na krátké obhajobě potom už naštěstí nebyl problém sklidit na
+zápočet postačujících 13 bodů z 20.&lt;/p&gt;
+&lt;p&gt;Zkouška byla tak akorát těžká a rozhodně o trochu lehčí než většina
+ostatních zkoušek. Jelikož se toho neprobralo oproti jiným předmětům
+zase až tak moc, tak se prostě zkoušely úplné základy - pár SQL dotazů,
+jednoduchá normalizace a pár teoretických otázek. Je to ale podle mě
+dobře, protože je líp se naučit pořádně základy, než jít nesmyslně do
+hloubky a polovinu věcí potom stejně zapomenout, tak jak se to občas
+vede v jiných předmětech. Po zkoušce mé naděje trochu doufaly v Béčko,
+nakonec mi ale přišla známka C. Stěžovat si ale nebudu.&lt;/p&gt;
+&lt;p&gt;IDS hodnotím jako mírně jednodušší ale každopádně přínosný předmět,
+samozřejmě záleží, jak komu sedne. Já jsem bez větších předchozích
+zkušeností s databázemi neměl s IDS velký problém.&lt;/p&gt;
+&lt;h2&gt;Počítačové komunikace a sítě (IPK)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/eMSHx.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/eMSHxm.jpg" alt="IPK tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPK tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/PMDhu.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/PMDhum.jpg" alt="IPK tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPK tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/pWZKn.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/pWZKnm.jpg" alt="IPK tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPK tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sítě pro mě do teď tvořily zatím neprobádanou část informatiky. S
+příchodem IPK naštěstí přišla naděje, že se to brzo změní. Ono to tak
+dokonale nakonec sice nedopadlo, ale už umím naprogramovat klienta,
+server, TCP i UDP a to mi zatím stačí. S odstupem času se mi předmět
+vybavuje jako obrovská množina zkratek typu OSPF, UDT, CSMA/CD atd.&lt;/p&gt;
+&lt;p&gt;Na přednáškách se střídali dva přednášející, ing. Ráb, kterému bych
+trošku vytknul, že věci vysvětloval, jako bychom to snad už uměli a on
+nám jenom připomínal, jak to vlastně funguje. Druhým přednášejícím byl
+dr. Ryšavý. Ten byl zase takový nenápadný, ale jeho přednášky se mi
+poslouchaly líp. Problém předmětu vězel hlavně v pokulhávající
+organizaci. Za prvé, zadání projektů byla hodně stručná, občas nejasná a
+všechna pohromadě v jakémsi studijním manuálu, stránky předmětu
+neexistovaly, při malých písemkách panoval často zmatek a další a další
+věci. Ze slajdů se není moc možné učit, je potřeba k nim mít komentář a
+tak nedoporučuju vynechávat přednášky.&lt;/p&gt;
+&lt;p&gt;Zmíněné malé písemky byly novinkou našeho ročníku a těžko říct, zda se
+ujmou. Byly tři, vždycky ve formě multiple choice testu přímo na
+přednášce a každý maximálně za 3 body. Někdy otázky vypadaly jako špatný
+vtip, jindy šlo třeba o uhodnutí čísla portu nějaké služby apod.
+Studenti si bezostyšně radili a stejně měla většina lidí vždycky kolem
+1,5 bodu tak jako já.&lt;/p&gt;
+&lt;p&gt;Zdrojem bodů byly i dvě laboratoře ve stylu "utvořte skupinky, vyrobte
+si vlastní kabel, propojte počítače, proveďte konfiguraci, odevzdejte
+protokol." Většinou to bylo v duchu "I have no idea what I'm doing" a
+časově se to moc nestíhalo, ale posbíral jsem z obou plný počet bodů
+(tj. 3 a 3), hodnocení bylo mírné.&lt;/p&gt;
+&lt;p&gt;Neměl bych také zapomenout na projekty, které byly tři a psaly se buď v
+C nebo v C++ dle vlastní volby. Po prvním projektu mi došlo, že
+obsáhlejší práce s řetězci v C není to pravé a přešel jsem na C++. První
+a druhý projekt, jednoduchý stahovač stránek a jednoduchá pošta, mi
+vynesly přibližně plný počet, u třetího jsem zažil největší haluz tohoto
+semestru, když mi po odevzdání stěží fungujícího programu na spolehlivou
+komunikaci přišlo do wisu 8 bodů z 10, dodnes si to neumím vysvětlit.
+Důvod nestihnutí projektu byly pochopitelně hromadící se jiné projekty.&lt;/p&gt;
+&lt;p&gt;Podle dostupných informací se závěrečná písemka oproti loňsku změnila a
+to spíš k lepšímu, protože se mi podařilo ji stihnout napsat,
+zkontrolovat a dokonce předčasně odevzdat (minulý rok prý skoro nešla v
+daném čase stihnout). Nebyly žádné testové otázky, jen pár fulltextových
+a moje skupina byla naštěstí víc zaměřena na teorii, takže jsem to nějak
+zvládnul na 44 bodů z 65. Druhá skupina měla prý hodně příkladů a měla
+být těžší. Celkově se mi tedy dostalo hodnocení C.&lt;/p&gt;
+&lt;p&gt;Předmět IPK se asi stále ještě vyvíjí, protože se zdá být každým rokem
+trochu jiný, tak uvidíme, co potká další ročníky. Vypadá to ale, že se
+mění k lepšímu. Hlavně to chce zlepšit organizaci, jinak nejde o žádný
+hardcore předmět.&lt;/p&gt;
+&lt;h2&gt;Principy programovacích jazyků a OOP (IPP)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/qN0dW.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/qN0dWm.jpg" alt="IPP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPP tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/minub.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/minubm.jpg" alt="IPP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPP tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/96wjC.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/96wjCm.jpg" alt="IPP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPP tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Encyklopedicky zaměřený a zřejmě nejnáročnější předmět druhého ročníku a
+vůbec jeden z těch celkově nejtěžších. Má mimo jiné za úkol naučit
+studenty objektově orientované programování, bez něhož se dneska těžko
+někdo obejde. Přijde mi ale, že předmět samotný by mě to nenaučil
+dostatečně a proto vidím jako rozumné opatřit si nějakou knížku a
+podívat se na základní principy ještě před IPP, třeba si i něco zkusit
+napsat - mě díkybohu opět zachraňovaly znalosti ze střední školy. Navíc
+vedle OOP tenhle předmět probírá kvanta dalších záležitostí a rozhodně
+se nevyhnete poctivému učení.&lt;/p&gt;
+&lt;p&gt;V plánu semestru je hrozně moc pojmů týkajících se programovacích jazyků
+a i když jsem měl za to, že tyhle teoretické věci docela zvládám, bylo
+to opravdu pěkně náročné. Navíc se probírají dva kalkuly pro popis
+jazyků, které k té teorii přidávají i něco z počítání, aby bylo z čeho
+dávat příklady na písemce (neumím si ale představit, že je kdy využiju,
+pokud se nebudu zabývat výzkumem). Přednášky vedli doc. Kolář a dr.
+Křivka a nevím, jestli to bylo docela nudnou látkou, stylem přednášení
+nebo mým vyčerpáním ze všech projektů, ale dvakrát se mi podařilo na
+přednášce úplně usnout, což se mi do té doby zatím ještě nestalo.&lt;/p&gt;
+&lt;p&gt;Docela pozitivně vidím přínos dvou projektů v jazycích Perl a Python 3,
+protože se tyto jazyky používají a mě samotnému od té doby párkrát
+posloužili pro pár jednoduchých skriptovacích úkonů. Byla zde různá
+zadání a vždycky po dvojicích, při klikací válce jsem ukořistil zadání
+převod formátu JSN do XML v Perlu a minimalizace konečného automatu v
+Pythonu 3. K oběma úlohám byla vyžadována krátká dokumentace a naštěstí
+nám organizátoři vždycky poskytli základní testy funkčnosti, jež mně
+osobně docela pomohly. S prvním projektem jsem si docela vyhrál a získal
+tak 8,6 bodů z 10. U druhého už hořely termíny ostatních projektů a tak
+trochu mě přemáhalo znechucení vylepšovat můj opravdu nepěkný kód, tak
+jsem to prostě odevzdal s tím, že mi víceméně prošla většina základních
+testů a moc jsem se ani nedivil konečnému hodnocení pouhými 3,9 body.&lt;/p&gt;
+&lt;p&gt;Půlsemestrálka se mi vydařila a zařadila mě mezi 10 lidí, co měli 18
+bodů z 20, víc neměl nikdo. Myslím, že chyby u mě spočívaly ve špatně
+spočítaném příkladu na sigma kalkul spíš než v teorii, které v ten
+moment zase tak moc nebylo.&lt;/p&gt;
+&lt;p&gt;Už méně slavně dopadlo závěrečné ověřování znalostí. Na zkoušku jsem šel
+myslím si celkem dobře naučený, jenže se v zadání objevily nějaké otázky
+na jazyky pro popis hardwaru a architektur, jež jsem trochu odbyl a tak
+mě po zkoušce silně pronásledovaly obavy z dalšího termínu. V jiném
+předmětu bych byl určitě klidnější, ale tady je hodnocení opravdu přísné
+a chyby se neodpouštějí, takže moje obavy se prakticky exponenciálně
+zvyšovaly s každou hodinou po odevzdání písemky. Nakonec jsem tak tak
+prolezl o bod nad minimem s 26 body a získal svoje druhé Éčko do sbírky.&lt;/p&gt;
+&lt;p&gt;Na IPP nebudete nejspíš nikdy dost dobře naučení, takže nezbývá než
+věnovat veškerou zbylou energii učení a doufat v dobré otázky. Je nutné
+taky bojovat s nudnými přednáškami. Projekty byly ale docela přínosné a
+povedené.&lt;/p&gt;
+&lt;h2&gt;Základy počítačové grafiky (IZG)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/XEtiq.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/XEtiqm.jpg" alt="IZG tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZG tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/l71ie.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/l71iem.jpg" alt="IZG tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZG tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/KNHcY.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/KNHcYm.jpg" alt="IZG tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZG tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Docela slibně nazvaný předmět, který také byl jedním z těch dobře se
+učících, protože probírané věci se nezdají být zbytečné a jsou většinou
+přímočaré.&lt;/p&gt;
+&lt;p&gt;Co se týče přednášek, stejně jako u IPK se střídali dva přednášející.
+Měl jsem tu čest, že jedním z nich byl nejlepší přednášející tohoto
+semestru, dr. Španěl, jehož přednášky byly opravdu dobře stravitelné a v
+takové odlehčené formě. Sem tam něco spletl, ale aspoň udržel pozornost
+přednáškové místnosti. Měl taky na starosti projekt a třem řešitelům
+nejrychleji pracujících programů před zkouškou slavnostně daroval láhev
+vína. Pár přednášek si vzal na starost garant, doc. Kršek, kterého jsem
+zase až tak nemusel. Hrozně mu vadili opozdilí studenti a vždycky k nim
+měl nějakou poznámku, většinou je nazýval hologramy a někdy je dokonce
+skoro až vyslýchal. Hlavní témata IZG byla rasterizace, křivky,
+viditelnost, nějaké zobrazovací metody a základy OpenGL.&lt;/p&gt;
+&lt;p&gt;Laboratoře IZG řešily věci z přednášek praktickou formou, každou
+laboratoř vedl netradičně jiný cvičící. Vyvoleným jazykem pro tyto účely
+bylo C++ a jakási knihovna nad OpenGL, programovali se rasterizace,
+vyplňování apod. Všechny laboratoře u mě byly za plný počet.&lt;/p&gt;
+&lt;p&gt;Z půlsemestrální písemky skládající se z testových a jedné teoretické
+otázky, jsem docela slušně vytěžil 9 bodů ze 12, rozhodně se za ní
+neskrývalo nic těžkého.&lt;/p&gt;
+&lt;p&gt;Projekt jsem pracovně nazval rasterizace králíka. Ono šlo vlastně o
+obecný vykreslovač 3D modelů, který jsme měli doimplementovat v Céčku,
+ale defaultní model byl prostě králík. Ze začátku mě program docela
+zaujal, podařilo se mi dopsat rasterizaci trojúhelníku, potom ale začal
+časový pres s Javou a nějak se má pozornost musela upnout jinam. Dodělal
+jsem tedy jenom základ osvětlení a odevzdal, co bylo. Rozhodně se
+nedivím zisku pouhých 6 bodů z 18, snad jsem čekal i trochu míň. Většina
+lidí ale projekt dotáhla na plný počet bodů.&lt;/p&gt;
+&lt;p&gt;Hodina čistého času na závěrečné písemce bohatě postačovala, šlo o tři
+krátké teoretické otázky a čtrnáct testových s jednou správnou odpovědí
+(za chyby se ale slušně strhávaly body a to dokonce i ve fulltextu).
+Nebyla to však žádná hrůza a objem učení byl na IZG podle mě po
+ostatních předmětech pohodový. Nakonec mě hrozně potěšil výsledek 50
+bodů z 52 a alespoň tedy jedno Béčko.&lt;/p&gt;
+&lt;p&gt;IZG je docela dobrý a užitečný předmět. Celkem intuitivní algoritmy se
+dobře učí a většinou je složitější zapamatovat si jejich název
+skládající se ze dvou až tří jmen.&lt;/p&gt;
+&lt;h2&gt;Základy umělé inteligence (IZU)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/Y5ssZ.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/Y5ssZm.jpg" alt="IZU tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZU tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/kxnrM.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/kxnrMm.jpg" alt="IZU tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZU tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/NPHSP.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/NPHSPm.jpg" alt="IZU tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZU tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Celkem pochopitelně asi nejvíc přemýšlecí předmět ve čtvrtém semestru.
+Trochu mi naháněla strach nutnost přelouskávat kopu algoritmů napsaných
+a vymyšlených někým jiným, protože to pro mě většinou nebývá moc velká
+zábava.&lt;/p&gt;
+&lt;p&gt;Přednášejícím nám byl mladší dr. Zbořil, syn pana Zbořila z asemblerů,
+který zase přednášel druhé skupině. Musím říct, že občas jsou si docela
+podobní, ale ten mladší přeci jenom trochu víc vypráví historky a naše
+přednášková skupina tak nestíhala tu druhou asi o jednu přednášku. Látku
+vysvětlují oba stejně kvalitně a není problém pochytit podstatu
+problému, ale někdy si to chce doma zopakovat.&lt;/p&gt;
+&lt;p&gt;IZU tvoří také laboratoře, kde se občas něco počítá a hlavně programuje
+v Prologu a Lispu. Tyhle jazyky jdou úplně jiným směrem než klasické
+imperativní jazyky a nezvyká se na ně úplně lehko, naštěstí se dělají
+jenom základy. Někteří cvičící prý studenty dost dusily, mě naštěstí
+ing. Král nedusil a byla s ním sranda, čímž ale vzdělávání netrpělo,
+prostě ideální případ. Na cvikách taky studenti obhajují svoje domácí
+úkoly - vyhledávání nejkratších cest algoritmem A* v Céčku a něco v
+Prologu a Lispu - nic moc těžkého, přišel jsem jen o pár bodů kvůli
+nějakým drobnostem, hodně jsem si ale máknul při učení Prologu.&lt;/p&gt;
+&lt;p&gt;Největší fail tohoto semestru pro mě byla půlsemestrální písemka v
+tomhle předmětu. Tvořili ji dva příklady. Ani jeden mě nepřekvapil, ale
+prostě jsem udělal v asi dvacetiúrovňovém stromu stavového prostoru
+chybu někde na patnácté úrovni a z 10 bodů byl rázem 1. Druhý příklad
+dopadl líp ale i tak mi nakonec přišlo hodnocení jenom 8 bodů z 20.
+Zastavil jsem se tedy na reklamaci, ale doc. Zbořil starší mi jenom
+řekl, že se to stává, a žádné body z toho nevzešly &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Mladší
+přednášející opravoval písemky o pár dní dýl, ale zato míň přísně podle
+srovnání s kolegy.&lt;/p&gt;
+&lt;p&gt;Řádný termín písemky proběhl poklidně i přes moje obavy, že půjde o pro
+mě nejtěžší zkoušku. Ukázal se ale spíš opak (možná proto, že opravování
+mé písemky se tentokrát zhostil mladší dr. Zbořil). Klasické příklady
+převážně ze starých písemek mi vynesly krásných 51 bodů z 60. Bylo mi
+trochu líto známky jenom C, ale známky jsou přece jenom známky.&lt;/p&gt;
+&lt;p&gt;V IZU jsem se dozvěděl hodně zajímavých věcí používaných např. ve hrách,
+což mě vždycky zajímá, takže spokojenost je na místě. Mrzí mě jenom
+trochu přísné opravování půlsemestrálky, ale možná je to jenom můj
+subjektivní pocit.&lt;/p&gt;
+&lt;h2&gt;Seminář Java (IJA)&lt;/h2&gt;
+&lt;p&gt;Tak tenhle předmět mě zaujal v letním semestru asi nejvíc. Javu jsem měl
+rád už jenom z toho, co jsem věděl z doslechu, a proto mi udělalo
+radost, že se s ní konečně seznámím trochu víc a budu moct programovat
+třeba multiplatformní hry bez učení se nějakých systémových knihoven.
+Předmět byl postavený jenom na velkém projektu pro tým dvou lidí, z
+žádné zkoušky ani ničeho podobného se není třeba stresovat.&lt;/p&gt;
+&lt;p&gt;Na dvouhodinovkách nám přednášel dr. Kočí o základech jazyka a
+samozřejmě o všem, co vyžadoval projekt. Občas to nebylo moc zábavné,
+ale jinak šlo o slušně vedené přednášky.&lt;/p&gt;
+&lt;p&gt;Projektem pro tento rok byl server-klient simulátor Petriho sítí s
+grafickým uživatelským rozhraním a podporou více vláken na serveru a
+výsledek je &lt;a href="/ke_stazeni"&gt;ke stažení&lt;/a&gt; tady na stránkách. Upřímně řečeno
+mě ze zadání běhal mráz po zádech a pořád jsem se ptal, jak mám sakra
+zvládnout naprogramovat tak vymakanou aplikaci ve víceméně novém jazyku.
+Každopádně jsem se do toho hned pustil a Javu jsem si díkybohu
+zamiloval. Jeden programátor je v ní klidně schopný udržovat tisíce
+řádků kódu bez větších problémů, protože je hrozně přehledná a navíc s
+kvalitní webovou dokumentací není problém zvládnout základní síťové
+programování během pár minut. Navíc všechno za vás provede příkaz ant.
+Co se mi ale nejvíc líbilo, byl prostor pro kreativitu a vlastní řešení
+projektu, s čímž se na škole bohužel příliš nesetkávám a určitě by bylo
+dobré se tímhle předmětem inspirovat i jinde. Zadání nebylo vůbec
+striktní, jenom vymezovalo hlavní featury požadovaného programu a každý
+si s aplikací mohl vyhrát podle uvážení. Pokud jde o týmovou práci,
+projekt jsem tak nějak napsal sám, protože slečna kolegyně měla spoustu
+práce a i když mi přesto chtěla pomáhat, radši jsem to převzal s tím, že
+si Javu rád procvičím &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; I tak naší aplikaci hodně pomohla při návrhu a
+testování, takže děkuji za spolupráci &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Oproti semináři C++ nás z Javy občas zaneprázdňovaly drobné úkoly pro
+úplné začátečníky, čistě na osahání vývojových nástrojů a konceptů Javy.
+K úkolu byla vždycky přibalena testovací třída, která zaručovala 100%
+zisk bodů. Do určitého termínu nám bylo také uloženo odevzdat návrh
+aplikace ve formě diagramu tříd, což vidím jako plus, protože jinak by
+se na projekt nezanedbatelné množství lidí podívalo až týden před
+odevzdáváním, ne-li později.&lt;/p&gt;
+&lt;p&gt;Projekt nakonec v dostatečném předstihu před deadlinem spatřil světlo
+světa a zbývala jenom obhajoba. Na té jsem zažil pěkně horké chvilky,
+když se mi nedařilo spustit aplikaci na počítači dr. Kočího a málem jsem
+nedokázal napsat ani příkaz bez chyby na jeho podivné klávesnici, prostě
+takový malý trapas &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; Naštěstí nám nakonec pan Kočí dovolil
+odprezentovat program na vlastním notebooku a to šlo už všechno krásně.
+Stálo nás to ale 20% hodnocení, což je sice škoda ale jinak jsem s
+aplikací spokojený a kašlu na body &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="/uploaded/simulator_screen.png" width="640" /&gt;&lt;/p&gt;
+&lt;p&gt;Jednoznačně skvělý předmět pro všechny Javové nadšence ale nejen pro ně.
+Týmových projektů rozhodně taky není nikdy dost. Určitě nelituju, že
+jsem si dal Javu místo C++, jelikož jejich seminář byl (přinejmenším z
+doslechu) docela špatný v organizaci a na konci roku se objevovaly
+dokonce nějaké zmatky s narychlo vyhlašovanými obhajobami apod.&lt;/p&gt;
+&lt;h2&gt;Právní minimum (PRM)&lt;/h2&gt;
+&lt;p&gt;Na tenhle předmět jsem si poctivě vystál frontu u papírového
+přihlašování a vyšel na mě jen tak tak (registroval jsem se jako
+předposlední, kamarád o jednoho člověka za mnou se už nevešel &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;.
+Jedná se o povinně volitelný humanitní předmět a tedy nutnost pro
+bakalářský titul na naší škole a opravdu jde jenom o formalitu, alespoň
+v tomto případě, protože předmět je pouze za docházku (v jiných PVH
+kurzech se prý musel občas vypracovat nějaký referát nebo něco
+podobného, tady ne). Musím ale říct, že předmět je to velice zajímavý a
+hodnotím jej velmi pozitivně.&lt;/p&gt;
+&lt;p&gt;Klasicky začnu přednáškami, které vede Mgr. Klapetek. Předně všechny asi
+bude zajímat, že nikoho do ničeho nenutí a nic nekontroluje ani
+nezadává, můžete klidně dojít na poslední přednášku, zakřížkovat si
+docházku a máte předmět. Tohle ale nemyslím nijak špatně, spíš naopak,
+je to totiž v souladu s tím, co přednáší. Vedle práva totiž tak na okraj
+učí i o morálce a občas se dostane až někam ke Křesťanství a jednoduše
+kromě základních znalostí o zákonech se snaží dávat do přednášek něco
+víc. Není to ale nijak přehnané a z práva jsem se naučil věcí víc než
+dost, navíc se přednášky hodně dobře poslouchají a některé příhody z
+praxe mě hodně pobavily. Hlavně vás ale z látky nebude nikdo zkoušet,
+dostanete kredity a získáte praktické znalosti z práva. Jednu přednášku
+se jako zpestření promítal film k tématu a na poslední jsme psali
+symbolický, samoopravovaný test, jenom pro vlastní ověření znalostí.&lt;/p&gt;
+&lt;p&gt;Když si zvolíte PRM jako povinně volitelný humanistický předmět, je
+jisté, že neuděláte chybu - buď vás zaujme, nebo na něho prostě nebudete
+chodit a kamarád vám bude křížkovat docházku. Myslím ale, že přednášky
+mají něco do sebe a jsem rád, že jsem si ze všech možností zapsal právě
+PRM.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Databázové systémy (IDS)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Počítačové komunikace a sítě (IPK)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Principy programovacích jazyků a OOP (IPP)&lt;/td&gt;
+&lt;td&gt;57/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Základy počítačové grafiky (IZG)&lt;/td&gt;
+&lt;td&gt;83/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Základy umělé inteligence (IZU)&lt;/td&gt;
+&lt;td&gt;77/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Seminář Java (IJA)&lt;/td&gt;
+&lt;td&gt;84/100&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Právní minimum (PRM)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr: 2,08
+pořadí v ročníku: 58.-59. místo z 138 (studenti bez F s alespoň 25 kredity)&lt;br /&gt;
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 3. semestr</title><link href="drummyfish.github.io/bc3.html" rel="alternate"></link><published>2012-01-28T16:18:00+01:00</published><updated>2012-01-28T16:18:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2012-01-28:drummyfish.github.io/bc3.html</id><summary type="html">&lt;p&gt;Třetí semestr na FITu byl relativně pohodový, nebyl zde žádný
+extra těžký předmět (tím myslím jako třeba IOS). Moje známky tomu sice
+ne zcela odpovídaly, nejspíš kvůli pár dalším věcem, které jsem vedle
+školy řešil a taky jsem prostě už občas na něco kašlal (jak to chodí,
+když si někde …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Třetí semestr na FITu byl relativně pohodový, nebyl zde žádný
+extra těžký předmět (tím myslím jako třeba IOS). Moje známky tomu sice
+ne zcela odpovídaly, nejspíš kvůli pár dalším věcem, které jsem vedle
+školy řešil a taky jsem prostě už občas na něco kašlal (jak to chodí,
+když si někde začínáte zvykat). Bylo docela fajn, že ze zkoušek nebyla
+snad nikde minima.&lt;/p&gt;
+&lt;h2&gt;Algoritmy (IAL)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/qfdnH.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/qfdnHm.jpg" alt="IAL tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IAL tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/RupGM.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/RupGMm.jpg" alt="IAL tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IAL tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Tak tady mám pocit, že šlo o docela důležitý předmět a to proto, že
+základní algoritmy řazení a vyhledávání by měl umět asi každý. Tohle
+jsem naštěstí zase zvládal už na průmyslovce, takže jsem měl malý
+náskok. IAL probíral povětšinou opravdu jenom ty základní a v principu
+docela jednoduché věci, takže nejtěžší bylo se naučit např. konvence
+pojmenovávání operací, které prof. Honzík vyžadoval dodržovat podle
+slajdů.&lt;/p&gt;
+&lt;p&gt;Prof. Honzík je taková mírně rozporuplná osobnost a názory na něj se
+mezi studenty liší, mě přišel docela normální, ale měl jsem rozhodně i
+oblíbenější přednášející. Faktem je, že dělá dost chyb jednak v
+přednáškách a taky v zadáních písemek a to celkem pravidelně. Potvrdilo
+se to i našemu ročníku na půlsemestrálce. Já jsem si naštěstí chyby
+všiml a algoritmus jsem zapsal tak, aby prostě fungoval navzdory
+očividné nelogičnosti. To mi nakonec vyneslo plný počet bodů a mohl být
+i jeden navíc, kdybych na chybu prý explicitně upozornil nějakou
+poznámkou. Co se týká chyb na přednáškách, tak z těch se dá taky něco
+vytěžit, mně se podařilo panu Honzíkovi opravit chybu v rekurzívní
+definici binárního vyhledávacího stromu a dostal jsem tak symbolický
+prémiový bod.&lt;/p&gt;
+&lt;p&gt;Dále zde byly body z procvičovacích domácích úloh. Nechci ani říkat z
+projektů, protože šlo prostě o doplnění pár řádků do zdrojových souborů
+v Céčku. Tohle nebyl problém dát víceméně na plný počet. Další body byly
+za dokumentaci k projektu do IFJ, kterou jsem našemu týmu dělal já a
+která nám vybojovala 4,4 bodů z 5.&lt;/p&gt;
+&lt;p&gt;Poslední možný přínos bodového hodnocení se skrýval za obhajobou již
+zmíněného projektu do IFJ. Na tu přišel náš tým patřičně svátečně
+vystrojen a připraven. Na začátku se házelo kostkou, jež měla rozhodnout
+o jednom "šťastlivci", který předvede přichystanou prezentaci. Úkol hodu
+kostkou vyšel na mě, prezentace už naštěstí ne. Kolega docela slušně
+odprezentoval s jedním malým zádrhelem, na otázky prof. Honzíka a jeho
+asistenta odpověděla slečna kolegyně z týmu taky docela obstojně, takže
+nás nakonec komise odměnila 9 body z 10.&lt;/p&gt;
+&lt;p&gt;Zápočet byl v IAL spíš symbolický, takže se mé zvědavosti těšila teprve
+až zkouška. Ta zahrnovala klasicky příklady ze starých písemek a bodově
+mě dostala na známku C se 75 body.&lt;/p&gt;
+&lt;p&gt;Co říct k IALu dál moc nevím, prostě takový normální předmět, občas
+zajímavý a užitečný a hlavně za 5 kreditů za víceméně zvládnutí úplných
+základů.&lt;/p&gt;
+&lt;h2&gt;Formální jazyky a překladače (IFJ)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/fG70R.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/fG70Rm.jpg" alt="IFJ tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IFJ tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/xsrER.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/xsrERm.jpg" alt="IFJ tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IFJ tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;IFJ by mohl kandidovat na zatím nejpřínosnější předmět mého studia a
+jistě vám to kdekdo potvrdí. Je to především díky velkému týmovému
+projektu (výsledek sem dávám &lt;a href="/ke_stazeni"&gt;ke stažení&lt;/a&gt;), který vás
+opravdu něco naučí a hlavně jsou to věci, jež stoprocentně uplatníte v
+praxi, kde se jinak než v týmu ani pracovat nedá. Ostatní věci probírané
+v tomto předmětu také nebyly k zahození (všechno se to ale v podstatě
+motalo okolo projektu) a patřil zhruba do těch normálně obtížných.&lt;/p&gt;
+&lt;p&gt;Nejprve krátce k přednáškám, které měl prof. Meduna. Docela se mi líbil
+jeho velmi osobitý a jistý styl přednášení, mluví hodně nahlas a chodí
+všude možně po přednáškové místnosti a občas se prostě pustí do řeči s
+nějakým studentem, přitom si ale udrží celou dobu pozornost a rozhodně
+to není nuda. Navzdory svému matematickému zaměření navíc vysvětluje
+věci srozumitelně. Tomu říkám kvalitní úroveň přednášek.&lt;/p&gt;
+&lt;p&gt;Půlsemestrální zkouška proběhla nenápadně a jako tradičně bez nějakých
+zákeřností, podařilo se mi z ní získat 16 bodů ze 20.&lt;/p&gt;
+&lt;p&gt;Co si ale budeme nalhávat, tenhle předmět je především o už zmíněném
+projektu, který se řeší v pětičlenných týmech a je na něj celý semestr.
+Je dobré si najít tým hned na začátku roku a to nejlíp složený z lidí
+podobné úrovně schopností a nadšení, jako máte vy. Tak jsem to alespoň
+udělal já. Krátce poté se objeví zadání, které se vždycky týká
+implementace interpretu speciálně vytvořeného jazyka - náš ročník dostal
+podmnožinu jazyka Lua, jazyk IFJ11 s podporou rekurzívního volání funkcí
+a dalších celkem netriviálních věcí. V ten okamžik se hodí zhruba
+rozvrhnout práci mezi členy týmu. U nás to fungovalo tak, že prostě komu
+se do dané části chtělo, tak na ní začal pracovat s tím, že dal ostatním
+vědět, ale nemusí to tak fungovat všude. Já jsem se na projekt vrhnul
+hned po jeho zveřejnění a vybral si tedy lexikální analyzátor, jímž se
+většinou začíná. Později se ale podílel každý na všem, jak co bylo
+potřeba. Hrozně moc jsem tady víc než kde jinde objevil důležitost
+testování a začalo mě to i bavit natolik, že v součtu jsem napsal snad
+víc řádků testů než samotného programu. Ke konci semestru mě trochu
+postihl strach, že projekt nestihneme, i když náš tým pracoval dnem i
+nocí, naštěstí se všechno podařilo a i když jsme nestihli implementovat
+žádná rozšíření, fungující překladač nám byl ještě větší odměnou než 19
+bodů z 20. To si opravdu musí zažít každý sám, když si napíše nějakou
+jednoduchou aplikaci pro vlastní překladač a ona potom krásně funguje :)
+S projektem souvisela taky obhajoba a dokumentace, které se počítaly do
+předmětu IAL, u něhož se dočtete o těchto věcech více.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="http://tastyfish.cz/uploaded/interpret.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Jak říkám, v IFJ šlo především o projekt, zkouška bez minima byla už
+jenom takové formální završení. Učení jsem ale nepodcenil, i když by mi
+stačilo nějakých 12 bodů. Nakonec mě výsledek 38 z 55 dostal na známku
+C.&lt;/p&gt;
+&lt;p&gt;IFJ je podle mě vzorový předmět, který navíc protřídí poctivé studenty
+od těch, co dělají věci na poslední chvíli. Studenty naučí hodně o praxi
+a tak bych mu udělil známku A.&lt;/p&gt;
+&lt;p&gt;&lt;a href="uploaded/ifj_dokumentace.pdf"&gt;dokumentace&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Numerická matematika a pravděpodobnost (INM)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/B5eAp.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/B5eApm.jpg" alt="INM tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INM tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/tkIVK.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/tkIVKm.jpg" alt="INM tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INM tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Tímto předmětem končí matematické a zároveň FEKTové povinné předměty v
+bakalářském studiu, ale ne že by se mi po nich nějak moc stýskalo, i
+když bývaly pochopitelně trochu lehčí než ty naše z FITu. Úspěch v INM
+závisí příhodně na náhodě a to tak, že když chytíte cvičení s garantem
+dr. Novákem, tak si ani neškrtnete, nedostanete skoro žádné body a tím
+pádem nedosáhnete na zkoušce na 50 % z předmětu, pokud vůbec dáte
+zápočet. Ostatní šťastlivci s jinými cvičícími, jako např. já, mají
+víceméně vyhráno.&lt;/p&gt;
+&lt;p&gt;Přednášky měl u nás dr. Novák a většinou je začínal nějakým proslovem,
+jak je důležité všemu rozumět a co se všechno stane, když uděláme v
+praxi chybu, a k probírané látce se dostal až tak ve druhé polovině
+přednášky. V první části semestru se probírala numerická matematika a ve
+druhé pravděpodobnost, obě věci mi daly pár užitečných znalostí, které
+snad někdy využiju (hlavně numeriku, protože ta je všude a jsem rád, že
+tomu už trochu rozumím).&lt;/p&gt;
+&lt;p&gt;Samozřejmě nás v INM neminula ani pravidelná cvičení u mě naštěstí s
+mgr. Bibou, u něhož nebyl problém dostat body z malých písemek a
+zajistit si tak téměř plný počet bodů ze cvičení. Tím pádem mě neděsila
+ani písemka, protože mi stačilo symbolických pár bodů díky absenci
+minima, kdežto kamarád u pana Nováka tak tak dosáhl na zápočet a zkoušku
+potom nedal ani na třetí termín.&lt;/p&gt;
+&lt;p&gt;Zkouška proběhla tedy poklidně a jelo se na jistotu, alespoň v mém
+případě. Trochu mě mrzelo Céčko se 79 body, obzvlášť po zjištění, že na
+reklamacích se na lepší známku dávalo i více bodů, ty jsem ale nestihl z
+důvodu učení na jinou zkoušku.&lt;/p&gt;
+&lt;p&gt;INM vidím tak, že je potřeba nějak proplout a hlavně se snažit na
+cvičeních. Jinak mi tenhle předmět dal určité praktické znalosti, za
+které jsem rád.&lt;/p&gt;
+&lt;h2&gt;Návrh počítačových systémů (INP)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/9Rgm8.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/9Rgm8m.jpg" alt="INP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INP tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/MBVj7.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/MBVj7m.jpg" alt="INP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INP tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/pnYsA.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/pnYsAm.jpg" alt="INP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INP tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Další z rodiny hardwarových předmětů, které mi teď s odstupem času,
+nevím proč, splývají tak nějak všechny v jeden. Cílem bylo blíž se
+podívat na princip fungování procesoru a zase se programovalo ve VHDL,
+tentokrát už ale studenti museli občas i rozumět tomu, co v něm vlastně
+píšou.&lt;/p&gt;
+&lt;p&gt;Přednášky s naší skupinou měl prof. Sekanina. Jejich náplní byly
+procesory, zřetězené zpracování, řadiče, paměti a další podobné věci,
+mimo jiné taky VHDL. Pedagogická i odborná úroveň byly standardně
+vysoké, garant sem tam zmínil nějakou zajímavost z praxe a uměl věci
+pěkně vysvětlit. Navíc mi ochotně povolil prohození termínu
+půlsemestrální zkoušky, takže nemám na co si stěžovat a musím chválit.&lt;/p&gt;
+&lt;p&gt;Půlsemestrálka se mi podařila nade všechna očekávání s výsledkem plných
+20 bodů - kdyby jen tak hladce šlo všechno.&lt;/p&gt;
+&lt;p&gt;Stejně tak první projekt aneb blikající iniciály jména na FitKitu
+přinesl plné bodové hodnocení. Horší vzpomínky mě pronásledují na
+projekt číslo dvě. Zadáním bylo naimplementovat procesor interpretující
+jazyk Brainfuck - určitě mi dáte za pravdu, že nápaditost zde nechyběla.
+Problém ale spočíval v příšerném softwaru na simulaci VHDL, prostě se to
+nechtělo rozběhnout a tak padlo rozhodnutí implementovat jenom to, co
+dám bez jakýchkoliv simulací a prostě to odevzdat. Tak se i stalo a
+zaslouženě mi přišlo pouze 6 bodů z 16 možných.&lt;/p&gt;
+&lt;p&gt;S touto bolestivou ztrátou jsem tedy nastupoval k závěrečné písemce, ale
+patřičné znalosti k ní naštěstí nechyběly díky pár dnům stráveným
+učením. Žádné chytáky ani podrazy v písemce naštěstí nečíhaly a všechno
+šlo celkem dobře. Po písemce se ke mně ale donesly výsledky mých kolegů
+a já jsem zjistil, že v mojí práci bude nemálo věcí vyloženě špatně,
+takže nakonec jsem rád za 32 bodů a celkovou známku C s přesně 70 body.&lt;/p&gt;
+&lt;p&gt;Takže další hardwarový předmět mám za sebou a doufám, že ty nadcházející
+budou v budoucnu podobné jako INP.&lt;/p&gt;
+&lt;h2&gt;Signály a systémy (ISS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/0sVe3.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/0sVe3m.jpg" alt="ISS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ISS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/2xwmu.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/2xwmum.jpg" alt="ISS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ISS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nenápadný název předmětu skrývá ve skutečnosti jeden z nejobtížnějších
+předmětů na pochopení, s jakými jsem měl čest se setkat. Ve výsledku ale
+tenhle předmět není tak těžký, jak by mohl být, a je rozhodně
+snesitelnější než třeba IOS, neboť se počítá s tím, že průměrný student
+úplně všechno nepobere (na rozdíl od IOSu \^\^). Celý předmět je
+orientovaný o něco víc matematicky, než by někdo mohl být zvyklý, a
+vyžaduje alespoň malou dávku abstraktního myšlení, schopnosti
+představovat si operace nad vícerozměrnými signály apod.&lt;/p&gt;
+&lt;p&gt;ISS naštěstí vede hrozně pohodový garant, který se snaží demonstrovat
+principy signálů na vlastnoručně vyrobených pomůckách typu komplexní
+lahev nebo svetr představující rovinu v trojrozměrném prostoru. Občas to
+pomáhá a dobře to udržuje pozornost. Doc. Černocký má humoru prostě na
+rozdávání, což je vždycky dobře. Ale i tak se studentům točila hlava z
+analýzy signálů a ze zkratek všech těch transformací nad nimi.&lt;/p&gt;
+&lt;p&gt;Předmět zahrnoval i cvičení sympaticky bodovaná pouze za docházku :p
+Znalosti z nich ale mohly napomoct při projektu, kdy nám byly přiděleny
+obrázky a naším úkolem bylo odevzdat program nejlépe v Matlabu (ale
+fantazii se při výběru jazyka meze nekladly) pro různé operace nad tímto
+obrázkem. K dispozici bylo referenční vzorové řešení a celé se to vůbec
+dalo opsat z materiálů ke cvičením maximálně za pár hodin. Plný počet 12
+bodů byl tedy samozřejmostí.&lt;/p&gt;
+&lt;p&gt;Z půlsemestrálky si toho na moc už nevzpomenu. Byla myslím mírně
+obtížnější než ty ostatní, ale zažil jsem i horší, příklady byly typově
+podobné těm z minulých let. 17,5 bodů z 25 taky není můj nejhorší
+výsledek v historii. Každopádně v písemce nebyly žádné chytáky ani
+zákeřnosti.&lt;/p&gt;
+&lt;p&gt;Stejně tak nic zákeřného nečekalo ani na zkoušce, pan Černocký je prostě
+úžasný člověk, protože by s klidem mohl povyhazovat 90 % studentů. Místo
+toho naštěstí vybral klasické a propočítané příklady, které hezky
+vycházejí, tak jak to má být. I tak jsem ale učení do ISS obětoval víc
+než ostatním předmětům a spousta mých spolužáků šla na další termíny a
+to i navzdory velmi nízkému minimu. Výsledek 42 bodů z 51 a známka B
+byla dostatečným zadostiučiněním za vynaložené úsilí.&lt;/p&gt;
+&lt;p&gt;ISS je jeden z náročnějších předmětů, ale v postupu dál vám bránit
+nebude, pokud se na něj nevykašlete. Přednášky se dobře snášejí, takže
+by byla určitě škoda na ně nechodit.&lt;/p&gt;
+&lt;h2&gt;Pedagogická psychologie (IPSO)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/JaKYC.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/JaKYCm.jpg" alt="IPSO tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPSO tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/mu1pZ.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/mu1pZm.jpg" alt="IPSO tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPSO tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/iv8T0.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/iv8T0m.jpg" alt="IPSO tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPSO tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Pedagogická psychologie vyhrála moje rozhodování mezi volitelnými
+předměty hlavně proto, že mám rád univerzálnost a občas se rád přiučím i
+něco z jiných oborů. Volba to rozhodně nebyla špatná, ale předmět byl
+docela obtížný a většině informatiků by asi neseděl, takže při
+zapisování IPSO zvažujte, jak moc vás tohle téma vlastně zajímá - nejsou
+to kredity zadarmo. K absolvování je potřeba 80% docházka.&lt;/p&gt;
+&lt;p&gt;Hodiny byly na FEKTu jednou týdně ve formě čtyřhodinových seminářů v cca
+15 lidech. Velké plus tohoto předmětu je určitě vynikající vedoucí
+seminářů, mgr. Fiľová, která je jakožto pedagogický vzor člověk na svém
+místě a vychází skvěle se studenty. Kvůli ne příliš šťastné organizaci
+přednášek FEKTu sice chodila na hodiny pravidelně se zpožděním, ale to
+je tak jediné zaznamenané mínus. Náplní předmětu byla nejdříve obecná
+psychologie, tzn. osobnost člověka, vývojová psychologie, komunikace
+apod. K pedagogickým záležitostem se přešlo až ke konci. Jinak se na
+hodinách jelo s jednou krátkou přestávkou, takže ze čtyřhodinovky se
+stala někdy i kratší trojhodinovka a to ještě rozdělená na dvě části - v
+první se přednášelo a ve druhé se diskutovalo, dělaly se různé testy
+atd.&lt;/p&gt;
+&lt;p&gt;Pro absolvování musel každý ze studentů připravit a přednést referát (na
+deset až patnáct minut) na libovolné téma z psychologie. Já jsem si
+zvolil téma inteligence a odbyl si jej jako první, takže jsem měl hned
+pokoj. Potom tady byly taky dvě zápočtové písemky s minimem 70 %! Ty se
+mi ale docela vydařily a dostalo se mi i malé pochvaly. Stálo to ale
+dost učení.&lt;/p&gt;
+&lt;p&gt;Navzdory dobrým dosavadním výsledkům se mi trochu nepovedla závěrečná
+ústní zkouška. Naučil jsem se celkem slušně, ale zapracovala nervozita a
+asi na mě byla i znát, protože mi byla položena otázka na příznaky
+stresu s tím, že stačí popsat, jak se cítím. Nakonec to dopadlo tak
+nějak na známku D, což si myslím, že odpovídalo výkonu. Škoda jenom, že
+se nebraly v potaz výkony během semestru ale jenom u zkoušky.&lt;/p&gt;
+&lt;p&gt;IPSO mě docela bavilo a časem, když si budu teoreticky chtít udělat
+pedagogické minimum, mám už jeden předmět v kapse. Doporučuju všem, koho
+zajímá psychologie a/nebo pedagogika.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky&lt;/h2&gt;
+&lt;p&gt;předmět                                        získaných bodů   známka&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Algoritmy (IAL)                                75/100           C
+  Formální jazyky a překladače (IFJ)             78/100           C
+  Numerická matematika a pravděpodobnost (INM)   79/100           C
+  Návrh počítačových systémů (INP)               70/100           C
+  Signály a systémy (ISS)                        84/100           B
+  Pedagogická psychologie (IPSO)                 65/100           D&lt;/p&gt;
+&lt;p&gt;průměr: 1,983&lt;/p&gt;
+&lt;p&gt;pořadí v ročníku: 78. místo z 275 (studenti bez F s alespoň 25 kredity)&lt;/p&gt;
+&lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 2. semestr</title><link href="drummyfish.github.io/bc2.html" rel="alternate"></link><published>2011-06-20T16:05:00+02:00</published><updated>2011-06-20T16:05:00+02:00</updated><author><name>tastyfish</name></author><id>tag:None,2011-06-20:drummyfish.github.io/bc2.html</id><summary type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady se zhodnocením
+semestru druhého &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Ač je mírně náročnější než ten první (především
+kvůli předmětu IOS), dá se stejně tak s trochou snahy zvládnout.&lt;/p&gt;
+&lt;h2&gt;Angličtina 4: středně pokročilý 2 (BAN4)&lt;/h2&gt;
+&lt;p&gt;Nerad bych se chlubil, ale angličtina patřila vždy k mým silnějším …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady se zhodnocením
+semestru druhého &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Ač je mírně náročnější než ten první (především
+kvůli předmětu IOS), dá se stejně tak s trochou snahy zvládnout.&lt;/p&gt;
+&lt;h2&gt;Angličtina 4: středně pokročilý 2 (BAN4)&lt;/h2&gt;
+&lt;p&gt;Nerad bych se chlubil, ale angličtina patřila vždy k mým silnějším
+stránkám, takže mi tenhle předmět strach nenaháněl. V zimním semestru
+studenti museli absolvovat rozřazovací online test a na jeho základě
+byli roztříděni do různě pokročilých skupin. Netřeba zmiňovat, že mě vše
+vyšlo na nejvyšší úroveň BAN4 bez jakéhokoliv překvapení. Tento předmět
+byl ale navzdory mému sebevědomí prvním a v tomto ročníku jediným, z
+něhož jsem musel opakovat zkoušku :D Ale o tom až dále... Chtěl bych se
+taky omluvit za absenci taháku - prostě mi v tomhle předmětu přišel
+zbytečný &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Předmět se skládal pouze z jakýchsi seminářů, takže nebylo třeba chodit
+na žádné otravné přednášky, což bych nejspíš stejně nedělal :D Vedoucím
+našeho semináře byl mgr. Dohnal, který kromě angličtiny dokonale ovládal
+také pražský dialekt a používal ho k častému parodování lidí z našeho
+hlavního města. Jeho vtípky a zvláštní způsob humoru vůbec vyplňovali
+většinu hodin (výjimkou nebyly ani drastické příkladové věty typu: "My
+brother wasn't at home so I killed my father."). Na pedagogickou úroveň
+si tedy těžko můžu stěžovat.&lt;/p&gt;
+&lt;p&gt;Co bych naopak trochu zkritizoval, je fakt, že znalostí zde získaných
+bylo minimum - jednalo se spíše o takové opakování. Řekl bych, že
+studenti se za semestr pořádně naučili jen jedno slovo - boozing. Ono to
+ale ani jinak nejde při pouhých dvou hodinách týdně. Také poslechová
+cvičení se zpravidla dělala jen na jeden poslech a třeba i do tří textů
+zaráz, což mi nepřišlo úplně ideální. Jinak body se ve cvičeních
+nedostávaly, až na jeden dobrovolný domácí úkol - vytvořit a poslat
+prezentaci. O půlsemestrálku jsme ale ochuzeni nebyli.&lt;/p&gt;
+&lt;p&gt;Jednalo se o test, konkrétně doplňování slov do vět - naprostá pohoda.
+Co si vzpomínám, nejtěžší látkou zde byly kondicionály. Jako jediný jsem
+získal krásných 39 bodů z 40.&lt;/p&gt;
+&lt;p&gt;Zvláštností a výhodou zároveň byla možnost opravy půlsemestrálky, která
+se mě ale netýkala. Zato mně a ostatním úspěšným studentům bylo umožněno
+psát předtermín závěrečné zkoušky (tedy něco, s čím se na FITu
+nesetkáte).&lt;/p&gt;
+&lt;p&gt;Ta se tedy psala poslední hodinu semestru a skládala se ze dvou částí.
+Strach jsem měl spíše z první, poslechové části. Ta mi nakonec díky více
+poslechům vyšla velmi slušně skoro na plný počet bodů, avšak osudnou se
+mi stala druhá, písemná část. Ta obsahovala technický článek (cosi o
+nově vyvíjených tranzistorech) a pár doplňovacích otázek. Právě na
+článku jsem ztroskotal, jelikož jsem si špatně spočítal odstavce a
+odpovědi na zadané otázky jsem zkrátka v textu hledal na špatných
+místech, což mi došlo, až když bylo pozdě - do minima mi nakonec chyběly
+2 body. Opravný termín byl naštěstí ještě ten samý den večer a na něm
+jsem již po tomto tréningu získal plný počet bodů ;-)&lt;/p&gt;
+&lt;p&gt;Tento kurz angličtiny je jakousi povinností, kterou si musíme všichni
+projít, avšak nejde o nic nepříjemného nebo složitého. Tento můj pocit
+navíc ještě umocnila moje zatím nejkrásnější známka - 98bodové áčko &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Fyzika (IFY)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/UzuR2.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/UzuR2m.jpg" alt="IFY tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IFY tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/kkRU1.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/kkRU1m.jpg" alt="IFY tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IFY tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nevím, k čemu informatikům fyzika je, ale tahle má být nejspíš jen
+jakýmsi zaplněním rozvrhu. Tak jako tak, kurz IFY bych klidně vynechal,
+ale když už jej mám za sebou, jsem rád, že mi přibylo pár kreditů a
+pěkná známka (a snad i pár vědomostí).&lt;/p&gt;
+&lt;p&gt;Náplň učiva tohoto předmětu tvořil průřez celou Fyzikou s důrazem na
+elektřinu a magnetismus. Dozvěděli jsme se tedy, a většina z nás po
+střední škole již podruhé, něco o mechanice, optice a podobných pilířích
+této velevědy, vše samozřejmě hezky ve vysokoškolském kabátku. To
+znamená především spoustu derivací a hlavně integrálů, ale nebojte se -
+na zkoušce se objevily jen letmo a v extrémně primitivní, "našprtatelné"
+formě.&lt;/p&gt;
+&lt;p&gt;Přednášky bohužel probíhaly na FEKTu v místnosti, kde byla hrozná zima a
+o moderním vzhledu místnosti se nedalo mluvit. Také o záznamech z
+přednášek jsme si mohli nechat zdát krásné sny. Doc. Koktavý byl ale
+navzdory svému jménu docela dobrý přednášející a uměl nám to hezky
+vysvětlit.&lt;/p&gt;
+&lt;p&gt;Co se cvičení týká, byly zde dva typy. Jeden, spíše vedlejší, byl na
+počítačích a dělaly se věci v Matlabu. Odsud jsem si absolutně nic
+neodnesl a navíc z hodin s podivnou ruskou cvičící, která chvilkama
+mluví svým rodným jazykem a navíc je příjemná asi jako rána baseballkou,
+mi bývalo nevolno. Poslední cvičení jsem naštěstí tak nějak zmeškal a
+vůbec mi to nevadilo.&lt;/p&gt;
+&lt;p&gt;Druhý typ cvičení už vynechávat nešlo a jednalo se o laboratorní
+cvičení. Na první hodině jsme byli pouze rozřazeni k jednotlivým
+cvičícím, já jsem se nakonec dostal ke cvičícímu (jméno bohužel už
+nezjistím), který sice vyžadoval ručně psané protokoly z laboratoří,
+jinak si ale nemůžu vůbec stěžovat. Po přečtení zadání k mé první
+laboratoři mě přepadl tak trochu panický strach způsobený množstvím
+odborných pojmů, které jsem v životě neslyšel, avšak v laboratořích nám
+prostým informatikům všechno krásně a jednoduše vysvětlili, takže nebyl
+problém nakonec za laboratoře získat 18 bodů z 20.&lt;/p&gt;
+&lt;p&gt;Půlsemestrální test byl extrémně jednoduchý a u mě za 17 z 20 bodů.
+Nejenom, že šlo o test s výběrem jedné správné odpovědi, ale také se zde
+objevovaly otázky úplně stejné (a to včetně číselných hodnot) jako na
+písemkách z minulých let (které jsme si samozřejmě všichni důkladně
+prostudovali :D). Trochu stresu jsem zakusil jenom při zjištění, že mi
+nebyly zapsány body do WISu a mě přepadlo nepříjemné podezření, že se
+moje písemka při scanování ztratila. Vše naštěstí vyřešil mail panu
+garantovi a písemka se záhadně našla.&lt;/p&gt;
+&lt;p&gt;Semestrálka pak nebyla o moc těžší, přesněji řečeno byla to
+půlsemestrálka (test) + tři příklady. Aby se neřeklo, bylo z každé části
+potřeba získat určité minimum, čehož jsem se zpočátku bál (má strategie
+vykašlat se na příklady a získat minimum tipovačkou na testu se tímto
+odebrala do věčných lovišť), ale nakonec bylo zadání tak jednoduché, jak
+jsem si jenom mohl přát. Všechny příklady mi sedly a o testu ani
+nemluvím. Krásné, i když těsné 90bodové áčko bylo doma.&lt;/p&gt;
+&lt;p&gt;Celkové dojmy z fyziky mám takové smíšené. Nebýt získaného áčka, asi by
+byly spíš negativní, ale na druhou stranu empatický přístup vyučujících
+trochu zvyšuje sympatie tohoto předmětu. Taky se mi zdá, že tahle fyzika
+se dá našprtat i nazpaměť, takže s určitou snahou ji zvládnou i
+antitalenti. Navíc se určitě najde hodně lidí, kteří se občas rádi dozví
+pár věcí i z jiného soudku, než je ten náš ajťácký.&lt;/p&gt;
+&lt;h2&gt;Matematická analýza (IMA)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/xBfbH.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/xBfbHm.jpg" alt="IMA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IMA tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nějaký ten matematický předmět nesmí v žádném semestru chybět. I méně
+zkušení matematikové pak z názvu předmětu nejspíš poznají, že půjde
+především o derivace a integrály.&lt;/p&gt;
+&lt;p&gt;Není třeba se ničeho obávat, obzvlášť pokud jste z gymnázia. Matematická
+analýza se tady bere úplně od začátku, i když hodně rychle (jinak to ani
+nejde). Přednášky začínají limitami a podobnými záležitostmi, přecházejí
+k derivacím a integrálům funkcí jedné a následně dvou a více proměnných
+a končí někde u polárních souřadnic.&lt;/p&gt;
+&lt;p&gt;Paní Krupková, garantka a přednášející, v žádném případě nevypadá na
+vynikající matematičku, avšak opak je pravdou - doslova si libuje v
+různých logických hříčkách a zajímavých příkladech, ale stejně jako doc.
+Kovár si tyto speciality nechává pro sebe a studenty učí jen nezbytné
+minimum.&lt;/p&gt;
+&lt;p&gt;Půlsemestrálka v IMA nebyla, zato zde byla bodovaná cvičení (samozřejmě
+na FEKTu) a obhajované skupinové domácí úkoly (skupiny si sestavovali
+studenti v rámci třídy samostatně). Naše skupina dostala jako cvičící
+dr. Hlavičkovou, která nám dokázala objasnit spoustu nejasností z
+přednášek a z obhajoby domácích úkolů nedělala žádnou vědu - jednou za
+čas jsme všichni přišli odprezentovat námi vypracovaná řešení a téměř
+vždy jsme dostali plný počet bodů. Jinak body ze cvičení se dostávaly
+vždy za krátký úkol (něco na počítači nebo ve formě krátké písemky).
+Díky mému sousedovi jsem ztratil z maximálního počtu jenom pár bodů.&lt;/p&gt;
+&lt;p&gt;Na písemku nám tentokrát bylo dovoleno vzít si s sebou celá tištěná
+skripta a jakékoliv ručně psané texty, čímž se z ní stala jedna z těch
+příjemnějších záležitostí, které nás čekaly. Nebyla to vůbec žádná
+hrůza, jen mě trochu zklamalo, že jsem svoje nákladně vytištěná
+třísetstránková skripta vůbec nevyužil, nicméně na celkový výsledek 83
+bodů si stěžovat nebudu :D&lt;/p&gt;
+&lt;p&gt;S matematickou analýzou by určitě měl přijít do styku každý vysokoškolák
+a IMA jakožto matematická vložka je stejně jako IDA jen čímsi, co by měl
+informatik mít hluboko ve svém podvědomí, a stejně tak na to nahlížejí i
+naši vyučující - obtížnost tedy není nijak přemrštěná a není třeba kvůli
+ní panikařit.&lt;/p&gt;
+&lt;h2&gt;Návrh číslicových systémů (INC)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/Pw89t.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/Pw89tm.jpg" alt="INC tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INC tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/yzIOh.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/yzIOhm.jpg" alt="INC tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+INC tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Šlo o takový nemastný/neslaný předmět s jednoduchým projektem, obzvláště
+když základy logických obvodů mě provázely již od střední školy.&lt;br /&gt;
+INC se opět, podobně jako IAS, zabývá počítači na nízké úrovni,
+tentokrát na úrovni logických hradel a obvodů z nich složených. Látka je
+to zajímavá, i když doc. Otto Fučík nepatří na přednáškách k nejlepším
+řečníkům, na demonstračních cvičeních dr. Martínka (následovaly hned po
+přednáškách) pak dokonce studenti pravidelně usínali. Nedá se ale říct,
+že by předmět byl vyloženě nuda.&lt;/p&gt;
+&lt;p&gt;Předmět probíral logické obvody, tzn. jakési krabičky, které filtrují
+jedničky a nuly ze vstupu na výstup. Jako plus beru učivo týkající se
+konečných automatů, jenž mi přišlo zajímavé a užitečné zároveň. Ke
+klíčovým věcem také patří minimalizace logických výrazů a pochopení
+rozdílu mezi kombinačními a sekvenčními obvody, tak trochu na okraj se
+probíral jazyk VHDL (pro potřebu projektu).&lt;/p&gt;
+&lt;p&gt;Brzy se přiblížil čas otestovat naše znalosti na půlsemestrální zkoušce.
+Ač jsem měl pocit, že pan garant sliboval pouze učivo po konec
+kombinačních obvodů, vyskytl se v závěru písemky také jeden sekvenční
+(konkrétně nakreslit a popsat klopný obvod typu T), což mě donutilo
+tipovat. Naštěstí jsem odpověď odhadl zcela správně a ostatní otázky
+byly již jednoduché (někdy až moc - např. příklad na číselné soustavy by
+zvládl i průměrný středoškolák). Pár věcí mi ale nejspíš stejně uniklo
+vzhledem k výsledku 18 bodů z 25.&lt;/p&gt;
+&lt;p&gt;Malé zpestření předmětu tvořil projekt na Fitkitu, který každý student
+vyfasoval v knihovně (je to taková malá krabička s displejem a tlačítky
+vyrobená naší fakultou speciálně pro nás, studenty). Zadáním bylo
+naprogramovat přístupový terminál (v jazyce VHDL) a to tak, že bude
+akceptovat dva číselné kódy. Řešení bylo velmi jednoduché (jen doplnit
+pár řádků do kostry programu) a dalo se v klídku napsat za pár minut
+(nebo ještě rychleji opsat). Prakticky bez námahy jsem získal plných 20
+bodů.&lt;/p&gt;
+&lt;p&gt;Finání test nezklamal a držel si průměrnou úroveň obtížnosti (prakticky
+bych ho popsal jako půlsemestrálku ve velkém). Nečekaně se v něm
+objevovaly všelijaké krabičky pospojované do obvodů s otázkami, k čemu
+to celé vlastně slouží, a hromada dalších, podobně nezákeřných úkolů.
+Kdo si prošel slajdy, tak většinou zkoušku zvládl. Já jsem to naštěstí
+udělal a odnesl jsem si ohodnocení 49 body z 55 možných.&lt;/p&gt;
+&lt;p&gt;INCu se nedá příliš mnoho vytknout, stejně jako se nedá příliš
+pochválit. Každopádně se v něm ale probírá látka, kterou by každý
+informatik měl dobře znát. Spolu s předmětem IPR navíc vysvětluje např.
+základní principy fungování procesoru, což jistě spoustu lidí zaujme a
+což oceňuji i já.&lt;/p&gt;
+&lt;h2&gt;Operační systémy (IOS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/7pr1Y.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/7pr1Ym.jpg" alt="IOS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IOS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/CeGUj.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/CeGUjm.jpg" alt="IOS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IOS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Na úvod tohoto odstavce se sluší říct, že předmět IOS je drsňárna, která
+z vás udělá buď otrkaného ajťáka nebo bývalého studenta VUT &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;IOS samotný není ani tak těžký, noční můru z něj dělá teprve garant a
+přednášející, nekompromisní doc. Vojnar, kterému nepostačí pouze
+povrchová znalost látky, nýbrž podrobné vědomosti jdoucí do hloubky.
+Bohužel pan Vojnar mluví uspávacím hlasem (nutno říct na jeho obranu, že
+přednášet šest hodin po sobě musí být opravdu vyčerpávající) a vůbec
+udržení pozornosti na přednáškách vyžaduje určitou dávku vůle. Přetažení
+trojhodinových přednášek (s pouhou jednou přestávkou) nebývá výjimkou.&lt;/p&gt;
+&lt;p&gt;Co se látky týče, šlo o poměrně zajímavé věci. Začalo se stručnou
+historií operačních systémů, především Unixu, poté jsme se pozvolna
+posunuli k principům jeho fungování - ke klíčovým věcem patří správa
+souborů, virtualizace paměti a synchronizace procesů.&lt;/p&gt;
+&lt;p&gt;Slušně mi daly zabrat oba dva projekty tohoto předmětu. Prvním byl
+shellový skript na patchování souborů plus zvýrazňovač syntaxe
+využívající regulární výrazy - marathonové učení skriptovacího jazyka
+bylo přes veškerou snahu peklo. Hodně jsem se snažil napsat projekt
+alespoň na 7 bodů z maximálních 15, nakonec jsem dostal pouze 5, což mě
+trochu srazilo na kolena (můj hodnotící, pan Dudka, se mi zdál tak
+trochu přísnější než ostatní, ale snad se mýlím). Možnost opravy
+programu pomocí patche jsem kvůli nedostatku času a odvahy nevyužil a
+další projekt mi tak musel přinést alespoň dvojnásobné skóre, abych
+vůbec dostal zápočet. Měli jsme vyřešit problém synchronizace procesů,
+konkrétně problém spícího holiče, pomocí semaforů, tentokrát díkybohu v
+jazyce C. Po úporné spolupráci se spolubydlícími na bytě jsem si
+naštěstí připsal plných 15 bodů a mohla začít příprava na poslední
+level.&lt;/p&gt;
+&lt;p&gt;Třešničkou na dortu byla hororová závěrečná zkouška, což jsem naštěstí
+věděl předem a měl jsem tak možnost trávit dlouhé chvíle svého
+drahocenného času nekonečným šprtáním tun a tun informací - a nelituju
+toho. Na písemce se pak opět uplatnilo staré přísloví a bylo již lehko
+na bojišti, a to i přesto, že pan Vojnar zrušil veškeré testové
+(tipsport) otázky a přešel zcela na fulltextové a "obrázkové" odpovědi.
+Na zkoušce jsme skutečně museli hodně kreslit, jelikož to bylo v zadání
+přímo vyžadováno, aby učitel viděl, že látku dokonale zvládáme.
+Tolerovali se pouze věcné odpovědi na přesně dotazovanou věc, vše
+ostatní mělo hodnotu nula bodů a zaváhání na některé z otázek prakticky
+znamenalo totální fail a vstupenku na další termín. Zisk 51 bodů ze 70
+mi přinesl obrovskou úlevu, spoustu sebevědomí a klid v duši &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Opravdu
+nedoporučuji tuto zkoušku podcenit.&lt;/p&gt;
+&lt;p&gt;IOS byl slušná lekce do života, kterou jsem díky přípravě zvládl, což je
+ostatně tak nějak to, oč tu běží. Doporučil bych všem, aby se na tento
+nelehký předmět zaměřili už předem jako já a snažili se pochopit co
+nejvíc toho jde. Rozhodně nevynechávejte přednášky a pokud možno při
+nich nechte svůj notebook vypnutý.&lt;/p&gt;
+&lt;h2&gt;Prvky počítačů (IPR)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/3Y1N7.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/3Y1N7m.jpg" alt="IPR tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPR tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/qDyBR.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/qDyBRm.jpg" alt="IPR tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IPR tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Na IPR jsem se kvůli zkušenostem z předmětu ITO netěšil, přestože jej
+předcházely zvěsti o jeho ohromné jednoduchosti.&lt;br /&gt;
+Přednášky s panem Kunovským probíhaly jako v minulém semestru velmi
+pohodově a pomalu. Co nás trochu zaskočilo, byla novinka doc. Kunovského
+v podobě vyvolávání k tabuli, což mnohé studenty z jeho přednášek
+vypudilo.&lt;/p&gt;
+&lt;p&gt;Probírané učivo navazovalo na ITO a zahrnovalo operační zesilovače,
+diody a tranzistory, ze kterých jsem mnoho nepochopil navzdory velmi
+pomalému výkladu na přednáškách. Těžko říct, jestli to nebyla spíš
+příčina. O něco zajímavější byl konec semestru, kdy jsme se dozvěděli
+něco o tom, jak funguje aritmetická jednotka procesoru a Boothův
+algoritmus pro násobení ve dvojkové soustavě.&lt;/p&gt;
+&lt;p&gt;Počítačová cvičení v tomto předmětu byla tak trochu vtip. Body dostanete
+vždycky, když se dostavíte a podle pokynů pozapojujete pár drátků do
+krabičky. Zvýšenou pozornost si zaslouží snad jen můj cvičící ing.
+Kadák, který na cvičeních nechával za pozdní příchod studenty zpívat
+(což jen potvrzuje, jak je tenhle předmět šílený) - ale jinak s ním byla
+docela zábava.&lt;/p&gt;
+&lt;p&gt;Přiznám se, že z půlsemestrálky si toho příliš nepamatuju, možná proto,
+že vzhledem ke 30 bodům ze cvičení šlo jen o kosmetickou úpravou
+závěrečné známky a hodně studentů se na ni tím pádem úplně vykašlalo.
+Obtížností mi přišla stejná jako půlsemestrálka z předmětu ITO a napsal
+jsem ji přesně na 50%, tedy 7,5 bodů.&lt;/p&gt;
+&lt;p&gt;Na závěrečné písemce bylo zajímavé to, že jsem už od začátku semestru
+tak nějak věděl, jak bude probíhat (viz předmět ITO). Navíc jsem si jako
+naschvál zapoměl kalkulačku, což mě samo o sobě dost vystresovalo už
+předem. Ano, opět jsem se snažil počmárat co nejvíc místa na papírech,
+aby byla vidět snaha a zakryla tak prázdné kolonky pro výsledky - a
+zdařilo se :D Přestože pan Kunovský tentokrát tvrdil, že písemka bude
+"velmi těžká" (s důrazem na slovo velmi), tušil jsem, že opravování bude
+"velmi mírné", což nakonec bylo a 30 bodů bylo slušnou odměnou za moje
+nervy.&lt;/p&gt;
+&lt;p&gt;Na IPR jsem byl naštěstí připravený a díky tomu jsem jej také zvládl, za
+což si gratuluju. Jinak předpokládám, že ostatním takový problém dělat
+nebude a zvládnou ho levou zadní.&lt;/p&gt;
+&lt;h2&gt;Tvorba webových stránek (ITW)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/ttcwe.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/ttcwem.jpg" alt="ITW tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ITW tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/yVZBv.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/yVZBvm.jpg" alt="ITW tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ITW tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ITW byl můj první volitelný předmět a musím říct, že to nebyla špatná
+volba. Předmět byl nenáročný a přitom mě naučil hromadu užitečných věcí.&lt;/p&gt;
+&lt;p&gt;Přednášky měli na starost na střídačku dr. Burget a dr. Burgetová,
+příbuzenský vztah raději nebudu odhadovat &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Probírali s námi především
+jazyky HTML a CSS. Dozvěděli jsme se ale taky něco o základních
+principech internetu, sítí nebo např. technik SEO. Kdo očekává alespoň
+základy PHP, bude zklamaný, ale na takové věci prostě nebylo dost času.&lt;/p&gt;
+&lt;p&gt;Počítačová cvika s ing. Šebkem opakovala učivo z přednášek a nebyla
+nijak náročná. Většinou jsme měli za úkol, překvapivě, vytvořit stránku
+podle screenshotu. Skoro vždy jsem úkol zvládl rychle a body naskakovaly
+jak na běžícím páse.&lt;/p&gt;
+&lt;p&gt;Tento příval mi mírně zkazila až půlsemestrálka ve formě multichoice
+testu (1 - N správných odpovědí). Otázky typu "jakou barvou se zobrazí
+element xyz?" nijak nepřekvapily, avšak přípravě jsem nevěnoval mnoho
+času a výsledkem se mi stalo pouhých 12 bodů ze 20. Nutno říct, že moji
+kamarádi na tom nebyli o mnoho lépe &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="alignright" src="http://i.imgur.com/02m708n.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Měl bych taky zmínit dva příjemné projektíky. Jeden po vzoru cvičení
+zadával podle screenshotu nastylovat danou HTML stránku a s malou pomocí
+kamaráda mi vynesl 18 bodů z 20. Další projekt dával více prostoru
+kreativitě a jeho cílem mělo být vytvoření vlastní stránky se styly a
+jednoduchým javascriptem. Moje stránky fiktivního knihkupectví Drahé
+knihy mi přinesly rovněž příjemných 29 bodů z 30 možných.&lt;/p&gt;
+&lt;p&gt;Jelikož pro splnění předmětu stačilo za semestr nasbírat 50 bodů, se
+svými 69 body jsem šel na závěrečný test v pohodové náladě, že si jenom
+zlepším známku. Něco jsem natipoval a dosáhl výsledku krásných 86 bodů.&lt;/p&gt;
+&lt;p&gt;Protože tvorba webových stránek je v podstatě pouze popis vzhledu a ne
+programování (dokud nedojde např. na PHP), je obecně jednodušší a pro
+programátora zvyklého tvrdě přemýšlet tak trochu oddychovější. Stejně
+tak předmět ITW patřil k těm lehce zvládnutelným, navzdory tomu mě ale
+naučil, co se při návrhu webů sluší a co ne a posunul mé schopnosti v
+tomto oboru o něco vpřed (výsledek vidíte ve svém prohlížeči). ITW můžu
+případným zájemcům vřele doporučit.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Fyzika (IFY)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Matematická analýza (IMA)&lt;/td&gt;
+&lt;td&gt;83/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Návrh číslicových systémů (INC)&lt;/td&gt;
+&lt;td&gt;87/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Operační systémy (IOS)&lt;/td&gt;
+&lt;td&gt;71/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prvky počítačů (IPR)&lt;/td&gt;
+&lt;td&gt;68/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Angličtina 4: středně pokročilý 2 (BAN4)&lt;/td&gt;
+&lt;td&gt;98/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tworba webových stránek (ITW)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr: 1,581
+pořadí v ročníku: 25. místo z 184 (studenti bez F s alespoň 25 kredity)
+prospěchové stipendium: 7174 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 1. semestr</title><link href="drummyfish.github.io/bc1.html" rel="alternate"></link><published>2011-01-28T21:20:00+01:00</published><updated>2011-01-28T21:20:00+01:00</updated><author><name>tastyfish</name></author><id>tag:None,2011-01-28:drummyfish.github.io/bc1.html</id><summary type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve spoustě
+věcí a vůbec jsem netušil, do čeho jdu. Vás ovšem nemusí nic podobného
+potkat, jelikož mám pro vás přichystané zhodnocení všech zatím
+absolvovaných předmětů na naší škole. Pokud se tedy chystáte na Fakultu
+informačních technologií VUT v Brně (zkráceně …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve spoustě
+věcí a vůbec jsem netušil, do čeho jdu. Vás ovšem nemusí nic podobného
+potkat, jelikož mám pro vás přichystané zhodnocení všech zatím
+absolvovaných předmětů na naší škole. Pokud se tedy chystáte na Fakultu
+informačních technologií VUT v Brně (zkráceně FIT), jste na správné
+adrese. Na úvod si neodpustím pár poznámek:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Zda budu moct v článcích pokračovat, závisí na tom,
+    jestli na škole vydržím &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Rád bych zde zmínil stránky studenta
+    &lt;a href="http://www.stud.fit.vutbr.cz/~xniklv00/"&gt;xniklv00&lt;/a&gt;, které mě
+    inspirovaly k tomuto seriálu (tímto děkuji) a které vám nabídnou
+    pohled mírně nadprůměrnějšího studenta.&lt;/li&gt;
+&lt;li&gt;Články budou psány poněkud neformálně a sem tam se jistě vyskytne
+    chyba, tak se prosím nezlobte. Nemám zkrátka tolik času, kolik bych
+    si přál...&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Nástup na školu&lt;/h2&gt;
+&lt;p&gt;Na FIT jsem byl přijat na základě SCIO testů s percentilem 89 a to hned
+na druhý pokus (na první termín mi nějak nepřišlo důležité se
+připravovat &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;). Krátce nato jsem odmaturoval na střední průmyslové
+škole ve Zlíně mimo jiné z informačních technologií, čímž jsem si o sobě
+začal myslet, jaký nejsem informatik. Na prvních přednáškách na FITu
+jsem posléze zjistil, že opravdu nejsem a že žádná procházka růžovou
+zahradou se konat nebude. Zjistil jsem, že ze začátku je lepší mít
+trochu strach, který vás dožene k učení. Rozhodně musím vřele doporučit
+chození na všechny přednášky (o cvičeních ani nemluvím), i když vysoká
+škola vybízí k pravému opaku. Stejně tak je dobré, ne-li nezbytné, najít
+si vlastní styl učení. Mně se nejvíce osvědčilo psaní A4 "taháků", z
+nichž se učím a které vám ke studijním účelům zde samozřejmě také
+nabídnu :o) Tak se pojďme konečně podívat na první semestr...&lt;/p&gt;
+&lt;h2&gt;Asemblery (IAS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/J1i3L.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/J1i3Lm.jpg" alt="IAS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IAS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/C7p3v.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/C7p3vm.jpg" alt="IAS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IAS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Vzhledem ke zkušenostem s asemblery na střední škole ve mně název tohoto
+předmětu ze začátku vyvolával trochu obavy. Jak jsem později zjistil,
+nebylo se čeho bát a šlo o velmi zajímavý a pohodový předmět.&lt;/p&gt;
+&lt;p&gt;V IAS jsme měli především pochopit principy programování počítače na
+téměř nejnižší úrovni, na úrovni instrukcí procesoru. Rovněž se naše
+znalosti obohatili o mnoho nových pojmů a znalostí všemožných operací s
+čísly ve dvojkové soustavě, základy adresování paměti apod. - nešlo o
+nic nepochopitelného, k čemuž výrazně přispěly přátelské přednášky pana
+Zbořila.&lt;/p&gt;
+&lt;p&gt;Doc. Zbořil je veterán z dob starých počítačů a pro mě poměrně
+sympatický přednášející, jelikož jsem měl pocit, že se studenty velmi
+soucítí a důležitou látku vysvětloval velmi velmi polopatě (někdy snad i
+třikrát dokola, takže snad jen spící studenti odcházeli z přednášek s
+prázdnou). Číselnými soustavami jsme se postupně prokousali k
+jednotlivým instrukcím procesorů Pentium a jednotce pro výpočty v
+plovoucí řádové čárce (FPU), to vše krásně pedagogicky s demonstračními
+prográmky přímo na přednáškách.&lt;/p&gt;
+&lt;p&gt;Měl bych také zmínit počítačová cvičení, u nichž mě největší nervy
+postihly při přihlašování na ideální termín. Na FITu výběr termínů
+cvičení a vůbec všemožných podobných věcí probíhá přes internet a jde o
+takovou malou soutěž v rychloklikání. Zkrátka v určitou hodinu se
+odemkne registrace a termín bere ten, kdo na něj nejdřív klikne. Nakonec
+se zadařilo a termín jsem si zaregistroval (s cvičícím ing. Stružkou). Z
+cvičení jsem následně pokaždé odcházel s plným počtem bodů a třeba i o
+hodinu před koncem, když se podařilo zadaný úkol splnit rychle, což
+nebýval větší problém.&lt;/p&gt;
+&lt;p&gt;S ubývajícími přednáškami se přiblížila půlsemestrální zkouška a
+donutila mě začít se připravovat. Šlo spíše o opakování známých věcí a
+procházení starých písemek. Nakonec se na zkoušce v souladu s očekáváním
+objevil krátký prográmek a pár otázek typu číselné soustavy, čímž se
+moje skóre vyhouplo o 17 bodů vzhůru (z 20 možných).&lt;/p&gt;
+&lt;p&gt;Konec semestru vrcholil závěrečnou zkouškou, která měla mírně vyšší
+level obtížnosti, což trochu zbouralo mé ambice na slušnou známku -
+"prográmek" se protáhl na "program" s instrukcemi pro FPU a otázky
+trošku přitvrdily, což společně s faktem, že jsem lehce podcenil
+přípravu (snad kvůli dobrým dosavadním výsledkům), vyneslo ve výsledku
+kromě trochy zklamání pouze známku C se 73 body.&lt;/p&gt;
+&lt;p&gt;I tak ale asemblery hodnotím kladně, probírané učivo je zajímavé a
+nezbytné pro pochopení základních věcí odehrávajících se v počítači a
+tím i pro další studium.&lt;/p&gt;
+&lt;h2&gt;Diskrétní matematika (IDA)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/65db3.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/65db3m.jpg" alt="IDA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IDA tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/65db3.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/65db3m.jpg" alt="IDA tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IDA tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;IDA je první matematický předmět, se kterým se studenti na FITu setkají
+a kvůli kterému budou muset čas od času navštívit také nepěknou fakultu
+FEKT (Fakulta elektrotechniky a komunikačních technologií) - ale o tom
+až později. Na úvod bych chtěl zmínit, že Diskrétní matematika není v
+žádném případě složitostně na úrovni matfyzu a není třeba se jí obávat o
+nic víc než ostatních předmětů.&lt;/p&gt;
+&lt;p&gt;Náplní jsou především základy vysokoškolské matematiky - probírají se
+různé důkazy a matematické struktury pro většinu studentů nově ve
+vysokoškolském stylu. Potkají vás nové matematické zápisy a trošku
+zrychlený způsob vysvětlování látky (žádné dlouhé zastavování nebo
+počítání vzorových příkladů na přednáškách), řeč přijde i na složitější
+věci jako je topologie, nicméně vyžadovány jsou nakonec jen ty
+jednodušší záležitosti.&lt;/p&gt;
+&lt;p&gt;Na přednášejícím a garantovi, doc. Kovárovi, jde vidět, že si žije ve
+vlastním topologickém světě. Látku vysvětluje někdy možná až příliš
+složitě, jinak je to ale normální matematik (jestli se to vůbec dá
+říct), který se snaží, aby studenti látku pochopili co nejlépe. Ukecaní
+studenti na jeho přednáškách je to jediné, co ho dokáže namíchnout.&lt;/p&gt;
+&lt;p&gt;Co na přednáškách většina lidí nepochopila, zachraňovala cvičení
+odehrávající se v malých místnostech na již zmiňované fakultě FEKT. Zde
+se setkáte s trochu přátelštějším přístupem - můj cvičící, pan Vítovec,
+nám dokázal za deset minut vysvětlit to, co na přednáškách zabralo půl
+hodiny, a to ještě tak, že jsme to všichni pochopili. Náplní cvičení
+bylo hlavně počítání příkladů a to buď učitelem nebo některým z náhodně
+vybraných studentů a také pár bodovaných domácích úloh, ze kterých jsem
+míval plný počet bodů. Jediným mínusem pro mě byla fakulta
+elektrotechniky a její okolí, které jsou dle mého vkusu opravdu velmi
+ošklivé (musíte vidět sami), obzvláště v porovnání s naším nádherným
+FITem &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;V průběhu semestru se psala malá písemka, na niž nám pan Garant
+sympaticky povolil zhotovit si ručně psaný tahák formátu A4. Tuto
+možnost jsem dokonale využil a mikroskopickým písmem opsal skoro celá
+skripta &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; Výsledek písemky už si bohužel nepamatuju a nemám ho teď už
+jak zjistit, takže se s ním nemůžu pochlubit.&lt;/p&gt;
+&lt;p&gt;Na finální písemku byl tahák rovněž povolen a tak jsem pouze upgradoval
+svůj nedávno použitý pomocný papír a šel takto vyzbrojen do finální
+bitvy, která se nakonec ukázala být lehčí, než jsem čekal. Byl jsem
+nucen čelit pouze nezákeřným příkladům spíše z té lehčí kategorie a
+odměnou mi byla známka B s 83 body, jež mi udělala velkou radost.&lt;/p&gt;
+&lt;p&gt;IDA rozhodně není nezvládnutelný předmět, i když má společně s IZP
+největší kreditové hodnocení v prvním semestru. Ale ani tak tento
+předmět nepodceňujte, rozhodně se vyplatí chodit na cvičení a sem tam
+dávat na přednáškách pozor, i když nabyté znalosti jinde než na písemce
+využijete určitě jen okrajově.&lt;/p&gt;
+&lt;h2&gt;Teorie obvodů (ITO)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/DQ5cT.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/DQ5cTm.jpg" alt="ITO tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+ITO tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I když podle pověstí měl kurz ITO patřit k těm jednodušším, stal se mým
+strašákem prvního semestru, jelikož k elektrickým obvodům jsem vždycky
+měl trochu dál než ostatní průmyslováci. Musím ale říct, že garant, doc.
+Kunovský, vycházel studentům velmi vstříc a snad jen díky němu jsem
+tímto předmětem s odřenýma ušima prolezl, když více než přimhouřil obě
+oči nad závěrečnými písemkami.&lt;/p&gt;
+&lt;p&gt;Dalším plusem byly zábavné přednášky pana Kunovského, který hodiny
+pojímá jako, jak sám říká, "přátelská povídání" a vůbec se se studenty
+snaží diskutovat jako se sobě rovnými, učivo prokládá neustálými vtípky
+často mířenými i na sebe - no prostě nudit se nebudete. Úvodní hodinu
+dokonce zahájil kouzlem s žárovkami (které není dodnes nikomu jasné),
+abychom viděli, že výuku bere tak trochu s nadhledem. Látka byla
+předkládána dostatečně pomalu a srozumitelně.&lt;/p&gt;
+&lt;p&gt;Na půlsemestrálku jsem se učil procházením starých písemek. Nakonec
+nebyla nijak zákeřná a s nadpolovičním výsledkem 12 bodů z 20 jsem byl
+ještě ochotný se spokojit. Co si pamatuju, šlo o zjednodušování obvodů s
+odpory, metody smyčkových proudů a podobně.&lt;/p&gt;
+&lt;p&gt;Ke konci semestru se na stránkách předmětu objevil ještě projekt,
+abychom se přes Vánoce nenudili. Jednalo se o hromadu příkladů, které mi
+daly trochu zabrat, ale lepší přípravu na písemku bych si těžko mohl
+přát. Po pár dnech usilovného namáhání mozkových závitů se mé hodnocení
+vyšplhalo na skvělých 12,5 bodů z 15.&lt;/p&gt;
+&lt;p&gt;Pak už mi zbývalo jen zakončit to peklo úspěšně napsanou závěrečnou
+písemkou. Avšak po výhružkách pana Kunovského, že písemka bude "těžká",
+na mě šla trochu nervozita a když nás usadily k zadáním písemky, začal
+jsem přeskakovat jeden příklad za druhým. Doc. Kunovský si na nás
+přichystal nejtěžší písemku v dějinách ITO (snad žádný příklad se
+neobešel bez netriviálních operací s komplexními čísly) a já jsem sice
+počmáral všechny papíry, ale v kolonkách pro výsledky chyběl jakýkoliv
+náznak úspěšně dopočítaného příkladu. Domů jsem odcházel s jistotou
+dalšího termínu. Nakonec se stal zázrak a pan Kunovský byl extrémně
+shovívavý, když mi udělil 2 body nad minimum, tedy 34 bodů, a
+odstartoval tak moje zimní prázdniny &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Předmět ITO mi ukázal, co všechno se dokážu naučit, když musím, a nabyl
+jsem takového hřejivého pocitu, že ještě nikdy jsem elektrickým obvodům
+nerozuměl více. Navíce jsem si z přednášek odnesl pár dobrých vtipů &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Základy programování (IZP)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/R2vft.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/R2vftm.jpg" alt="IZP tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IZP tahák
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Na tento předmět jsem si docela věřil, jelikož základy programování jsem
+si přinesl již ze střední školy, kde náplní mé maturitní práce bylo
+dokonce objektové programování. Brzy jsem však zjistil, že levou zadní
+IZP nezvládnu - hlavně v projektech jsem se přes hromadu snahy slušně
+zapotil. Často bylo nad mé chápání, jak mohli úplní neprogramátoři z
+gymnázií tento předmět zvládnout, i když právě pro ně by měl být tento
+předmět teoreticky určen.&lt;/p&gt;
+&lt;p&gt;Praxe však bývá odlišná. Jak název napovídá, předmět nám měl objasnit
+význam slova programování a velmi stručně nás provést jeho
+nejzákladnější principy v jazyce C. Na půlsemestrálce se ale ukázalo, že
+pan Smrčka vyžaduje znalosti často mírně přesahující ony "základy" v
+názvu předmětu.&lt;/p&gt;
+&lt;p&gt;Přednášky měl na starost dr. Aleš Smrčka (tehdy ještě ing.). Je to
+takový sympaťák, který dokáže programátorskými vtípky zpestřovat své
+přednášky. Spoustu věcí profesionálně demonstroval přímo v příkazové
+řádce Linuxu promítanou na projektoru, často přes ni elektronickou
+tužkou čmáral velmi nepřehledné obrázky - ve výsledku ale všechno tak
+nějak zapadlo do sebe a látka byla úspěšně vysvětlena. Na jedné
+přednášce mě zaujalo, když napsal zpaměti číslo pí v desetinném rozvoji
+asi na dva řádky terminálu.&lt;/p&gt;
+&lt;p&gt;Klíčovou roli kurzu hrály již zmíněné projekty. Projekty jsou na FITu
+velmi časté bodově hodnocené samostatné práce pro studenty. V tomto
+případě šlo o čtyři prográmky v jazyce C, jejichž zadání se vždy
+objevilo na stránkách předmětu společně s deadlinem odevzdání, přičemž
+každý projekt měl jisté maximální bodové hodnocení, které šlo podle
+kvality zpracování získat. Projekty se rozprostíraly rovnoměrně do
+celého semestru a pro získání zápočtu bylo nutné získat z každého
+alespoň jeden bod.&lt;/p&gt;
+&lt;p&gt;Už první projekt pro mě znamenal přinejmenším slušné zklamání. Zadání
+nebylo úplně nejjednodušší - měli jsme napsat program, který bude
+komprimovat/dekomprimovat text ze standardního vstupu na standardní
+výstup podle zadaných pravidel. Ihned po jeho zveřejnění jsem začal
+doslova makat, aby můj výsledek přinesl do začátku co nejvíce bodů. Po
+odevzdání mi však byl program ohodnocen pouze 2 body (maximum bylo 5),
+což mi téměř vzalo motivaci pracovat na dalších projektech. Naštěstí
+jsem se nevzdal a další projekty dopadly mnohem lépe - 7/10, 9,5/10 a
+7/8.&lt;/p&gt;
+&lt;p&gt;V IZP jsme měli rovněž nepovinná počítačová cvičení, kam jsme museli
+přijít jen jednou za čas obhájit projekt (bez obhajoby ho nešlo
+odevzdat). Já jsem však nechyběl ani na ostatních cvičeních, kdy jsme
+měli pouze samostatně pracovat na svých projektech, případně se ohledně
+nich dotazovat. Obhajoba projektu trvala vždy pár minut a její náplní
+byla demonstrace studentem napsaného kódu cvičícímu (zkrátka něco říct
+proč/jak jste to tak napsali). Ale nebyl to žádný stres, za pár minut
+bylo hotovo. Musím pochválit ing. Zemka za kvalitně vedená cvičení i
+rady k projektům.&lt;/p&gt;
+&lt;p&gt;Semestr zakončovala písemná zkouška, která mně osobně nepřišla po všech
+těch projektech ani příliš náročná. Velice mi pomohlo procházení
+všemožně na netu sehnatelných starých písemek. Šlo o psaní krátkých
+úseků kódu v již dobře procvičeném Céčku, pár teoretických otázek a o
+otázky typu "Co způsobí tento řádek kódu?" nebo "Jakou chybu způsobí
+tento vstup v tomto programu?". Můj zisk nakonec byl 38 bodů z 55, což k
+absolvování předmětu stačilo.&lt;/p&gt;
+&lt;p&gt;V předmětu IZP jsem se konečně pořádně naučil programovací jazyk C a
+doplnil si hodně věcí ze střední školy. Taky jsem se při řešení projektů
+velmi dobře seznámil s operačním systémem Linux, v němž bylo
+nejjednodušší projekty psát. Můžu říct, že tento předmět byl jistě nejen
+pro mě jedním z klíčových v prvním semestru a určitě je velkou výhodou
+jít do něj alespoň se základy jazyka C.&lt;/p&gt;
+&lt;h2&gt;Základy softwarového inženýrství (IUS)&lt;/h2&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/PbJIt.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/PbJItm.jpg" alt="IUS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IUS tahák
+, str. 2
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/3T73i.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/3T73im.jpg" alt="IUS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IUS tahák
+, str. 1
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ceďák prvního semestru aneb to nejlepší nakonec &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Tento předmět opravdu
+hodně studentů neudělalo a bylo to nejspíš tím, že byl velmi teoretický
+a pod záštitou pana proděkana Křeny, známého zvyšovatele prestiže naší
+fakulty. Klíčem k zvládnutí tohoto obávaného kurzu nebylo vysoké IQ,
+nýbrž prostá vůle učit se velká kvanta teoretických informací, s čímž
+jsem naštěstí problém příliš neměl.&lt;/p&gt;
+&lt;p&gt;Teoretická látka na přednáškách dr. Křeny byla kořeněna vtipnými
+příklady z praxe - pan Křena rozhodně ví, co dělá, je přátelský ke
+studentům a dokáže jim zpříjemnit pobyt na svých trojhodinových
+přednáškách - ovšem výměnou za jejich pozornost a ochotu nabývat
+vědomosti. Předmět opravdu působil velmi "povídacím" a pohodovým dojmem,
+což také byl pro ty, kteří si látku průběžně procházeli.&lt;/p&gt;
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/xztTU.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/xztTUm.jpg" alt="IUS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IUS tahák
+, str. 4
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="fit-but-cheatsheet"&gt;
+&lt;a href="http://i.imgur.com/a8f6F.jpg" target="blank"&gt;
+&lt;img src="http://i.imgur.com/a8f6Fm.jpg" alt="IUS tahák"/&gt;&lt;/img&gt;
+&lt;/a&gt;
+
+&lt;p&gt;
+IUS tahák
+, str. 3
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Předmět zahrnoval tři projekty. Pod prvním se skrývalo absolvování
+e-learningového kurzu - šlo o takový mini-předmět, do kterého se všichni
+studenti přihlásili a v němž řešili každý týden velmi velmi jednoduché
+úkoly na pár minut (vytvořit pdf s citací tří webových stránek, apod.) -
+e-learning byl zahřívacím a seznamovacím kurzem pro nové studenty a
+nejen já jsem za něj bez námahy získal 100% bodů. Druhý projekt byl z
+části společný s předmětem IZP a jeho náplní bylo vytvoření krátké pdf
+dokumentace ke druhému projektu tohoto předmětu, můj zisk činil 6 bodů z 10.
+Poté následoval poslední úkol a to sestavení ER diagramu
+informačního systému určité instituce, již si studenti mohli vybrat z
+nabízených témat - moje zubní ordinace mi vynesla plný počet 20 bodů a
+mohl jsem si gratulovat.&lt;/p&gt;
+&lt;p&gt;Závěrečná zkouška se nesla v duchu teoretických otázek a fulltextových
+odpovědí - každá měla vymezený prostor podle její očekávané (tj.
+požadované) délky. Nechyběla ovšem ani praktická část v podobě již dobře
+známého ER diagramu. Musím říct, že písemka rozhodně nebyla jednoduchá,
+ale připraveným štěstí přeje. Na papíře jsem popsal, co se dalo, a v
+součtu mi výsledek dal poctivých 43 bodů (z 60).&lt;/p&gt;
+&lt;p&gt;Na závěr bych předmět zhodnotil jako teoretický, těžký, ale nezákeřný a
+zvládnutelný. Každopádně vyžaduje hodně obětování a času výměnou za
+krásný pocit sebevědomí po jeho zvládnutí.&lt;/p&gt;
+&lt;h2&gt;Celkové výsledky&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Asemblery (IAS)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diskrétní matematika (IDA)&lt;/td&gt;
+&lt;td&gt;83/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Teorie obvodů (ITO)&lt;/td&gt;
+&lt;td&gt;59/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Úvod do softwarového inženýrství (IUS)&lt;/td&gt;
+&lt;td&gt;74/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Základy programování (IZP)&lt;/td&gt;
+&lt;td&gt;72/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;průměr: 2,08&lt;br /&gt;
+pořadí v ročníku: 65.-73. místo z 269 (studenti bez F s alespoň 25
+kredity)&lt;br /&gt;
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry></feed>
