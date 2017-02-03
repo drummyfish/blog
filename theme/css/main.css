@@ -9,7 +9,6 @@
         Modified by: Miloslav Číž, 2017
 */
 
-/* Imports */
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
@@ -222,14 +221,8 @@ td
 
 .post-info
   {
-    margin:20px 10px 10px 2px;
-    padding:5px;
-  }
-
-.post-info p
-  {
-    margin-top: 1px;
-    margin-bottom: 1px;
+    margin: 10px;
+    font-size: 12px;
   }
 
 .readmore
@@ -324,7 +317,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
     color: #fff;
     display: inline-block;
     height: 30px;
-    padding: 5px 1.5em;
+    padding: 5px 20px;
     text-decoration: none;
   }
 #banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited
