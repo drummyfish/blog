@@ -28,7 +28,7 @@ body
     line-height: 1.2; /* 1.429; */
     margin: 0;
     padding: 0;
-    text-align: justify;
+    text-align: left;
   }
 
 img
@@ -650,11 +650,7 @@ li:last-child .hentry, #content > .hentry
 
 #posts-list footer
   {
-    left: 10px;
-    position: relative;
-    float: left;
-    top: 0.5em;
-    width: 190px;
+    width: 100%;
   }
 
 #about-author
