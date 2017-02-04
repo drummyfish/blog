@@ -37,9 +37,229 @@
 
         </header><!-- /#banner -->
 
+<script>
+  facts_cs =
+    [
+      "Lojban je umělý jazyk pro lidskou komunikaci založený na predikátové logice a snaží se vyhnout veškerým nejasnostem ve vyjadřování.",
+      "Programovací jazyk Compute dokáže vyřešit jakýkoli problém, ale neumí vypsat výsledek.",
+      "Každý program v jazyku Quiler je kompilátor jazyka Quiler.",
+      "Program poznámkový blog je interpret programovacího jazyka Text.",
+      "Vstupem programovacího jazyka Piet jsou obrázky.",
+      "Skladby Moonlight Shadow a Man in the Rain od Mika Oldfielda používají stejnou nahrávku bicích.",
+      "Vstupem programovacího jazyka Velato jsou hudební MIDI soubory.",
+      "Programovací jazyk Befunge je prakticky nemožné zkompilovat, protože jeho instrukce jsou psány ve dvourozměrné mřížce.",
+      "Programování v jazyku Malbolge je tak obtížné, že první validní program v něm se objevil až po dvou letech.",
+      "Zdrojový kód v programovací jazyku ~English vypadá jako běžná lidmi používaná angličtina.",
+      "Pokud program v jazyku INTERCAL neobsahuje dostatek klíčových slov PLEASE, kompilátor jej odmítne přeložit.",
+      "Jazyk Eodermdrome funguje na principu přepisování grafů, je Turingovsky úplný, avšak jeho implementace je složitostně NP-úplná.",
+      "Jazyk Bugmaker se zaměřuje na vysokou náchylnost k chybám, programátor musí např. explicitně uvádět, že chce výsledek vypočítat přesně a ihned.",
+      "Programy v jazyku Chef vypadají jako kuchařské recepty.",
+      "Zdrojový kód jazyka Drawkcab je psán pozpátku.",
+      "Zásobníkový automat nedokáže říct, které řetězce jsou tvaru a<sup>n</sup>b<sup>n</sup>c<sup>n</sup>, ale dokáže přesně říct, které v tomto tvaru nejsou.",
+      "Zdrojovým kódem programovacího jazyka Pi je číslo pí s některými číslicemi zapsanými chybně, instrukce jsou rozpoznávány jako odchylka od skutečné hodnoty.",
+      "Programovací jazyk Unary používá jenom jeden znak, zdrojový kód jakéhokoli programu je jen různě dlouhá posloupnost nul (je však Turingovsky úplný).",
+      "Komunistické paradigma v programování propaguje myšlenku, že by měl existovat jeden velký program, který dělá všechno a je instancí jediné třídy (např. Web).",
+      "Brainfork je vícevláknová varianta programovacího jazyka Brainfuck.",
+      "Programovací jazyk FALSE je navržen tak, aby byl jeho překladač co nejmenší, a je pojmenován po oblíbené pravdivostní hodnotě svého autora.",
+      "V jazyku Unnecessary je přítomnost zdrojového kódu programu považována za chybu a program se nepřeloží.",
+      "Existuje rozpracovaný programovací jazyk Chess, jehož zdrojové kódy jsou záznamy šachových her a tahy mají význam příkazů.",
+      "Programy v jazyku Shakespeare vypadají jako Shakespearovy hry.",
+      "Heliový balónek se v rozjíždějícím vlaku bude setrvačnou silou pohybovat dopředu, ne dozadu.",
+      "Programy v jazyku Whitespace se skládají pouze z bílých znaků a proto je nelze vytisknout na papír.",
+      "Proměnné v jazyku Omgrofl mohou mít název pouze lol, lool, loool atd.",
+      "Quine je program, který vypíše svůj vlastní zdrojový kód, jazyk HQ9+ to umí nejjednodušeji.",
+      "Jazyk Brainfuck je Turingovsky úplný.",
+      "Prvočísla lišící se o 2 se nazývají prvočíselné dvojice a zatím (2015) není dokázáno, jestli jich je nekonečně mnoho.",
+      "Prvočísla lišící se o 6 se nazývají sexy, nejvyšší počet sexy prvočísel jdoucích za sebou je 5 a existuje pouze tato pětice: 5, 11, 17, 23, 29.",
+      "Člověk jako nejčastější náhodné číslo od 1 do 10 vybere 7.",
+      "Existuje myšlenka ironických (nebo také hipster) programovacích jazyků, jejichž příkazy provádějí opak toho, jak se tváří.",
+      "Celulární automat Game of life může být ve zvětšeném měřítku naprogramován pomocí sebe samotného použitím tzv. 2048 x 2048 OTCA metapixelů.",
+      "Existuje spojitá varianta celulárního automatu Game of life.",
+      "Quantum brainfuck je obdobou jazyka Brainfuck pracující s qubity (kvantovými bity).",
+      "Last Thursdayism je myšlenka, že vesmír mohl být stvořen minulý čtvrtek (včetně všech důkazů, že tomu tak není).",
+      "Programovací jazyk LOLCODE napodobuje lolcat jazyk, příkladem může být příkaz CAN HAZ STDIO? pro načtení knihovny.",
+      "Vesmír se rozpíná tak rychle, že se galaxie na jeho opačných koncích vzájemně vůči sobě pohybují rychleji než světlo.",
+      "Matematika na profesionální úrovni je věda kreativity a intuice, počítání je rutina, kterou obstarají počítače.",
+      "Grahamovo číslo je pravděpodobně největší smysluplně použité číslo, končí na ...195387, ale zatím (2015) neznáme jeho začátek.",
+      "Za nejkrásnější matematickou rovnici je často považována Eulerova identita e<sup>iπ</sup> + 1 = 0.",
+      "Pokud si asociujete čísla nebo hudbu s barvami, máte neobvyklou schopnost zvanou synestezie.",
+      "Programovací jazyk Nothing je jediný jazyk, jehož programy fungují na všech platformách a nikdy neobsahují chyby.",
+      "Příkazy programovacího jazyka DOG se podobají příkazům pro psa, čísla jsou reprezentována hromádkami pamlsků, příkaz die ukončí program.",
+      "Existuje velmi malé procento žen, zvaných tetrachromatky, které jsou schopné vnímat mnohem více barev než ostatní lidé.",
+      "Proměnné v jazyku Entropy náhodně mírně pozměňují svou hodnotu při každém přístupu k nim, proto je výstup programu vždy přibližný.",
+      "Kromě koule existují i jiné tvary, které mají ve všech směrech konstantní šířku.",
+      "Univerzální názvy identifikátorů 'foo' a 'bar' byly v kontextu programování poprvé použity na MIT a pocházejí nejspíš z vojenského slangu, jako třetí identifikátor se někdy používá 'baz'...",
+      "Superpočítač ověřil, že nejmenším počtem nápověd v sudoku s jednoznačným řešením je 17.",
+      "Superpočítač Googlu ověřil, že každou konfiguraci Rubikovy kostky lze vyřešit při nejhorším ve 20 tazích.",
+      "Téměř žádná barva na monitoru není skutečná, např. žlutá je vyvolána stimulací čípků čevenou, zelenou a modrou barvou v poměru daném skutečnou žlutou barvou.",
+      "Existují nelegální čísla (pokud představují binární reprezentaci nějaké chráněné informace).",
+      "Občas těsně po pohledu na hodiny se může sekundová ručička zdánlivě zastavit na více než sekundu, což způsobuje mozek zpětným nahrazením rozmazaného vjemu z pohybu oka prvním smysluplným obrazem...",
+      "19. ledna roku 2038 dojde ke konci unixového času na 32bitových počítačích, což může potenciálně způsobit katastrofu.",
+      "Seriál Futurama má vlastní matematickou větu z teorie grup, kterou odvodil jeden ze scénáristů, matematik Ken Keeler, speciálně pro jednu epizodu seriálu.",
+      "Nejpomalejší řadicí algoritmus je Slow Sort, který pracuje na principu multiply and surrender (opak divide and conquer).",
+      "Řadicí algoritmus Bogosort nebo také Stupidsort provádí náhodné permutace pole tak dlouho, dokud není seřazené.",
+      "Nejsložitější znak v čínštině reprezentuje zvuk hromu a má 52 tahů.",
+      "Nejdelší název chemické značky (C<sub>1289</sub>H<sub>2051</sub>N<sub>343</sub>O<sub>375</sub>S<sub>8</sub>) má 1913 písmen.",
+      "William Lawrence Bragg získal Nobelovu cenu za fyziku ve věku 25 let.",
+      "Zatím (2015) nejpozději byla do knihovny roku 1968 vrácena kniha po 145 letech pravnukem původního zákazníka.",
+      "Nejprimitivnější číselný systém mají příslušníci kmene Yanco, kteří neumějí počítat dále než do tří.",
+      "Roku 1897 byl ve státě Indiana většinou 1 hlasu prosazen zákon zjednodušující hodnotu čísla pí na 3,2.",
+      "Největším seriózně použitým číslem je Grahamovo číslo, které je mnohem větší než např. googol (10<sup>100</sup>). Kdyby bylo zapsáno číslicemi, zdaleka by se nevešlo do pozorovatelného vesmíru...",
+      "Od 1. ledna roku 2000 hraje v Trinity Buoy Wharf Lighthouse nepřetržitě skladba Longplayer, za pomoci lidí i počítačů. Cílem je, aby hrála nepřetržitě celých tisíc let.",
+      "Licence WTFPL (Do What the Fuck You Want to Public License) dovoluje uživateli dělat se softwarem cokoliv.",
+      "Kočičí předení má frekvenci cca 25 Hz.",
+      "Mobilní kodeky nepřenáší zvuk přímo, ale posílají pouze informace o nastavení řečového ústrojí a činnosti hlasivek, takže hlas, který je na druhé straně slyšet, je ve skutečnosti syntetizovaný...",
+      "Cicada 3301 je dosud neodhalená organizace, která verbuje vysoce inteligentní lidi formou extrémně obtížných hádanek objevujících se po celém světě.",
+      "Existují tzv. zakázané barvy, které nemůžeme za normálních podmínek vidět. Jsou ale triky, jak je spatřit.",
+      "Ve hře Core Wars spolu soupeří programy ve strojovém kódu - každý se snaží ukončit běh ostatních.",
+      "Python umožňuje spustit jednoduchý HTTP server příkazem \"python -m SimpleHTTPServer 8000\". Parádní pro posílání souborů na domácí síti.",
+      "Collatzova domněnka (3n + 1 problém) je nevyřešený matematický problém, který se ptá, zda opakovanou aplikací dvou jednoduchých pravidel na libovolné číslo dojdeme vždy k nule.",
+      "\"Time\" je xkcd komiks, který byl prezentován po jednotlivých snímcích přibližně každou hodinu po 123 dní, ve výsledku tvořící jeden velký epický příběh o 3099 snímcích.",
+      "Otázka č. 6 na mezinárodní matematické olympiádě 1988 byla tak těžká, že ji za 6 hodin nedokázal vyřešit tým expertů, dokonce ani účastník Terence Tao (držitel Fieldsovy medaile).",
+      "Je matematicky zaručeno, že na Zemi budou vždy existovat alespoň dvě místa, která jsou přesně naproti sobě a mají stejnou teplotu a tlak."
+    ];
+    
+  quotes_cs =
+    [
+      "Slepá úcta k autoritám je největším nepřítelem pravdy. - A. Einstein",
+      "Člověk může jednat, jak se mu zachce, ale nemůže chtít, jak se mu zachce. - A. Einstein",
+      "Nedospívejte, je to past. - neznámý autor (graffiti)",
+      "Jsem tak chytrý, že občas nerozumím ani slovu z toho, co říkám. - Oscar Wilde",
+      "Ten se směje jizvám, kdo nikdy nepocítil rány. - William Shakespeare",
+      "Bůh nehraje kostky. - A. Einstein",
+      "Nepřestáváme si hrát proto, že stárneme. Stárneme proto, že si přestáváme hrát. - George Bernard Shaw",
+      "Někteří lidé jsou tak chudí, že vše co mají, jsou peníze. - Patrick Meagher",
+      "Nejsem dost populární, abych mohl být jiný. - Homer Simpson",
+      "Moudří lidé mluví proto, že mají co říct. Hloupí proto, že něco musí říct. - Platón",
+      "Když mluvíš pravdu, nemusíš si nic pamatovat. - Mark Twain",
+      "Přátelství je sračka. - Sam (Mafia)",
+      "Idioti jsou géniové v bytí idioty. - Amazing atheist",
+      "Kdo jste a proč by mě to mělo zajímat? - Bender (Futurama)",
+      "Nechci se stát nesmrtelným skrze svou práci; chci se stát nesmrtelným tím, že neumřu. Nechci dál žít v srdcích svých spoluobčanů; chci dál žít ve svém bytě. - W. Allen",
+      "Charakter člověka můžete lehce soudit podle toho, jak se chová k těm, kteří pro něj nemohou nic udělat. - James D. Miles",
+      "Než u sebe diagnostikujete depresi nebo nízkou sebedůvěru, ujistěte se, že ve skutečnosti nejste jen obklopeni idioty. - William Gibson",
+      "Je mi zle, Pse, ale dobře zle, protože jsme vyhráli. - Kočkopes",
+      "Jen zbabělec zálohuje na pásku. SKUTEČNÝ muž nahraje svoje data na ftp a nechá zbytek světa udělat mirror. - Linus Torvalds",
+      "Lineární regresi nevěřím, když je z bodového grafu těžší odhadnout směr korelace než najít v něm novou hvězdnou konstelaci. - xkcd",
+      "Teorie a praxe jsou teoreticky to samé, prakticky však ne. - neznámý"
+    ];
+    
+  facts_en =
+    [
+      "Lojban is an artificial language for human communication based on formal logic and tries to avoid any ambiguities in its expressions.",
+      "Compute is a programming language that can solve any problem, but cannot write out its output.",
+      "Every program in Quiler programming language is Quiler compiler.",
+      "Programming language named Text can be interpreted by simple Notepad.",
+      "Piet programming language takes images as its input.",
+      "The songs Moonlight Shadow and Man in the Rain by Mike Oldfield both use the same prerecorded drum track.",
+      "Velato programming language takes MIDI files as its input.",
+      "Befunge programming language is almost impossible to compile, as its intructions are arranged in 2D array.",
+      "Programming in Malbolge is so hard that it took two years to write its first valid program.",
+      "Source codes of ~English programming language look like an ordinary English language.",
+      "If there is not enough PLEASE keywords in INTERCAL source code, the compiler refuses to compile it.",
+      "Eodermdrome is a graph-rewriting-based programming language, it is Turing-complete but its compilation is NP-complete.",
+      "Bugmaker programming language focuses on high error ratio, for exaplme it must be explicitly told to compute a result at given time and accurately.",
+      "Programs in Chef programming language look like cooking recipes.",
+      "Drawcab programming language source codes are written backwards.",
+      "Pushdown automaton cannot tell which strings are of form a<sup>n</sup>b<sup>n</sup>c<sup>n</sup>, but it can tell which ones are not.",
+      "Pi programming language source codes are pi decimals, instructions are encoded as errors.",
+      "Unary programming language uses only one character, any source code is a series of zeroes (but it is Turing-complete).",
+      "Communism paradigm in programming says that there should be only one global program that does everything (for example Web).",
+      "Brainfork is a multithread variation of Brainfuck.",
+      "FALSE programming language is designed to have as small compiler as possible, and it's named after its author's favorite boolean value.",
+      "In Unnecessary programming language a presence of source code is considered an error and it won't compile.",
+      "There is a work-in-progress programming language named Chess whose source codes are chess notations.",
+      "Programes in Shakespeare programming language look like Shakespeare's plays.",
+      "A helium-filled baloon inside an accelerating car will move forwards by inertia, not backwards.",
+      "Whitespace programming language source codes consist only of blank characters and cannot therefore be printed on paper.",
+      "Omgrofl programming language variables can only be named lol, lool, loool etc.",
+      "Quine is a program that writes out its own source code, it is written easiest in HQ9+.",
+      "Brainfuck programming language is Turing-complete.",
+      "Prime numbers that differ by 2 are called twin primes and it is (as of 2015) still unknown whether there is infinitely many of them.",
+      "Prime numbers that differ by 6 are called sexy, the longest sexy-prime series is this one (and no other exist): 5, 11, 17, 23, 29.",
+      "Humans will most likely pick 7 as a random number from 1 to 10.",
+      "There is an idea of hipster programming languages whose commands do the opposite of what they look like.",
+      "Game of life cellular automaton can be programmed in bigger scale using itself with a technique called 2048 x 2048 OTCA metapixels.",
+      "There is a continuous version of Game of life cellular automaton.",
+      "Quantum brainfuck is a Brainfuck variation that works with qubits (quantum bits).",
+      "Last Thursdayism is an idea that the universe may have been created last thursday (including the proofs against it).",
+      "LOLCODE programming language imitates lolcat language, one can for example write CAN HAZ STDIO? to load a library.",
+      "The universe expansion causes the galaxies on its opposite ends to move faster than light relatively to each other.",
+      "High-level math is about creativity and intuition, computing is left for computers.",
+      "Graham's number is very likely the biggest number used in serious science, it ends with ..195387, but it is (as of 2015) still unknow what it begins with.",
+      "Euler's identity e<sup>iπ</sup> + 1 = 0 is considered the most beautiful mathematical formula.",
+      "If you associate number or music with colors, you have an unusual condition called synesthesia.",
+      "Nothing is the only programming language whose programs work on every platform and are completely bug-free.",
+      "Commands in DOG programming language look like dog orders, numbers are represented by piles of cookies, die ends the program.",
+      "There is a small number of women called tetrachromats who are able to distinguish more colors than ordinary people.",
+      "Variables in Entropy programming language randomly alter their values each time they're used so the output is always only approximate.",
+      "Besides sphere there are also other shapes that have constant width in all directions.",
+      "Universal identifies names 'foo' and 'bar' were first used in programming at MIT and likely come from military slang, the third identifier is often 'baz'.",
+      "It's been verified by a supercomputer that the smallest number of clues in unique-solution sudoku is 17.",
+      "Google supercomputer has verified that any Rubik's cube configuration can be solved in 20 steps or less.",
+      "Almost no color at the computer screen is real, for example the color yellow is faked by combining red, green and blue in given ratio.",
+      "There are illegal numbers (the ones that represent a copyright-protected binary information).",
+      "After looking at watch the second hand sometimes seems to stop for a while, the illusion is caused by brain replacing a fuzzy picture with the first meaningful image.",
+      "The unix time will end on january 19 2038, potentially causing a disaster.",
+      "Futurama TV series has its own mathematical theorem that was prooven by Ken Keeler, one of its autors, just for the show.",
+      "Slow Sort is the slowest sorting algorithm, it works by multiply and surrender principle (the opposite of divide and conquer).",
+      "Bogosort (also Stupidsort) is a sorting algorithm that makes random permutations of the array until it's sorted.",
+      "The most complicated Chinese symbol represents a sound of thunder and is drawn with 52 strokes.",
+      "William Lawrence Bragg received a Nobel prize in physics when he was 25.",
+      "WTFPL (Do What the Fuck You Want to Public License) allows a user to do whatever they want with the software.",
+      "Cat purr frequency is about 25 Hz.",
+      "Mobile codecs don't transfer the sound directly, instead they transfer only parameters of the vocal tract and vocal chords, so the voice on the other end is in fact synthesized.",
+      "Cicada 3301 is so far unrevealed organisation that recruits highly intelligent individuals with extremely difficult puzzles that appear all over the world.",
+      "There are so called impossible (also forbidden) colors that cannot be perceived under normal conditions. There are, however, tricks to see them.",
+      "In Core Wars game, programs in machine code fight each other and try to terminate other programs.",
+      "Python lets you run a simple HTTP server with a command \"python -m SimpleHTTPServer 8000\". Awesome for sending files in your home network.",
+      "Collatz conjecture (3n + 1 conjecture) is an unsolved mathematical problem that asks if by repeatedly applying two simple rules to any number will always eventually lead to zero.",
+      "\"Time\" is xkcd comic strip that was presented by individual frames approximately every hour over 123 days, eventually forming an epic story of 3099 frames.",
+      "Question no. 6 at 1988 International Mathematical Olympiad was so hard that it couldn't be solved by a team of experts in 6 hours, not even by one of the participants, Terence Tao (holder of Fields Medal)...",
+      "It is mathematically guaranteed that there will always exist at least two places on Earth that are exactly on the opposite sides of the globe and have the same temperature and pressure."
+    ];
+
+  quotes_en =
+    [
+      "Blind belief in authority is the greatest enemy of truth. - A. Einstein",
+      "A man can do what he wants, but not will what he wants. - A. Einstein",
+      "Don't grow up, it's a trap. - unknown (graffiti)",
+      "I am so clever that sometimes I don't understand a single word of what I am saying. - Oscar Wilde",
+      "He jests at scars that never felt a wound. - William Shakespeare",
+      "God doesn't play dice. - A. Einstein",
+      "We don't stop playing because we grow old; we grow old because we stop playing. - George Bernard Shaw",
+      "Some people are so poor, all they have is money. - Patrick Meagher",
+      "I'm not popular enough to be different. - Homer Simpson",
+      "Wise men speak because they have something to say; fools because they have to say something. - Plato",
+      "If you tell the truth, you don't have to remember anything. - Mark Twain",
+      "Friendship ain't worth shit. - Sam (Mafia)",
+      "Idiots are geniuses at being idiots. - Amazing atheist",
+      "Who Are You and Why Should I Care? - Bender",
+      "I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment. - Woody Allen...",
+      "You can easily judge the character of a man by how he treats those who can do nothing for him. - James D. Miles",
+      "Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes. - William Gibson",
+      "I am sick, Dog, but it's a good sick, because we won. - Catdog",
+      "Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it. - Linus Torvalds",
+      "I don't trust linear regressions when it's harder to guess the direction of the correlation from the scatter plot than to find new constellations on it. - xkcd",
+      "In theory, theory and practice are the same. In practice, they are not. - unknown",
+      "There is no I in collaboraton. - Ken M"
+    ];
+    
+  function write_random_item(title, choices)
+    {
+      document.write ("<p> <span> " + title + " </span>: " + choices[Math.floor(Math.random()*choices.length)] + "</p>");
+    }
+</script>
+
 <section id="content" class="body">
 
-  Vítejte na mých stránkách <span class="emoji emoji-smile"></span> Jejich účelem je shromažďovat různé věci, které mě zajímají a o které se chci podělit.
+    Vítejte na mých stránkách <span class="emoji emoji-smile"></span> Jejich účelem je shromažďovat různé věci, které mě zajímají a o které se chci podělit.
+    
+    <script>
+      write_random_item("Náhodný fakt", facts_cs);
+      write_random_item("Náhodný citát", quotes_cs);
+    </script>
+    
 </section>
         <section id="extras" class="body">
         </section><!-- /#extras -->
@@ -47,8 +267,8 @@
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">
                 Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>. <br />
-                Original theme made by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, modified by Tastyfish. <br />
-                Emoji provided free by <a href="http://emojione.com/">EmojiOne</a>. <br />
+                Original theme by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, modified by Tastyfish. <br />
+                Emoji provided by <a href="http://emojione.com/">EmojiOne</a>. <br />
                 <span class="publish-info">publish version</span>
                 </address><!-- /#about -->
         </footer><!-- /#contentinfo -->
