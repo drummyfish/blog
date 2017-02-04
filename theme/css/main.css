@@ -238,6 +238,29 @@ div.note
     max-width: 300px;
   }
 
+.language-select
+  {
+    float: right;
+  }
+  
+.lang-icon
+  {
+    width: 38px;
+    height: 27px;
+    float: right;
+    margin: 10px 10px 10px 0;
+  }
+  
+.lang-cs
+  {
+    background-image: url('../images/flag_cs.png');
+  }
+
+.lang-en
+  {
+    background-image: url('../images/flag_en.png');
+  }
+
 /****** HTML5 ******/
 
 header, section, footer, aside, nav, article, figure
