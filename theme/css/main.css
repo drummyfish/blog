@@ -238,6 +238,13 @@ div.note
     max-width: 300px;
   }
 
+/***** LANGUAGE ****/
+
+.selected-lang
+  {
+    border-bottom: 2px solid black;
+  }
+
 .language-select
   {
     float: right;
@@ -260,7 +267,7 @@ div.note
   {
     background-image: url('../images/flag_en.png');
   }
-
+  
 /****** HTML5 ******/
 
 header, section, footer, aside, nav, article, figure

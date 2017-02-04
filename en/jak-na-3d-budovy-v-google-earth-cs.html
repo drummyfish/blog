@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Jak na 3D budovy v Google Earth</title>
+        <link rel="stylesheet" href="./../theme/css/main.css" />
+        <link href="drummyfish.github.io/all.rss.xml" type="application/atom+xml" rel="alternate" title="tastyfish Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+       <div class="language-select">
+           <a href="drummyfish.github.io/index.html"> <div class="lang-icon lang-cs" ></div> </a>
+           <a href="drummyfish.github.io/en/index.html"> <div class="lang-icon lang-en selected-lang" ></div> </a>
+       </div>
+
+        <header id="banner" class="body">
+                <div class="fish"></div>
+                <h1><a href="./">tastyfish </a></h1>
+                
+<span style="font-weight: bold; color: red; float: right; position: relative;">UNDER CONSTRUCTION!!!</span>
+                
+                <nav><ul>
+                
+                  <li               ><a href="./index.html">Intro</a></li>
+                  <li               ><a href="./category/posts.html">Posts</a></li>
+                  <li               ><a href="./category/articles.html">Articles</a></li>
+                  <li               ><a href="./pages/projekty.html">Projects</a></li>
+                  <li               ><a href="./tags.html">Tags</a></li>
+                  <li               ><a href="./pages/about.html">About me</a></li>
+                
+                
+                </ul></nav>
+
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./jak-na-3d-budovy-v-google-earth-cs.html" rel="bookmark"
+           title="Permalink to Jak na 3D budovy v Google Earth">Jak na 3D budovy v Google Earth</a></h1>
+    </header>
+
+    <div class="entry-content">
+<div class="post-info">
+  Čt 03 květen 2012 <br />
+  
+        
+      tastyfish <br />
+        
+tags: <a href="./tag/3d.html">3d</a> <a href="./tag/graphics.html">graphics</a>  <br />
+ <br />
+    překlady: <a href="https://translate.google.com/translate?sl=auto&tl=en&ie=UTF-8&u=./jak-na-3d-budovy-v-google-earth-cs.html"> en (google) </a>
+
+</div>      <p>Virtuání glóbus <a href="http://www.google.com/intl/cs/earth/index.html">Google
+Earth</a> jistě netřeba
+nikomu představovat, ale pro jistotu: tato zajímavá, volně dostupná
+aplikace umožňuje prohlížet si zemský povrch v neuvěřitelných detailech
+a to díky satelitním snímkům a trojrozměrnému terénu. Některá větší
+města jako např. New York nebo Londýn nabízí dokonce trojrozměrné modely
+budov, takže se mezi nimi může člověk krásně prolétávat. Zajímavé je, že
+k těmto velkým 3D velkoměstům se může s trochou snahy přidat třeba i
+vaše vesnice <span class="emoji emoji-smile"></span> Pokud vás zajímá jak, čtěte dál. Na tvorbu 3D budovy
+budeme potřebovat:</p>
+<ul>
+<li>vhodné a dostatečně kvalitní fotografie budovy</li>
+<li>software na úpravu 2D grafiky (na tvorbu textur z fotek, např.
+    bitmapový editor Photoshop nebo varianta zdarma
+    <a href="http://www.gimp.cz/ke-stazeni/">Gimp</a>)</li>
+<li>software na tvorbu 3D modelu (co umí vytvářet soubory ve formátu
+    <em>3ds</em>, např. 3DS Max)</li>
+<li>program <a href="http://sketchup.google.com/">Goole Sketchup</a> (pro samotné
+    umístení modelu na Zeměkouli)</li>
+<li>internetové připojení a trochu praxe s výše uvedenými programy (o
+    editaci 2D a 3D grafiky se zde z pochopitelných důvodů nemůžu do
+    detailů rozepisovat)</li>
+</ul>
+<p>Ještě jedna poznámka: k tvorbě budov lze použít jednoduchý a trochu
+omezenější webový nástroj <a href="http://sketchup.google.com/3dwh/buildingmaker.html">Building Maker</a>, k němuž snad
+ani není potřeba žádný tutoriál. Tento nástroj ale nemusí mít ve vaší
+lokaci dostupné letecké snímky nezbytné pro tvorbu modelu a tak se tento
+článek zaměřuje na vytváření modelu zcela na vlastní pěst a bude
+fungovat na kterémkoli místě na Zemi.</p>
+<h2>Krok 1: pořizování fotografií budovy</h2>
+<p><img alt="fotky domu" src="http://i.imgur.com/nH5Zy.png" title="pár fotografií budovy" /></p>
+<p>Ze všeho nejdřív je nutné pořídit dostatečně kvalitní fotografie
+zvoleného objektu. Máme k tomu dva důvody. Za prvé: z fotek se vytváří
+textury, kterými se "potáhne" trojrozměrný model, takže bude hezky
+barevný a realistický. Za druhé: fotografie nám poskytnou cenné
+informace o tvaru a proporcích budovy při vytváření modelu. K těmto
+věcem musíme při pořizování fotek přihlížet.</p>
+<p>Vždycky je lepší nafotit víc materiálu než míň. Budovu tedy foťte ze
+všech stran, pokud možno kolmo na každou stěnu (třeba i víckrát). Pokud
+před stěnou zavazí např. lampa, strom apod., vyfoťte ji i z jiného úhlu
+tak, aby bylo vidět, co za překážkou je. Důležité také je, aby na
+fotkách bylo zachyceno co nejvíc informací, tzn. každý skrytý kout
+(nezdá se to, ale neustále vyjíždět zpátky do terénu kvůli maličkostem
+je přinejmenším pěkná otrava). Problém bývá (překvapivě) s focením
+střechy shora, v takovém případě můžou posloužit satelitní snímky přímo
+z aplikace Google Earth, byť nejsou tak kvalitní, jak bychom si přáli -
+nicméně dají se slušně vylepšit ve Photoshopu, v nejhorším případě
+poslouží i textury nalezené na internetu (prostě vyhledáte na Googlu
+obrázky podobné budovy, ale vždy až jako poslední možnost).</p>
+<h2>Krok 2: tvorba textury</h2>
+<p><img alt="textura" src="http://i.imgur.com/gVQVQ.png" title="textura" />
+<img alt="model domu" src="http://i.imgur.com/KVQio.png" title="model domu bez textury a s texturou" /></p>
+<p>Tvorba textur může následovat klidně až po tvorbě modelu, já ale
+preferuju mít fotky už předem zpracované a zároveň si při tvorbě textur
+ujasníme, jak bude model zhruba vypadat. Jak už bylo řečeno, textura je
+obrázek vytvořený z fotek, který se nanese na trojrozměrný model domu
+(jinak bychom měli pouze jakousi bílou krabici). Jak by tedy měla
+správná textura vypadat?</p>
+<p>Všechny části (tzn. obrázky stěn, střechy atd.) by měly být naskládány
+vedle sebe tak, aby měl celý obrázek co nejmenší plochu (výrazně se tak
+zmenší velikost textury). Textura by taky měla mít přiměřené rozlišení -
+obrázek dveří rozhodně nebude mít několik megapixelů tak, jako na
+pořízené fotografii, proto ji vhodně zmenšíme. Velmi důležitou roli
+hraje odstín a jas, které by měly mít všechny stěny stejné a vůbec
+sladění veškerých částí musí být takové, aby na sebe co nejlépe
+navazovaly, jinak bude model působit dojmem krabičky poslepované z
+náhodně povystřihovaných fotek.</p>
+<p>Texturu vytvoříme ve vhodném bitmapovém editoru, který umí zmenšovat
+části obrázku, měnit jas, kontrast, odstíny barev, prolínat části
+obrázku atd., ideální je samozřejmě známý editor Photoshop, popř.
+varianta zdarma - Gimp. Pokud jste neměli tu čest setkat se s nějakým
+podobným programem, bohužel vás teď zklamu, ale nemůžu se zde
+rozepisovat o tom, jak editovat 2D grafiku. Avšak nezoufejte, na
+internetu je spousta tutoriálů a návodů, které vás to jistě slušně
+naučí. Výsledný soubor textury uložte nejlépe ve formátu <em>png</em> a
+pojmenujte jej jedním slovem malými písmeny bez speciálních znaků (jinak
+se můžete později setkat s problémy).</p>
+<h2>Krok 3: tvorba modelu</h2>
+<p><img alt="model v 3DS Maxu" src="http://i.imgur.com/8jwOI.png" title="model v 3DS Maxu" /></p>
+<p>Model vytvoříme ve 3D editoru - opět musím zklamat čtenáře neznalé práce
+v tomto oboru, ale toto téma je opravdu obrovsky rozsáhlé a vydalo by na
+několik článků. Já jsem se modelovat naučil z knížky <em>3ds Max - Výukový
+průvodce tvorbou postav, vozidel, budov a prostředí</em> (autor Andrew
+Gahan) a můžu ji vřele doporučit - jednoduchý model zvládnete vytvořit
+už po přečtení prvních pár kapitol.</p>
+<p>Model budovy dá v mnoha případech největší práci. Pokud je váš dům ale
+spíše "krabicovitého" typu, určitě se přiliš nenadřete. Ono vůbec s
+modely pro Google Earth by se to nemělo příliš přehánět co do míry
+detailů. Spousty detailů se dá efektivně dosáhnout např. pomocí
+průhledných textur. Rozhodně nemodelujte např. zábradlí nebo každý malý
+schodek trojrozměrně - pamatujte, že na modely se většinou dívá z dálky
+a množství polygonů rapidně zvyšuje "sekání" aplikace na pomalejších
+počítačích, proto buďme trochu ohleduplní <span class="emoji emoji-smile"></span> Taky nezapomeňte, že
+modelujeme pouze statickou budovu a nikoliv stromy, lidi a podobné věci.
+Pro jistotu si přečtěte <a href="http://sketchup.google.com/intl/cs/3dwh/acceptance_criteria.html">zásady tvorby modelů přímo od
+Googlu</a>.</p>
+<p>Cílem je dostat model ve formátu <em>3ds</em> (v 3DS Maxu tento formát
+dostanete volbou <em>File</em> -&gt; <em>Export</em>, běžným <em>File</em> -&gt; <em>Save</em> to
+nelze!). Ještě jednou upozorňuji, abyste si dali pozor na jméno souboru
+textury, které může být příčinou jejího nenačtení v pozdější fázi.</p>
+<h2>Krok 4: umístění modelu</h2>
+<p><img alt="vyhledání lokace budovy" src="http://i.imgur.com/2pzVn.png" title="vyhledání lokace budovy" />
+<img alt="umístění modelu" src="http://i.imgur.com/0YH5u.png" title="umístění modelu v Google SketchUp" /></p>
+<p>Zde budeme potřebovat aplikaci Google SketchUp, kterou lze snadno a
+bezplatně stáhnout. Nebojte se, nijak zvlášť pracovat s ní nemusíte
+umět, jde pouze o umístění modelu na Zeměkouli, natočení a změnu
+měřítka. Ze všeho nejdřív tlačítkem <em>Add Location</em> vyberte místo, kde má
+být model umístěn. Vámi vybraný náhled zvolené lokace se promítne do
+editačního okna, kde na něj za chvíli umístíte model. Nyní volbou <em>File</em>
+-&gt; <em>Import</em> nahrajte váš <em>3ds</em> model. Nejspíš bude hodně malý/velký a
+špatně natočený, proto jej musíte upravit tak, aby seděl co možná
+nejpřesněji na svém místě - použijte k tomu nástroje <em>Move</em> (přesun),
+<em>Rotate</em> (otáčení) a <em>Scale</em> (změna měřítka). Chce to trochu cviku, ale
+věřím, že to nakonec zvládnete. Tlačítkem <em>Prewiev Model in Google
+Earth</em> si můžete prohlédnout vaši budovu přímo v aplikaci Google Earth
+tak, jak bude vypadat ve výsledku. Jakmile budete s umístěním spokojeni,
+zbývá už jen poslední věc.</p>
+<h2>Krok 5: zaslání modelu Googlu</h2>
+<p><img alt="výsledek v Google Earth" src="http://i.imgur.com/IcXBc.png" title="výsledek v Google Earth" /></p>
+<p>V této fázi máme veškerou kreativní činnost za sebou a zbývá nám jen
+poslední krok. Námi vytvořený a umístěný model musíme zaslat Googlu, kde
+model ověří a případně zařadí do vrstvy 3D budov (takže se bude
+zobrazovat v aplikaci Google Earth). Ověření většinou Googlu trvá zhruba
+měsíc a informace o schválení modelu vám přijde e-mailem. Takže jak
+model Googlu odeslat?</p>
+<p>Ze všeho nejdřív si musíte zaregistrovat účet na stránkách <a href="https://www.google.com/accounts/ServiceLogin?service=warehouse&amp;passive=1209600&amp;continue=http://sketchup.google.com/3dwarehouse/?hl%3Den&amp;followup=http://sketchup.google.com/3dwarehouse/?hl%3Den">Google Warehouse</a>
+(jde o Googlovskou databázi volně dostupných 3D modelů, kde se mj.
+shromažďují i modely do Google Earth). Jakmile budete hotovi, existují
+dvě možnosti jak váš model do databáze nahrát. Tou první je přímo přes
+aplikaci Google SketchUp volbou <em>File</em> -&gt; <em>3D Warehouse</em> -&gt;
+<em>Share</em> (musíte mít samozřejmě otevřený model vaší budovy). Ve formuláři
+následně vyplníte informace o budově (komentář, adresu, fotku, ...) a
+potrvrdíte odeslání k inspekci (nezapomeňte zaškrtnout volbu <em>Google
+Earth Ready</em>, jinak se váš model k prověření vůbec nedostane!). Druhou
+možností, kterou často využívám (jelikož se u té první občas vyskytují
+technické problémy), je nahrání modelu přes webové rozhraní (tlačítko
+<em>upload</em> na stránkách Google Warehouse). Postup je podobný jako u první
+možnosti, jenom musíte svůj model vyexportovat z aplikace Google
+SketchUp volbou <em>File</em> -&gt; <em>Export</em> -&gt; <em>3D Model</em> do formátu <em>kmz</em>,
+který nahrajete přes prohlížeč na server Googlu.</p>
+<p>Nyní zbývá už jen čekat na e-mail s gratulacemi a oznámením o schválení
+vámi vytvořeného modelu a chlubit se svým známým s krásným mini-modelem
+třeba vašeho obydlí :)</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>. <br />
+                Original theme made by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, modified by Tastyfish. <br />
+                Emoji provided free by <a href="http://emojione.com/">EmojiOne</a>. <br />
+                <span class="publish-info">publish version</span>
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
