@@ -29,7 +29,7 @@ body
     padding: 0;
     text-align: left;
   }
-
+  
 img
   {
     max-width: 100%
@@ -152,6 +152,24 @@ blockquote
     font-style: italic;
   }
 
+sub, sup
+  {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+sup
+  {
+    top: -0.5em;
+  }
+
+sub
+  {
+    bottom: -0.25em;
+  }
+  
 /****** TABLES *****/
 
 table
@@ -238,6 +256,20 @@ div.note
     max-width: 300px;
   }
 
+.random-text p
+  {
+    padding: 2px 10px 0px;
+    margin: 10px 0px 0px;
+  }
+  
+.random-text span
+  {
+    display: block;
+    font-style: italic;
+    margin: 20px 0px 0px;
+    padding: 0px;
+  }
+  
 /***** LANGUAGE ****/
 
 .selected-lang
