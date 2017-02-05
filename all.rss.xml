@@ -730,7 +730,38 @@ Fénixův řád&lt;/p&gt;
 &lt;p&gt;Co dodat? Snad jen, že už pracuji na nápravě a že mám kolem sebe lidi,
 kteří mi v tom neskutečně pomáhají. Pokusím se tento semestr zvládnout z
 domu dva předměty a dát se do pořádku, abych mohl znovu pokračovat v
-životě &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Let's make a Skyrim-like text-based RPG together</title><link href="https://drummyfish.github.io/lets-make-a-skyrim-like-text-based-rpg-together-en.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/lets-make-a-skyrim-like-text-based-rpg-together-en.html</id><summary type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did and so I started a
+životě &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Pojďte se mnou psát textové RPG ve stylu Skyrimu</title><link href="https://drummyfish.github.io/skyrim-rpg.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/skyrim-rpg.html</id><summary type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto
+jsem s tím nedávno začal. Byl bych rád, kdyby se ke mně připojilo víc
+lidí - společně třeba vytvoříme dobrou hru. Nechce se mi moc psát, takže
+projekt představím v odrážkách:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jde o čistě textové RPG v příkazové řádce ve stylu interaktivní
+    knihy, která ale hráči nabídne extrémní svobodu, podobně jako např.
+    Skyrim. Neděláme žádnou grafiku (ani ASCII), žádné zvuky, ikony ani
+    nic podobného. V budoucnu nicméně uvažuji o samostatné nadstavbě,
+    která nabídne 3D nebo 2D grafiku se vším všudy. Tím, že se ze
+    začátku vzdáme grafiky, fyziky a dalších věcí, se můžeme soustředit
+    na vytvoření dobrého RPG jádra, které bude zároveň hratelnou hrou.&lt;/li&gt;
+&lt;li&gt;Všechno je open-source, multiplatformní, čistě v C++, držíme se
+    stylu KISS, používáme minimum knihoven a vždy pouze open-source.
+    Nikdo na projektu nevydělá ani korunu, jde čistě o vytvoření dobré
+    hry, proto taky nikdo po nikom nechce žádnou práci a každý přispívá
+    jenom tehdy, když má čas a chuť.&lt;/li&gt;
+&lt;li&gt;Naprostou většinu informací (koncepty, návrhy, kódové
+    konvence apod.) o projektu shromažďuji &lt;a href="https://docs.google.com/document/d/1jq0dE7DdXIpz_ytLAirXNP6_Oi0MdCSoMdU-_P1p9Lk/edit"&gt;v tomto
+    dokumentu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;GitHub:
+    &lt;a href="https://github.com/drummyfish/text-rpg"&gt;github.com/drummyfish/text-rpg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;projektový chat:
+    &lt;a href="https://skyrimtextrpg.hipchat.com/invite/407349/c1a6369243e2704c33cbc7bd5c11adf7?utm_campaign=add_users_link"&gt;HipChat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chcete se připojit? Stačí forknout projektový repozitář na GitHubu,
+napsat nějaký kód a poslat jej zpět pull requestem. Nevíte, co máte
+programovat? Podívejte se na UML diagram tříd ve složce other na GitHubu
+- najdete tam třídy, které je potřeba implementovat. Nebo se zeptejte na
+chatu. Nehledáme ale jenom programátory, je nutné dodělat UML diagram a
+domyslet spoustu věcí o hře, např. její jméno. Stačí se připojit na
+chat. Těšíme se na vás &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Let's make a Skyrim-like text-based RPG together</title><link href="https://drummyfish.github.io/en/skyrim-rpg.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/en/skyrim-rpg.html</id><summary type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did and so I started a
 project recently. I would like other people to join me and maybe we can
 make a nice game together. I don't feel like typing too much so I'll use
 a bulleted list&lt;/p&gt;
@@ -763,38 +794,7 @@ you'll find classes that need to be implemented there. Or just ask in
 chat. But We're not only looking for programmers, the UML diagram needs
 to be completed, we need to think about the game more, for example what
 will its name be. Just connect to our chat. We're looking forward to
-seeing you &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Pojďte se mnou psát textové RPG ve stylu Skyrimu</title><link href="https://drummyfish.github.io/pojdte-se-mnou-psat-textove-rpg-ve-stylu-skyrimu.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/pojdte-se-mnou-psat-textove-rpg-ve-stylu-skyrimu.html</id><summary type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto
-jsem s tím nedávno začal. Byl bych rád, kdyby se ke mně připojilo víc
-lidí - společně třeba vytvoříme dobrou hru. Nechce se mi moc psát, takže
-projekt představím v odrážkách:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Jde o čistě textové RPG v příkazové řádce ve stylu interaktivní
-    knihy, která ale hráči nabídne extrémní svobodu, podobně jako např.
-    Skyrim. Neděláme žádnou grafiku (ani ASCII), žádné zvuky, ikony ani
-    nic podobného. V budoucnu nicméně uvažuji o samostatné nadstavbě,
-    která nabídne 3D nebo 2D grafiku se vším všudy. Tím, že se ze
-    začátku vzdáme grafiky, fyziky a dalších věcí, se můžeme soustředit
-    na vytvoření dobrého RPG jádra, které bude zároveň hratelnou hrou.&lt;/li&gt;
-&lt;li&gt;Všechno je open-source, multiplatformní, čistě v C++, držíme se
-    stylu KISS, používáme minimum knihoven a vždy pouze open-source.
-    Nikdo na projektu nevydělá ani korunu, jde čistě o vytvoření dobré
-    hry, proto taky nikdo po nikom nechce žádnou práci a každý přispívá
-    jenom tehdy, když má čas a chuť.&lt;/li&gt;
-&lt;li&gt;Naprostou většinu informací (koncepty, návrhy, kódové
-    konvence apod.) o projektu shromažďuji &lt;a href="https://docs.google.com/document/d/1jq0dE7DdXIpz_ytLAirXNP6_Oi0MdCSoMdU-_P1p9Lk/edit"&gt;v tomto
-    dokumentu&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;GitHub:
-    &lt;a href="https://github.com/drummyfish/text-rpg"&gt;github.com/drummyfish/text-rpg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;projektový chat:
-    &lt;a href="https://skyrimtextrpg.hipchat.com/invite/407349/c1a6369243e2704c33cbc7bd5c11adf7?utm_campaign=add_users_link"&gt;HipChat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chcete se připojit? Stačí forknout projektový repozitář na GitHubu,
-napsat nějaký kód a poslat jej zpět pull requestem. Nevíte, co máte
-programovat? Podívejte se na UML diagram tříd ve složce other na GitHubu
-- najdete tam třídy, které je potřeba implementovat. Nebo se zeptejte na
-chatu. Nehledáme ale jenom programátory, je nutné dodělat UML diagram a
-domyslet spoustu věcí o hře, např. její jméno. Stačí se připojit na
-chat. Těšíme se na vás &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Linux - dosavadní zkušenosti</title><link href="https://drummyfish.github.io/linux-dosavadni-zkusenosti.html" rel="alternate"></link><published>2015-07-04T14:21:00+02:00</published><updated>2015-07-04T14:21:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-07-04:/linux-dosavadni-zkusenosti.html</id><summary type="html">&lt;p&gt;Podle data předchozího článku používám Linux jako primární
+seeing you &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Linux - dosavadní zkušenosti</title><link href="https://drummyfish.github.io/linux-dosavadni-zkusenosti.html" rel="alternate"></link><published>2015-07-04T14:21:00+02:00</published><updated>2015-07-04T14:21:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-07-04:/linux-dosavadni-zkusenosti.html</id><summary type="html">&lt;p&gt;Podle data předchozího článku používám Linux jako primární
 operační systém …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Podle data předchozího článku používám Linux jako primární
 operační systém asi měsíc a půl. Není to příliš dlouho, ale už teď
 vidím, že trend mé spokojenosti je stoupající, na rozdíl od Windows, kde
