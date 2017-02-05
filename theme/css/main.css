@@ -113,7 +113,7 @@ em, i
 
 #content ul
   {
-    list-style: outside circle;
+    list-style-position: outside circle;
     margin: 0em 0 0 2em;
   }
   
@@ -206,7 +206,7 @@ td
   {
     width: 200px;
     height: 200px;
-    margin: 50px 0 0 0;
+    margin: 5px 0 0 0;
     background-image: url('../images/fish.png');
     float: right;
     clear: none;
@@ -292,7 +292,7 @@ div.note
     width: 38px;
     height: 27px;
     float: right;
-    margin: 10px 10px 10px 0;
+    margin: 10px 10px 10px 0px;
   }
   
 .lang-cs
@@ -359,7 +359,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
     font-size: 1.143em;
     height: 40px;
     line-height: 30px;
-    margin: 5em auto 2em auto;
+    margin: 5em auto 1em auto;
     padding: 0;
     text-align: center;
     width: 800px;
@@ -811,13 +811,18 @@ li:last-child .hentry, #content > .hentry
   
 /****** OTHER ******/
 
-.tag-list
+ul.tag-list
   {
-    list-style: none;
+    list-style-type: none;
     margin-left: 0px;
   }
   
 .active-page
   {
     text-decoration: underline;
+  }
+  
+.github-projects td
+  {
+    border: none;
   }
