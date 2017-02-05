@@ -111,13 +111,13 @@ em, i
     font-style: italic;
   }
 
-ul
+#content ul
   {
     list-style: outside circle;
     margin: 0em 0 0 2em;
   }
   
-ul li
+#content ul li
   {
     padding-left: 10px;
   }
@@ -815,4 +815,9 @@ li:last-child .hentry, #content > .hentry
   {
     list-style: none;
     margin-left: 0px;
+  }
+  
+.active-page
+  {
+    text-decoration: underline;
   }
