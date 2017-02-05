@@ -113,8 +113,13 @@ em, i
 
 ul
   {
-    list-style: inside circle;
-    margin: 0em 0 0 1.5em;
+    list-style: outside circle;
+    margin: 0em 0 0 2em;
+  }
+  
+ul li
+  {
+    padding-left: 10px;
   }
 
 ol
@@ -629,7 +634,7 @@ div[class='social'] a
   }
 
 /******* BLOG ******/
-  
+
 .hentry
   {
     display: block;
@@ -802,4 +807,12 @@ li:last-child .hentry, #content > .hentry
 #add-comment *
   {
     margin-bottom: .5em;
+  }
+  
+/****** OTHER ******/
+
+.tag-list
+  {
+    list-style: none;
+    margin-left: 0px;
   }

@@ -51,7 +51,10 @@
         
       tastyfish <br />
         
-tags: <a href="https://drummyfish.github.io/tag/source.html">source</a>  <br />
+    tagy:
+  
+    <a href="https://drummyfish.github.io/tag/source.html">source</a>
+ <br />
  <br />
   
   překlady:
@@ -411,7 +414,7 @@ a <em>Stroj</em>. Od třídy <em>Živočich</em> odvodíme za pomoci dědičnost
 <em>Robot</em>. Třída <em>Živočich</em> může mít různé atributy a metody typické pro
 živočicha, řekněme třeba <em>datum narození</em> a stroji přiřkneme <em>výrobní
 číslo</em> (viz obrázek).</p>
-<p><img alt="příklad" src="http://i.imgur.com/QOD0at7.png" />{.center}<br />
+<p><img alt="příklad" class="center" src="http://i.imgur.com/QOD0at7.png" /><br />
 <pre>
 třída Živočich<br />
 {<br />
@@ -465,7 +468,7 @@ entity světa schopné mluvit. Této třídě přiřkne metodu <em>mluv</em> a t
 <em>Člověk</em> a <em>Robot</em> přikáže dědit vedle svých rodičovských tříd ještě
 navíc od třídy <em>Mluvící</em>, čímž právě tyto třídy zdědí požadovanou metodu
 (viz obrázek). Rázem vidíme, jak elegantní naše řešení je.</p>
-<p><img alt="příklad" src="http://i.imgur.com/EGsk1He.png" />{.center}<br />
+<p><img alt="příklad" class="center" src="http://i.imgur.com/EGsk1He.png" /><br />
 <pre><br />
 třída Živočich<br />
 {<br />
@@ -516,7 +519,7 @@ Kdybychom třídu <em>Mluvící</em> neměli, museli bychom složitě kontrolova
 jaké třídy předané objekty jsou a zda jsou schopny mluvit. Takto máme
 jistotu, že nad objekty předanými naší funkci můžeme vždycky zavolat
 metodu mluv.</p>
-<p><img alt="příklad" src="http://i.imgur.com/FEgwqqx.png" />{.right}</p>
+<p><img alt="příklad" class="right" src="http://i.imgur.com/FEgwqqx.png" /></p>
 <p>Druhou stranou mince jménem vícenásobná dědičnost je však řada problémů
 vyplývajících z možných konfliktů. Co když mají obě rodičovské třídy
 stejně pojmenovaný atribut ale s rozdílným datovým typem? Který z nich
@@ -542,7 +545,7 @@ můžeme volat metodu mluv a dosahujeme stejné výhody jako u vícenásobné
 dědičnosti - jako parametr funkce můžeme místo názvu třídy uvést název
 rozhraní a očekávat zde objekt, který toto rozhraní implementuje. Náš
 problém řešený pomocí rozhraní vypadá takto:</p>
-<p><img alt="příklad" src="http://i.imgur.com/LT4pJIX.png" />{.center}</p>
+<p><img alt="příklad" class="center" src="http://i.imgur.com/LT4pJIX.png" /></p>
 <h2>Návrhové vzory</h2>
 <p>Po nějakém čase stráveném programováním nevyhnutelně zjistíte, že řešíte
 nějaký problém podobný jinému, který jste už v minulosti řešili. Je

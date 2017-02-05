@@ -51,7 +51,11 @@
         
       tastyfish <br />
         
-tags: <a href="https://drummyfish.github.io/tag/graphics.html">graphics</a> <a href="https://drummyfish.github.io/tag/math.html">math</a>  <br />
+    tagy:
+  
+    <a href="https://drummyfish.github.io/tag/graphics.html">graphics</a>
+    <a href="https://drummyfish.github.io/tag/math.html">math</a>
+ <br />
  <br />
   
   překlady:
@@ -59,7 +63,7 @@ tags: <a href="https://drummyfish.github.io/tag/graphics.html">graphics</a> <a h
 
 <a href="https://translate.google.com/translate?sl=auto&tl=en&ie=UTF-8&u=https%3A//drummyfish.github.io/grupy-pasovych-symetrii.html"> en (google) </a>
 
-</div>      <p>Ve <a href="http://tastyfish.cz/?p=307&amp;lang=cs">výtvarné informatice</a>
+</div>      <p>Ve výtvarné informatice
 jsme kdysi letmo probírali <a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups">grupy symetrií v
 rovině</a> -
 zajímavé učivo, ale v té rychlosti jsem pobral jenom to, že se dají
@@ -82,7 +86,7 @@ např. Rubikovy kostky.</p>
 <p>Budeme se zaobírat tzv. pásovým dlážděním (line groups, frieze groups).
 U tohoto dláždění máme 2D vzor, který se ale opakuje jen v horizontálním
 směru, např. takto:</p>
-<p><img alt="real life" src="http://tastyfish.cz/wp-content/uploads/2016/08/real-life.jpg" />{.alignnone .size-full .wp-image-779 width="640" height="208"}</p>
+<p><img alt="real life" src="http://tastyfish.cz/wp-content/uploads/2016/08/real-life.jpg" /></p>
 <p>Intuitivně vidíme, že tento vzor v sobě má něco symetrického. Naším
 úkolem je nyní toto intuitivní tušení vyjádřit matematicky. Abychom to
 však mohli udělat, musíme nejdřív, jako všechno v matematice, pojem
@@ -116,20 +120,65 @@ každá šikovná babička vám dokáže uplést nespočet šál, každou s jin�
 motivem, s jinými barvami apod. Nezapomeňme ale, že nás nezajímají přímo
 vzory, ale symetrie, tedy jakési typy vzorů. A těch je, jak bylo
 dokázáno, pro pásové vzory pouze 7. Jsou následující:</p>
-<p>číslo  |symetrie        |příklad                                                                                                              |odborná označení
-  -------|----------------|---------------------------------------------------------------------------------------------------------------------|------------------
-  1      |P               |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/1/10/Frieze_example_p1.png" />                                        |p1
-  2      |P, P+V          |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Frieze_example_p11g.png/150px-Frieze_example_p11g.png" />  |p11g
-  3      |P, H            |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Frieze_example_p1m1.png/150px-Frieze_example_p1m1.png" />  |p1m1
-  4      |P, V+H          |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frieze_example_p2.png/150px-Frieze_example_p2.png" />      |p2
-  5      |P, H, V+H, P+V  |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frieze_example_p2mg.png/150px-Frieze_example_p2mg.png" />  |p2mg
-  6      |P, V            |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frieze_example_p11m.png/150px-Frieze_example_p11m.png" />  |p11m
-  7      |P, V, H         |<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frieze_example_p2mm.png/150px-Frieze_example_p2mm.png" />  |p2mm</p>
+<table>
+<thead>
+<tr>
+<th>číslo</th>
+<th>symetrie</th>
+<th>příklad</th>
+<th>odborná označení</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>P</td>
+<td><img alt="example1" src="http://upload.wikimedia.org/wikipedia/commons/1/10/Frieze_example_p1.png" /></td>
+<td>p1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>P, P+V</td>
+<td><img alt="example2" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Frieze_example_p11g.png/150px-Frieze_example_p11g.png" /></td>
+<td>p11g</td>
+</tr>
+<tr>
+<td>3</td>
+<td>P, H</td>
+<td><img alt="example3" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Frieze_example_p1m1.png/150px-Frieze_example_p1m1.png" /></td>
+<td>p1m1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>P, V+H</td>
+<td><img alt="example4" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frieze_example_p2.png/150px-Frieze_example_p2.png" /></td>
+<td>p2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>P, H, V+H, P+V</td>
+<td><img alt="example5" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frieze_example_p2mg.png/150px-Frieze_example_p2mg.png" /></td>
+<td>p2mg</td>
+</tr>
+<tr>
+<td>6</td>
+<td>P, V</td>
+<td><img alt="example6" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frieze_example_p11m.png/150px-Frieze_example_p11m.png" /></td>
+<td>p11m</td>
+</tr>
+<tr>
+<td>7</td>
+<td>P, V, H</td>
+<td><img alt="example7" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frieze_example_p2mm.png/150px-Frieze_example_p2mm.png" /></td>
+<td>p2mm</td>
+</tr>
+</tbody>
+</table>
 <p>Takže např. symetrie č. 2 má dvě symetrie (vůči posunu a vůči posunu
 plus vertikálnímu překlopení, což se také nazývá gliding reflection):</p>
 <p><img alt="animaion" src="http://tastyfish.cz/wp-content/uploads/2016/08/animaion.gif" /></p>
 <p>Zkuste si ověřit, že všechny zbývající vzorové příklady vykazují uvedené
-symetrie (a popřípadě napište, že jsem udělal chybu :D).</p>
+symetrie (a popřípadě napište, že jsem udělal chybu <span class="emoji emoji-grin"></span>).</p>
 <p>Co mají ale s tímhle vším společného grupy? Vezmeme-li totiž naše
 základní transformace (P,V,H) jako množinu a skládání transformací (tj.
 +) jako operaci, dostaneme grupu pro každou ze sedmi uvedených symetrií.

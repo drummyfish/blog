@@ -136,7 +136,7 @@ všeho navíc trvaly hrozně dlouho. Odnesl jsem si alespoň obecný přehled
 o celkem komplikovaném systému GUI na Unixech. Jelikož v předmětu není
 zápočet ani minimum ze zkoušky, stojí za zvážení v případě neodbytné
 potřeby kreditů.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://i.imgur.com/TxkrkiX.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" src="http://i.imgur.com/TxkrkiX.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Semestrální projekt (SEP)&lt;/h2&gt;
 &lt;p&gt;Semestrálním projektem student začíná diplomovou práci. V mém případě
 šlo o téma zobrazování pokřivených zrcadel, které jsem měl rozpracované
@@ -159,11 +159,32 @@ studentů v naší skupince.&lt;/p&gt;
 vedoucím a na vašem postoji. Zde lze pouze doporučit vybrat zajímavé
 téma, průběžně pracovat a konzultovat.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                         |získaných bodů  |známka
-  ------------------------------------------------|----------------|--------
-  Počítačové vidění (POV)                         |90/100          |A
-  Grafická uživatelská rozhraní v X Window (GUX)  |65/100          |D
-  Semestrální projekt (SEP)                       |90/100          |A&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Počítačové vidění (POV)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Grafická uživatelská rozhraní v X Window (GUX)&lt;/td&gt;
+&lt;td&gt;65/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Semestrální projekt (SEP)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,5  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 15.-21. z 90  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku oboru: 3.-4. z 22  &lt;/p&gt;
@@ -171,8 +192,8 @@ téma, průběžně pracovat a konzultovat.&lt;/p&gt;
 viď, viď, viď&lt;/p&gt;
 &lt;p&gt;Hermiona je nezávislá žena, nechala si své jméno (kromě toho, že změnila
 barvu pleti).&lt;/p&gt;
-&lt;p&gt;Jinak celkem OK.&lt;/p&gt;</content></entry><entry><title>Grupy pásových symetrií</title><link href="https://drummyfish.github.io/grupy-pasovych-symetrii.html" rel="alternate"></link><published>2016-08-29T14:16:00+02:00</published><updated>2016-08-29T14:16:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-08-29:/grupy-pasovych-symetrii.html</id><summary type="html">&lt;p&gt;Ve &lt;a href="http://tastyfish.cz/?p=307&amp;amp;lang=cs"&gt;výtvarné informatice&lt;/a&gt;
-jsme kdysi letmo probírali &lt;a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups"&gt;grupy symetrií v …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ve &lt;a href="http://tastyfish.cz/?p=307&amp;amp;lang=cs"&gt;výtvarné informatice&lt;/a&gt;
+&lt;p&gt;Jinak celkem OK.&lt;/p&gt;</content></entry><entry><title>Grupy pásových symetrií</title><link href="https://drummyfish.github.io/grupy-pasovych-symetrii.html" rel="alternate"></link><published>2016-08-29T14:16:00+02:00</published><updated>2016-08-29T14:16:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-08-29:/grupy-pasovych-symetrii.html</id><summary type="html">&lt;p&gt;Ve výtvarné informatice
+jsme kdysi letmo probírali &lt;a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups"&gt;grupy symetrií v …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ve výtvarné informatice
 jsme kdysi letmo probírali &lt;a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups"&gt;grupy symetrií v
 rovině&lt;/a&gt; -
 zajímavé učivo, ale v té rychlosti jsem pobral jenom to, že se dají
@@ -195,7 +216,7 @@ např. Rubikovy kostky.&lt;/p&gt;
 &lt;p&gt;Budeme se zaobírat tzv. pásovým dlážděním (line groups, frieze groups).
 U tohoto dláždění máme 2D vzor, který se ale opakuje jen v horizontálním
 směru, např. takto:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="real life" src="http://tastyfish.cz/wp-content/uploads/2016/08/real-life.jpg" /&gt;{.alignnone .size-full .wp-image-779 width="640" height="208"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="real life" src="http://tastyfish.cz/wp-content/uploads/2016/08/real-life.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Intuitivně vidíme, že tento vzor v sobě má něco symetrického. Naším
 úkolem je nyní toto intuitivní tušení vyjádřit matematicky. Abychom to
 však mohli udělat, musíme nejdřív, jako všechno v matematice, pojem
@@ -229,20 +250,65 @@ každá šikovná babička vám dokáže uplést nespočet šál, každou s jin�
 motivem, s jinými barvami apod. Nezapomeňme ale, že nás nezajímají přímo
 vzory, ale symetrie, tedy jakési typy vzorů. A těch je, jak bylo
 dokázáno, pro pásové vzory pouze 7. Jsou následující:&lt;/p&gt;
-&lt;p&gt;číslo  |symetrie        |příklad                                                                                                              |odborná označení
-  -------|----------------|---------------------------------------------------------------------------------------------------------------------|------------------
-  1      |P               |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/1/10/Frieze_example_p1.png" /&gt;                                        |p1
-  2      |P, P+V          |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Frieze_example_p11g.png/150px-Frieze_example_p11g.png" /&gt;  |p11g
-  3      |P, H            |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Frieze_example_p1m1.png/150px-Frieze_example_p1m1.png" /&gt;  |p1m1
-  4      |P, V+H          |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frieze_example_p2.png/150px-Frieze_example_p2.png" /&gt;      |p2
-  5      |P, H, V+H, P+V  |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frieze_example_p2mg.png/150px-Frieze_example_p2mg.png" /&gt;  |p2mg
-  6      |P, V            |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frieze_example_p11m.png/150px-Frieze_example_p11m.png" /&gt;  |p11m
-  7      |P, V, H         |&lt;img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frieze_example_p2mm.png/150px-Frieze_example_p2mm.png" /&gt;  |p2mm&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;číslo&lt;/th&gt;
+&lt;th&gt;symetrie&lt;/th&gt;
+&lt;th&gt;příklad&lt;/th&gt;
+&lt;th&gt;odborná označení&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;P&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example1" src="http://upload.wikimedia.org/wikipedia/commons/1/10/Frieze_example_p1.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;P, P+V&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example2" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Frieze_example_p11g.png/150px-Frieze_example_p11g.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p11g&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;P, H&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example3" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Frieze_example_p1m1.png/150px-Frieze_example_p1m1.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p1m1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;P, V+H&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example4" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Frieze_example_p2.png/150px-Frieze_example_p2.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;P, H, V+H, P+V&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example5" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frieze_example_p2mg.png/150px-Frieze_example_p2mg.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p2mg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;P, V&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example6" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frieze_example_p11m.png/150px-Frieze_example_p11m.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p11m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;P, V, H&lt;/td&gt;
+&lt;td&gt;&lt;img alt="example7" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Frieze_example_p2mm.png/150px-Frieze_example_p2mm.png" /&gt;&lt;/td&gt;
+&lt;td&gt;p2mm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Takže např. symetrie č. 2 má dvě symetrie (vůči posunu a vůči posunu
 plus vertikálnímu překlopení, což se také nazývá gliding reflection):&lt;/p&gt;
 &lt;p&gt;&lt;img alt="animaion" src="http://tastyfish.cz/wp-content/uploads/2016/08/animaion.gif" /&gt;&lt;/p&gt;
 &lt;p&gt;Zkuste si ověřit, že všechny zbývající vzorové příklady vykazují uvedené
-symetrie (a popřípadě napište, že jsem udělal chybu :D).&lt;/p&gt;
+symetrie (a popřípadě napište, že jsem udělal chybu &lt;span class="emoji emoji-grin"&gt;&lt;/span&gt;).&lt;/p&gt;
 &lt;p&gt;Co mají ale s tímhle vším společného grupy? Vezmeme-li totiž naše
 základní transformace (P,V,H) jako množinu a skládání transformací (tj.
 +) jako operaci, dostaneme grupu pro každou ze sedmi uvedených symetrií.
@@ -320,7 +386,7 @@ je moje nové vnímání CAD systémů, za nějž vděčím kvalitním předná�
 pana Chudého. Teď nejenom vidím rozdíl mezi 3D modelováním pro
 vizualizace a 3D modelováním pro výrobu a simulaci, ale taky se mi CAD
 systémy celkem líbí samy o sobě.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://img12.deviantart.net/927d/i/2016/097/6/c/1_pp_by_drummyfish-d9y15mu.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" src="http://img12.deviantart.net/927d/i/2016/097/6/c/1_pp_by_drummyfish-d9y15mu.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Vysoce náročné výpočty (VNV)&lt;/h2&gt;
 &lt;p&gt;VNV vypadalo na první pohled strašidelně, ale zapsal jsem si jej po
 pozitivních referencích spolužáků. Ukázalo se, že předmět opravdu nebyl
@@ -485,11 +551,32 @@ přišlo mi nakonec 38 bodů a éčko.&lt;/p&gt;
 ARC pro vás, jinak ale ne. Jako grafik bych teď asi sáhl po jiném PVC
 předmětu.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                                |získaných bodů  |známka
-  -------------------------------------------------------|----------------|--------
-  Vizualizace a CAD (VIZ)                                |88/100          |B
-  Vysoce náročné výpočty (VNV)                           |73/100          |C
-  Architektura a programování paralelních systémů (ARC)  |58/100          |E&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Vizualizace a CAD (VIZ)&lt;/td&gt;
+&lt;td&gt;88/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vysoce náročné výpočty (VNV)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Architektura a programování paralelních systémů (ARC)&lt;/td&gt;
+&lt;td&gt;58/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 2,166&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 107.-112. z 203  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku oboru: 4. z 46  &lt;/p&gt;
@@ -677,12 +764,29 @@ což mi ale pořád vyšlo na A.&lt;/p&gt;
 nástroje v oblasti počítačové grafiky. Pokud vás zhodnocení zaujalo a
 chtěli byste se naučit třeba Blender (doporučuji), zapište si v letním
 semestru předmět VIZ, který je velmi podobný.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://img01.deviantart.net/9388/i/2015/299/c/8/sci_fi_chess_by_drummyfish-d9effp7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" src="http://img01.deviantart.net/9388/i/2015/299/c/8/sci_fi_chess_by_drummyfish-d9effp7.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                    |získaných bodů  |známka
-  -------------------------------------------|----------------|--------
-  Grafická a zvuková rozhraní a normy (GZN)  |85/100          |B
-  Kreativní grafika (KRG)                    |90/100          |A&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Grafická a zvuková rozhraní a normy (GZN)&lt;/td&gt;
+&lt;td&gt;85/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kreativní grafika (KRG)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,277  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 10. z 211  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku oboru: 4. z 47  &lt;/p&gt;
@@ -1372,17 +1476,54 @@ jsem plných 50 bodů, takže jsem dal předmět na celých mega 100 %.&lt;/p&gt
 na nic ani stěžovat nelze, předmět je zajímavý, nenáročný, pro leckoho
 přínosný a pan Staudek mu dává mnohem víc, než by musel. Tady lze jenom
 chválit.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://i.imgur.com/Z7KEPEM.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" src="http://i.imgur.com/Z7KEPEM.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                        |získaných bodů  |známka
-  -----------------------------------------------|----------------|--------
-  Fyzikální optika (FYO)                         |58/100          |E
-  Multimédia (MUL)                               |92/100          |A
-  Přenos dat, počítačové sítě a protokoly (PDS)  |54/100          |E
-  Zpracování obrazu (ZPO)                        |86/100          |B
-  Zpracování řečových signálů (ZRE)              |85/100          |B
-  Internetové aplikace (WAP)                     |94/100          |A
-  Výtvarná informatika (VIN)                     |100/100         |A&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Fyzikální optika (FYO)&lt;/td&gt;
+&lt;td&gt;58/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Multimédia (MUL)&lt;/td&gt;
+&lt;td&gt;92/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Přenos dat, počítačové sítě a protokoly (PDS)&lt;/td&gt;
+&lt;td&gt;54/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zpracování obrazu (ZPO)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zpracování řečových signálů (ZRE)&lt;/td&gt;
+&lt;td&gt;85/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Internetové aplikace (WAP)&lt;/td&gt;
+&lt;td&gt;94/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Výtvarná informatika (VIN)&lt;/td&gt;
+&lt;td&gt;100/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,714&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 19.-21. &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku oboru: 3.  &lt;/p&gt;
@@ -1718,7 +1859,7 @@ tady málo v porovnání s tím, co je špatně. Chtělo by to občas nějaký
 příklad na přednášce, vyškrtat zbytečnosti ze slajdů, zdůrazňovat učivo,
 které je hodně důležité a tomu taky věnovat čas navíc... zkrátka udělat
 učení pro studenty trochu příjemnějším.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="projekt" src="http://i.imgur.com/9aca8n1.png" /&gt;{.center width="640"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="http://i.imgur.com/9aca8n1.png" width="640" /&gt;&lt;/p&gt;
 &lt;h2&gt;Seminář teoretické informatiky (STI)&lt;/h2&gt;
 &lt;p&gt;STI je pomocný předmět k předmětu TIN a jedná se v podstatě o taková
 demonstrační cvičení. TIN totiž sám o sobě je tak nabitý informacemi, že
@@ -1944,7 +2085,7 @@ protože to byla hloupá chyba, navíc jsem taky mohl něco víc napsat k těm
 byl taky užitečný. Líbil se mi projekt a líbily se mi přednášky. S ničím
 nebyl problém a s ničím nebyly nervy. Myslím, že to potvrzuje to, co
 říkám pořád - ústav UPGM zaměstnává nejpohodovější lidi na FITu.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="projekt" src="http://i.imgur.com/YjaDlcS.png" /&gt;{.center width="640"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="http://i.imgur.com/YjaDlcS.png" width="640" /&gt;&lt;/p&gt;
 &lt;h2&gt;Pokročilá počítačová grafika (PGP)&lt;/h2&gt;
 &lt;div class="fit-but-cheatsheet"&gt;
 &lt;a href="http://i.imgur.com/EJfGbnp.jpg" target="blank"&gt;
@@ -2027,7 +2168,7 @@ přátelští a ochotní s čímkoliv pomoct. Písemky a projekty jsou rychle
 opravené, hodiny mají příjemnou atmosféru, zajímavá témata, a navíc si
 vyzkoušíte pěkný projekt. PGP určitě doporučuju, a to i zájemcům z
 negrafických oborů, pokud je grafika trochu zajímá a prošli si PGR.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="projekt" src="http://i.imgur.com/o20fwVq.png" /&gt;{.center width="640"}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="http://i.imgur.com/o20fwVq.png" width="640" /&gt;&lt;/p&gt;
 &lt;h2&gt;Matematické struktury v informatice (MAT)&lt;/h2&gt;
 &lt;div class="fit-but-cheatsheet"&gt;
 &lt;a href="http://i.imgur.com/VQQ2M7c.jpg" target="blank"&gt;
@@ -2113,16 +2254,57 @@ nebo jen se spolužáky. Snažte se co nejlíp napsat půlsemestrálku - hodně
 vám to pomůže. Tohle budou asi jediné užitečné rady do doby, než se
 předmět trochu zlepší.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                   |získaných bodů          |známka
-  ------------------------------------------|------------------------|------------------------
-  Teoretická informatika (TIN)              |86/100                  |B
-  Pokročilé databázové systémy (PDB)        |70/100                  |C
-  Seminář teoretické informatiky (STI)      |                        |zápočet
-  Dějiny a filozofie techniky (FIT)         |                        |zápočet
-  Hardware/Software Codesign (HSC)          |66/100                  |D
-  Počítačová grafika (PGR)                  |90/100                  |A
-  Pokročilá počítačová grafika (PGP)        |90/100                  |A
-  Matematické struktury v informatice (MAT) |80/100                  |B&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Teoretická informatika (TIN)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pokročilé databázové systémy (PDB)&lt;/td&gt;
+&lt;td&gt;70/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Seminář teoretické informatiky (STI)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dějiny a filozofie techniky (FIT)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hardware/Software Codesign (HSC)&lt;/td&gt;
+&lt;td&gt;66/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Počítačová grafika (PGR)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pokročilá počítačová grafika (PGP)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Matematické struktury v informatice (MAT)&lt;/td&gt;
+&lt;td&gt;80/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,583&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 10. z 106 (studenti bez F s alespoň 25 kredity)&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku oboru: 3. z 55&lt;/p&gt;
@@ -2454,9 +2636,22 @@ nanosekundu a nebo se jenom chce přiučit, jakými instrukcemi operační
 systém zajišťuje multitasking, ochranu paměti atd., přijde si zde na
 své.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky (zimní semestr)&lt;/h2&gt;
-&lt;p&gt;předmět                    |získaných bodů  |známka
-  ---------------------------|----------------|--------
-  Pokročilé asemblery (IPA)  |57/100          |E&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Pokročilé asemblery (IPA)&lt;/td&gt;
+&lt;td&gt;57/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 3
 pořadí v ročníku: 125.-138. místo z 164
 prospěchové stipendium: 0 Kč&lt;/p&gt;
@@ -2560,11 +2755,32 @@ na začátku si jenom pomůžete a zvýšíte pravděpodobnost úspěchu (viz
 &lt;p&gt;&lt;a href="https://www.dropbox.com/s/aq30uwvws1snj3q/otazky%20bc.zip?dl=0"&gt;státnice
 otázky&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky (letní semestr)&lt;/h2&gt;
-&lt;p&gt;předmět                 |získaných bodů          |známka
-  ------------------------|------------------------|------------------------
-  SZZ - bakalářská práce  |                        |A
-  SZZ - ústní část        |                        |B
-  SZZ - celkově           |                        |B&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;SZZ - bakalářská práce&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SZZ - ústní část&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SZZ - celkově&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr celého studia: 1,948&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 6. místo z 164&lt;/p&gt;
 &lt;p&gt;prospěchové stipendium: 600 Kč&lt;/p&gt;
@@ -2984,10 +3200,27 @@ dokázal a to dokonce i při nižším nasazení. Španělsky teď umím opravdu
 jenom hodně málo, ale se slovníkem dokážu přečíst jednoduchý test.
 Myslím, že co se týká základů, tento kurz splnil očekávání.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                             |získaných bodů  |známka
-  ------------------------------------|----------------|--------
-  Typografie a publikování (ITY)      |86/100          |B
-  Španělština: začátečníci 2/2 (JS1)  |85/100          |B&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Typografie a publikování (ITY)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Španělština: začátečníci 2/2 (JS1)&lt;/td&gt;
+&lt;td&gt;85/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,5  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 47.-65. místo z 377 (studenti bez F s alespoň 25 kredity)  &lt;/p&gt;
 &lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 5. semestr</title><link href="https://drummyfish.github.io/bc5.html" rel="alternate"></link><published>2013-02-05T16:25:00+01:00</published><updated>2013-02-05T16:25:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2013-02-05:/bc5.html</id><summary type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě nebyly na
@@ -2998,7 +3231,7 @@ termín, což se nepříjemně podepsalo na organizaci rozvrhu. Bohužel by to
 nebyl ten pravý semestr, kdyby se neobjevilo něco, co mi jej ke konci
 značně zkomplikuje...&lt;/p&gt;
 &lt;h2&gt;Komplikace&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="sad face" src="http://i.imgur.com/6IwyoNo.png" /&gt;{.right .alignright}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sad face" class="right alignright" src="http://i.imgur.com/6IwyoNo.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Ano, bohužel jsem to se školou trochu přehnal a těsně před zkouškami se
 mi značně zhoršil zdravotní stav - ne, bohužel nešlo o pouhou chřipku.
 Za všechno může pravděpodobně delší stres, odpíraný odpočinek a problémy
@@ -3070,7 +3303,7 @@ vděčíme podprahovým signálům v názvu naší domény
 chtěli jsme taky nechat na pozadí problikávat áčka, ale k tomu už nám
 chyběla odvaha \^\^). Dost se mi ulevilo, protože kolegovi se nepovedla
 půlsemestrálka a potřeboval aspoň 20 bodů.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IIS projekt" src="/uploaded/iis_screenshot.png" /&gt;{.center}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="IIS projekt" class="center" src="/uploaded/iis_screenshot.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Učení na půlsemestrálku jsem věnoval dost času, neboť jsem se bál laťky
 zápočtu nasazené poměrně vysoko na 25 bodů. S teoretickými otázkami jsem
 se nakonec vypořádal celkem dobře, nicméně dostal mě příklad na XSLT a
@@ -3422,7 +3655,7 @@ a zápočet mi udělil.&lt;/p&gt;
 vám bude dělat stokrát líp než něco, co děláte jen kvůli titulu. Jinak
 jakékoliv téma, které vás zaujme a je u ing. Mileta, doporučuji, protože
 je to skvělý vedoucí.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="texture examples" src="http://i.imgur.com/R0IAux5.png" /&gt;{.center}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="texture examples" class="center" src="http://i.imgur.com/R0IAux5.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Tvorba uživatelských rozhraní (ITU)&lt;/h2&gt;
 &lt;div class="fit-but-cheatsheet"&gt;
 &lt;a href="http://i.imgur.com/Mzy2vMw.jpg" target="blank"&gt;
@@ -3477,7 +3710,7 @@ Photoshopu a zápočet dostali i tak. Celé dílo bylo následně dle zadání
 testováno na lidech (většinou příslušnících našich rodin) a rovněž na
 pár stránkách zdokumentováno. Výsledkem veškeré práce byla nakonec
 krátká PDF prezentace.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="projekt" src="/uploaded/fotoedit_screenshot.png" /&gt;{.center}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="center" src="/uploaded/fotoedit_screenshot.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Ta probíhala před ostatními studenty na daném termínu. Pan garant seděl
 vzadu učebny, vše s občasným komentářem sledoval a na závěr prezentací
 rozdal body. Hotové programy podle mě ani neviděl, šlo prakticky jen o
@@ -3898,7 +4131,7 @@ a &lt;em&gt;Stroj&lt;/em&gt;. Od třídy &lt;em&gt;Živočich&lt;/em&gt; odvodí
 &lt;em&gt;Robot&lt;/em&gt;. Třída &lt;em&gt;Živočich&lt;/em&gt; může mít různé atributy a metody typické pro
 živočicha, řekněme třeba &lt;em&gt;datum narození&lt;/em&gt; a stroji přiřkneme &lt;em&gt;výrobní
 číslo&lt;/em&gt; (viz obrázek).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="příklad" src="http://i.imgur.com/QOD0at7.png" /&gt;{.center}&lt;br /&gt;
+&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/QOD0at7.png" /&gt;&lt;br /&gt;
 &lt;pre&gt;
 třída Živočich&lt;br /&gt;
 {&lt;br /&gt;
@@ -3952,7 +4185,7 @@ entity světa schopné mluvit. Této třídě přiřkne metodu &lt;em&gt;mluv&lt
 &lt;em&gt;Člověk&lt;/em&gt; a &lt;em&gt;Robot&lt;/em&gt; přikáže dědit vedle svých rodičovských tříd ještě
 navíc od třídy &lt;em&gt;Mluvící&lt;/em&gt;, čímž právě tyto třídy zdědí požadovanou metodu
 (viz obrázek). Rázem vidíme, jak elegantní naše řešení je.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="příklad" src="http://i.imgur.com/EGsk1He.png" /&gt;{.center}&lt;br /&gt;
+&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/EGsk1He.png" /&gt;&lt;br /&gt;
 &lt;pre&gt;&lt;br /&gt;
 třída Živočich&lt;br /&gt;
 {&lt;br /&gt;
@@ -4003,7 +4236,7 @@ Kdybychom třídu &lt;em&gt;Mluvící&lt;/em&gt; neměli, museli bychom složit�
 jaké třídy předané objekty jsou a zda jsou schopny mluvit. Takto máme
 jistotu, že nad objekty předanými naší funkci můžeme vždycky zavolat
 metodu mluv.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="příklad" src="http://i.imgur.com/FEgwqqx.png" /&gt;{.right}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="příklad" class="right" src="http://i.imgur.com/FEgwqqx.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Druhou stranou mince jménem vícenásobná dědičnost je však řada problémů
 vyplývajících z možných konfliktů. Co když mají obě rodičovské třídy
 stejně pojmenovaný atribut ale s rozdílným datovým typem? Který z nich
@@ -4029,7 +4262,7 @@ můžeme volat metodu mluv a dosahujeme stejné výhody jako u vícenásobné
 dědičnosti - jako parametr funkce můžeme místo názvu třídy uvést název
 rozhraní a očekávat zde objekt, který toto rozhraní implementuje. Náš
 problém řešený pomocí rozhraní vypadá takto:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="příklad" src="http://i.imgur.com/LT4pJIX.png" /&gt;{.center}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/LT4pJIX.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Návrhové vzory&lt;/h2&gt;
 &lt;p&gt;Po nějakém čase stráveném programováním nevyhnutelně zjistíte, že řešíte
 nějaký problém podobný jinému, který jste už v minulosti řešili. Je
@@ -4181,7 +4414,7 @@ použiju pseudokód, i když ke konci mám ke stažení i zdrojový kód v C++.
 (zhruba do té míry, že vědí, co je to ukazatel) a chtějí se posunout o
 kousek dál k něčemu, co je dnes ve světě informatiky jedním z
 nejrozšířenějších přístupů k řešení problémů.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="OOP a okolní svět" src="http://i.imgur.com/trnFGUQ.png" /&gt;{.center}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OOP a okolní svět" class="center" src="http://i.imgur.com/trnFGUQ.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Jak tedy OOP funguje?&lt;/h2&gt;
 &lt;p&gt;Jak jste jistě vytušili, objektové programování je paradigma - určitá
 filozofie, podobně jako např. programování imperativní nebo
@@ -4217,7 +4450,7 @@ pochopit systém, kterým se OOP realizuje. Velmi základními pojmy jsou
 pro nás nyní objekt a třída.&lt;/p&gt;
 &lt;p&gt;Objekt, jak už bylo řečeno, je určitá samostatná jednotka, popř. jakási
 černá skříňka řešící určitou úlohu. Každý objekt má dva typy komponent:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="objekt" src="http://i.imgur.com/6OeKFQJ.png" /&gt;{.right .aligncenter}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="objekt" class="right aligncenter" src="http://i.imgur.com/6OeKFQJ.png" /&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Data, nazývané atributy nebo vlastnosti. Jde v podstatě o vnitřní
     proměnné objektu určující jeho stav. U objektu typu člověk by to
@@ -4260,7 +4493,7 @@ instance. Pokud bychom uvažovali výše zmíněný příklad, pak bychom
 definovali třídu &lt;em&gt;Člověk&lt;/em&gt; a byli tak schopni vytvářet libovolné množství
 objektů této třídy, každý s rozdílnými hodnotami svých atributů &lt;em&gt;jméno&lt;/em&gt;,
 &lt;em&gt;věk&lt;/em&gt; a &lt;em&gt;váha&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="třídy a objekty" src="http://i.imgur.com/ThpLXzH.png" /&gt;{.right .aligncenter}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="třídy a objekty" class="right aligncenter" src="http://i.imgur.com/ThpLXzH.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Je nutné říct, že existují jazyky, které třídy nepoužívají a pracují
 pouze s objekty, jež vytvářejí ne na základě tříd, ale díky tzn.
 klonování. Při programování běžných aplikací se však častěji setkáme s
@@ -4384,7 +4617,7 @@ abyste viděli, že si nevymýšlím.&lt;/p&gt;
 představují třídy a kolečka objekty. Rovné čáry naznačují dědičnost,
 zaoblené čáry ukazují, od kterých tříd jsou objekty odvozeny a
 přerušované čáry vyjadřují vztah "vlastnictví psa".&lt;/p&gt;
-&lt;p&gt;&lt;img alt="obrázek programu" src="http://i.imgur.com/t3NWNUt.png" /&gt;{.center .aligncenter}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="obrázek programu" class="center aligncenter" src="http://i.imgur.com/t3NWNUt.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Příklad je snad víceméně jasný. Naučit se OOP důkladně samozřejmě není
 triviální věc a vyžaduje určitý čas. Jako vždy platí, nejlépe se
 programovat naučíte programováním. Proto si zkuste vybrat vhodný
@@ -4844,15 +5077,52 @@ chodit a kamarád vám bude křížkovat docházku. Myslím ale, že přednášk
 mají něco do sebe a jsem rád, že jsem si ze všech možností zapsal právě
 PRM.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                    |získaných bodů          |známka
-  -------------------------------------------|------------------------|------------------------
-  Databázové systémy (IDS)                   |73/100                  |C
-  Počítačové komunikace a sítě (IPK)         |73/100                  |C
-  Principy programovacích jazyků a OOP (IPP) |57/100                  |E
-  Základy počítačové grafiky (IZG)           |83/100                  |B
-  Základy umělé inteligence (IZU)            |77/100                  |C
-  Seminář Java (IJA)                         |84/100                  |zápočet
-  Právní minimum (PRM)                       |                        |zápočet&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Databázové systémy (IDS)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Počítačové komunikace a sítě (IPK)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Principy programovacích jazyků a OOP (IPP)&lt;/td&gt;
+&lt;td&gt;57/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Základy počítačové grafiky (IZG)&lt;/td&gt;
+&lt;td&gt;83/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Základy umělé inteligence (IZU)&lt;/td&gt;
+&lt;td&gt;77/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Seminář Java (IJA)&lt;/td&gt;
+&lt;td&gt;84/100&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Právní minimum (PRM)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;zápočet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 2,08&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 58.-59. místo z 138 (studenti bez F s alespoň 25 kredity)  &lt;/p&gt;
 &lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Fraktály - krása matematiky</title><link href="https://drummyfish.github.io/fraktaly-krasa-matematiky.html" rel="alternate"></link><published>2012-05-20T17:32:00+02:00</published><updated>2012-05-20T17:32:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-05-20:/fraktaly-krasa-matematiky.html</id><summary type="html">&lt;p&gt;Je škoda, že osnovy matematiky pro střední školy nezahrnují
@@ -5471,14 +5741,47 @@ se nebraly v potaz výkony během semestru ale jenom u zkoušky.&lt;/p&gt;
 pedagogické minimum, mám už jeden předmět v kapse. Doporučuju všem, koho
 zajímá psychologie a/nebo pedagogika.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                       |získaných bodů  |známka
-  ----------------------------------------------|----------------|--------
-  Algoritmy (IAL)                               |75/100          |C
-  Formální jazyky a překladače (IFJ)            |78/100          |C
-  Numerická matematika a pravděpodobnost (INM)  |79/100          |C
-  Návrh počítačových systémů (INP)              |70/100          |C
-  Signály a systémy (ISS)                       |84/100          |B
-  Pedagogická psychologie (IPSO)                |65/100          |D&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Algoritmy (IAL)&lt;/td&gt;
+&lt;td&gt;75/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Formální jazyky a překladače (IFJ)&lt;/td&gt;
+&lt;td&gt;78/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Numerická matematika a pravděpodobnost (INM)&lt;/td&gt;
+&lt;td&gt;79/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Návrh počítačových systémů (INP)&lt;/td&gt;
+&lt;td&gt;70/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Signály a systémy (ISS)&lt;/td&gt;
+&lt;td&gt;84/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pedagogická psychologie (IPSO)&lt;/td&gt;
+&lt;td&gt;65/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,983&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 78. místo z 275 (studenti bez F s alespoň 25 kredity)&lt;/p&gt;
 &lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 2. semestr</title><link href="https://drummyfish.github.io/bc2.html" rel="alternate"></link><published>2011-06-20T16:05:00+02:00</published><updated>2011-06-20T16:05:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2011-06-20:/bc2.html</id><summary type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady se zhodnocením
@@ -5878,7 +6181,7 @@ testu (1 - N správných odpovědí). Otázky typu "jakou barvou se zobrazí
 element xyz?" nijak nepřekvapily, avšak přípravě jsem nevěnoval mnoho
 času a výsledkem se mi stalo pouhých 12 bodů ze 20. Nutno říct, že moji
 kamarádi na tom nebyli o mnoho lépe &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="projekt" src="http://i.imgur.com/02m708n.png" /&gt;{.alignright}&lt;/p&gt;
+&lt;p&gt;&lt;img alt="projekt" class="alignright" src="http://i.imgur.com/02m708n.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Měl bych taky zmínit dva příjemné projektíky. Jeden po vzoru cvičení
 zadával podle screenshotu nastylovat danou HTML stránku a s malou pomocí
 kamaráda mi vynesl 18 bodů z 20. Další projekt dával více prostoru
@@ -5896,15 +6199,52 @@ naučil, co se při návrhu webů sluší a co ne a posunul mé schopnosti v
 tomto oboru o něco vpřed (výsledek vidíte ve svém prohlížeči). ITW můžu
 případným zájemcům vřele doporučit.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                   |získaných bodů  |známka
-  ------------------------------------------|----------------|--------
-  Fyzika (IFY)                              |90/100          |A
-  Matematická analýza (IMA)                 |83/100          |B
-  Návrh číslicových systémů (INC)           |87/100          |B
-  Operační systémy (IOS)                    |71/100          |C
-  Prvky počítačů (IPR)                      |68/100          |D
-  Angličtina 4: středně pokročilý 2 (BAN4)  |98/100          |A
-  Tworba webových stránek (ITW)             |86/100          |B&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Fyzika (IFY)&lt;/td&gt;
+&lt;td&gt;90/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Matematická analýza (IMA)&lt;/td&gt;
+&lt;td&gt;83/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Návrh číslicových systémů (INC)&lt;/td&gt;
+&lt;td&gt;87/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Operační systémy (IOS)&lt;/td&gt;
+&lt;td&gt;71/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prvky počítačů (IPR)&lt;/td&gt;
+&lt;td&gt;68/100&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Angličtina 4: středně pokročilý 2 (BAN4)&lt;/td&gt;
+&lt;td&gt;98/100&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tworba webových stránek (ITW)&lt;/td&gt;
+&lt;td&gt;86/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 1,581&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 25. místo z 184 (studenti bez F s alespoň 25 kredity)&lt;/p&gt;
 &lt;p&gt;prospěchové stipendium: 7174 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 1. semestr</title><link href="https://drummyfish.github.io/bc1.html" rel="alternate"></link><published>2011-01-28T21:20:00+01:00</published><updated>2011-01-28T21:20:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2011-01-28:/bc1.html</id><summary type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve spoustě
@@ -6264,13 +6604,42 @@ součtu mi výsledek dal poctivých 43 bodů (z 60).&lt;/p&gt;
 zvládnutelný. Každopádně vyžaduje hodně obětování a času výměnou za
 krásný pocit sebevědomí po jeho zvládnutí.&lt;/p&gt;
 &lt;h2&gt;Celkové výsledky&lt;/h2&gt;
-&lt;p&gt;předmět                                 |získaných bodů  |známka
-  ----------------------------------------|----------------|--------
-  Asemblery (IAS)                         |73/100          |C
-  Diskrétní matematika (IDA)              |83/100          |B
-  Teorie obvodů (ITO)                     |59/100          |E
-  Úvod do softwarového inženýrství (IUS)  |74/100          |C
-  Základy programování (IZP)              |72/100          |C&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;předmět&lt;/th&gt;
+&lt;th&gt;získaných bodů&lt;/th&gt;
+&lt;th&gt;známka&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Asemblery (IAS)&lt;/td&gt;
+&lt;td&gt;73/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Diskrétní matematika (IDA)&lt;/td&gt;
+&lt;td&gt;83/100&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Teorie obvodů (ITO)&lt;/td&gt;
+&lt;td&gt;59/100&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Úvod do softwarového inženýrství (IUS)&lt;/td&gt;
+&lt;td&gt;74/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Základy programování (IZP)&lt;/td&gt;
+&lt;td&gt;72/100&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;průměr: 2,08&lt;br /&gt;
 pořadí v ročníku: 65.-73. místo z 269 (studenti bez F s alespoň 25
 kredity)&lt;br /&gt;
