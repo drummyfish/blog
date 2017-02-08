@@ -1155,7 +1155,273 @@ předmětu.&lt;/p&gt;
       &lt;/tr&gt;
 
 
-&lt;/table&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/diskuse-nazory-ma-to-vubec-cenu.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/diskuse-nazory-ma-to-vubec-cenu.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
+
+
+      &lt;tr&gt;
+
+          &lt;td rowspan="3"&gt; L &lt;/td&gt;
+
+        &lt;td&gt; ARC &lt;/td&gt;
+        &lt;td&gt; Architektura a programování paralelních systémů &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; PVC &lt;/td&gt;
+
+        &lt;td&gt; 7/10
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          10/15
+
+          3/15
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 38/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            58&amp;nbsp;E
+        &lt;/td&gt;
+
+          &lt;td rowspan="3"&gt; 15 &lt;/td&gt;
+          &lt;td rowspan="3"&gt;  2.166 &lt;/td&gt;
+          &lt;td rowspan="3"&gt; 110-115/198 &lt;/td&gt;
+          &lt;td rowspan="3"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+
+        &lt;td&gt; VNV &lt;/td&gt;
+        &lt;td&gt; Vysoce náročné výpočty &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; PVM &lt;/td&gt;
+
+        &lt;td&gt; 18/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 19/20
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 36/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            73&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+
+        &lt;td&gt; VIZ &lt;/td&gt;
+        &lt;td&gt; Vizualizace a CAD &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt; 28/40
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          60/60
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            88&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+      &lt;tr&gt;
+
+          &lt;td rowspan="3"&gt; Z &lt;/td&gt;
+
+        &lt;td&gt; SEP &lt;/td&gt;
+        &lt;td&gt; Semestrální projekt &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          90/100
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            90&amp;nbsp;A
+        &lt;/td&gt;
+
+          &lt;td rowspan="3"&gt; 15 &lt;/td&gt;
+          &lt;td rowspan="3"&gt;  1.5 &lt;/td&gt;
+          &lt;td rowspan="3"&gt; 13-19/88 &lt;/td&gt;
+          &lt;td rowspan="3"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+
+        &lt;td&gt; GUX &lt;/td&gt;
+        &lt;td&gt; Grafická uživatelská rozhraní v X Window &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt; 14/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          7/8
+
+          9/12
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 35/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            65&amp;nbsp;D
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+
+        &lt;td&gt; POV &lt;/td&gt;
+        &lt;td&gt; Počítačové vidění &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt; 9/9
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          8.1/10
+
+          27/30
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 46/51
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            90.1&amp;nbsp;A
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+      &lt;tr&gt;
+
+          &lt;td rowspan="2"&gt; L &lt;/td&gt;
+
+        &lt;td&gt; SIP &lt;/td&gt;
+        &lt;td&gt; Diplomová práce &lt;/td&gt;
+        &lt;td&gt; 13 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            0&amp;nbsp;F
+        &lt;/td&gt;
+
+          &lt;td rowspan="2"&gt; 13 &lt;/td&gt;
+          &lt;td rowspan="2"&gt;  3.5 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 0-0/0 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+
+        &lt;td&gt; SZZ &lt;/td&gt;
+        &lt;td&gt; Státní závěrečná zkouška &lt;/td&gt;
+        &lt;td&gt; 0 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            0&amp;nbsp;F
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+&lt;/table&gt;
+
+&lt;p&gt;TODO: statistiky ohledně studia spočítané z tabulky&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/diskuse-nazory-ma-to-vubec-cenu.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/diskuse-nazory-ma-to-vubec-cenu.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
 něco dělat, když to stejně nemá cenu? Když chci o něčem s někým
 objektivně diskutovat, skončíme vždycky nakonec u toho, že si obě strany
 hájí nějaký svůj názor, který nelze nijak podložit fakty, ale daná
