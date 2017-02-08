@@ -589,20 +589,1292 @@ předmětu.&lt;/p&gt;
 
 
       &lt;tr&gt;
-                                                               &lt;td rowspan="8"&gt; Z &lt;/td&gt;
+                                                               &lt;td rowspan="5"&gt; Z &lt;/td&gt;
 
 
-                                    &lt;td rowspan=" 8 "&gt; 2010 &lt;/td&gt;
+                                    &lt;td rowspan=" 5 "&gt; 2010 &lt;/td&gt;
 
-                                      &lt;td rowspan="15"&gt; 1 &lt;/td&gt;
+                                      &lt;td rowspan="12"&gt; 1 &lt;/td&gt;
 
 
-        &lt;td&gt; HSC &lt;/td&gt;
-        &lt;td&gt; Hardware/Software Codesign &lt;/td&gt;
+        &lt;td&gt; IAS &lt;/td&gt;
+        &lt;td&gt; Asemblery &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 17/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 20 …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
+
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="5"&gt; Z &lt;/td&gt;
+
+
+                                    &lt;td rowspan=" 5 "&gt; 2010 &lt;/td&gt;
+
+                                      &lt;td rowspan="12"&gt; 1 &lt;/td&gt;
+
+
+        &lt;td&gt; IAS &lt;/td&gt;
+        &lt;td&gt; Asemblery &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 17/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 20/20
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 36/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            73&amp;nbsp;C
+        &lt;/td&gt;
+
+          &lt;td rowspan="5"&gt; 31 &lt;/td&gt;
+          &lt;td rowspan="5"&gt;  2.080 &lt;/td&gt;
+          &lt;td rowspan="5"&gt; 64-72/266 &lt;/td&gt;
+          &lt;td rowspan="5"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IDA &lt;/td&gt;
+        &lt;td&gt; Diskrétní matematika &lt;/td&gt;
+        &lt;td&gt; 7 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 83/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            83&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ITO &lt;/td&gt;
+        &lt;td&gt; Teorie obvodů &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 12/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          12.5/15
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 34/65
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            58.5&amp;nbsp;E
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IUS &lt;/td&gt;
+        &lt;td&gt; Úvod do softwarového inženýrství &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
 
-        &lt;td&gt; 16 …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          5/5
+
+          6/10
+
+          20/20
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 43/65
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            74&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IZP &lt;/td&gt;
+        &lt;td&gt; Základy programování &lt;/td&gt;
+        &lt;td&gt; 7 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 7/12
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          2/5
+
+          7/10
+
+          9.5/10
+
+          7/8
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 1/100
+ &lt;/td&gt;
+        &lt;td&gt; 38/55
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            71.5&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="7"&gt; L &lt;/td&gt;
+
+
+                                    &lt;td rowspan=" 13 "&gt; 2011 &lt;/td&gt;
+
+
+
+        &lt;td&gt; IFY &lt;/td&gt;
+        &lt;td&gt; Fyzika &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 17/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 18/20
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 55/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            90&amp;nbsp;A
+        &lt;/td&gt;
+
+          &lt;td rowspan="7"&gt; 37 &lt;/td&gt;
+          &lt;td rowspan="7"&gt;  1.581 &lt;/td&gt;
+          &lt;td rowspan="7"&gt; 25-25/184 &lt;/td&gt;
+          &lt;td rowspan="7"&gt; 7174 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IMA &lt;/td&gt;
+        &lt;td&gt; Matematická analýza &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 83/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            83&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; INC &lt;/td&gt;
+        &lt;td&gt; Návrh číslicových systémů &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 18/25
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          20/20
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 49/55
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            87&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IOS &lt;/td&gt;
+        &lt;td&gt; Operační systémy &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          5/15
+
+          15/15
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 51/70
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            71&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IPR &lt;/td&gt;
+        &lt;td&gt; Prvky počítačů &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 7.5/15
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 30/30
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 30/55
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            67.5&amp;nbsp;D
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; BAN4 &lt;/td&gt;
+        &lt;td&gt; Angličtina 4: středně pokročilí 2 &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; PVA &lt;/td&gt;
+
+        &lt;td&gt; 39/40
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 59/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            98&amp;nbsp;A
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ITW &lt;/td&gt;
+        &lt;td&gt; Tvorba webových stránek &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt; 12/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          18/20
+
+          29/30
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 10/10
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 17/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            86&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="6"&gt; Z &lt;/td&gt;
+
+
+
+                                      &lt;td rowspan="13"&gt; 2 &lt;/td&gt;
+
+
+        &lt;td&gt; IAL &lt;/td&gt;
+        &lt;td&gt; Algoritmy &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 14/14
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          10/10
+
+          9/10
+
+          4.4/5
+
+          9/10
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 1/100
+ &lt;/td&gt;
+        &lt;td&gt; 28/51
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            75.4&amp;nbsp;C
+        &lt;/td&gt;
+
+          &lt;td rowspan="6"&gt; 31 &lt;/td&gt;
+          &lt;td rowspan="6"&gt;  1.983 &lt;/td&gt;
+          &lt;td rowspan="6"&gt; 78-78/275 &lt;/td&gt;
+          &lt;td rowspan="6"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IFJ &lt;/td&gt;
+        &lt;td&gt; Formální jazyky a překladače &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 16/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          19/20
+
+          4.4/5
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 38.2/55
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            77.6&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; INM &lt;/td&gt;
+        &lt;td&gt; Numerická matematika a pravděpodobnost &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 79/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            79&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; INP &lt;/td&gt;
+        &lt;td&gt;    Návrh počítačových systémů &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 20/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          12/12
+
+          6/16
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 32/52
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            70&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ISS &lt;/td&gt;
+        &lt;td&gt; Signály a systémy &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 17.5/25
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          12/12
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 12/12
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 42.8/51
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            84.3&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IPSO &lt;/td&gt;
+        &lt;td&gt; Pedagogická psychologie &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 65/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            65&amp;nbsp;D
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="7"&gt; L &lt;/td&gt;
+
+
+                                    &lt;td rowspan=" 15 "&gt; 2012 &lt;/td&gt;
+
+
+
+        &lt;td&gt; IDS &lt;/td&gt;
+        &lt;td&gt; Databázové systémy &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 12.5/14
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          5/5
+
+          5/5
+
+          5/5
+
+          13/20
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 32.5/51
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            73.0&amp;nbsp;C
+        &lt;/td&gt;
+
+          &lt;td rowspan="7"&gt; 32 &lt;/td&gt;
+          &lt;td rowspan="7"&gt;  2.08 &lt;/td&gt;
+          &lt;td rowspan="7"&gt; 64-65/164 &lt;/td&gt;
+          &lt;td rowspan="7"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IPK &lt;/td&gt;
+        &lt;td&gt; Počítačové komunikace a sítě &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 5.4/9
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          3.5/4
+
+          6/6
+
+          8/10
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 6/6
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 44/65
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            72.9&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IPP &lt;/td&gt;
+        &lt;td&gt; Principy programovacích jazyků a OOP &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 18/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          8.6/10
+
+          3.9/10
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 26/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            56.5&amp;nbsp;E
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IZG &lt;/td&gt;
+        &lt;td&gt; Základy počítačové grafiky &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 9/12
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          6/18
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 18/18
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 50/52
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            83&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IZU &lt;/td&gt;
+        &lt;td&gt; Základy umělé inteligence &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 8/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 17.75/20
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 51/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            76.75&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IJA &lt;/td&gt;
+        &lt;td&gt; Seminář Java &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; PVT &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          20/20
+
+          64/80
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            ✓
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; PRM &lt;/td&gt;
+        &lt;td&gt; Právní minimum &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; PVH &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            ✓
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="8"&gt; Z &lt;/td&gt;
+
+
+
+                                      &lt;td rowspan="10"&gt; 3 &lt;/td&gt;
+
+
+        &lt;td&gt; IIS &lt;/td&gt;
+        &lt;td&gt; Informační systémy &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 15/19
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          30/30
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 24/51
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            69&amp;nbsp;D
+        &lt;/td&gt;
+
+          &lt;td rowspan="8"&gt; 33 &lt;/td&gt;
+          &lt;td rowspan="8"&gt;  2.053 &lt;/td&gt;
+          &lt;td rowspan="8"&gt; 96-98/240 &lt;/td&gt;
+          &lt;td rowspan="8"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IMP &lt;/td&gt;
+        &lt;td&gt; Mikroprocesorové a vestavěné systémy &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 14/14
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          14.6/19
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 16/16
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 23.3/51
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            67.9&amp;nbsp;D
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IMS &lt;/td&gt;
+        &lt;td&gt; Modelování a simulace &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 8/10
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          20/20
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 44/70
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            72&amp;nbsp;C
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; IPZ &lt;/td&gt;
+        &lt;td&gt; Periferní zařízení &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 26/30
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 3.8/4
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 63.3/66
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            93.1&amp;nbsp;A
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ISA &lt;/td&gt;
+        &lt;td&gt; Síťové aplikace a správa sítí &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          16/21
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 16/24
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 33/55
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            65&amp;nbsp;D
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ISP &lt;/td&gt;
+        &lt;td&gt; Semestrální projekt &lt;/td&gt;
+        &lt;td&gt; 2 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 100/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            ✓
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ITU &lt;/td&gt;
+        &lt;td&gt; Tvorba uživatelských rozhraní &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt; 18/20
+ &lt;/td&gt;
+
+        &lt;td&gt;
+
+          43/55
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 24/25
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            85&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; JS1 &lt;/td&gt;
+        &lt;td&gt; Španělština: začátečníci 1/2 &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            ✓
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="2"&gt; L &lt;/td&gt;
+
+
+                                    &lt;td rowspan=" 3 "&gt; 2013 &lt;/td&gt;
+
+
+
+        &lt;td&gt; ITY &lt;/td&gt;
+        &lt;td&gt; Typografie a publikování &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          6/10
+
+          12/15
+
+          13/15
+
+          10/15
+
+          15/15
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 30/30
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            86&amp;nbsp;B
+        &lt;/td&gt;
+
+          &lt;td rowspan="2"&gt; 7 &lt;/td&gt;
+          &lt;td rowspan="2"&gt;  1.5 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 59-84/369 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; JS1 &lt;/td&gt;
+        &lt;td&gt; Španělština: začátečníci 2/2 &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 85/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            85&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="1"&gt; Z &lt;/td&gt;
+
+
+
+                                      &lt;td rowspan="3"&gt; 4 &lt;/td&gt;
+
+
+        &lt;td&gt; IPA &lt;/td&gt;
+        &lt;td&gt; Pokročilé asemblery &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          20/26
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt; 14/14
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 23/60
+ &lt;/td&gt;
+
+        &lt;td&gt;
+            57&amp;nbsp;E
+        &lt;/td&gt;
+
+          &lt;td rowspan="1"&gt; 5 &lt;/td&gt;
+          &lt;td rowspan="1"&gt;  3.0 &lt;/td&gt;
+          &lt;td rowspan="1"&gt; 125-138/160 &lt;/td&gt;
+          &lt;td rowspan="1"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                               &lt;td rowspan="2"&gt; L &lt;/td&gt;
+
+
+                                    &lt;td rowspan=" 2 "&gt; 2014 &lt;/td&gt;
+
+
+
+        &lt;td&gt; IBP &lt;/td&gt;
+        &lt;td&gt; Bakalářská práce &lt;/td&gt;
+        &lt;td&gt; 9 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+          95/100
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            95&amp;nbsp;A
+        &lt;/td&gt;
+
+          &lt;td rowspan="2"&gt; 18 &lt;/td&gt;
+          &lt;td rowspan="2"&gt;  1.25 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 59-84/369 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 0 &lt;/td&gt;
+
+      &lt;/tr&gt;
+
+
+      &lt;tr&gt;
+
+        &lt;td&gt; ISZ &lt;/td&gt;
+        &lt;td&gt; Státní závěrečná zkouška &lt;/td&gt;
+        &lt;td&gt; 9 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+
+
+        &lt;/td&gt;
+
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 85/100
+ &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+
+        &lt;td&gt;
+            85&amp;nbsp;B
+        &lt;/td&gt;
+
+
+      &lt;/tr&gt;
 
 
 
@@ -614,7 +1886,7 @@ předmětu.&lt;/p&gt;
                                                                &lt;td rowspan="8"&gt; Z &lt;/td&gt;
 
 
-                                    &lt;td rowspan=" 8 "&gt; 2010 &lt;/td&gt;
+                                    &lt;td rowspan=" 8 "&gt; 2014 &lt;/td&gt;
 
                                       &lt;td rowspan="15"&gt; 1 &lt;/td&gt;
 
@@ -868,7 +2140,7 @@ předmětu.&lt;/p&gt;
                                                                &lt;td rowspan="7"&gt; L &lt;/td&gt;
 
 
-                                    &lt;td rowspan=" 9 "&gt; 2011 &lt;/td&gt;
+                                    &lt;td rowspan=" 9 "&gt; 2015 &lt;/td&gt;
 
 
 
@@ -1170,7 +2442,7 @@ předmětu.&lt;/p&gt;
                                                                &lt;td rowspan="3"&gt; L &lt;/td&gt;
 
 
-                                    &lt;td rowspan=" 6 "&gt; 2012 &lt;/td&gt;
+                                    &lt;td rowspan=" 6 "&gt; 2016 &lt;/td&gt;
 
 
 
@@ -1380,7 +2652,7 @@ předmětu.&lt;/p&gt;
                                                                &lt;td rowspan="2"&gt; L &lt;/td&gt;
 
 
-                                    &lt;td rowspan=" 2 "&gt; 2013 &lt;/td&gt;
+                                    &lt;td rowspan=" 2 "&gt; 2017 &lt;/td&gt;
 
 
 
