@@ -275,6 +275,11 @@ div.note
     padding: 0px;
   }
   
+.study-table
+  {
+    font-size: 8px;
+  }
+  
 /***** LANGUAGE ****/
 
 .selected-lang

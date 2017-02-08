@@ -580,13 +580,14 @@ předmětu.&lt;/p&gt;
 &lt;p&gt;průměr: 2,166&lt;/p&gt;
 &lt;p&gt;pořadí v ročníku: 107.-112. z 203  &lt;/p&gt;
 &lt;p&gt;pořadí v ročníku oboru: 4. z 46  &lt;/p&gt;
-&lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Studium na FIT VUT - tabulka</title><link href="https://drummyfish.github.io/en/studium-na-fit-vut-tabulka.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/en/studium-na-fit-vut-tabulka.html</id><summary type="html">&lt;table&gt;
+&lt;p&gt;prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Studium na FIT VUT - tabulka</title><link href="https://drummyfish.github.io/en/studium-na-fit-vut-tabulka.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/en/studium-na-fit-vut-tabulka.html</id><summary type="html">&lt;table class="study-table"&gt;
 
 
 
 
 
       &lt;tr&gt;
+        &lt;td rowspan="15"&gt; 1 &lt;/td&gt;
 
           &lt;td rowspan="8"&gt; Z &lt;/td&gt;
 
@@ -595,18 +596,14 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
 
-        &lt;td&gt; 16/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          5 …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
+        &lt;td&gt; 16/20 …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
 
 
 
 
 
       &lt;tr&gt;
+        &lt;td rowspan="15"&gt; 1 &lt;/td&gt;
 
           &lt;td rowspan="8"&gt; Z &lt;/td&gt;
 
@@ -1090,6 +1087,7 @@ předmětu.&lt;/p&gt;
 
 
       &lt;tr&gt;
+        &lt;td rowspan="5"&gt; 2 &lt;/td&gt;
 
           &lt;td rowspan="2"&gt; Z &lt;/td&gt;
 
@@ -1258,6 +1256,7 @@ předmětu.&lt;/p&gt;
 
 
       &lt;tr&gt;
+        &lt;td rowspan="5"&gt; 3 &lt;/td&gt;
 
           &lt;td rowspan="3"&gt; Z &lt;/td&gt;
 
