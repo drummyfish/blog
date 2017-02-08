@@ -584,7 +584,11 @@ předmětu.&lt;/p&gt;
 
 
 
+
+
       &lt;tr&gt;
+
+          &lt;td rowspan="8"&gt; Z &lt;/td&gt;
 
         &lt;td&gt; HSC &lt;/td&gt;
         &lt;td&gt; Hardware/Software Codesign &lt;/td&gt;
@@ -596,11 +600,15 @@ předmětu.&lt;/p&gt;
 
         &lt;td&gt;
 
-          5/25 …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
+          5 …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
+
+
 
 
 
       &lt;tr&gt;
+
+          &lt;td rowspan="8"&gt; Z &lt;/td&gt;
 
         &lt;td&gt; HSC &lt;/td&gt;
         &lt;td&gt; Hardware/Software Codesign &lt;/td&gt;
@@ -622,13 +630,20 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 45/55
  &lt;/td&gt;
 
-        &lt;td&gt; 66
- &lt;/td&gt;
+        &lt;td&gt;
+            66&amp;nbsp;D
+        &lt;/td&gt;
+
+          &lt;td rowspan="8"&gt; 35 &lt;/td&gt;
+          &lt;td rowspan="8"&gt; 5 &lt;/td&gt;
+          &lt;td rowspan="8"&gt; 10-10/110 &lt;/td&gt;
+          &lt;td rowspan="8"&gt; 9913 &lt;/td&gt;
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
+
 
         &lt;td&gt; MAT &lt;/td&gt;
         &lt;td&gt; Matematické struktury v informatice &lt;/td&gt;
@@ -648,13 +663,16 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 68/80
  &lt;/td&gt;
 
-        &lt;td&gt; 82
- &lt;/td&gt;
+        &lt;td&gt;
+            82&amp;nbsp;B
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
+
 
         &lt;td&gt; PDB &lt;/td&gt;
         &lt;td&gt; Pokročilé databázové systémy &lt;/td&gt;
@@ -676,13 +694,16 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 39/60
  &lt;/td&gt;
 
-        &lt;td&gt; 70
- &lt;/td&gt;
+        &lt;td&gt;
+            70&amp;nbsp;C
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
+
 
         &lt;td&gt; PGR &lt;/td&gt;
         &lt;td&gt; Počítačová grafika &lt;/td&gt;
@@ -705,13 +726,16 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 41/51
  &lt;/td&gt;
 
-        &lt;td&gt; 90
- &lt;/td&gt;
+        &lt;td&gt;
+            90&amp;nbsp;A
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
+
 
         &lt;td&gt; TIN &lt;/td&gt;
         &lt;td&gt; Teoretická informatika &lt;/td&gt;
@@ -739,13 +763,16 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 49/60
  &lt;/td&gt;
 
-        &lt;td&gt; 86.2
- &lt;/td&gt;
+        &lt;td&gt;
+            86.2&amp;nbsp;B
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
+
 
         &lt;td&gt; FIT &lt;/td&gt;
         &lt;td&gt; Dějiny a filozofie techniky &lt;/td&gt;
@@ -763,13 +790,16 @@ předmětu.&lt;/p&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
 
-        &lt;td&gt; 0
- &lt;/td&gt;
+        &lt;td&gt;
+            ✓
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
+
 
         &lt;td&gt; PGP &lt;/td&gt;
         &lt;td&gt; Pokročilá počítačová grafika &lt;/td&gt;
@@ -793,17 +823,20 @@ předmětu.&lt;/p&gt;
         &lt;td&gt; 43/51
  &lt;/td&gt;
 
-        &lt;td&gt; 90
- &lt;/td&gt;
+        &lt;td&gt;
+            90&amp;nbsp;A
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
 
       &lt;tr&gt;
 
+
         &lt;td&gt; STI &lt;/td&gt;
         &lt;td&gt; Seminář teoretické informatiky &lt;/td&gt;
-        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; 2 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
 
         &lt;td&gt;  &lt;/td&gt;
@@ -817,8 +850,10 @@ předmětu.&lt;/p&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
 
-        &lt;td&gt; 0
- &lt;/td&gt;
+        &lt;td&gt;
+            ✓
+        &lt;/td&gt;
+
 
       &lt;/tr&gt;
 
