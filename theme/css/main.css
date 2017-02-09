@@ -274,10 +274,31 @@ div.note
     margin: 20px 0px 0px;
     padding: 0px;
   }
-  
+
+/****** STUDY ******/
 .study-table
   {
-    font-size: 8px;
+    font-size: 10px;
+  }
+  
+.study-table th
+  {
+    font-size: 12px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+  }
+  
+.study-table td
+  {
+    padding: 2px;
+    border: 1px solid rgb(200,200,200);
+    vertical-align: middle;
+  }
+  
+.semester-last-row td
+  {
+    border-bottom: 1px solid black;
   }
   
 .vertical-text
