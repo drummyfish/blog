@@ -280,6 +280,11 @@ div.note
     font-size: 8px;
   }
   
+.vertical-text
+  {
+    writing-mode: vertical-lr;
+  }
+  
 /***** LANGUAGE ****/
 
 .selected-lang
