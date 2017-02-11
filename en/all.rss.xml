@@ -1849,8 +1849,8 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
             95&amp;nbsp;A
         &lt;/td&gt;
 
-          &lt;td rowspan="2"&gt; 18 &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.25 &lt;/span&gt; &lt;/td&gt;
+          &lt;td rowspan="2"&gt; 9 &lt;/td&gt;
+          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.0 &lt;/span&gt; &lt;/td&gt;
           &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
           &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 500 &lt;/span&gt; &lt;/td&gt;
 
@@ -1861,7 +1861,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISZ"&gt; ISZ &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Státní závěrečná zkouška &lt;/td&gt;
-        &lt;td&gt; 9 &lt;/td&gt;
+        &lt;td&gt; 0 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
 
         &lt;td&gt;  &lt;/td&gt;
@@ -2745,16 +2745,27 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 &lt;h2&gt; Statistiky pro Bc. studium &lt;/h2&gt;
 
 &lt;table&gt;
-  kreditů (hodin práce): &lt;br /&gt;
+  kreditů (hodin práce):
+
+
+
+    185
+
+
+ (5180)   &lt;br /&gt;
   bodů: &lt;br /&gt;
   zkoušek: &lt;br /&gt;
   půlsemestrálek: &lt;br /&gt;
   projektů: &lt;br /&gt;
-  předmětů: &lt;br /&gt;
+  předmětů: 38
+ &lt;br /&gt;
   průměr: &lt;br /&gt;
   pořadí: 5.  / 123
  &lt;br /&gt;
-  peněz z prospěchových stipendií: Kč &lt;br /&gt;
+  peněz z prospěchových stipendií: 
+  7674
+
+ Kč &lt;br /&gt;
   histogram známek:
   &lt;ul&gt;
     &lt;li&gt;A&lt;/li&gt;
@@ -2770,16 +2781,27 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 &lt;h2&gt; Statistiky pro Ing. studium &lt;/h2&gt;
 
 &lt;table&gt;
-  kreditů (hodin práce): &lt;br /&gt;
+  kreditů (hodin práce):
+
+
+
+    122
+
+
+ (3416)   &lt;br /&gt;
   bodů: &lt;br /&gt;
   zkoušek: &lt;br /&gt;
   půlsemestrálek: &lt;br /&gt;
   projektů: &lt;br /&gt;
-  předmětů: &lt;br /&gt;
+  předmětů: 25
+ &lt;br /&gt;
   průměr: &lt;br /&gt;
   pořadí: 0.  / 0
  &lt;br /&gt;
-  peněz z prospěchových stipendií: Kč &lt;br /&gt;
+  peněz z prospěchových stipendií: 
+  9913
+
+ Kč &lt;br /&gt;
   histogram známek:
   &lt;ul&gt;
     &lt;li&gt;A&lt;/li&gt;
@@ -4877,7 +4899,7 @@ otázky&lt;/a&gt;&lt;/p&gt;
     &lt;tr&gt; &lt;td&gt; Státní závěrečná zkouška (ISZ) &lt;/td&gt; &lt;td&gt; 85/100 &lt;/td&gt; &lt;td&gt; B &lt;/td&gt; &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;průměr:  1.25 &lt;br /&gt;
+&lt;p&gt;průměr:  1.0 &lt;br /&gt;
 pořadí v ročníku: 59.  - 84.  / 369
  &lt;br /&gt;
 prospěchové stipendium: 500 Kč&lt;/p&gt;
