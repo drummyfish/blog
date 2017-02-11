@@ -599,7 +599,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    38
+    37
 
 
 "&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;
@@ -1808,7 +1808,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
       &lt;tr class="semester-last-row"&gt;
 
 
-                                      &lt;td rowspan="3"&gt; 4 &lt;/td&gt;
+                                      &lt;td rowspan="2"&gt; 4 &lt;/td&gt;
 
           &lt;td rowspan="1"&gt; Z &lt;/td&gt;
 
@@ -1853,12 +1853,12 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-      &lt;tr&gt;
+      &lt;tr class="semester-last-row"&gt;
 
-                                    &lt;td rowspan=" 2 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;
+                                    &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="2"&gt; L &lt;/td&gt;
+          &lt;td rowspan="1"&gt; L &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IBP"&gt; IBP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Bakalářská práce &lt;/td&gt;
@@ -1869,8 +1869,6 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
         &lt;td&gt;
 
-          95/100
-
 
         &lt;/td&gt;
 
@@ -1879,46 +1877,18 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
         &lt;td&gt;  &lt;/td&gt;
 
 
-        &lt;td class="mark-A"&gt;
-            95&amp;nbsp;A
+        &lt;td class="mark-none"&gt;
+            ✓
         &lt;/td&gt;
 
-          &lt;td rowspan="2"&gt; 
+          &lt;td rowspan="1"&gt; 
   9
 
 
  &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.0 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 500 &lt;/span&gt; &lt;/td&gt;
-
-      &lt;/tr&gt;
-
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISZ"&gt; ISZ &lt;/a&gt; &lt;/td&gt;
-        &lt;td&gt; Státní závěrečná zkouška &lt;/td&gt;
-        &lt;td&gt; 0 &lt;/td&gt;
-        &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 85/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            85&amp;nbsp;B
-        &lt;/td&gt;
-
+          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 500 &lt;/span&gt; &lt;/td&gt;
 
       &lt;/tr&gt;
 
@@ -1933,7 +1903,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    25
+    24
 
 
 "&gt; &lt;span class="vertical-text"&gt; Ing. &lt;/span&gt; &lt;/td&gt;
@@ -2631,7 +2601,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
       &lt;tr&gt;
 
 
-                                      &lt;td rowspan="5"&gt; 3 &lt;/td&gt;
+                                      &lt;td rowspan="4"&gt; 3 &lt;/td&gt;
 
           &lt;td rowspan="3"&gt; Z &lt;/td&gt;
 
@@ -2740,12 +2710,12 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-      &lt;tr&gt;
+      &lt;tr class="semester-last-row"&gt;
 
-                                    &lt;td rowspan=" 2 "&gt; &lt;span class="vertical-text"&gt; 2017 &lt;/span&gt; &lt;/td&gt;
+                                    &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2017 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="2"&gt; L &lt;/td&gt;
+          &lt;td rowspan="1"&gt; L &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SIP"&gt; SIP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Diplomová práce &lt;/td&gt;
@@ -2769,41 +2739,14 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
             ✓
         &lt;/td&gt;
 
-          &lt;td rowspan="2"&gt; 
+          &lt;td rowspan="1"&gt; 
   13
 
 
  &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0/0 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
-      &lt;/tr&gt;
-
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SZZ"&gt; SZZ &lt;/a&gt; &lt;/td&gt;
-        &lt;td&gt; Státní závěrečná zkouška &lt;/td&gt;
-        &lt;td&gt; 0 &lt;/td&gt;
-        &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
+          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0/0 &lt;/span&gt; &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
 
       &lt;/tr&gt;
 
@@ -2825,10 +2768,10 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    2794
+    2614
 
 
- / 3400 &lt;br /&gt;
+ / 3200 &lt;br /&gt;
   zkoušek: 
 
 
@@ -2849,7 +2792,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    46
+    45
 
 
  &lt;br /&gt;
@@ -2857,12 +2800,14 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    38
+    37
 
 
  &lt;br /&gt;
   průměr:  
-   1.88439306358
+
+ 1.948
+
 
  &lt;br /&gt;
   pořadí: 5.  / 123
@@ -2972,12 +2917,14 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    25
+    24
 
 
  &lt;br /&gt;
   průměr:  
-   1.65384615385
+
+ 1.721
+
 
  &lt;br /&gt;
   pořadí: 0.  / 0
@@ -3032,7 +2979,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
 
-    0
+    2
 
 
  &lt;/li&gt;
@@ -5121,11 +5068,10 @@ otázky&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tr&gt; &lt;th&gt; předmět &lt;/th&gt; &lt;th&gt; body &lt;/th&gt; &lt;th&gt; známky &lt;/th&gt; &lt;/tr&gt;
-    &lt;tr&gt; &lt;td&gt; Bakalářská práce (IBP) &lt;/td&gt; &lt;td&gt; 95/100 &lt;/td&gt; &lt;td&gt; A &lt;/td&gt; &lt;/tr&gt;
-    &lt;tr&gt; &lt;td&gt; Státní závěrečná zkouška (ISZ) &lt;/td&gt; &lt;td&gt; 85/100 &lt;/td&gt; &lt;td&gt; B &lt;/td&gt; &lt;/tr&gt;
+    &lt;tr&gt; &lt;td&gt; Bakalářská práce (IBP) &lt;/td&gt; &lt;td&gt; 0/100 &lt;/td&gt; &lt;td&gt; F &lt;/td&gt; &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;p&gt;průměr:  1.0 &lt;br /&gt;
+&lt;p&gt;průměr:  3.5 &lt;br /&gt;
 pořadí v ročníku: 59.  - 84.  / 369
  &lt;br /&gt;
 prospěchové stipendium: 500 Kč&lt;/p&gt;
