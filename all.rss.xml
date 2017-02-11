@@ -2755,70 +2755,70 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 &lt;h2&gt; Statistiky pro Bc. studium &lt;/h2&gt;
 
-&lt;table&gt;
-  kreditů (hodin práce):
+&lt;ul&gt;
+  &lt;li&gt; kreditů (hodin práce):
 
 
 
     185
 
 
- (5180)   &lt;br /&gt;
-  bodů: 
+ (5180) &lt;/li&gt;
+  &lt;li&gt; bodů: 
 
 
 
     2614
 
 
- / 3200 &lt;br /&gt;
-  zkoušek: 
+ / 3200 &lt;/li&gt;
+  &lt;li&gt; zkoušek: 
 
 
 
     26
 
 
- &lt;br /&gt;
-  půlsemestrálek: 
+ &lt;/li&gt;
+  &lt;li&gt; půlsemestrálek: 
 
 
 
     22
 
 
- &lt;br /&gt;
-  projektů: 
+ &lt;/li&gt;
+  &lt;li&gt; projektů: 
 
 
 
     45
 
 
- &lt;br /&gt;
-  předmětů: 
+ &lt;/li&gt;
+  &lt;li&gt; předmětů: 
 
 
 
     37
 
 
- &lt;br /&gt;
-  průměr:  
+ &lt;/li&gt;
+  &lt;li&gt; průměr: 
 
  1.948
 
 
- &lt;br /&gt;
-  pořadí: 5.  / 123
- &lt;br /&gt;
-  peněz z prospěchových stipendií: 
+ &lt;/li&gt;
+  &lt;li&gt; pořadí: 5.  / 123
+ &lt;/li&gt;
+  &lt;li&gt; peněz z prospěchových stipendií: 
   7674
 
- Kč &lt;br /&gt;
-  histogram známek:
-  &lt;ul&gt;
-    &lt;li&gt; A: 
+ Kč &lt;/li&gt;
+  &lt;li&gt; histogram známek:
+    &lt;ul&gt;
+        &lt;li&gt; A: 
 
 
 
@@ -2826,7 +2826,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; B: 
+        &lt;li&gt; B: 
 
 
 
@@ -2834,7 +2834,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; C: 
+        &lt;li&gt; C: 
 
 
 
@@ -2842,7 +2842,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; D: 
+        &lt;li&gt; D: 
 
 
 
@@ -2850,7 +2850,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; E: 
+        &lt;li&gt; E: 
 
 
 
@@ -2858,7 +2858,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; F: 
+        &lt;li&gt; F: 
 
 
 
@@ -2866,76 +2866,76 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-  &lt;/ul&gt;
-
-&lt;/table&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2&gt; Statistiky pro Ing. studium &lt;/h2&gt;
 
-&lt;table&gt;
-  kreditů (hodin práce):
+&lt;ul&gt;
+  &lt;li&gt; kreditů (hodin práce):
 
 
 
     122
 
 
- (3416)   &lt;br /&gt;
-  bodů: 
+ (3416) &lt;/li&gt;
+  &lt;li&gt; bodů: 
 
 
 
     1692
 
 
- / 2100 &lt;br /&gt;
-  zkoušek: 
+ / 2100 &lt;/li&gt;
+  &lt;li&gt; zkoušek: 
 
 
 
     17
 
 
- &lt;br /&gt;
-  půlsemestrálek: 
+ &lt;/li&gt;
+  &lt;li&gt; půlsemestrálek: 
 
 
 
     19
 
 
- &lt;br /&gt;
-  projektů: 
+ &lt;/li&gt;
+  &lt;li&gt; projektů: 
 
 
 
     29
 
 
- &lt;br /&gt;
-  předmětů: 
+ &lt;/li&gt;
+  &lt;li&gt; předmětů: 
 
 
 
     24
 
 
- &lt;br /&gt;
-  průměr:  
+ &lt;/li&gt;
+  &lt;li&gt; průměr: 
 
  1.721
 
 
- &lt;br /&gt;
-  pořadí: 0.  / 0
- &lt;br /&gt;
-  peněz z prospěchových stipendií: 
+ &lt;/li&gt;
+  &lt;li&gt; pořadí: 0.  / 0
+ &lt;/li&gt;
+  &lt;li&gt; peněz z prospěchových stipendií: 
   9913
 
- Kč &lt;br /&gt;
-  histogram známek:
-  &lt;ul&gt;
-    &lt;li&gt; A: 
+ Kč &lt;/li&gt;
+  &lt;li&gt; histogram známek:
+    &lt;ul&gt;
+        &lt;li&gt; A: 
 
 
 
@@ -2943,7 +2943,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; B: 
+        &lt;li&gt; B: 
 
 
 
@@ -2951,7 +2951,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; C: 
+        &lt;li&gt; C: 
 
 
 
@@ -2959,7 +2959,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; D: 
+        &lt;li&gt; D: 
 
 
 
@@ -2967,7 +2967,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; E: 
+        &lt;li&gt; E: 
 
 
 
@@ -2975,7 +2975,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-    &lt;li&gt; F: 
+        &lt;li&gt; F: 
 
 
 
@@ -2983,9 +2983,9 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 
  &lt;/li&gt;
-  &lt;/ul&gt;
-
-&lt;/table&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/diskuse-nazory-ma-to-vubec-cenu.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/diskuse-nazory-ma-to-vubec-cenu.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/diskuse-nazory-ma-to-vubec-cenu.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/diskuse-nazory-ma-to-vubec-cenu.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
 něco dělat, když to stejně nemá cenu? Když chci o něčem s někým
 objektivně diskutovat, skončíme vždycky nakonec u toho, že si obě strany
 hájí nějaký svůj názor, který nelze nijak podložit fakty, ale daná
@@ -5064,20 +5064,9 @@ na začátku si jenom pomůžete a zvýšíte pravděpodobnost úspěchu (viz
 &lt;a href="http://www.herout.net/tao-diplomky/"&gt;blog pana doc. Herouta&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.dropbox.com/s/aq30uwvws1snj3q/otazky%20bc.zip?dl=0"&gt;státnice
 otázky&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt; Celkové výsledky &lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;tr&gt; &lt;th&gt; předmět &lt;/th&gt; &lt;th&gt; body &lt;/th&gt; &lt;th&gt; známky &lt;/th&gt; &lt;/tr&gt;
-    &lt;tr&gt; &lt;td&gt; Bakalářská práce (IBP) &lt;/td&gt; &lt;td&gt; 0/100 &lt;/td&gt; &lt;td&gt; F &lt;/td&gt; &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;průměr:  3.5 &lt;br /&gt;
-pořadí v ročníku: 59.  - 84.  / 369
- &lt;br /&gt;
-prospěchové stipendium: 500 Kč&lt;/p&gt;
-&lt;p&gt;průměr celého studia: 1,948&lt;/p&gt;
-&lt;p&gt;pořadí v ročníku: 6. místo z 164&lt;/p&gt;
-&lt;p&gt;prospěchové stipendium: 600 Kč&lt;/p&gt;
+&lt;p&gt;bakalářská práce - A &lt;br /&gt;
+ústní zkouška - B &lt;br /&gt;
+celkově - B &lt;br /&gt;&lt;/p&gt;
 &lt;h2&gt;Závěrem k bakalářskému studiu&lt;/h2&gt;
 &lt;p&gt;Tímto bych tedy rád uzavřel své články o bakalářském studiu na FITu,
 nicméně na základě průměru jsem byl přijat na magisterský obor
@@ -5104,16 +5093,123 @@ smyslu, neboť nejde o nic světoborného. Pokud něčeho za dobu studia
 lituji, tak snad jenom toho, že jsem si nezapsal předmět IKR.&lt;/p&gt;
 &lt;p&gt;Dal jsem si tu práci a sestavil pár statistik. Za dobu studia jsem
 absolvoval/získal:&lt;/p&gt;
+&lt;h2&gt; Statistiky pro Bc. studium &lt;/h2&gt;
+
 &lt;ul&gt;
-&lt;li&gt;37 předmětů&lt;/li&gt;
-&lt;li&gt;30 zkoušek (z toho 2 ústní)&lt;/li&gt;
-&lt;li&gt;185 kreditů (dle definice 11100 hodin studia a práce)&lt;/li&gt;
-&lt;li&gt;cca 43 projektů (od malých domácích úkolů až po větší týmové
-    projekty a kvalifikační práci)&lt;/li&gt;
-&lt;li&gt;cca 30 semestrálních testů&lt;/li&gt;
-&lt;li&gt;6 obhajob&lt;/li&gt;
-&lt;li&gt;2622 bodů&lt;/li&gt;
+  &lt;li&gt; kreditů (hodin práce):
+
+
+
+    185
+
+
+ (5180) &lt;/li&gt;
+  &lt;li&gt; bodů: 
+
+
+
+    2614
+
+
+ / 3200 &lt;/li&gt;
+  &lt;li&gt; zkoušek: 
+
+
+
+    26
+
+
+ &lt;/li&gt;
+  &lt;li&gt; půlsemestrálek: 
+
+
+
+    22
+
+
+ &lt;/li&gt;
+  &lt;li&gt; projektů: 
+
+
+
+    45
+
+
+ &lt;/li&gt;
+  &lt;li&gt; předmětů: 
+
+
+
+    37
+
+
+ &lt;/li&gt;
+  &lt;li&gt; průměr: 
+
+ 1.948
+
+
+ &lt;/li&gt;
+  &lt;li&gt; pořadí: 5.  / 123
+ &lt;/li&gt;
+  &lt;li&gt; peněz z prospěchových stipendií: 
+  7674
+
+ Kč &lt;/li&gt;
+  &lt;li&gt; histogram známek:
+    &lt;ul&gt;
+        &lt;li&gt; A: 
+
+
+
+    4
+
+
+ &lt;/li&gt;
+        &lt;li&gt; B: 
+
+
+
+    10
+
+
+ &lt;/li&gt;
+        &lt;li&gt; C: 
+
+
+
+    12
+
+
+ &lt;/li&gt;
+        &lt;li&gt; D: 
+
+
+
+    5
+
+
+ &lt;/li&gt;
+        &lt;li&gt; E: 
+
+
+
+    3
+
+
+ &lt;/li&gt;
+        &lt;li&gt; F: 
+
+
+
+    0
+
+
+ &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;A konečně malý výčet toho, co jsem se (konkrétně já) naučil:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;vysokoškolskou matematiku a trochu fyziky (hlavně elektroniky),
