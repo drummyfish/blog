@@ -18,9 +18,9 @@
 
 body
   {
-    background-image: url('../images/page_background.png');
+    background-image: url('../images/page_background2.png');
     background-repeat: repeat-x;
-    background-color: #F3FB77;
+    background-color: #f3fb77;
     color: #000305;
     font-size: 17px; /* 87.5%; */ /* Base font size: 14px */
     font-family: 'Source Sans Pro', sans-serif;
@@ -206,6 +206,7 @@ td
   {
     width: 200px;
     height: 200px;
+    background-size: 100%;
     margin: 5px 0 0 0;
     background-image: url('../images/fish.png');
     float: right;
@@ -315,7 +316,10 @@ div.note
 
 .language-select
   {
-    float: right;
+    position: absolute;
+    display: block;
+    top: 0px;
+    right: 0px;
   }
   
 .lang-icon
@@ -351,23 +355,33 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 /****** HEADER *****/
 
+#logo
+  {
+    width: 100%;
+    height: 70px;
+    margin: 5px 0 0;
+    background-size: 30%;
+    background-repeat: no-repeat; 
+    background-image: url('../images/logo.svg');
+  }
+
 #banner
   {
-    margin: 0 auto;
+    margin: 30px auto 0;
     padding: 0.5em 0 0 0;
   }
 
 #banner h1
   {
-    font-size: 3.571em;
     line-height: 0;
   }
   
 #banner h1 a:link, #banner h1 a:visited
   {
-    color: #000305;
-    font-size: 75px;
+    color: black;
+    font-size: 50px;
     display: block;
+    text-align: left;
     font-weight: 400;
     margin: 0 0 .6em .2em;
     text-decoration: none;
@@ -375,7 +389,6 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #banner h1 a:hover, #banner h1 a:active
   {
-    background: none;
     text-shadow: none;
   }
 
@@ -390,7 +403,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
     font-size: 1.143em;
     height: 40px;
     line-height: 30px;
-    margin: 5em auto 1em auto;
+    margin: 30px auto 25px;
     padding: 0;
     text-align: center;
     width: 800px;
@@ -420,7 +433,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
   }
 #banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited
   {
-    background: #3BD620;
+    background: #9e4747;
     color: #fff;
     text-shadow: none !important;
   }
