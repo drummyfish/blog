@@ -82,14 +82,13 @@ a img
 
 a:link, a:visited
   {
-    color: #00506B;
+    color: #362548;
     padding: 0 1px;
     text-decoration: none;
   }
 
 a:hover, a:active
   {
-    background-color: #6ECFF0;
     color: #fff;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;

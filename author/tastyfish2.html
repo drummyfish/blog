@@ -40,7 +40,12 @@
         </header><!-- /#banner -->
 
 <section id="content" class="body">
-<script>
+  <script>
+  function quote_string(quote_text, author)
+    {
+      return "\"" + quote_text + "\"" + " -" + author;
+    }
+
   facts_cs =
     [
       "<a href=\"https://en.wikipedia.org/wiki/Lojban\">Lojban</a> je umělý jazyk pro mezilidskou komunikaci, založený na predikátové logice, a snaží se vyhnout veškerým nejasnostem ve vyjadřování.",
@@ -123,27 +128,27 @@
     
   quotes_cs =
     [
-      "\"Slepá úcta k autoritám je největším nepřítelem pravdy.\" - A. Einstein",
-      "\"Člověk může jednat, jak se mu zachce, ale nemůže chtít, jak se mu zachce.\" - A. Einstein",
-      "\"Nedospívejte, je to past.\" - neznámý autor (graffiti)",
-      "\"Jsem tak chytrý, že občas nerozumím ani slovu z toho, co říkám.\" - Oscar Wilde",
-      "\"Ten se směje jizvám, kdo nikdy nepocítil rány.\" - William Shakespeare",
-      "\"Bůh nehraje kostky.\" - A. Einstein",
-      "\"Nepřestáváme si hrát proto, že stárneme. Stárneme proto, že si přestáváme hrát.\" - George Bernard Shaw",
-      "\"Někteří lidé jsou tak chudí, že vše co mají, jsou peníze.\" - Patrick Meagher",
-      "\"Nejsem dost populární, abych mohl být jiný.\" - Homer Simpson",
-      "\"Moudří lidé mluví proto, že mají co říct. Hloupí proto, že něco musí říct.\" - Platón",
-      "\"Když mluvíš pravdu, nemusíš si nic pamatovat.\" - Mark Twain",
-      "\"Přátelství je sračka.\" - Sam (Mafia)",
-      "\"Idioti jsou géniové v bytí idioty.\" - Amazing atheist",
-      "\"Kdo jste a proč by mě to mělo zajímat?\" - Bender (Futurama)",
-      "\"Nechci se stát nesmrtelným skrze svou práci; chci se stát nesmrtelným tím, že neumřu. Nechci dál žít v srdcích svých spoluobčanů; chci dál žít ve svém bytě.\" - W. Allen",
-      "\"Charakter člověka můžete lehce soudit podle toho, jak se chová k těm, kteří pro něj nemohou nic udělat.\" - James D. Miles",
-      "\"Než u sebe diagnostikujete depresi nebo nízkou sebedůvěru, ujistěte se, že ve skutečnosti nejste jen obklopeni idioty.\" - William Gibson",
-      "\"Je mi zle, Pse, ale dobře zle, protože jsme vyhráli.\" - Kočkopes",
-      "\"Jen zbabělec zálohuje na pásku. SKUTEČNÝ muž nahraje svoje data na ftp a nechá zbytek světa udělat mirror.\" - Linus Torvalds",
-      "\"Lineární regresi nevěřím, když je z bodového grafu těžší odhadnout směr korelace než najít v něm novou hvězdnou konstelaci.\" - xkcd",
-      "\"Teorie a praxe jsou teoreticky to samé, prakticky však ne.\" - neznámý"
+      quote_string("Slepá úcta k autoritám je největším nepřítelem pravdy.","A. Einstein"),
+      quote_string("Člověk může jednat, jak se mu zachce, ale nemůže chtít, jak se mu zachce.","A. Einstein"),
+      quote_string("Nedospívejte, je to past.","neznámý autor (graffiti)"),
+      quote_string("Jsem tak chytrý, že občas nerozumím ani slovu z toho, co říkám.","Oscar Wilde"),
+      quote_string("Ten se směje jizvám, kdo nikdy nepocítil rány.","William Shakespeare"),
+      quote_string("Bůh nehraje kostky.","A. Einstein"),
+      quote_string("Nepřestáváme si hrát proto, že stárneme. Stárneme proto, že si přestáváme hrát.","George Bernard Shaw"),
+      quote_string("Někteří lidé jsou tak chudí, že vše co mají, jsou peníze.","Patrick Meagher"),
+      quote_string("Nejsem dost populární, abych mohl být jiný.","Homer Simpson"),
+      quote_string("Moudří lidé mluví proto, že mají co říct. Hloupí proto, že něco musí říct.","Platón"),
+      quote_string("Když mluvíš pravdu, nemusíš si nic pamatovat.","Mark Twain"),
+      quote_string("Přátelství je sračka.","Sam (Mafia)"),
+      quote_string("Idioti jsou géniové v bytí idioty.","The Amazing Atheist"),
+      quote_string("Kdo jste a proč by mě to mělo zajímat?","Bender Bending Rodríguez"),
+      quote_string("Nechci se stát nesmrtelným skrze svou práci; chci se stát nesmrtelným tím, že neumřu. Nechci dál žít v srdcích svých spoluobčanů; chci dál žít ve svém bytě.","W. Allen"),
+      quote_string("Charakter člověka můžete lehce soudit podle toho, jak se chová k těm, kteří pro něj nemohou nic udělat.","James D. Miles"),
+      quote_string("Než u sebe diagnostikujete depresi nebo nízkou sebedůvěru, ujistěte se, že ve skutečnosti nejste jen obklopeni idioty.","William Gibson"),
+      quote_string("Je mi zle, Pse, ale dobře zle, protože jsme vyhráli.","Kočkopes"),
+      quote_string("Jen zbabělec zálohuje na pásku. SKUTEČNÝ muž nahraje svoje data na ftp a nechá zbytek světa udělat mirror.","Linus Torvalds"),
+      quote_string("Lineární regresi nevěřím, když je z bodového grafu těžší odhadnout směr korelace než najít v něm novou hvězdnou konstelaci.","xkcd"),
+      quote_string("Teorie a praxe jsou teoreticky to samé, prakticky však ne.","neznámý")
     ];
     
   facts_en =
@@ -223,28 +228,28 @@
 
   quotes_en =
     [
-      "\"Blind belief in authority is the greatest enemy of truth.\" - A. Einstein",
-      "\"A man can do what he wants, but not will what he wants.\" - A. Einstein",
-      "\"Don't grow up, it's a trap.\" - unknown (graffiti)",
-      "\"I am so clever that sometimes I don't understand a single word of what I am saying.\" - Oscar Wilde",
-      "\"He jests at scars that never felt a wound.\" - William Shakespeare",
-      "\"God doesn't play dice.\" - A. Einstein",
-      "\"We don't stop playing because we grow old; we grow old because we stop playing.\" - George Bernard Shaw",
-      "\"Some people are so poor, all they have is money.\" - Patrick Meagher",
-      "\"I'm not popular enough to be different.\" - Homer Simpson",
-      "\"Wise men speak because they have something to say; fools because they have to say something.\" - Plato",
-      "\"If you tell the truth, you don't have to remember anything.\" - Mark Twain",
-      "\"Friendship ain't worth shit.\" - Sam (Mafia)",
-      "\"Idiots are geniuses at being idiots.\" - Amazing atheist",
-      "\"Who Are You and Why Should I Care?\" - Bender",
-      "\"I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment.\" - Woody Allen...",
-      "\"You can easily judge the character of a man by how he treats those who can do nothing for him.\" - James D. Miles",
-      "\"Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.\" - William Gibson",
-      "\"I am sick, Dog, but it's a good sick, because we won.\" - Catdog",
-      "\"Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.\" - Linus Torvalds",
-      "\"I don't trust linear regressions when it's harder to guess the direction of the correlation from the scatter plot than to find new constellations on it.\" - xkcd",
-      "\"In theory, theory and practice are the same. In practice, they are not.\" - unknown",
-      "\"There is no I in collaboraton.\" - Ken M"
+      quote_string("Blind belief in authority is the greatest enemy of truth.","A. Einstein"),
+      quote_string("A man can do what he wants, but not will what he wants.","A. Einstein"),
+      quote_string("Don't grow up, it's a trap.","unknown (graffiti)"),
+      quote_string("I am so clever that sometimes I don't understand a single word of what I am saying.","Oscar Wilde"),
+      quote_string("He jests at scars that never felt a wound.","William Shakespeare"),
+      quote_string("God doesn't play dice.","A. Einstein"),
+      quote_string("We don't stop playing because we grow old; we grow old because we stop playing.","George Bernard Shaw"),
+      quote_string("Some people are so poor, all they have is money.","Patrick Meagher"),
+      quote_string("I'm not popular enough to be different.","Homer Simpson"),
+      quote_string("Wise men speak because they have something to say; fools because they have to say something.","Plato"),
+      quote_string("If you tell the truth, you don't have to remember anything.","Mark Twain"),
+      quote_string("Friendship ain't worth shit.","Sam (Mafia)"),
+      quote_string("Idiots are geniuses at being idiots.","The Amazing Atheist"),
+      quote_string("Who Are You and Why Should I Care?","Bender Bending Rodríguez"),
+      quote_string("I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment.","Woody Allen..."),
+      quote_string("You can easily judge the character of a man by how he treats those who can do nothing for him.","James D. Miles"),
+      quote_string("Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.","William Gibson"),
+      quote_string("I am sick, Dog, but it's a good sick, because we won.","Catdog"),
+      quote_string("Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.","Linus Torvalds"),
+      quote_string("I don't trust linear regressions when it's harder to guess the direction of the correlation from the scatter plot than to find new constellations on it.","xkcd"),
+      quote_string("In theory, theory and practice are the same. In practice, they are not.","unknown"),
+      quote_string("There is no I in collaboraton.","KenM")
     ];
     
   function write_random_item(title, choices, force_index)     // force index can be used to preview a certain text
@@ -253,6 +258,8 @@
       document.write ("<div class=\"random-text\"> <span> " + title + ": </span> <p> " + choices[index] + " </p> </p>");
     }
 </script>
+
+
     Vítejte na mých stránkách <span class="emoji emoji-smile"></span> Jejich účelem je shromažďovat různé věci, které mě zajímají a o které se chci podělit.
     
     <script>
