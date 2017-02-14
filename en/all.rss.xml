@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>tastyfish</title><link href="https://drummyfish.github.io/en/" rel="alternate"></link><link href="https://drummyfish.github.io/all.rss.xml" rel="self"></link><id>https://drummyfish.github.io/en/</id><updated>2017-01-30T00:44:00+01:00</updated><entry><title>Ing. na FIT – 5. semestr</title><link href="https://drummyfish.github.io/en/ing5-cs.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2017-01-30:/en/ing5-cs.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
+<feed xmlns="http://www.w3.org/2005/Atom"><title>tastyfish</title><link href="https://drummyfish.github.io/en/" rel="alternate"></link><link href="https://drummyfish.github.io/all.rss.xml" rel="self"></link><id>https://drummyfish.github.io/en/</id><updated>2017-01-30T00:44:00+01:00</updated><entry><title>Ing. na FIT – 5. semestr</title><link href="https://drummyfish.github.io/en/ing5-cs.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2017-01-30:/en/ing5-cs.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
+předměty jsou, to ano, ale rozhodl jsem se, možná trochu zbaběle leč
+racionálně, že kvůli svým (nyní už …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
 předměty jsou, to ano, ale rozhodl jsem se, možná trochu zbaběle leč
 racionálně, že kvůli svým (nyní už dlouhodobým) psychickým problémům své
 působení na VŠ ukončím inženýrem. Tedy snad. Zde je zhodnocení
@@ -170,12 +172,19 @@ téma, průběžně pracovat a konzultovat.&lt;/p&gt;
 &lt;p&gt;průměr:  1.5 &lt;br /&gt;
 pořadí v ročníku: 13.  - 19.  / 88
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Harry Potter a prokleté dítě – recenze</title><link href="https://drummyfish.github.io/en/harry-potter-a-proklete-dite-recenze-cs.html" rel="alternate"></link><published>2016-10-01T13:36:00+02:00</published><updated>2016-10-01T13:36:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-10-01:/en/harry-potter-a-proklete-dite-recenze-cs.html</id><summary type="html">&lt;p&gt;viď, viď, viď, viď, viď, viď, viď, viď, viď, koukej …&lt;/p&gt;</summary><content type="html">&lt;p&gt;viď, viď, viď, viď, viď, viď, viď, viď, viď, koukej, viď, viď,
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Harry Potter a prokleté dítě – recenze</title><link href="https://drummyfish.github.io/en/harry-potter-a-proklete-dite-recenze-cs.html" rel="alternate"></link><published>2016-10-01T13:36:00+02:00</published><updated>2016-10-01T13:36:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-10-01:/en/harry-potter-a-proklete-dite-recenze-cs.html</id><summary type="html">&lt;p&gt;viď, viď, viď, viď, viď, viď, viď, viď, viď, koukej, viď, viď,
+viď, viď, viď&lt;/p&gt;
+&lt;p&gt;Hermiona je nezávislá žena, nechala si své jméno (kromě toho, že změnila
+barvu pleti).&lt;/p&gt;
+&lt;p&gt;Jinak …&lt;/p&gt;</summary><content type="html">&lt;p&gt;viď, viď, viď, viď, viď, viď, viď, viď, viď, koukej, viď, viď,
 viď, viď, viď&lt;/p&gt;
 &lt;p&gt;Hermiona je nezávislá žena, nechala si své jméno (kromě toho, že změnila
 barvu pleti).&lt;/p&gt;
 &lt;p&gt;Jinak celkem OK.&lt;/p&gt;</content></entry><entry><title>Grupy pásových symetrií</title><link href="https://drummyfish.github.io/en/grupy-pasovych-symetrii-cs.html" rel="alternate"></link><published>2016-08-29T14:16:00+02:00</published><updated>2016-08-29T14:16:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-08-29:/en/grupy-pasovych-symetrii-cs.html</id><summary type="html">&lt;p&gt;Ve výtvarné informatice
-jsme kdysi letmo probírali &lt;a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups"&gt;grupy symetrií v …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ve výtvarné informatice
+jsme kdysi letmo probírali &lt;a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups"&gt;grupy symetrií v
+rovině&lt;/a&gt; -
+zajímavé učivo, ale v té rychlosti jsem pobral jenom to, že se dají
+symetrické mozaikové vzory nějak popisovat pomocí …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ve výtvarné informatice
 jsme kdysi letmo probírali &lt;a href="https://en.wikipedia.org/wiki/List_of_planar_symmetry_groups"&gt;grupy symetrií v
 rovině&lt;/a&gt; -
 zajímavé učivo, ale v té rychlosti jsem pobral jenom to, že se dají
@@ -314,7 +323,9 @@ koupelen, na kobercích nebo tapetách. Ta mají celkem 17 grup symetrií, k
 nimž se snad někdy dostanu v dalším článku. Zajímavá jsou rovněž různá
 označování těchto symetrií podle oboru, v jehož kontextu je
 zmiňujeme. Pokud vás téma zaujalo, určitě zavítejte na Wikipedii, která
-o dláždění nabízí spoustu kvalitních článků.&lt;/p&gt;</content><category term="graphics"></category><category term="math"></category></entry><entry><title>Ing. na FIT – 4. semestr</title><link href="https://drummyfish.github.io/en/ing4-cs.html" rel="alternate"></link><published>2016-05-23T12:28:00+02:00</published><updated>2016-05-23T12:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-05-23:/en/ing4-cs.html</id><summary type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ, VNV a
+o dláždění nabízí spoustu kvalitních článků.&lt;/p&gt;</content><category term="graphics"></category><category term="math"></category></entry><entry><title>Ing. na FIT – 4. semestr</title><link href="https://drummyfish.github.io/en/ing4-cs.html" rel="alternate"></link><published>2016-05-23T12:28:00+02:00</published><updated>2016-05-23T12:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-05-23:/en/ing4-cs.html</id><summary type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ, VNV a
+ARC. Mým cílem bylo především odbýt si PVC (ARC) a PVM (VNV) předměty a
+neměl jsem tak při …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V semestru číslo čtyři jsem měl zapsány tři předměty - VIZ, VNV a
 ARC. Mým cílem bylo především odbýt si PVC (ARC) a PVM (VNV) předměty a
 neměl jsem tak při zápisu příliš na výběr. Myslím, že s PV předměty se
 to přehání a studenti se kvůli nim nemohou naplno věnovat svému oboru.&lt;/p&gt;
@@ -544,21 +555,7 @@ předmětu.&lt;/p&gt;
 &lt;p&gt;průměr:  2.166 &lt;br /&gt;
 pořadí v ročníku: 110.  - 115.  / 198
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Studium na FIT VUT - tabulka</title><link href="https://drummyfish.github.io/en/studium-na-fit-vut-tabulka.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/en/studium-na-fit-vut-tabulka.html</id><summary type="html">&lt;table class="study-table"&gt;
-
-&lt;tr&gt;
-  &lt;th colspan="4"&gt; období &lt;/th&gt;
-  &lt;th colspan="4"&gt; předmět &lt;/th&gt;
-  &lt;th colspan="6"&gt; hodnocení &lt;/th&gt;
-  &lt;th colspan="4"&gt; celý semestr &lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; studium &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; rok &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; ročník &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; semestr &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; zkratka …&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Studium na FIT VUT - rozcestník a statistiky</title><link href="https://drummyfish.github.io/en/studium-na-fit-vut-rozcestnik-a-statistiky.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/en/studium-na-fit-vut-rozcestnik-a-statistiky.html</id><summary type="html">&lt;table class="study-table"&gt;
 
 &lt;tr&gt;
   &lt;th colspan="4"&gt; období &lt;/th&gt;
@@ -608,7 +605,60 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="12"&gt; 1 &lt;/td&gt;
 
-          &lt;td rowspan="5"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
+
+        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Asemblery …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
+
+&lt;tr&gt;
+  &lt;th colspan="4"&gt; období &lt;/th&gt;
+  &lt;th colspan="4"&gt; předmět &lt;/th&gt;
+  &lt;th colspan="6"&gt; hodnocení &lt;/th&gt;
+  &lt;th colspan="4"&gt; celý semestr &lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; studium &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; rok &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; ročník &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; semestr &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; zkratka &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; název &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; kredity &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; typ &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; půlsem &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; proj. &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; cvičení &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; ostatní &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; zkouška &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; celkem &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; kredity &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; průměr &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; pořadí &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt; stip.&amp;nbsp;(Kč) &lt;/span&gt; &lt;/th&gt;
+&lt;/tr&gt;
+
+
+
+
+
+
+
+      &lt;tr&gt;
+                                                                                                          &lt;td rowspan="
+
+
+
+    37
+
+
+"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;
+
+                                    &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;
+
+                                      &lt;td rowspan="12"&gt; 1 &lt;/td&gt;
+
+          &lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Asemblery &lt;/td&gt;
@@ -786,7 +836,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 13 "&gt; &lt;span class="vertical-text"&gt; 2011 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="7"&gt; L &lt;/td&gt;
+          &lt;td rowspan="7"&gt; &lt;a href="bc2.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFY"&gt; IFY &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Fyzika &lt;/td&gt;
@@ -1017,7 +1067,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="13"&gt; 2 &lt;/td&gt;
 
-          &lt;td rowspan="6"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="6"&gt; &lt;a href="bc3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAL"&gt; IAL &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Algoritmy &lt;/td&gt;
@@ -1226,7 +1276,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 15 "&gt; &lt;span class="vertical-text"&gt; 2012 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="7"&gt; L &lt;/td&gt;
+          &lt;td rowspan="7"&gt; &lt;a href="bc4.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDS"&gt; IDS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Databázové systémy &lt;/td&gt;
@@ -1469,7 +1519,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="10"&gt; 3 &lt;/td&gt;
 
-          &lt;td rowspan="8"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="8"&gt; &lt;a href="bc5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IIS"&gt; IIS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Informační systémy &lt;/td&gt;
@@ -1727,7 +1777,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 3 "&gt; &lt;span class="vertical-text"&gt; 2013 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="2"&gt; L &lt;/td&gt;
+          &lt;td rowspan="2"&gt; &lt;a href="bc6.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITY"&gt; ITY &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Typografie a publikování &lt;/td&gt;
@@ -1810,7 +1860,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="2"&gt; 4 &lt;/td&gt;
 
-          &lt;td rowspan="1"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;a href="bc7.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPA"&gt; IPA &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Pokročilé asemblery &lt;/td&gt;
@@ -1858,7 +1908,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="1"&gt; L &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;a href="bc8.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IBP"&gt; IBP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Bakalářská práce &lt;/td&gt;
@@ -1912,7 +1962,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="15"&gt; 1 &lt;/td&gt;
 
-          &lt;td rowspan="8"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="8"&gt; &lt;a href="ing1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=HSC"&gt; HSC &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Hardware/Software Codesign &lt;/td&gt;
@@ -2176,7 +2226,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 9 "&gt; &lt;span class="vertical-text"&gt; 2015 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="7"&gt; L &lt;/td&gt;
+          &lt;td rowspan="7"&gt; &lt;a href="ing2.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FYO"&gt; FYO &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Fyzikální optika &lt;/td&gt;
@@ -2415,7 +2465,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="5"&gt; 2 &lt;/td&gt;
 
-          &lt;td rowspan="2"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="2"&gt; &lt;a href="ing3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GZN"&gt; GZN &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Grafická a zvuková rozhraní a normy &lt;/td&gt;
@@ -2493,7 +2543,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 6 "&gt; &lt;span class="vertical-text"&gt; 2016 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="3"&gt; L &lt;/td&gt;
+          &lt;td rowspan="3"&gt; &lt;a href="ing4.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ARC"&gt; ARC &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Architektura a programování paralelních systémů &lt;/td&gt;
@@ -2603,7 +2653,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
                                       &lt;td rowspan="4"&gt; 3 &lt;/td&gt;
 
-          &lt;td rowspan="3"&gt; Z &lt;/td&gt;
+          &lt;td rowspan="3"&gt; &lt;a href="ing5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SEP"&gt; SEP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Semestrální projekt &lt;/td&gt;
@@ -2715,7 +2765,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
                                     &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2017 &lt;/span&gt; &lt;/td&gt;
 
 
-          &lt;td rowspan="1"&gt; L &lt;/td&gt;
+          &lt;td rowspan="1"&gt; &lt;a href="ing6.html"&gt; L &lt;/a&gt; &lt;/td&gt;
 
         &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SIP"&gt; SIP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Diplomová práce &lt;/td&gt;
@@ -2985,7 +3035,9 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
  &lt;/li&gt;
     &lt;/ul&gt;
     &lt;/li&gt;
-&lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/en/diskuse-nazory-ma-to-vubec-cenu-cs.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/en/diskuse-nazory-ma-to-vubec-cenu-cs.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
+&lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/en/diskuse-nazory-ma-to-vubec-cenu-cs.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/en/diskuse-nazory-ma-to-vubec-cenu-cs.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
+něco dělat, když to stejně nemá cenu? Když chci o něčem s někým
+objektivně diskutovat, skončíme vždycky nakonec u …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
 něco dělat, když to stejně nemá cenu? Když chci o něčem s někým
 objektivně diskutovat, skončíme vždycky nakonec u toho, že si obě strany
 hájí nějaký svůj názor, který nelze nijak podložit fakty, ale daná
@@ -3058,7 +3110,9 @@ sympatická, a tak dále. Proto vždycky, když se ocitnu v debatě, v níž
 někdo začne zvyšovat hlas, aby něco prosadil silou místo rozumem, nebo
 vidím, jak politici omílají v televizi prázdné fráze, dávám ruce pryč.
 Zkusme se prosím v diskusi zlepšit, pro dobro nás všech.&lt;/p&gt;</content></entry><entry><title>Ing. na FIT – 3. semestr</title><link href="https://drummyfish.github.io/en/ing3-cs.html" rel="alternate"></link><published>2016-02-13T18:46:00+01:00</published><updated>2016-02-13T18:46:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-02-13:/en/ing3-cs.html</id><summary type="html">&lt;p&gt;Jelikož se &lt;a href="http://tastyfish.cz/?p=522"&gt;opakuje situace z konce mého bakalářského
-studia&lt;/a&gt;, opět …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jelikož se &lt;a href="http://tastyfish.cz/?p=522"&gt;opakuje situace z konce mého bakalářského
+studia&lt;/a&gt;, opět jsem studium rozvolnil a
+zapsal si na rok jenom pět předmětů. Pozor - pokud byste se ocitli v
+podobné situaci, pamatujte …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jelikož se &lt;a href="http://tastyfish.cz/?p=522"&gt;opakuje situace z konce mého bakalářského
 studia&lt;/a&gt;, opět jsem studium rozvolnil a
 zapsal si na rok jenom pět předmětů. Pozor - pokud byste se ocitli v
 podobné situaci, pamatujte, že musíte za rok získat alespoň 30 kreditů,
@@ -3181,7 +3235,8 @@ semestru předmět VIZ, který je velmi podobný.&lt;/p&gt;
 &lt;p&gt;průměr:  1.277 &lt;br /&gt;
 pořadí v ročníku: 10.  / 198
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Jak to teď vidím</title><link href="https://drummyfish.github.io/en/jak-to-ted-vidim-cs.html" rel="alternate"></link><published>2015-11-29T00:49:00+01:00</published><updated>2015-11-29T00:49:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-11-29:/en/jak-to-ted-vidim-cs.html</id><summary type="html">&lt;p&gt;Je 11:35, nechce se mi ještě spát, tak si …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Je 11:35, nechce se mi ještě spát, tak si říkám, že něco napíšu
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Jak to teď vidím</title><link href="https://drummyfish.github.io/en/jak-to-ted-vidim-cs.html" rel="alternate"></link><published>2015-11-29T00:49:00+01:00</published><updated>2015-11-29T00:49:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-11-29:/en/jak-to-ted-vidim-cs.html</id><summary type="html">&lt;p&gt;Je 11:35, nechce se mi ještě spát, tak si říkám, že něco napíšu
+na stránky. Před pár dny jsem bohužel zjistil, &lt;a href="https://www.youtube.com/watch?v=LpqnX4Who2Q"&gt;že Jake Roper má rakovinu&lt;/a&gt;. Velmi mě to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Je 11:35, nechce se mi ještě spát, tak si říkám, že něco napíšu
 na stránky. Před pár dny jsem bohužel zjistil, &lt;a href="https://www.youtube.com/watch?v=LpqnX4Who2Q"&gt;že Jake Roper má rakovinu&lt;/a&gt;. Velmi mě to
 zasáhlo a moc doufám, že se uzdraví. Zároveň mi to připomíná, jaké mám
 vlastně štěstí, že mám jenom trochu nalomenou psychiku. Ta se mimochodem
@@ -3212,7 +3267,9 @@ popadnu kočku a jdu se dívat.&lt;/p&gt;
 &lt;p&gt;Vědci nedávno zjistili, že &lt;a href="http://www.telegraph.co.uk/news/science/science-news/12012663/Loneliness-triggers-biological-changes-which-cause-illness-and-early-death.html"&gt;osamělost způsobuje buněčné změny vedoucí k nemocem&lt;/a&gt;.
 A vůbec, o lidském kontaktu se od pradávna ví, že je nezbytnou součástí
 zdravého života, takže hledám kamarádku na mazlení (jenom na mazlení,
-nic víc). Zájemkyně nechť se ozvou  &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Rozvolňování, komplikace, zase</title><link href="https://drummyfish.github.io/en/rozvolnovani-komplikace-zase-cs.html" rel="alternate"></link><published>2015-10-06T21:00:00+02:00</published><updated>2015-10-06T21:00:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-10-06:/en/rozvolnovani-komplikace-zase-cs.html</id><summary type="html">&lt;p&gt;Co je horší, než se psychicky zhroutit? Psychicky se zhroutit …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Co je horší, než se psychicky zhroutit? Psychicky se zhroutit
+nic víc). Zájemkyně nechť se ozvou  &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Rozvolňování, komplikace, zase</title><link href="https://drummyfish.github.io/en/rozvolnovani-komplikace-zase-cs.html" rel="alternate"></link><published>2015-10-06T21:00:00+02:00</published><updated>2015-10-06T21:00:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-10-06:/en/rozvolnovani-komplikace-zase-cs.html</id><summary type="html">&lt;p&gt;Co je horší, než se psychicky zhroutit? Psychicky se zhroutit
+podruhé. Je to opět tady, musím rozvolňovat studium. Cítil jsem se
+skvěle, pracoval na diplomce, a jako blesk z nebe …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Co je horší, než se psychicky zhroutit? Psychicky se zhroutit
 podruhé. Je to opět tady, musím rozvolňovat studium. Cítil jsem se
 skvěle, pracoval na diplomce, a jako blesk z nebe přišly znovu, mírně
 řečeno, nepříjemnosti. Malá rada - antidepresiva vysazujte velmi opatrně
@@ -3225,7 +3282,9 @@ Fénixův řád&lt;/p&gt;
 &lt;p&gt;Co dodat? Snad jen, že už pracuji na nápravě a že mám kolem sebe lidi,
 kteří mi v tom neskutečně pomáhají. Pokusím se tento semestr zvládnout z
 domu dva předměty a dát se do pořádku, abych mohl znovu pokračovat v
-životě &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Let's make a Skyrim-like text-based RPG together</title><link href="https://drummyfish.github.io/en/skyrim-rpg.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/en/skyrim-rpg.html</id><summary type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did and so I started a
+životě &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Let's make a Skyrim-like text-based RPG together</title><link href="https://drummyfish.github.io/en/skyrim-rpg.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/en/skyrim-rpg.html</id><summary type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did and so I started a
+project recently. I would like other people to join me and maybe we can
+make …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Have you ever wanted to make an RPG? I did and so I started a
 project recently. I would like other people to join me and maybe we can
 make a nice game together. I don't feel like typing too much so I'll use
 a bulleted list&lt;/p&gt;
@@ -3258,7 +3317,9 @@ you'll find classes that need to be implemented there. Or just ask in
 chat. But We're not only looking for programmers, the UML diagram needs
 to be completed, we need to think about the game more, for example what
 will its name be. Just connect to our chat. We're looking forward to
-seeing you &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Pojďte se mnou psát textové RPG ve stylu Skyrimu</title><link href="https://drummyfish.github.io/en/../skyrim-rpg.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/en/../skyrim-rpg.html</id><summary type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto
+seeing you &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Pojďte se mnou psát textové RPG ve stylu Skyrimu</title><link href="https://drummyfish.github.io/en/../skyrim-rpg.html" rel="alternate"></link><published>2015-08-16T22:02:00+02:00</published><updated>2015-08-16T22:02:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-08-16:/en/../skyrim-rpg.html</id><summary type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto
+jsem s tím nedávno začal. Byl bych rád, kdyby se ke mně připojilo víc
+lidí - společně třeba vytvoříme dobrou hru …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Chtěli jste někdy napsat vlastní RPG? Já ano a proto
 jsem s tím nedávno začal. Byl bych rád, kdyby se ke mně připojilo víc
 lidí - společně třeba vytvoříme dobrou hru. Nechce se mi moc psát, takže
 projekt představím v odrážkách:&lt;/p&gt;
@@ -3290,7 +3351,8 @@ programovat? Podívejte se na UML diagram tříd ve složce other na GitHubu
 chatu. Nehledáme ale jenom programátory, je nutné dodělat UML diagram a
 domyslet spoustu věcí o hře, např. její jméno. Stačí se připojit na
 chat. Těšíme se na vás &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="c"></category><category term="commandline"></category><category term="game"></category><category term="multiplatform"></category><category term="recruit"></category><category term="rpg"></category></entry><entry><title>Linux - dosavadní zkušenosti</title><link href="https://drummyfish.github.io/en/linux-dosavadni-zkusenosti-cs.html" rel="alternate"></link><published>2015-07-04T14:21:00+02:00</published><updated>2015-07-04T14:21:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-07-04:/en/linux-dosavadni-zkusenosti-cs.html</id><summary type="html">&lt;p&gt;Podle data předchozího článku používám Linux jako primární
-operační systém …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Podle data předchozího článku používám Linux jako primární
+operační systém asi měsíc a půl. Není to příliš dlouho, ale už teď
+vidím, že trend mé spokojenosti je stoupající, na rozdíl …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Podle data předchozího článku používám Linux jako primární
 operační systém asi měsíc a půl. Není to příliš dlouho, ale už teď
 vidím, že trend mé spokojenosti je stoupající, na rozdíl od Windows, kde
 tomu bylo naopak. Nezáleží však jen na operačním systému. Jsou to hlavně
@@ -3402,7 +3464,9 @@ na které jsem narazil. Ale vyhovuje mi dobře. Prakticky můj jediný
 požadavek byl, aby přehrávač uměl krokovat video po jednotlivých
 snímcích, protože to se občas hodí při stříhání videí. VLC player tohle
 samozřejmě zvládá, taky umí dělat snímky z videí, přehrávat různými
-rychlostmi apod.&lt;/p&gt;</content><category term="linux"></category></entry><entry><title>Ing. na FIT – 2. semestr</title><link href="https://drummyfish.github.io/en/ing2-cs.html" rel="alternate"></link><published>2015-06-06T11:14:00+02:00</published><updated>2015-06-06T11:14:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-06-06:/en/ing2-cs.html</id><summary type="html">&lt;p&gt;Druhý magisterský semestr na FITu byl na grafice hlavně o …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Druhý magisterský semestr na FITu byl na grafice hlavně o
+rychlostmi apod.&lt;/p&gt;</content><category term="linux"></category></entry><entry><title>Ing. na FIT – 2. semestr</title><link href="https://drummyfish.github.io/en/ing2-cs.html" rel="alternate"></link><published>2015-06-06T11:14:00+02:00</published><updated>2015-06-06T11:14:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-06-06:/en/ing2-cs.html</id><summary type="html">&lt;p&gt;Druhý magisterský semestr na FITu byl na grafice hlavně o
+signálech. Postaraly se o to předměty MUL, ZPO a ZRE. Celkem drsné bylo
+zkouškové období, které začínalo hned dva dny …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Druhý magisterský semestr na FITu byl na grafice hlavně o
 signálech. Postaraly se o to předměty MUL, ZPO a ZRE. Celkem drsné bylo
 zkouškové období, které začínalo hned dva dny po přednáškovém, a všechny
 zkoušky byly vtěsnané do dvou týdnů, což se neblaze projevilo dvěma
@@ -3884,7 +3948,9 @@ chválit.&lt;/p&gt;
 &lt;p&gt;průměr:  1.714 &lt;br /&gt;
 pořadí v ročníku: 20.  - 22.  / 127
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Přechod na Linux</title><link href="https://drummyfish.github.io/en/prechod-na-linux.html" rel="alternate"></link><published>2015-05-22T22:58:00+02:00</published><updated>2015-05-22T22:58:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-05-22:/en/prechod-na-linux.html</id><summary type="html">&lt;p&gt;Na svém notebooku mám od teď už jenom Linux. Je …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Na svém notebooku mám od teď už jenom Linux. Je to &lt;a href="https://ubuntu-mate.org/"&gt;Ubuntu
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Přechod na Linux</title><link href="https://drummyfish.github.io/en/prechod-na-linux.html" rel="alternate"></link><published>2015-05-22T22:58:00+02:00</published><updated>2015-05-22T22:58:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-05-22:/en/prechod-na-linux.html</id><summary type="html">&lt;p&gt;Na svém notebooku mám od teď už jenom Linux. Je to &lt;a href="https://ubuntu-mate.org/"&gt;Ubuntu
+MATE&lt;/a&gt;. A proč jsem se vlastně k přechodu
+rozhodl? Lepší otázkou je, proč mi to tak dlouho trvalo …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Na svém notebooku mám od teď už jenom Linux. Je to &lt;a href="https://ubuntu-mate.org/"&gt;Ubuntu
 MATE&lt;/a&gt;. A proč jsem se vlastně k přechodu
 rozhodl? Lepší otázkou je, proč mi to tak dlouho trvalo.&lt;/p&gt;
 &lt;p&gt;S Linuxem jsem sympatizoval už dlouho, avšak zvyk je železná košile, a
@@ -3909,7 +3975,10 @@ zdá, vyřešil program Bumblebee, který napsali dobří lidé z komunity.&lt;/
 &lt;p&gt;Pokud vás štve, že se vám při instalaci programů instaluje software,
 který jste vůbec nechtěli, nebo že se musíte rozhodovat, zda si koupit
 nový Office nebo ho ukradnout, zvažte přechod na Linux. Není jenom
-zdarma, je svobodný.&lt;/p&gt;</content></entry><entry><title>Momentální stav věcí</title><link href="https://drummyfish.github.io/en/momentalni-stav-veci.html" rel="alternate"></link><published>2015-05-02T13:59:00+02:00</published><updated>2015-05-02T13:59:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-05-02:/en/momentalni-stav-veci.html</id><summary type="html">&lt;p&gt;První magisterský ročník se blíží ke konci, takže zde jenom …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První magisterský ročník se blíží ke konci, takže zde jenom
+zdarma, je svobodný.&lt;/p&gt;</content></entry><entry><title>Momentální stav věcí</title><link href="https://drummyfish.github.io/en/momentalni-stav-veci.html" rel="alternate"></link><published>2015-05-02T13:59:00+02:00</published><updated>2015-05-02T13:59:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-05-02:/en/momentalni-stav-veci.html</id><summary type="html">&lt;p&gt;První magisterský ročník se blíží ke konci, takže zde jenom
+krátce shrnu momentální stav věcí.&lt;/p&gt;
+&lt;p&gt;Před pár dny mi přišel e-mail s prospěchovým stipendiem 10 000 Kč, které
+padne nejspíš …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První magisterský ročník se blíží ke konci, takže zde jenom
 krátce shrnu momentální stav věcí.&lt;/p&gt;
 &lt;p&gt;Před pár dny mi přišel e-mail s prospěchovým stipendiem 10 000 Kč, které
 padne nejspíš na GoPro a GTA V. Z našetřených peněz mám objednaný
@@ -3929,7 +3998,10 @@ druhém semestru magisterského studia už je rovněž v rozepsaném stavu.&lt;/
 svůj - např. namísto "zašlete svůj životopis" uvidíte všude "zašlete váš
 životopis". To vám teda nic nezašlu. V prezentacích na Excel@FIT jsem
 opět slyšel spoustu vět typu "Chtěl jsem dosáhnout vysokou efektivitu".
-Běžte se s takovou mluvou bodnout &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>New Website</title><link href="https://drummyfish.github.io/en/nove-stranky.html" rel="alternate"></link><published>2015-04-18T21:17:00+02:00</published><updated>2015-04-18T21:17:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-04-18:/en/nove-stranky.html</id><summary type="html">&lt;p&gt;As you may have noticed, my website has completely changed …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As you may have noticed, my website has completely changed its
+Běžte se s takovou mluvou bodnout &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>New Website</title><link href="https://drummyfish.github.io/en/nove-stranky.html" rel="alternate"></link><published>2015-04-18T21:17:00+02:00</published><updated>2015-04-18T21:17:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-04-18:/en/nove-stranky.html</id><summary type="html">&lt;p&gt;As you may have noticed, my website has completely changed its
+look. There were two reasons for the change:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I wrote the old website completely by myself and I have …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;As you may have noticed, my website has completely changed its
 look. There were two reasons for the change:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;I wrote the old website completely by myself and I have reached a
@@ -3956,7 +4028,11 @@ look. There were two reasons for the change:&lt;/p&gt;
 all the stuff I had on my old website here, plus some extra features
 thanks to Wordpress. It's mainly multilingualism that I have long wished
 to have, then there is the search bar, tags, sorting, emoticons etc. I
-hope you'll have fun browsing my new website &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Nové stránky</title><link href="https://drummyfish.github.io/en/../nove-stranky.html" rel="alternate"></link><published>2015-04-18T21:17:00+02:00</published><updated>2015-04-18T21:17:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-04-18:/en/../nove-stranky.html</id><summary type="html">&lt;p&gt;Jak jste si asi všimli, moje stránky dostaly úplně novou …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jak jste si asi všimli, moje stránky dostaly úplně novou podobu. Důvody ke změně
+hope you'll have fun browsing my new website &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Nové stránky</title><link href="https://drummyfish.github.io/en/../nove-stranky.html" rel="alternate"></link><published>2015-04-18T21:17:00+02:00</published><updated>2015-04-18T21:17:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-04-18:/en/../nove-stranky.html</id><summary type="html">&lt;p&gt;Jak jste si asi všimli, moje stránky dostaly úplně novou podobu. Důvody ke změně
+byly dva:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Staré stránky jsem psal kompletně sám, ale dospěl jsem do stádia,
+    kdy jsem si …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Jak jste si asi všimli, moje stránky dostaly úplně novou podobu. Důvody ke změně
 byly dva:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Staré stránky jsem psal kompletně sám, ale dospěl jsem do stádia,
@@ -3984,7 +4060,9 @@ byly dva:&lt;/p&gt;
 nabízel dřív, plus nové vychytávky, které mi umožňuje Wordpress. Jedná
 se především o vícejazyčnost, kterou jsem si dlouho přál zavést, dále
 pak možnost vyhledávání, tagování, řazení, emotikony apod. Doufám, že se
-Vám na mých nových stránkách bude dobře brouzdat &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Ing. na FIT – 1. semestr</title><link href="https://drummyfish.github.io/en/ing1-cs.html" rel="alternate"></link><published>2015-03-06T16:40:00+01:00</published><updated>2015-03-06T16:40:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-03-06:/en/ing1-cs.html</id><summary type="html">&lt;p&gt;První semestr magisterského studia grafiky je úspěšně za mnou a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První semestr magisterského studia grafiky je úspěšně za mnou a
+Vám na mých nových stránkách bude dobře brouzdat &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Ing. na FIT – 1. semestr</title><link href="https://drummyfish.github.io/en/ing1-cs.html" rel="alternate"></link><published>2015-03-06T16:40:00+01:00</published><updated>2015-03-06T16:40:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2015-03-06:/en/ing1-cs.html</id><summary type="html">&lt;p&gt;První semestr magisterského studia grafiky je úspěšně za mnou a
+už se těším, co pěkného o něm napíšu. To ovšem neznamená, že o něm
+napíšu jenom samé pěkné věci - tak …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První semestr magisterského studia grafiky je úspěšně za mnou a
 už se těším, co pěkného o něm napíšu. To ovšem neznamená, že o něm
 napíšu jenom samé pěkné věci - tak třeba za prvé: byl hodně náročný.
 Jeden z nejnáročnějších vůbec. Dobrá zpráva však je, že jakmile jej máte
@@ -4628,7 +4706,10 @@ předmět trochu zlepší.&lt;/p&gt;
 pořadí v ročníku: 10.  / 110
  &lt;br /&gt;
 prospěchové stipendium: 9913 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Má nejdokonalejší kritika dnešní češtiny</title><link href="https://drummyfish.github.io/en/ma-nejdokonalejsi-kritika-dnesni-cestiny-cs.html" rel="alternate"></link><published>2014-08-08T12:31:00+02:00</published><updated>2014-08-08T12:31:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2014-08-08:/en/ma-nejdokonalejsi-kritika-dnesni-cestiny-cs.html</id><summary type="html">&lt;p&gt;&lt;img alt="jsem na ní hrdý" src="http://i.imgur.com/GjELHTV.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Samozřejmě že všichni děláme chyby a dost dobře je pár …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="jsem na ní hrdý" src="http://i.imgur.com/GjELHTV.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Samozřejmě že všichni děláme chyby a dost dobře je pár ironických mršek
+i v tomto článku. To mi však nezabrání, abych si nepostěžoval na dnešní
+ubohou jazykovou úroveň.&lt;/p&gt;
+&lt;p&gt;Nejde o …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="jsem na ní hrdý" src="http://i.imgur.com/GjELHTV.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Samozřejmě že všichni děláme chyby a dost dobře je pár ironických mršek
 i v tomto článku. To mi však nezabrání, abych si nepostěžoval na dnešní
 ubohou jazykovou úroveň.&lt;/p&gt;
@@ -4733,7 +4814,9 @@ kdyby se o to snažili i ostatní.&lt;/p&gt;
     "Stáhněte si XYZ do vašeho telefonu." Fuj.&lt;/li&gt;
 &lt;li&gt;Věty tvaru "Jenom proto, že ..., neznamená, že ..." Co je podmět
     první věty? Kdo/co neznamená něco? Proto?&lt;/li&gt;
-&lt;/ul&gt;</content></entry><entry><title>Nerozhodnutelnost versus lidský mozek</title><link href="https://drummyfish.github.io/en/nerozhodnutelnost-versus-lidsky-mozek-cs.html" rel="alternate"></link><published>2014-08-02T12:46:00+02:00</published><updated>2014-08-02T12:46:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2014-08-02:/en/nerozhodnutelnost-versus-lidsky-mozek-cs.html</id><summary type="html">&lt;p&gt;V tomto článku bych chtěl uvést pár myšlenek, kterými jsem …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V tomto článku bych chtěl uvést pár myšlenek, kterými jsem se
+&lt;/ul&gt;</content></entry><entry><title>Nerozhodnutelnost versus lidský mozek</title><link href="https://drummyfish.github.io/en/nerozhodnutelnost-versus-lidsky-mozek-cs.html" rel="alternate"></link><published>2014-08-02T12:46:00+02:00</published><updated>2014-08-02T12:46:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2014-08-02:/en/nerozhodnutelnost-versus-lidsky-mozek-cs.html</id><summary type="html">&lt;p&gt;V tomto článku bych chtěl uvést pár myšlenek, kterými jsem se
+nedávno krátce zabýval. Teoretickou informatiku jsme ve škole doposud
+nebrali a tudíž na ni nemám zatím špatný názor. Proto …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V tomto článku bych chtěl uvést pár myšlenek, kterými jsem se
 nedávno krátce zabýval. Teoretickou informatiku jsme ve škole doposud
 nebrali a tudíž na ni nemám zatím špatný názor. Proto tedy hurá do
 psaní, dokud ještě zbývá trocha motivace.&lt;/p&gt;
@@ -4873,7 +4956,9 @@ nalomený, avšak vzápětí na to jsem si uvědomil, že jediné, co z těchto
 myšlenek vyplývá, je, že nelze rozhodnout úplně cokoliv. Lidský mozek
 podle všeho přeci jen není nic jiného, než složitý počítač, a
 matematický důkaz naštěstí dál zůstává důkazem. A to je v dnešním světě
-plném nejistot dobře.&lt;/p&gt;</content></entry><entry><title>Bc. na FIT - 7. a 8. semestr</title><link href="https://drummyfish.github.io/en/bc7-cs.html" rel="alternate"></link><published>2014-07-01T16:31:00+02:00</published><updated>2014-07-01T16:31:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2014-07-01:/en/bc7-cs.html</id><summary type="html">&lt;p&gt;Tento rok jsem studoval rozvolněně, což znamená, že v zimním …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tento rok jsem studoval rozvolněně, což znamená, že v zimním
+plném nejistot dobře.&lt;/p&gt;</content></entry><entry><title>Bc. na FIT - 7. a 8. semestr</title><link href="https://drummyfish.github.io/en/bc7-cs.html" rel="alternate"></link><published>2014-07-01T16:31:00+02:00</published><updated>2014-07-01T16:31:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2014-07-01:/en/bc7-cs.html</id><summary type="html">&lt;p&gt;Tento rok jsem studoval rozvolněně, což znamená, že v zimním
+semestru jsem si prošel pouze jeden volitelný předmět a v letním mě pak
+čekaly jenom státnice. Navíc jsem ale dělal …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tento rok jsem studoval rozvolněně, což znamená, že v zimním
 semestru jsem si prošel pouze jeden volitelný předmět a v letním mě pak
 čekaly jenom státnice. Navíc jsem ale dělal na bakalářce, kterou jsem
 značně rozšířil, takže zase taková flákačka to nebyla &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;
@@ -5243,7 +5328,8 @@ absolvoval/získal:&lt;/p&gt;
 &lt;li&gt;pár věcí z volitelných předmětů jako španělština, typografie,
     psychologie nebo právní minimum&lt;/li&gt;
 &lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Speciální teorie relativity</title><link href="https://drummyfish.github.io/en/specialni-teorie-relativity-cs.html" rel="alternate"></link><published>2013-12-10T17:28:00+01:00</published><updated>2013-12-10T17:28:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2013-12-10:/en/specialni-teorie-relativity-cs.html</id><summary type="html">&lt;p&gt;Jakožto informatik nemám bohužel/bohudík k matematice, potažmo
-fyzice, tak …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jakožto informatik nemám bohužel/bohudík k matematice, potažmo
+fyzice, tak daleko, jak by většina šťastných smrtelníků považovala za
+zdravé, a to i přes veškerou duševní chabost, kterou na sobě každodenně …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jakožto informatik nemám bohužel/bohudík k matematice, potažmo
 fyzice, tak daleko, jak by většina šťastných smrtelníků považovala za
 zdravé, a to i přes veškerou duševní chabost, kterou na sobě každodenně
 pozoruji. Každopádně jsem se nemohl vyhnout dni, kdy mě snad slabost či
@@ -5501,7 +5587,9 @@ můžeme s klidem a bez obav používat dál. Velmi podstatné je si odnést
 informaci o tom, že rychleji než světlo se nic nikam nedostane, takže se
 můžeme vzdát naděje, že ještě za našeho života doletíme k nějaké planetě
 mimo naši Sluneční soustavu. Snad budu moct jednoho dne napsat podobný
-článek i o obecné relativitě, pokud ji kdy dostatečně pochopím &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="physics"></category></entry><entry><title>Bc. na FIT - 6. semestr</title><link href="https://drummyfish.github.io/en/bc6-cs.html" rel="alternate"></link><published>2013-06-20T16:28:00+02:00</published><updated>2013-06-20T16:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2013-06-20:/en/bc6-cs.html</id><summary type="html">&lt;p&gt;Šestý semestr je za mnou, však bakalář zatím nejsem &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Šestý semestr je za mnou, však bakalář zatím nejsem &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; I když
+článek i o obecné relativitě, pokud ji kdy dostatečně pochopím &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="physics"></category></entry><entry><title>Bc. na FIT - 6. semestr</title><link href="https://drummyfish.github.io/en/bc6-cs.html" rel="alternate"></link><published>2013-06-20T16:28:00+02:00</published><updated>2013-06-20T16:28:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2013-06-20:/en/bc6-cs.html</id><summary type="html">&lt;p&gt;Šestý semestr je za mnou, však bakalář zatím nejsem &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; I když
+jsem touto dobou už doufal být, musím rozvolňovat a pracovat na
+zdravotním stavu, takže prozatím zde shrnu dva absolvované …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Šestý semestr je za mnou, však bakalář zatím nejsem &lt;span class="emoji emoji-eyebrows"&gt;&lt;/span&gt; I když
 jsem touto dobou už doufal být, musím rozvolňovat a pracovat na
 zdravotním stavu, takže prozatím zde shrnu dva absolvované předměty a
 příští rok doplním vše zbývající.&lt;/p&gt;
@@ -5600,7 +5688,9 @@ Myslím, že co se týká základů, tento kurz splnil očekávání.&lt;/p&gt;
 &lt;p&gt;průměr:  1.5 &lt;br /&gt;
 pořadí v ročníku: 59.  - 84.  / 369
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 5. semestr</title><link href="https://drummyfish.github.io/en/bc5-cs.html" rel="alternate"></link><published>2013-02-05T16:25:00+01:00</published><updated>2013-02-05T16:25:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2013-02-05:/en/bc5-cs.html</id><summary type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě nebyly na
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 5. semestr</title><link href="https://drummyfish.github.io/en/bc5-cs.html" rel="alternate"></link><published>2013-02-05T16:25:00+01:00</published><updated>2013-02-05T16:25:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2013-02-05:/en/bc5-cs.html</id><summary type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě nebyly na
+úrovni hardcore, ale bylo jich mnoho a spousta měla týmové projekty.
+Inovaci představoval týden zkouškového již před Vánoci …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak mám za sebou pátý semestr - předměty samy o sobě nebyly na
 úrovni hardcore, ale bylo jich mnoho a spousta měla týmové projekty.
 Inovaci představoval týden zkouškového již před Vánoci. Rovněž se
 sloučily skupiny BIA a BIB a tak měla každá přednáška pouze jeden
@@ -6152,7 +6242,9 @@ skoro každý, takže určitě není na škodu umět něco víc.&lt;/p&gt;
 &lt;p&gt;průměr:  2.053 &lt;br /&gt;
 pořadí v ročníku: 96.  - 98.  / 240
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Pokročilé objektově orientované programování</title><link href="https://drummyfish.github.io/en/pokrocile-objektove-orientovane-programovani-cs.html" rel="alternate"></link><published>2012-12-11T17:14:00+01:00</published><updated>2012-12-11T17:14:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-12-11:/en/pokrocile-objektove-orientovane-programovani-cs.html</id><summary type="html">&lt;p&gt;V článku o základech OOP jsem se věnoval tomu nejdůležitějšímu …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V článku o základech OOP jsem se věnoval tomu nejdůležitějšímu, co je
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Pokročilé objektově orientované programování</title><link href="https://drummyfish.github.io/en/pokrocile-objektove-orientovane-programovani-cs.html" rel="alternate"></link><published>2012-12-11T17:14:00+01:00</published><updated>2012-12-11T17:14:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-12-11:/en/pokrocile-objektove-orientovane-programovani-cs.html</id><summary type="html">&lt;p&gt;V článku o základech OOP jsem se věnoval tomu nejdůležitějšímu, co je
+třeba umět k psaní objektového kódu. Nyní se zaměřím na pokročilé
+nástroje a techniky, kterými OOP vybrušuje krásu …&lt;/p&gt;</summary><content type="html">&lt;p&gt;V článku o základech OOP jsem se věnoval tomu nejdůležitějšímu, co je
 třeba umět k psaní objektového kódu. Nyní se zaměřím na pokročilé
 nástroje a techniky, kterými OOP vybrušuje krásu své koncepce a
 eliminuje některé své neduhy. Po osvojení těchto věcí získáte především
@@ -6765,7 +6857,10 @@ to, že ač zde probrané věci pro OOP obecně platí a hojně se využívají,
 můžete se místy setkat s odlišnostmi v syntaxi i sémantice a proto jsem
 se zde neomezil na žádný konkrétní jazyk, čistě pro účel obecnosti. Byl
 bych rád, kdyby si čtenář odnesl znalost principů, které mu usnadní
-učení konkrétního objektově orientovaného jazyka.&lt;/p&gt;</content><category term="source"></category></entry><entry><title>Základy objektově orientovaného programování</title><link href="https://drummyfish.github.io/en/zaklady-objektove-orientovaneho-programovani-cs.html" rel="alternate"></link><published>2012-12-11T17:10:00+01:00</published><updated>2012-12-11T17:10:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-12-11:/en/zaklady-objektove-orientovaneho-programovani-cs.html</id><summary type="html">&lt;p&gt;S objekty se dnes v informatice setkáváme nejen při programování …&lt;/p&gt;</summary><content type="html">&lt;p&gt;S objekty se dnes v informatice setkáváme nejen při programování,
+učení konkrétního objektově orientovaného jazyka.&lt;/p&gt;</content><category term="source"></category></entry><entry><title>Základy objektově orientovaného programování</title><link href="https://drummyfish.github.io/en/zaklady-objektove-orientovaneho-programovani-cs.html" rel="alternate"></link><published>2012-12-11T17:10:00+01:00</published><updated>2012-12-11T17:10:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-12-11:/en/zaklady-objektove-orientovaneho-programovani-cs.html</id><summary type="html">&lt;p&gt;S objekty se dnes v informatice setkáváme nejen při programování,
+ale zcela běžně také při návrhu aplikací, jejich testování, budování
+databází a u nespočtu dalších klíčových činností. Zjednodušeně řečeno,
+objekty …&lt;/p&gt;</summary><content type="html">&lt;p&gt;S objekty se dnes v informatice setkáváme nejen při programování,
 ale zcela běžně také při návrhu aplikací, jejich testování, budování
 databází a u nespočtu dalších klíčových činností. Zjednodušeně řečeno,
 objekty jsou všude kolem nás.&lt;/p&gt;
@@ -6995,7 +7090,9 @@ přerušované čáry vyjadřují vztah "vlastnictví psa".&lt;/p&gt;
 triviální věc a vyžaduje určitý čas. Jako vždy platí, nejlépe se
 programovat naučíte programováním. Proto si zkuste vybrat vhodný
 programovací jazyk, prohlédněte si svět kolem sebe plný objektů a zkuste
-jej nějakým způsobem ztvárnit. Uvidíte, že si OOP oblíbíte.&lt;/p&gt;</content></entry><entry><title>Bc. na FIT - 4. semestr</title><link href="https://drummyfish.github.io/en/bc4-cs.html" rel="alternate"></link><published>2012-06-15T16:22:00+02:00</published><updated>2012-06-15T16:22:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-06-15:/en/bc4-cs.html</id><summary type="html">&lt;p&gt;Výsledky čtvrtého semestru se mi teda příliš nevyvedly, ale jak …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Výsledky čtvrtého semestru se mi teda příliš nevyvedly, ale jak
+jej nějakým způsobem ztvárnit. Uvidíte, že si OOP oblíbíte.&lt;/p&gt;</content></entry><entry><title>Bc. na FIT - 4. semestr</title><link href="https://drummyfish.github.io/en/bc4-cs.html" rel="alternate"></link><published>2012-06-15T16:22:00+02:00</published><updated>2012-06-15T16:22:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-06-15:/en/bc4-cs.html</id><summary type="html">&lt;p&gt;Výsledky čtvrtého semestru se mi teda příliš nevyvedly, ale jak
+už jsem psal, škola nebyla tentokrát moje jediná starost. Je to ale tak,
+že čtvrtý semestr byl časově možná nejnáročnější …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Výsledky čtvrtého semestru se mi teda příliš nevyvedly, ale jak
 už jsem psal, škola nebyla tentokrát moje jediná starost. Je to ale tak,
 že čtvrtý semestr byl časově možná nejnáročnější z celého studia a
 museli jsme se za něj stihnout naučit asi sedm programovacích jazyků
@@ -7466,7 +7563,8 @@ PRM.&lt;/p&gt;
 pořadí v ročníku: 64.  - 65.  / 164
  &lt;br /&gt;
 prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Fraktály - krása matematiky</title><link href="https://drummyfish.github.io/en/fraktaly-krasa-matematiky-cs.html" rel="alternate"></link><published>2012-05-20T17:32:00+02:00</published><updated>2012-05-20T17:32:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-05-20:/en/fraktaly-krasa-matematiky-cs.html</id><summary type="html">&lt;p&gt;Je škoda, že osnovy matematiky pro střední školy nezahrnují
-alespoň …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Je škoda, že osnovy matematiky pro střední školy nezahrnují
+alespoň letmo fraktály, neboť by matematika určitě zaujala mnohem víc
+lidí než za současné situace. Bohužel averze většiny lidí k matematice …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Je škoda, že osnovy matematiky pro střední školy nezahrnují
 alespoň letmo fraktály, neboť by matematika určitě zaujala mnohem víc
 lidí než za současné situace. Bohužel averze většiny lidí k matematice
 přetrvává a pramení ze zažité představy tohoto oboru jako množiny
@@ -7562,7 +7660,9 @@ všechno ostatní s radostí přenechávám studentům matfyzu. Doufám, že
 tento článek matematice alespoň trochu pomůže napravit její pověst
 &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="math"></category></entry><entry><title>Jak na 3D budovy v Google Earth</title><link href="https://drummyfish.github.io/en/jak-na-3d-budovy-v-google-earth-cs.html" rel="alternate"></link><published>2012-05-03T17:36:00+02:00</published><updated>2012-05-03T17:36:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-05-03:/en/jak-na-3d-budovy-v-google-earth-cs.html</id><summary type="html">&lt;p&gt;Virtuání glóbus &lt;a href="http://www.google.com/intl/cs/earth/index.html"&gt;Google
 Earth&lt;/a&gt; jistě netřeba
-nikomu představovat, ale pro …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Virtuání glóbus &lt;a href="http://www.google.com/intl/cs/earth/index.html"&gt;Google
+nikomu představovat, ale pro jistotu: tato zajímavá, volně dostupná
+aplikace umožňuje prohlížet si zemský povrch v neuvěřitelných detailech
+a to díky satelitním snímkům a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Virtuání glóbus &lt;a href="http://www.google.com/intl/cs/earth/index.html"&gt;Google
 Earth&lt;/a&gt; jistě netřeba
 nikomu představovat, ale pro jistotu: tato zajímavá, volně dostupná
 aplikace umožňuje prohlížet si zemský povrch v neuvěřitelných detailech
@@ -7704,7 +7804,9 @@ SketchUp volbou &lt;em&gt;File&lt;/em&gt; -&amp;gt; &lt;em&gt;Export&lt;/em&gt; 
 který nahrajete přes prohlížeč na server Googlu.&lt;/p&gt;
 &lt;p&gt;Nyní zbývá už jen čekat na e-mail s gratulacemi a oznámením o schválení
 vámi vytvořeného modelu a chlubit se svým známým s krásným mini-modelem
-třeba vašeho obydlí :)&lt;/p&gt;</content><category term="3d"></category><category term="graphics"></category></entry><entry><title>Bc. na FIT - 3. semestr</title><link href="https://drummyfish.github.io/en/bc3-cs.html" rel="alternate"></link><published>2012-01-28T16:18:00+01:00</published><updated>2012-01-28T16:18:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-01-28:/en/bc3-cs.html</id><summary type="html">&lt;p&gt;Třetí semestr na FITu byl relativně pohodový, nebyl zde žádný …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Třetí semestr na FITu byl relativně pohodový, nebyl zde žádný
+třeba vašeho obydlí :)&lt;/p&gt;</content><category term="3d"></category><category term="graphics"></category></entry><entry><title>Bc. na FIT - 3. semestr</title><link href="https://drummyfish.github.io/en/bc3-cs.html" rel="alternate"></link><published>2012-01-28T16:18:00+01:00</published><updated>2012-01-28T16:18:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2012-01-28:/en/bc3-cs.html</id><summary type="html">&lt;p&gt;Třetí semestr na FITu byl relativně pohodový, nebyl zde žádný
+extra těžký předmět (tím myslím jako třeba IOS). Moje známky tomu sice
+ne zcela odpovídaly, nejspíš kvůli pár dalším věcem …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Třetí semestr na FITu byl relativně pohodový, nebyl zde žádný
 extra těžký předmět (tím myslím jako třeba IOS). Moje známky tomu sice
 ne zcela odpovídaly, nejspíš kvůli pár dalším věcem, které jsem vedle
 školy řešil a taky jsem prostě už občas na něco kašlal (jak to chodí,
@@ -8095,7 +8197,9 @@ zajímá psychologie a/nebo pedagogika.&lt;/p&gt;
 &lt;p&gt;průměr:  1.983 &lt;br /&gt;
 pořadí v ročníku: 78.  / 275
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 2. semestr</title><link href="https://drummyfish.github.io/en/bc2-cs.html" rel="alternate"></link><published>2011-06-20T16:05:00+02:00</published><updated>2011-06-20T16:05:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2011-06-20:/en/bc2-cs.html</id><summary type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady se zhodnocením
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 2. semestr</title><link href="https://drummyfish.github.io/en/bc2-cs.html" rel="alternate"></link><published>2011-06-20T16:05:00+02:00</published><updated>2011-06-20T16:05:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2011-06-20:/en/bc2-cs.html</id><summary type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady se zhodnocením
+semestru druhého &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Ač je mírně náročnější než ten první (především
+kvůli předmětu IOS), dá se stejně tak s …&lt;/p&gt;</summary><content type="html">&lt;p&gt;První semestr na FITu jsem zvládl a tak jsem tady se zhodnocením
 semestru druhého &lt;span class="emoji emoji-smile"&gt;&lt;/span&gt; Ač je mírně náročnější než ten první (především
 kvůli předmětu IOS), dá se stejně tak s trochou snahy zvládnout.&lt;/p&gt;
 &lt;h2&gt;Angličtina 4: středně pokročilý 2 (BAN4)&lt;/h2&gt;
@@ -8525,7 +8629,9 @@ případným zájemcům vřele doporučit.&lt;/p&gt;
 &lt;p&gt;průměr:  1.581 &lt;br /&gt;
 pořadí v ročníku: 25.  / 184
  &lt;br /&gt;
-prospěchové stipendium: 7174 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 1. semestr</title><link href="https://drummyfish.github.io/en/bc1-cs.html" rel="alternate"></link><published>2011-01-28T21:20:00+01:00</published><updated>2011-01-28T21:20:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2011-01-28:/en/bc1-cs.html</id><summary type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve spoustě
+prospěchové stipendium: 7174 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Bc. na FIT - 1. semestr</title><link href="https://drummyfish.github.io/en/bc1-cs.html" rel="alternate"></link><published>2011-01-28T21:20:00+01:00</published><updated>2011-01-28T21:20:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2011-01-28:/en/bc1-cs.html</id><summary type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve spoustě
+věcí a vůbec jsem netušil, do čeho jdu. Vás ovšem nemusí nic podobného
+potkat, jelikož mám pro vás přichystané …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Když jsem nastupoval na výšku, měl jsem hodně nejasno ve spoustě
 věcí a vůbec jsem netušil, do čeho jdu. Vás ovšem nemusí nic podobného
 potkat, jelikož mám pro vás přichystané zhodnocení všech zatím
 absolvovaných předmětů na naší škole. Pokud se tedy chystáte na Fakultu
