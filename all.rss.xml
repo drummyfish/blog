@@ -555,2484 +555,1949 @@ předmětu.&lt;/p&gt;
 &lt;p&gt;průměr:  2.166 &lt;br /&gt;
 pořadí v ročníku: 110.  - 115.  / 198
  &lt;br /&gt;
-prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Studium na FIT VUT - rozcestník a statistiky</title><link href="https://drummyfish.github.io/studium-na-fit-vut-rozcestnik-a-statistiky.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/studium-na-fit-vut-rozcestnik-a-statistiky.html</id><summary type="html">&lt;table class="study-table"&gt;
+prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></category></entry><entry><title>Studium na FIT VUT - rozcestník a statistiky</title><link href="https://drummyfish.github.io/studium-tabulka.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/studium-tabulka.html</id><summary type="html">&lt;table class="study-table"&gt;
 
 &lt;tr&gt;
-  &lt;th colspan="4"&gt; období &lt;/th&gt;
-  &lt;th colspan="4"&gt; předmět &lt;/th&gt;
-  &lt;th colspan="6"&gt; hodnocení &lt;/th&gt;
-  &lt;th colspan="4"&gt; celý semestr &lt;/th&gt;
+  &lt;th colspan="4"&gt;  období  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  předmět  &lt;/th&gt;
+  &lt;th colspan="6"&gt;  hodnocení  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  celý semestr  &lt;/th&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; studium &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; rok &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; ročník &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; semestr &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; zkratka &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; název &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; kredity &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; typ &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; půlsem &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; proj. &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; cvičení &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; ostatní &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; zkouška &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; celkem &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; kredity &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; průměr &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; pořadí &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; stip.&amp;nbsp;(Kč) &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  studium  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  rok  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  ročník  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  semestr  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  zkratka  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  název  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  kredity  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  typ  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  půlsem.  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  proj  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  cvičení  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  ostatní  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  zkouška  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  celkem  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  kredity  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  průměr  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  pořadí  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  stip.&amp;nbsp;(Kč)  &lt;/span&gt; &lt;/th&gt;
 &lt;/tr&gt;
-
-
-
-
-
-
-
-      &lt;tr&gt;
-                                                                                                          &lt;td rowspan="
-
-
-
-    37
-
-
-"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;
-
-                                    &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;
-
-                                      &lt;td rowspan="12"&gt; 1 &lt;/td&gt;
-
-          &lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;          
+        &lt;td rowspan="37"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan="12"&gt; 1 &lt;/td&gt;&lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Asemblery …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
 
 &lt;tr&gt;
-  &lt;th colspan="4"&gt; období &lt;/th&gt;
-  &lt;th colspan="4"&gt; předmět &lt;/th&gt;
-  &lt;th colspan="6"&gt; hodnocení &lt;/th&gt;
-  &lt;th colspan="4"&gt; celý semestr &lt;/th&gt;
+  &lt;th colspan="4"&gt;  období  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  předmět  &lt;/th&gt;
+  &lt;th colspan="6"&gt;  hodnocení  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  celý semestr  &lt;/th&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; studium &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; rok &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; ročník &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; semestr &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; zkratka &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; název &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; kredity &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; typ &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; půlsem &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; proj. &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; cvičení &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; ostatní &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; zkouška &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; celkem &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; kredity &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; průměr &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; pořadí &lt;/span&gt; &lt;/th&gt;
-  &lt;th&gt; &lt;span class="vertical-text"&gt; stip.&amp;nbsp;(Kč) &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  studium  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  rok  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  ročník  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  semestr  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  zkratka  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  název  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  kredity  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  typ  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  půlsem.  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  proj  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  cvičení  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  ostatní  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  zkouška  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  celkem  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  kredity  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  průměr  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  pořadí  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  stip.&amp;nbsp;(Kč)  &lt;/span&gt; &lt;/th&gt;
 &lt;/tr&gt;
-
-
-
-
-
-
-
-      &lt;tr&gt;
-                                                                                                          &lt;td rowspan="
-
-
-
-    37
-
-
-"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;
-
-                                    &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;
-
-                                      &lt;td rowspan="12"&gt; 1 &lt;/td&gt;
-
-          &lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;          
+        &lt;td rowspan="37"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan="12"&gt; 1 &lt;/td&gt;&lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Asemblery &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 17/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 20/20
- &lt;/td&gt;
+        &lt;td&gt; 17/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 20/20 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 36/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            73&amp;nbsp;C
-        &lt;/td&gt;
-
-          &lt;td rowspan="5"&gt; 
-  31
-
-
- &lt;/td&gt;
-          &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt;  2.080 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt; 64/266 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 36/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 73&amp;nbsp;C &lt;/td&gt;
+        &lt;td rowspan="5"&gt; 31 &lt;/td&gt;
+        &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt;  2.080 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt; 64/266 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDA"&gt; IDA &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDA"&gt; IDA &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Diskrétní matematika &lt;/td&gt;
         &lt;td&gt; 7 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 83/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            83&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 83/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 83&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITO"&gt; ITO &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITO"&gt; ITO &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Teorie obvodů &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 12/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          12.5/15
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 12/20 &lt;/td&gt;
+        &lt;td&gt;  12.5/15&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 34/65
- &lt;/td&gt;
-
-
-        &lt;td class="mark-E"&gt;
-            58.5&amp;nbsp;E
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 34/65 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 58.5&amp;nbsp;E &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IUS"&gt; IUS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IUS"&gt; IUS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Úvod do softwarového inženýrství &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          5/5
-
-          6/10
-
-          20/20
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;  5/5  6/10  20/20&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 43/65
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            74&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 43/65 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 74&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZP"&gt; IZP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZP"&gt; IZP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Základy programování &lt;/td&gt;
         &lt;td&gt; 7 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 7/12
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          2/5
-
-          7/10
-
-          9.5/10
-
-          7/8
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 7/12 &lt;/td&gt;
+        &lt;td&gt;  2/5  7/10  9.5/10  7/8&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 1/100
- &lt;/td&gt;
-        &lt;td&gt; 38/55
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            71.5&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 1/100 &lt;/td&gt;
+        &lt;td&gt; 38/55 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 71.5&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-                                    &lt;td rowspan=" 13 "&gt; &lt;span class="vertical-text"&gt; 2011 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="7"&gt; &lt;a href="bc2.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFY"&gt; IFY &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan=" 13 "&gt; &lt;span class="vertical-text"&gt; 2011 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="7"&gt; &lt;a href="bc2.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFY"&gt; IFY &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Fyzika &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 17/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 18/20
- &lt;/td&gt;
+        &lt;td&gt; 17/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 55/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            90&amp;nbsp;A
-        &lt;/td&gt;
-
-          &lt;td rowspan="7"&gt; 
-  37
-
-
- &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  1.581 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 25/184 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 7174 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 55/60 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+        &lt;td rowspan="7"&gt; 37 &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  1.581 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 25/184 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 7174 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMA"&gt; IMA &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMA"&gt; IMA &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Matematická analýza &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 83/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            83&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 83/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 83&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INC"&gt; INC &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INC"&gt; INC &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Návrh číslicových systémů &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 18/25
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          20/20
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 18/25 &lt;/td&gt;
+        &lt;td&gt;  20/20&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 49/55
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            87&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 49/55 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 87&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IOS"&gt; IOS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IOS"&gt; IOS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Operační systémy &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          5/15
-
-          15/15
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;  5/15  15/15&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 51/70
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            71&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 51/70 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 71&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPR"&gt; IPR &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPR"&gt; IPR &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Prvky počítačů &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 7.5/15
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 30/30
- &lt;/td&gt;
+        &lt;td&gt; 7.5/15 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 30/30 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 30/55
- &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            67.5&amp;nbsp;D
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 30/55 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 67.5&amp;nbsp;D &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=BAN4"&gt; BAN4 &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=BAN4"&gt; BAN4 &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Angličtina 4: středně pokročilí 2 &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; PVA &lt;/td&gt;
-
-        &lt;td&gt; 39/40
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 39/40 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 59/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            98&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 59/60 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 98&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITW"&gt; ITW &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITW"&gt; ITW &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Tvorba webových stránek &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
-        &lt;td&gt; 12/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          18/20
-
-          29/30
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 10/10
- &lt;/td&gt;
+        &lt;td&gt; 12/20 &lt;/td&gt;
+        &lt;td&gt;  18/20  29/30&lt;/td&gt;
+        &lt;td&gt; 10/10 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 17/20
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            86&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 17/20 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-
-                                      &lt;td rowspan="13"&gt; 2 &lt;/td&gt;
-
-          &lt;td rowspan="6"&gt; &lt;a href="bc3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAL"&gt; IAL &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan="13"&gt; 2 &lt;/td&gt;&lt;td rowspan="6"&gt; &lt;a href="bc3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAL"&gt; IAL &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Algoritmy &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 14/14
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          10/10
-
-          9/10
-
-          4.4/5
-
-          9/10
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 14/14 &lt;/td&gt;
+        &lt;td&gt;  10/10  9/10  4.4/5  9/10&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 1/100
- &lt;/td&gt;
-        &lt;td&gt; 28/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            75.4&amp;nbsp;C
-        &lt;/td&gt;
-
-          &lt;td rowspan="6"&gt; 
-  31
-
-
- &lt;/td&gt;
-          &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt;  1.983 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt; 78/275 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 1/100 &lt;/td&gt;
+        &lt;td&gt; 28/51 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 75.4&amp;nbsp;C &lt;/td&gt;
+        &lt;td rowspan="6"&gt; 31 &lt;/td&gt;
+        &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt;  1.983 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt; 78/275 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFJ"&gt; IFJ &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFJ"&gt; IFJ &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Formální jazyky a překladače &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 16/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          19/20
-
-          4.4/5
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 16/20 &lt;/td&gt;
+        &lt;td&gt;  19/20  4.4/5&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 38.2/55
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            77.6&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 38.2/55 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 77.6&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INM"&gt; INM &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INM"&gt; INM &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Numerická matematika a pravděpodobnost &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 79/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            79&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 79/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 79&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INP"&gt; INP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INP"&gt; INP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt;    Návrh počítačových systémů &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 20/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          12/12
-
-          6/16
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 20/20 &lt;/td&gt;
+        &lt;td&gt;  12/12  6/16&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 32/52
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            70&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 32/52 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 70&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISS"&gt; ISS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISS"&gt; ISS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Signály a systémy &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 17.5/25
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          12/12
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 12/12
- &lt;/td&gt;
+        &lt;td&gt; 17.5/25 &lt;/td&gt;
+        &lt;td&gt;  12/12&lt;/td&gt;
+        &lt;td&gt; 12/12 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 42.8/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            84.3&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 42.8/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 84.3&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPSO"&gt; IPSO &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPSO"&gt; IPSO &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Pedagogická psychologie &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 65/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            65&amp;nbsp;D
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 65/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 65&amp;nbsp;D &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-                                    &lt;td rowspan=" 15 "&gt; &lt;span class="vertical-text"&gt; 2012 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="7"&gt; &lt;a href="bc4.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDS"&gt; IDS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan=" 15 "&gt; &lt;span class="vertical-text"&gt; 2012 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="7"&gt; &lt;a href="bc4.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDS"&gt; IDS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Databázové systémy &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 12.5/14
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          5/5
-
-          5/5
-
-          5/5
-
-          13/20
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 12.5/14 &lt;/td&gt;
+        &lt;td&gt;  5/5  5/5  5/5  13/20&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 32.5/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            73.0&amp;nbsp;C
-        &lt;/td&gt;
-
-          &lt;td rowspan="7"&gt; 
-  32
-
-
- &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  2.08 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 64/164 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 32.5/51 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 73.0&amp;nbsp;C &lt;/td&gt;
+        &lt;td rowspan="7"&gt; 32 &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  2.08 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 64/164 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPK"&gt; IPK &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPK"&gt; IPK &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Počítačové komunikace a sítě &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 5.4/9
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          3.5/4
-
-          6/6
-
-          8/10
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 6/6
- &lt;/td&gt;
+        &lt;td&gt; 5.4/9 &lt;/td&gt;
+        &lt;td&gt;  3.5/4  6/6  8/10&lt;/td&gt;
+        &lt;td&gt; 6/6 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 44/65
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            72.9&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 44/65 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 72.9&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPP"&gt; IPP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPP"&gt; IPP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Principy programovacích jazyků a OOP &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 18/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          8.6/10
-
-          3.9/10
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;  8.6/10  3.9/10&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 26/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-E"&gt;
-            56.5&amp;nbsp;E
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 26/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 56.5&amp;nbsp;E &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZG"&gt; IZG &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZG"&gt; IZG &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Základy počítačové grafiky &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 9/12
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          6/18
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 18/18
- &lt;/td&gt;
+        &lt;td&gt; 9/12 &lt;/td&gt;
+        &lt;td&gt;  6/18&lt;/td&gt;
+        &lt;td&gt; 18/18 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 50/52
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            83&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 50/52 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 83&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZU"&gt; IZU &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZU"&gt; IZU &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Základy umělé inteligence &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 8/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 17.75/20
- &lt;/td&gt;
+        &lt;td&gt; 8/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 17.75/20 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 51/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            76.75&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 51/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 76.75&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IJA"&gt; IJA &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IJA"&gt; IJA &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Seminář Java &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; PVT &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          20/20
-
-          64/80
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;  20/20  64/80&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PRM"&gt; PRM &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PRM"&gt; PRM &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Právní minimum &lt;/td&gt;
         &lt;td&gt; 3 &lt;/td&gt;
         &lt;td&gt; PVH &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-
-                                      &lt;td rowspan="10"&gt; 3 &lt;/td&gt;
-
-          &lt;td rowspan="8"&gt; &lt;a href="bc5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IIS"&gt; IIS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan="10"&gt; 3 &lt;/td&gt;&lt;td rowspan="8"&gt; &lt;a href="bc5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IIS"&gt; IIS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Informační systémy &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 15/19
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          30/30
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 15/19 &lt;/td&gt;
+        &lt;td&gt;  30/30&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 24/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            69&amp;nbsp;D
-        &lt;/td&gt;
-
-          &lt;td rowspan="8"&gt; 
-  33
-
-
- &lt;/td&gt;
-          &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt;  2.053 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 96/240 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 24/51 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 69&amp;nbsp;D &lt;/td&gt;
+        &lt;td rowspan="8"&gt; 33 &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt;  2.053 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 96/240 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMP"&gt; IMP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMP"&gt; IMP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Mikroprocesorové a vestavěné systémy &lt;/td&gt;
         &lt;td&gt; 6 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 14/14
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          14.6/19
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 16/16
- &lt;/td&gt;
+        &lt;td&gt; 14/14 &lt;/td&gt;
+        &lt;td&gt;  14.6/19&lt;/td&gt;
+        &lt;td&gt; 16/16 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 23.3/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            67.9&amp;nbsp;D
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 23.3/51 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 67.9&amp;nbsp;D &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMS"&gt; IMS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMS"&gt; IMS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Modelování a simulace &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 8/10
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          20/20
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 8/10 &lt;/td&gt;
+        &lt;td&gt;  20/20&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 44/70
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            72&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 44/70 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 72&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPZ"&gt; IPZ &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPZ"&gt; IPZ &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Periferní zařízení &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 26/30
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 3.8/4
- &lt;/td&gt;
+        &lt;td&gt; 26/30 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 3.8/4 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 63.3/66
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            93.1&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 63.3/66 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 93.1&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISA"&gt; ISA &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISA"&gt; ISA &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Síťové aplikace a správa sítí &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          16/21
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 16/24
- &lt;/td&gt;
+        &lt;td&gt;  16/21&lt;/td&gt;
+        &lt;td&gt; 16/24 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 33/55
- &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            65&amp;nbsp;D
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 33/55 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 65&amp;nbsp;D &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISP"&gt; ISP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISP"&gt; ISP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Semestrální projekt &lt;/td&gt;
         &lt;td&gt; 2 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 100/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 100/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITU"&gt; ITU &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITU"&gt; ITU &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Tvorba uživatelských rozhraní &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 18/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          43/55
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 24/25
- &lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;  43/55&lt;/td&gt;
+        &lt;td&gt; 24/25 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            85&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=JS1"&gt; JS1 &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=JS1"&gt; JS1 &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Španělština: začátečníci 1/2 &lt;/td&gt;
         &lt;td&gt; 3 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-                                    &lt;td rowspan=" 3 "&gt; &lt;span class="vertical-text"&gt; 2013 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="2"&gt; &lt;a href="bc6.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITY"&gt; ITY &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan=" 3 "&gt; &lt;span class="vertical-text"&gt; 2013 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="2"&gt; &lt;a href="bc6.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITY"&gt; ITY &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Typografie a publikování &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          6/10
-
-          12/15
-
-          13/15
-
-          10/15
-
-          15/15
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;  6/10  12/15  13/15  10/15  15/15&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 30/30
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            86&amp;nbsp;B
-        &lt;/td&gt;
-
-          &lt;td rowspan="2"&gt; 
-  7
-
-
- &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.5 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 30/30 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86&amp;nbsp;B &lt;/td&gt;
+        &lt;td rowspan="2"&gt; 7 &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=JS1"&gt; JS1 &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=JS1"&gt; JS1 &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Španělština: začátečníci 2/2 &lt;/td&gt;
         &lt;td&gt; 3 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 85/100
- &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            85&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 85/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr class="semester-last-row"&gt;
-
-
-                                      &lt;td rowspan="2"&gt; 4 &lt;/td&gt;
-
-          &lt;td rowspan="1"&gt; &lt;a href="bc7.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPA"&gt; IPA &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;        
+        &lt;td rowspan="2"&gt; 4 &lt;/td&gt;&lt;td rowspan="1"&gt; &lt;a href="bc7.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPA"&gt; IPA &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Pokročilé asemblery &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          20/26
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 14/14
- &lt;/td&gt;
+        &lt;td&gt;  20/26&lt;/td&gt;
+        &lt;td&gt; 14/14 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 23/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-E"&gt;
-            57&amp;nbsp;E
-        &lt;/td&gt;
-
-          &lt;td rowspan="1"&gt; 
-  5
-
-
- &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.0 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 125/160 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 23/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 57&amp;nbsp;E &lt;/td&gt;
+        &lt;td rowspan="1"&gt; 5 &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.0 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 125/160 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr class="semester-last-row"&gt;
-
-                                    &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="1"&gt; &lt;a href="bc8.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IBP"&gt; IBP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;        
+        &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="1"&gt; &lt;a href="bc8.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IBP"&gt; IBP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Bakalářská práce &lt;/td&gt;
         &lt;td&gt; 9 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-          &lt;td rowspan="1"&gt; 
-  9
-
-
- &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 500 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+        &lt;td rowspan="1"&gt; 9 &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 500 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-
-      &lt;tr&gt;
-                                                                                                          &lt;td rowspan="
-
-
-
-    24
-
-
-"&gt; &lt;span class="vertical-text"&gt; Ing. &lt;/span&gt; &lt;/td&gt;
-
-                                    &lt;td rowspan=" 8 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;
-
-                                      &lt;td rowspan="15"&gt; 1 &lt;/td&gt;
-
-          &lt;td rowspan="8"&gt; &lt;a href="ing1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=HSC"&gt; HSC &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;          
+        &lt;td rowspan="24"&gt; &lt;span class="vertical-text"&gt; Ing. &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan=" 8 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan="15"&gt; 1 &lt;/td&gt;&lt;td rowspan="8"&gt; &lt;a href="ing1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=HSC"&gt; HSC &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Hardware/Software Codesign &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 16/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          5/25
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 16/20 &lt;/td&gt;
+        &lt;td&gt;  5/25&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 45/55
- &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            66&amp;nbsp;D
-        &lt;/td&gt;
-
-          &lt;td rowspan="8"&gt; 
-  35
-
-
- &lt;/td&gt;
-          &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt;  1.583 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 10/110 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 9913 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 45/55 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 66&amp;nbsp;D &lt;/td&gt;
+        &lt;td rowspan="8"&gt; 35 &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt;  1.583 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 10/110 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 9913 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=MAT"&gt; MAT &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=MAT"&gt; MAT &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Matematické struktury v informatice &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 14/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 14/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 68/80
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            82&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 68/80 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 82&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PDB"&gt; PDB &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PDB"&gt; PDB &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Pokročilé databázové systémy &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 14/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          17/20
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 14/20 &lt;/td&gt;
+        &lt;td&gt;  17/20&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 39/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            70&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 39/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 70&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PGR"&gt; PGR &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PGR"&gt; PGR &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Počítačová grafika &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 7/7
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          30/30
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 12/12
- &lt;/td&gt;
+        &lt;td&gt; 7/7 &lt;/td&gt;
+        &lt;td&gt;  30/30&lt;/td&gt;
+        &lt;td&gt; 12/12 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 41/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            90&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 41/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=TIN"&gt; TIN &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=TIN"&gt; TIN &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Teoretická informatika &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 19/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          5/5
-
-          4/5
-
-          4.2/5
-
-          5/5
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 19/20 &lt;/td&gt;
+        &lt;td&gt;  5/5  4/5  4.2/5  5/5&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 49/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            86.2&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 49/60 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86.2&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FIT"&gt; FIT &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FIT"&gt; FIT &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Dějiny a filozofie techniky &lt;/td&gt;
         &lt;td&gt; 3 &lt;/td&gt;
         &lt;td&gt; PVH &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PGP"&gt; PGP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PGP"&gt; PGP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Pokročilá počítačová grafika &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; PVG &lt;/td&gt;
-
-        &lt;td&gt; 7/9
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          10/10
-
-          30/30
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 7/9 &lt;/td&gt;
+        &lt;td&gt;  10/10  30/30&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 43/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            90&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 43/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=STI"&gt; STI &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=STI"&gt; STI &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Seminář teoretické informatiky &lt;/td&gt;
         &lt;td&gt; 2 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-                                    &lt;td rowspan=" 9 "&gt; &lt;span class="vertical-text"&gt; 2015 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="7"&gt; &lt;a href="ing2.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FYO"&gt; FYO &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan=" 9 "&gt; &lt;span class="vertical-text"&gt; 2015 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="7"&gt; &lt;a href="ing2.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FYO"&gt; FYO &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Fyzikální optika &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 8/10
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          21/30
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 8/10 &lt;/td&gt;
+        &lt;td&gt;  21/30&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 29/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-E"&gt;
-            58&amp;nbsp;E
-        &lt;/td&gt;
-
-          &lt;td rowspan="7"&gt; 
-  35
-
-
- &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  1.714 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 20/127 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 29/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 58&amp;nbsp;E &lt;/td&gt;
+        &lt;td rowspan="7"&gt; 35 &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  1.714 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 20/127 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=MUL"&gt; MUL &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=MUL"&gt; MUL &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Multimédia &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 8/10
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          23/24
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 15/15
- &lt;/td&gt;
+        &lt;td&gt; 8/10 &lt;/td&gt;
+        &lt;td&gt;  23/24&lt;/td&gt;
+        &lt;td&gt; 15/15 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 46/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            92&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 46/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 92&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PDS"&gt; PDS &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PDS"&gt; PDS &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Přenos dat, počítačové sítě a protokoly &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 9/15
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          9/25
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 9/15 &lt;/td&gt;
+        &lt;td&gt;  9/25&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 36/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-E"&gt;
-            54&amp;nbsp;E
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 36/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 54&amp;nbsp;E &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ZPO"&gt; ZPO &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ZPO"&gt; ZPO &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Zpracování obrazu &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 10/10
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          24/29
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 10/10
- &lt;/td&gt;
+        &lt;td&gt; 10/10 &lt;/td&gt;
+        &lt;td&gt;  24/29&lt;/td&gt;
+        &lt;td&gt; 10/10 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 42/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            86&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 42/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ZRE"&gt; ZRE &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ZRE"&gt; ZRE &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Zpracování řečových signálů &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 10.5/14
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          14/15
-
-          14/14
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 6/6
- &lt;/td&gt;
+        &lt;td&gt; 10.5/14 &lt;/td&gt;
+        &lt;td&gt;  14/15  14/14&lt;/td&gt;
+        &lt;td&gt; 6/6 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 40.8/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            85.3&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 40.8/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85.3&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=WAP"&gt; WAP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=WAP"&gt; WAP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Internetové aplikace &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; PVI &lt;/td&gt;
-
-        &lt;td&gt; 16/19
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          30/30
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 16/19 &lt;/td&gt;
+        &lt;td&gt;  30/30&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 48/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            94&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 48/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 94&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VIN"&gt; VIN &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VIN"&gt; VIN &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Výtvarná informatika &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          49/49
-
-          51/51
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;  49/49  51/51&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            100&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 100&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-
-                                      &lt;td rowspan="5"&gt; 2 &lt;/td&gt;
-
-          &lt;td rowspan="2"&gt; &lt;a href="ing3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GZN"&gt; GZN &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan="5"&gt; 2 &lt;/td&gt;&lt;td rowspan="2"&gt; &lt;a href="ing3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GZN"&gt; GZN &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Grafická a zvuková rozhraní a normy &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt; 8/9
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          39/40
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 8/9 &lt;/td&gt;
+        &lt;td&gt;  39/40&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 38/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            85&amp;nbsp;B
-        &lt;/td&gt;
-
-          &lt;td rowspan="2"&gt; 
-  9
-
-
- &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.277 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 10/198 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 38/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85&amp;nbsp;B &lt;/td&gt;
+        &lt;td rowspan="2"&gt; 9 &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.277 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 10/198 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=KRG"&gt; KRG &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=KRG"&gt; KRG &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Kreativní grafika &lt;/td&gt;
         &lt;td&gt; 4 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
-        &lt;td&gt; 30/40
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          60/60
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 30/40 &lt;/td&gt;
+        &lt;td&gt;  60/60&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            90&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-                                    &lt;td rowspan=" 6 "&gt; &lt;span class="vertical-text"&gt; 2016 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="3"&gt; &lt;a href="ing4.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ARC"&gt; ARC &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan=" 6 "&gt; &lt;span class="vertical-text"&gt; 2016 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="3"&gt; &lt;a href="ing4.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ARC"&gt; ARC &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Architektura a programování paralelních systémů &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; PVC &lt;/td&gt;
-
-        &lt;td&gt; 7/10
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          10/15
-
-          3/15
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 7/10 &lt;/td&gt;
+        &lt;td&gt;  10/15  3/15&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 38/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-E"&gt;
-            58&amp;nbsp;E
-        &lt;/td&gt;
-
-          &lt;td rowspan="3"&gt; 
-  15
-
-
- &lt;/td&gt;
-          &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt;  2.166 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 110/198 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt; 38/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 58&amp;nbsp;E &lt;/td&gt;
+        &lt;td rowspan="3"&gt; 15 &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt;  2.166 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 110/198 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VNV"&gt; VNV &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VNV"&gt; VNV &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Vysoce náročné výpočty &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; PVM &lt;/td&gt;
-
-        &lt;td&gt; 18/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-        &lt;/td&gt;
-
-        &lt;td&gt; 19/20
- &lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 19/20 &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 36/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-C"&gt;
-            73&amp;nbsp;C
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 36/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 73&amp;nbsp;C &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VIZ"&gt; VIZ &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VIZ"&gt; VIZ &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Vizualizace a CAD &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
-        &lt;td&gt; 28/40
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          60/60
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 28/40 &lt;/td&gt;
+        &lt;td&gt;  60/60&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-B"&gt;
-            88&amp;nbsp;B
-        &lt;/td&gt;
-
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 88&amp;nbsp;B &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr&gt;
-
-
-                                      &lt;td rowspan="4"&gt; 3 &lt;/td&gt;
-
-          &lt;td rowspan="3"&gt; &lt;a href="ing5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SEP"&gt; SEP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;        
+        &lt;td rowspan="4"&gt; 3 &lt;/td&gt;&lt;td rowspan="3"&gt; &lt;a href="ing5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SEP"&gt; SEP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Semestrální projekt &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-          90/100
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt;  90/100&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            90&amp;nbsp;A
-        &lt;/td&gt;
-
-          &lt;td rowspan="3"&gt; 
-  15
-
-
- &lt;/td&gt;
-          &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt;  1.5 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 13/88 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+        &lt;td rowspan="3"&gt; 15 &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt;  1.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 13/88 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GUX"&gt; GUX &lt;/a&gt; &lt;/td&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GUX"&gt; GUX &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Grafická uživatelská rozhraní v X Window &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
-        &lt;td&gt; 14/20
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          7/8
-
-          9/12
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 14/20 &lt;/td&gt;
+        &lt;td&gt;  7/8  9/12&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 35/60
- &lt;/td&gt;
-
-
-        &lt;td class="mark-D"&gt;
-            65&amp;nbsp;D
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 35/60 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 65&amp;nbsp;D &lt;/td&gt;
       &lt;/tr&gt;
 
-
-      &lt;tr class="semester-last-row"&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=POV"&gt; POV &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=POV"&gt; POV &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Počítačové vidění &lt;/td&gt;
         &lt;td&gt; 5 &lt;/td&gt;
         &lt;td&gt; V &lt;/td&gt;
-
-        &lt;td&gt; 9/9
- &lt;/td&gt;
-
-        &lt;td&gt;
-
-          8.1/10
-
-          27/30
-
-
-        &lt;/td&gt;
-
+        &lt;td&gt; 9/9 &lt;/td&gt;
+        &lt;td&gt;  8.1/10  27/30&lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-        &lt;td&gt; 46/51
- &lt;/td&gt;
-
-
-        &lt;td class="mark-A"&gt;
-            90.1&amp;nbsp;A
-        &lt;/td&gt;
-
-
+        &lt;td&gt; 46/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90.1&amp;nbsp;A &lt;/td&gt;
       &lt;/tr&gt;
 
-
-
-
-
-
-      &lt;tr class="semester-last-row"&gt;
-
-                                    &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2017 &lt;/span&gt; &lt;/td&gt;
-
-
-          &lt;td rowspan="1"&gt; &lt;a href="ing6.html"&gt; L &lt;/a&gt; &lt;/td&gt;
-
-        &lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SIP"&gt; SIP &lt;/a&gt; &lt;/td&gt;
+      &lt;tr class="semester-last-row"&gt;        
+        &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2017 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="1"&gt; &lt;a href="ing6.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SIP"&gt; SIP &lt;/a&gt; &lt;/td&gt;
         &lt;td&gt; Diplomová práce &lt;/td&gt;
         &lt;td&gt; 13 &lt;/td&gt;
         &lt;td&gt; P &lt;/td&gt;
-
-        &lt;td&gt;  &lt;/td&gt;
-
-        &lt;td&gt;
-
-
-
-        &lt;/td&gt;
-
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
         &lt;td&gt;  &lt;/td&gt;
-
-
-        &lt;td class="mark-none"&gt;
-            ✓
-        &lt;/td&gt;
-
-          &lt;td rowspan="1"&gt; 
-  13
-
-
- &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0/0 &lt;/span&gt; &lt;/td&gt;
-          &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
-
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+        &lt;td rowspan="1"&gt; 13 &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0/0 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
       &lt;/tr&gt;
-
-
 &lt;/table&gt;
 
-&lt;h2&gt; Statistiky pro Bc. studium &lt;/h2&gt;
+&lt;h2&gt;  Statistiky pro Bc. studium  &lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt; kreditů (hodin práce):
+  &lt;li&gt;
+ kreditů (hodin práce): 185 (5180)
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ bodů::     2614 / 3200
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ zkoušek:     26
+  &lt;/li&gt;
 
-    185
+  &lt;li&gt;
+ půlsemestrálek:     22
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ projektů:     45
+  &lt;/li&gt;
 
- (5180) &lt;/li&gt;
-  &lt;li&gt; bodů: 
+  &lt;li&gt;
+ předmětů:     37
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ průměr:     1.948
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ pořadí:     5.  / 123
 
-    2614
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ peněz z prospěchových stipendií:     7674 Kč
+  &lt;/li&gt;
 
- / 3200 &lt;/li&gt;
-  &lt;li&gt; zkoušek: 
-
-
-
-    26
-
-
- &lt;/li&gt;
-  &lt;li&gt; půlsemestrálek: 
-
-
-
-    22
-
-
- &lt;/li&gt;
-  &lt;li&gt; projektů: 
-
-
-
-    45
-
-
- &lt;/li&gt;
-  &lt;li&gt; předmětů: 
-
-
-
-    37
-
-
- &lt;/li&gt;
-  &lt;li&gt; průměr: 
-
- 1.948
-
-
- &lt;/li&gt;
-  &lt;li&gt; pořadí: 5.  / 123
- &lt;/li&gt;
-  &lt;li&gt; peněz z prospěchových stipendií: 
-  7674
-
- Kč &lt;/li&gt;
-  &lt;li&gt; histogram známek:
+  &lt;li&gt;
+ histogram známek:   
     &lt;ul&gt;
-        &lt;li&gt; A: 
-
-
-
-    4
-
-
- &lt;/li&gt;
-        &lt;li&gt; B: 
-
-
-
-    10
-
-
- &lt;/li&gt;
-        &lt;li&gt; C: 
-
-
-
-    12
-
-
- &lt;/li&gt;
-        &lt;li&gt; D: 
-
-
-
-    5
-
-
- &lt;/li&gt;
-        &lt;li&gt; E: 
-
-
-
-    3
-
-
- &lt;/li&gt;
-        &lt;li&gt; F: 
-
-
-
-    0
-
-
- &lt;/li&gt;
+        &lt;li&gt; A: 4 &lt;/li&gt;
+        &lt;li&gt; B: 10 &lt;/li&gt;
+        &lt;li&gt; C: 12 &lt;/li&gt;
+        &lt;li&gt; D: 5 &lt;/li&gt;
+        &lt;li&gt; E: 3 &lt;/li&gt;
+        &lt;li&gt; F: 0 &lt;/li&gt;
     &lt;/ul&gt;
     &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt; Statistiky pro Ing. studium &lt;/h2&gt;
+&lt;h2&gt;  Statistiky pro Ing. studium  &lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt; kreditů (hodin práce):
+  &lt;li&gt;
+ kreditů (hodin práce): 122 (3416)
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ bodů::     1692 / 2100
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ zkoušek:     17
+  &lt;/li&gt;
 
-    122
+  &lt;li&gt;
+ půlsemestrálek:     19
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ projektů:     29
+  &lt;/li&gt;
 
- (3416) &lt;/li&gt;
-  &lt;li&gt; bodů: 
+  &lt;li&gt;
+ předmětů:     24
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ průměr:     1.721
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ pořadí:     0.  / 0
 
-    1692
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ peněz z prospěchových stipendií:     9913 Kč
+  &lt;/li&gt;
 
- / 2100 &lt;/li&gt;
-  &lt;li&gt; zkoušek: 
-
-
-
-    17
-
-
- &lt;/li&gt;
-  &lt;li&gt; půlsemestrálek: 
-
-
-
-    19
-
-
- &lt;/li&gt;
-  &lt;li&gt; projektů: 
-
-
-
-    29
-
-
- &lt;/li&gt;
-  &lt;li&gt; předmětů: 
-
-
-
-    24
-
-
- &lt;/li&gt;
-  &lt;li&gt; průměr: 
-
- 1.721
-
-
- &lt;/li&gt;
-  &lt;li&gt; pořadí: 0.  / 0
- &lt;/li&gt;
-  &lt;li&gt; peněz z prospěchových stipendií: 
-  9913
-
- Kč &lt;/li&gt;
-  &lt;li&gt; histogram známek:
+  &lt;li&gt;
+ histogram známek:   
     &lt;ul&gt;
-        &lt;li&gt; A: 
+        &lt;li&gt; A: 8 &lt;/li&gt;
+        &lt;li&gt; B: 6 &lt;/li&gt;
+        &lt;li&gt; C: 2 &lt;/li&gt;
+        &lt;li&gt; D: 2 &lt;/li&gt;
+        &lt;li&gt; E: 3 &lt;/li&gt;
+        &lt;li&gt; F: 2 &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Study at FIT BUT - summary table and stats</title><link href="https://drummyfish.github.io/en/studium-tabulka.html" rel="alternate"></link><published>2016-04-26T21:23:00+02:00</published><updated>2016-04-26T21:23:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-26:/en/studium-tabulka.html</id><summary type="html">&lt;table class="study-table"&gt;
 
+&lt;tr&gt;
+  &lt;th colspan="4"&gt;  time period  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  course  &lt;/th&gt;
+  &lt;th colspan="6"&gt;  results  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  whole semester  &lt;/th&gt;
+&lt;/tr&gt;
 
+&lt;tr&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  study  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  year  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  ac.&amp;nbsp;year  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  semester  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  abbr.  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  name  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  credits  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  type  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  midterm  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  proj.  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  labs  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  other  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  exam  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  total  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  credits  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  mean  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  place  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  stip.&amp;nbsp;(Kč)  &lt;/span&gt; &lt;/th&gt;
+&lt;/tr&gt;
+      &lt;tr&gt;          
+        &lt;td rowspan="37"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan="12"&gt; 1 &lt;/td&gt;&lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="study-table"&gt;
 
-    8
+&lt;tr&gt;
+  &lt;th colspan="4"&gt;  time period  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  course  &lt;/th&gt;
+  &lt;th colspan="6"&gt;  results  &lt;/th&gt;
+  &lt;th colspan="4"&gt;  whole semester  &lt;/th&gt;
+&lt;/tr&gt;
 
+&lt;tr&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  study  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  year  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  ac.&amp;nbsp;year  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  semester  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  abbr.  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  name  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  credits  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  type  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  midterm  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  proj.  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  labs  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  other  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  exam  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  total  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  credits  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  mean  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  place  &lt;/span&gt; &lt;/th&gt;
+  &lt;th&gt; &lt;span class="vertical-text"&gt;  stip.&amp;nbsp;(Kč)  &lt;/span&gt; &lt;/th&gt;
+&lt;/tr&gt;
+      &lt;tr&gt;          
+        &lt;td rowspan="37"&gt; &lt;span class="vertical-text"&gt; Bc. &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan=" 5 "&gt; &lt;span class="vertical-text"&gt; 2010 &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan="12"&gt; 1 &lt;/td&gt;&lt;td rowspan="5"&gt; &lt;a href="bc1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAS"&gt; IAS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Assembly Languages &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 17/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 20/20 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 36/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 73&amp;nbsp;C &lt;/td&gt;
+        &lt;td rowspan="5"&gt; 31 &lt;/td&gt;
+        &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt;  2.080 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt; 64/266 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="5"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
 
- &lt;/li&gt;
-        &lt;li&gt; B: 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDA"&gt; IDA &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Discrete Mathematics &lt;/td&gt;
+        &lt;td&gt; 7 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 83/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 83&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITO"&gt; ITO &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Circuit Theory &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 12/20 &lt;/td&gt;
+        &lt;td&gt;  12.5/15&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 34/65 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 58.5&amp;nbsp;E &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IUS"&gt; IUS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Introduction to Software Engineering &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  5/5  6/10  20/20&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 43/65 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 74&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
-    6
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZP"&gt; IZP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Introduction to Programming Systems &lt;/td&gt;
+        &lt;td&gt; 7 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 7/12 &lt;/td&gt;
+        &lt;td&gt;  2/5  7/10  9.5/10  7/8&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 1/100 &lt;/td&gt;
+        &lt;td&gt; 38/55 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 71.5&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;        
+        &lt;td rowspan=" 13 "&gt; &lt;span class="vertical-text"&gt; 2011 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="7"&gt; &lt;a href="bc2.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFY"&gt; IFY &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Physics &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 17/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 55/60 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+        &lt;td rowspan="7"&gt; 37 &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  1.581 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 25/184 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 7174 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
 
- &lt;/li&gt;
-        &lt;li&gt; C: 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMA"&gt; IMA &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Mathematical Analysis &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 83/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 83&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INC"&gt; INC &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Digital Systems Design &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 18/25 &lt;/td&gt;
+        &lt;td&gt;  20/20&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 49/55 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 87&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IOS"&gt; IOS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Operating Systems &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  5/15  15/15&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 51/70 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 71&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
-    2
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPR"&gt; IPR &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Computer Hardware &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 7.5/15 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 30/30 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 30/55 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 67.5&amp;nbsp;D &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=BAN4"&gt; BAN4 &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; New Headway Intermediate 2 &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; PVA &lt;/td&gt;
+        &lt;td&gt; 39/40 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 59/60 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 98&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
 
- &lt;/li&gt;
-        &lt;li&gt; D: 
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITW"&gt; ITW &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Web Design &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt; 12/20 &lt;/td&gt;
+        &lt;td&gt;  18/20  29/30&lt;/td&gt;
+        &lt;td&gt; 10/10 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 17/20 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;        
+        &lt;td rowspan="13"&gt; 2 &lt;/td&gt;&lt;td rowspan="6"&gt; &lt;a href="bc3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IAL"&gt; IAL &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Algorithms &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 14/14 &lt;/td&gt;
+        &lt;td&gt;  10/10  9/10  4.4/5  9/10&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 1/100 &lt;/td&gt;
+        &lt;td&gt; 28/51 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 75.4&amp;nbsp;C &lt;/td&gt;
+        &lt;td rowspan="6"&gt; 31 &lt;/td&gt;
+        &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt;  1.983 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt; 78/275 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="6"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IFJ"&gt; IFJ &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Formal Languages and Compilers &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 16/20 &lt;/td&gt;
+        &lt;td&gt;  19/20  4.4/5&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 38.2/55 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 77.6&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
-    2
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INM"&gt; INM &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Numerical Methods and Probability &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 79/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 79&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=INP"&gt; INP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Design of Computer Systems &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 20/20 &lt;/td&gt;
+        &lt;td&gt;  12/12  6/16&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 32/52 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 70&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
- &lt;/li&gt;
-        &lt;li&gt; E: 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISS"&gt; ISS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Signals and Systems &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 17.5/25 &lt;/td&gt;
+        &lt;td&gt;  12/12&lt;/td&gt;
+        &lt;td&gt; 12/12 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 42.8/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 84.3&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPSO"&gt; IPSO &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Educational Psychology &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 65/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 65&amp;nbsp;D &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;        
+        &lt;td rowspan=" 15 "&gt; &lt;span class="vertical-text"&gt; 2012 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="7"&gt; &lt;a href="bc4.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IDS"&gt; IDS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Database Systems &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 12.5/14 &lt;/td&gt;
+        &lt;td&gt;  5/5  5/5  5/5  13/20&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 32.5/51 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 73.0&amp;nbsp;C &lt;/td&gt;
+        &lt;td rowspan="7"&gt; 32 &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  2.08 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 64/164 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
 
-    3
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPK"&gt; IPK &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Computer Communications and Networks &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 5.4/9 &lt;/td&gt;
+        &lt;td&gt;  3.5/4  6/6  8/10&lt;/td&gt;
+        &lt;td&gt; 6/6 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 44/65 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 72.9&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPP"&gt; IPP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Principles of Programming Languages &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;  8.6/10  3.9/10&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 26/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 56.5&amp;nbsp;E &lt;/td&gt;
+      &lt;/tr&gt;
 
- &lt;/li&gt;
-        &lt;li&gt; F: 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZG"&gt; IZG &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Computer Graphics Principles &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 9/12 &lt;/td&gt;
+        &lt;td&gt;  6/18&lt;/td&gt;
+        &lt;td&gt; 18/18 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 50/52 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 83&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IZU"&gt; IZU &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Fundamentals of Artificial Intelligence &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 8/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 17.75/20 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 51/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 76.75&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IJA"&gt; IJA &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Java Programming Language &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; PVT &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  20/20  64/80&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+      &lt;/tr&gt;
 
-    2
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PRM"&gt; PRM &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Fundamentals of Law &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; PVH &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+      &lt;/tr&gt;
 
+      &lt;tr&gt;        
+        &lt;td rowspan="10"&gt; 3 &lt;/td&gt;&lt;td rowspan="8"&gt; &lt;a href="bc5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IIS"&gt; IIS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Information Systems &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 15/19 &lt;/td&gt;
+        &lt;td&gt;  30/30&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 24/51 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 69&amp;nbsp;D &lt;/td&gt;
+        &lt;td rowspan="8"&gt; 33 &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt;  2.053 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 96/240 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
 
- &lt;/li&gt;
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMP"&gt; IMP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Microprocessors and Embedded Systems &lt;/td&gt;
+        &lt;td&gt; 6 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 14/14 &lt;/td&gt;
+        &lt;td&gt;  14.6/19&lt;/td&gt;
+        &lt;td&gt; 16/16 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 23.3/51 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 67.9&amp;nbsp;D &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IMS"&gt; IMS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Modelling and Simulation &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 8/10 &lt;/td&gt;
+        &lt;td&gt;  20/20&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 44/70 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 72&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPZ"&gt; IPZ &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Peripheral Devices &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 26/30 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 3.8/4 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 63.3/66 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 93.1&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISA"&gt; ISA &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Network Applications and Network Administration &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  16/21&lt;/td&gt;
+        &lt;td&gt; 16/24 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 33/55 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 65&amp;nbsp;D &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ISP"&gt; ISP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Term Project &lt;/td&gt;
+        &lt;td&gt; 2 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 100/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITU"&gt; ITU &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; User Interface Programming &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;  43/55&lt;/td&gt;
+        &lt;td&gt; 24/25 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=JS1"&gt; JS1 &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Spanish for Beginners 1/2 &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;        
+        &lt;td rowspan=" 3 "&gt; &lt;span class="vertical-text"&gt; 2013 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="2"&gt; &lt;a href="bc6.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ITY"&gt; ITY &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Typography and Publishing &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  6/10  12/15  13/15  10/15  15/15&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 30/30 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86&amp;nbsp;B &lt;/td&gt;
+        &lt;td rowspan="2"&gt; 7 &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=JS1"&gt; JS1 &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Spanish for Beginners 2/2 &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 85/100 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;        
+        &lt;td rowspan="2"&gt; 4 &lt;/td&gt;&lt;td rowspan="1"&gt; &lt;a href="bc7.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IPA"&gt; IPA &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Advanced Assembly Languages &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  20/26&lt;/td&gt;
+        &lt;td&gt; 14/14 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 23/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 57&amp;nbsp;E &lt;/td&gt;
+        &lt;td rowspan="1"&gt; 5 &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.0 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 125/160 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;        
+        &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="1"&gt; &lt;a href="bc8.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=IBP"&gt; IBP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Bachelor's Thesis &lt;/td&gt;
+        &lt;td&gt; 9 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+        &lt;td rowspan="1"&gt; 9 &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 59/369 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 500 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;          
+        &lt;td rowspan="24"&gt; &lt;span class="vertical-text"&gt; Ing. &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan=" 8 "&gt; &lt;span class="vertical-text"&gt; 2014 &lt;/span&gt; &lt;/td&gt;        
+        &lt;td rowspan="15"&gt; 1 &lt;/td&gt;&lt;td rowspan="8"&gt; &lt;a href="ing1.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=HSC"&gt; HSC &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Hardware/Software Codesign &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 16/20 &lt;/td&gt;
+        &lt;td&gt;  5/25&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 45/55 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 66&amp;nbsp;D &lt;/td&gt;
+        &lt;td rowspan="8"&gt; 35 &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt;  1.583 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 10/110 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="8"&gt; &lt;span class="vertical-text"&gt; 9913 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=MAT"&gt; MAT &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Mathematical Structures in Computer Science &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 14/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 68/80 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 82&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PDB"&gt; PDB &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Advanced Database Systems &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 14/20 &lt;/td&gt;
+        &lt;td&gt;  17/20&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 39/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 70&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PGR"&gt; PGR &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Computer Graphics &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 7/7 &lt;/td&gt;
+        &lt;td&gt;  30/30&lt;/td&gt;
+        &lt;td&gt; 12/12 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 41/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=TIN"&gt; TIN &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Theoretical Computer Science &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 19/20 &lt;/td&gt;
+        &lt;td&gt;  5/5  4/5  4.2/5  5/5&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 49/60 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86.2&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FIT"&gt; FIT &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; History and Philosophy of Technology &lt;/td&gt;
+        &lt;td&gt; 3 &lt;/td&gt;
+        &lt;td&gt; PVH &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PGP"&gt; PGP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Advanced Computer Graphics &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; PVG &lt;/td&gt;
+        &lt;td&gt; 7/9 &lt;/td&gt;
+        &lt;td&gt;  10/10  30/30&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 43/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=STI"&gt; STI &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Theoretical Computer Science Seminar &lt;/td&gt;
+        &lt;td&gt; 2 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;        
+        &lt;td rowspan=" 9 "&gt; &lt;span class="vertical-text"&gt; 2015 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="7"&gt; &lt;a href="ing2.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=FYO"&gt; FYO &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Physical Optics &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 8/10 &lt;/td&gt;
+        &lt;td&gt;  21/30&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 29/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 58&amp;nbsp;E &lt;/td&gt;
+        &lt;td rowspan="7"&gt; 35 &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt;  1.714 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 20/127 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="7"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=MUL"&gt; MUL &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Multimedia &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 8/10 &lt;/td&gt;
+        &lt;td&gt;  23/24&lt;/td&gt;
+        &lt;td&gt; 15/15 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 46/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 92&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=PDS"&gt; PDS &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Data Communications, Computer Networks and Protocols &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 9/15 &lt;/td&gt;
+        &lt;td&gt;  9/25&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 36/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 54&amp;nbsp;E &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ZPO"&gt; ZPO &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Image Processing &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 10/10 &lt;/td&gt;
+        &lt;td&gt;  24/29&lt;/td&gt;
+        &lt;td&gt; 10/10 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 42/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 86&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ZRE"&gt; ZRE &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Speech Signal Processing &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 10.5/14 &lt;/td&gt;
+        &lt;td&gt;  14/15  14/14&lt;/td&gt;
+        &lt;td&gt; 6/6 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 40.8/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85.3&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=WAP"&gt; WAP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Internet Applications &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; PVI &lt;/td&gt;
+        &lt;td&gt; 16/19 &lt;/td&gt;
+        &lt;td&gt;  30/30&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 48/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 94&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VIN"&gt; VIN &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Computer Art &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  49/49  51/51&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 100&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;        
+        &lt;td rowspan="5"&gt; 2 &lt;/td&gt;&lt;td rowspan="2"&gt; &lt;a href="ing3.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GZN"&gt; GZN &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Graphical and Sound Interfaces and Standards &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt; 8/9 &lt;/td&gt;
+        &lt;td&gt;  39/40&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 38/51 &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 85&amp;nbsp;B &lt;/td&gt;
+        &lt;td rowspan="2"&gt; 9 &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt;  1.277 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 10/198 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="2"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=KRG"&gt; KRG &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Creative Art &lt;/td&gt;
+        &lt;td&gt; 4 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt; 30/40 &lt;/td&gt;
+        &lt;td&gt;  60/60&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;        
+        &lt;td rowspan=" 6 "&gt; &lt;span class="vertical-text"&gt; 2016 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="3"&gt; &lt;a href="ing4.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=ARC"&gt; ARC &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Parallel System Architecture and Programming &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; PVC &lt;/td&gt;
+        &lt;td&gt; 7/10 &lt;/td&gt;
+        &lt;td&gt;  10/15  3/15&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 38/60 &lt;/td&gt;        
+        &lt;td class="mark-E"&gt; 58&amp;nbsp;E &lt;/td&gt;
+        &lt;td rowspan="3"&gt; 15 &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt;  2.166 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 110/198 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VNV"&gt; VNV &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; High Performance Computations &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; PVM &lt;/td&gt;
+        &lt;td&gt; 18/20 &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt; 19/20 &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 36/60 &lt;/td&gt;        
+        &lt;td class="mark-C"&gt; 73&amp;nbsp;C &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=VIZ"&gt; VIZ &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Visualization and CAD &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt; 28/40 &lt;/td&gt;
+        &lt;td&gt;  60/60&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-B"&gt; 88&amp;nbsp;B &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;        
+        &lt;td rowspan="4"&gt; 3 &lt;/td&gt;&lt;td rowspan="3"&gt; &lt;a href="ing5.html"&gt; Z &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SEP"&gt; SEP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Term Project &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  90/100&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90&amp;nbsp;A &lt;/td&gt;
+        &lt;td rowspan="3"&gt; 15 &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt;  1.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 13/88 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="3"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=GUX"&gt; GUX &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Graphical User Interfaces in X Window System &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt; 14/20 &lt;/td&gt;
+        &lt;td&gt;  7/8  9/12&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 35/60 &lt;/td&gt;        
+        &lt;td class="mark-D"&gt; 65&amp;nbsp;D &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=POV"&gt; POV &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Computer Vision &lt;/td&gt;
+        &lt;td&gt; 5 &lt;/td&gt;
+        &lt;td&gt; V &lt;/td&gt;
+        &lt;td&gt; 9/9 &lt;/td&gt;
+        &lt;td&gt;  8.1/10  27/30&lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt; 46/51 &lt;/td&gt;        
+        &lt;td class="mark-A"&gt; 90.1&amp;nbsp;A &lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="semester-last-row"&gt;        
+        &lt;td rowspan=" 1 "&gt; &lt;span class="vertical-text"&gt; 2017 &lt;/span&gt; &lt;/td&gt;&lt;td rowspan="1"&gt; &lt;a href="ing6.html"&gt; L &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;a href="http://www.fit.vutbr.cz/study/course-l.php?tab1_f2=SIP"&gt; SIP &lt;/a&gt; &lt;/td&gt;
+        &lt;td&gt; Master's Thesis &lt;/td&gt;
+        &lt;td&gt; 13 &lt;/td&gt;
+        &lt;td&gt; P &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;
+        &lt;td&gt;  &lt;/td&gt;        
+        &lt;td class="mark-none"&gt; ✓ &lt;/td&gt;
+        &lt;td rowspan="1"&gt; 13 &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt;  3.5 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0/0 &lt;/span&gt; &lt;/td&gt;
+        &lt;td rowspan="1"&gt; &lt;span class="vertical-text"&gt; 0 &lt;/span&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;  Stats for Bc. study  &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+ credits (work hours) 185 (5180)
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ points:     2614 / 3200
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ exams:     26
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ midterms:     22
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ projects:     45
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ courses:     37
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ mean:     1.948
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ place:     5.  / 123
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ merit scholarship money:     7674 Kč
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ mark histogram:   
+    &lt;ul&gt;
+        &lt;li&gt; A: 4 &lt;/li&gt;
+        &lt;li&gt; B: 10 &lt;/li&gt;
+        &lt;li&gt; C: 12 &lt;/li&gt;
+        &lt;li&gt; D: 5 &lt;/li&gt;
+        &lt;li&gt; E: 3 &lt;/li&gt;
+        &lt;li&gt; F: 0 &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;  Stats for Ing. study  &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+ credits (work hours) 122 (3416)
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ points:     1692 / 2100
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ exams:     17
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ midterms:     19
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ projects:     29
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ courses:     24
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ mean:     1.721
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ place:     0.  / 0
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ merit scholarship money:     9913 Kč
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ mark histogram:   
+    &lt;ul&gt;
+        &lt;li&gt; A: 8 &lt;/li&gt;
+        &lt;li&gt; B: 6 &lt;/li&gt;
+        &lt;li&gt; C: 2 &lt;/li&gt;
+        &lt;li&gt; D: 2 &lt;/li&gt;
+        &lt;li&gt; E: 3 &lt;/li&gt;
+        &lt;li&gt; F: 2 &lt;/li&gt;
     &lt;/ul&gt;
     &lt;/li&gt;
 &lt;/ul&gt;</content><category term="study"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/diskuse-nazory-ma-to-vubec-cenu.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/diskuse-nazory-ma-to-vubec-cenu.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl
@@ -5178,119 +4643,55 @@ smyslu, neboť nejde o nic světoborného. Pokud něčeho za dobu studia
 lituji, tak snad jenom toho, že jsem si nezapsal předmět IKR.&lt;/p&gt;
 &lt;p&gt;Dal jsem si tu práci a sestavil pár statistik. Za dobu studia jsem
 absolvoval/získal:&lt;/p&gt;
-&lt;h2&gt; Statistiky pro Bc. studium &lt;/h2&gt;
+&lt;h2&gt;  Statistiky pro Bc. studium  &lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt; kreditů (hodin práce):
+  &lt;li&gt;
+ kreditů (hodin práce): 185 (5180)
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ bodů::     2614 / 3200
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ zkoušek:     26
+  &lt;/li&gt;
 
-    185
+  &lt;li&gt;
+ půlsemestrálek:     22
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ projektů:     45
+  &lt;/li&gt;
 
- (5180) &lt;/li&gt;
-  &lt;li&gt; bodů: 
+  &lt;li&gt;
+ předmětů:     37
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ průměr:     1.948
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ pořadí:     5.  / 123
 
-    2614
+  &lt;/li&gt;
 
+  &lt;li&gt;
+ peněz z prospěchových stipendií:     7674 Kč
+  &lt;/li&gt;
 
- / 3200 &lt;/li&gt;
-  &lt;li&gt; zkoušek: 
-
-
-
-    26
-
-
- &lt;/li&gt;
-  &lt;li&gt; půlsemestrálek: 
-
-
-
-    22
-
-
- &lt;/li&gt;
-  &lt;li&gt; projektů: 
-
-
-
-    45
-
-
- &lt;/li&gt;
-  &lt;li&gt; předmětů: 
-
-
-
-    37
-
-
- &lt;/li&gt;
-  &lt;li&gt; průměr: 
-
- 1.948
-
-
- &lt;/li&gt;
-  &lt;li&gt; pořadí: 5.  / 123
- &lt;/li&gt;
-  &lt;li&gt; peněz z prospěchových stipendií: 
-  7674
-
- Kč &lt;/li&gt;
-  &lt;li&gt; histogram známek:
+  &lt;li&gt;
+ histogram známek:   
     &lt;ul&gt;
-        &lt;li&gt; A: 
-
-
-
-    4
-
-
- &lt;/li&gt;
-        &lt;li&gt; B: 
-
-
-
-    10
-
-
- &lt;/li&gt;
-        &lt;li&gt; C: 
-
-
-
-    12
-
-
- &lt;/li&gt;
-        &lt;li&gt; D: 
-
-
-
-    5
-
-
- &lt;/li&gt;
-        &lt;li&gt; E: 
-
-
-
-    3
-
-
- &lt;/li&gt;
-        &lt;li&gt; F: 
-
-
-
-    0
-
-
- &lt;/li&gt;
+        &lt;li&gt; A: 4 &lt;/li&gt;
+        &lt;li&gt; B: 10 &lt;/li&gt;
+        &lt;li&gt; C: 12 &lt;/li&gt;
+        &lt;li&gt; D: 5 &lt;/li&gt;
+        &lt;li&gt; E: 3 &lt;/li&gt;
+        &lt;li&gt; F: 0 &lt;/li&gt;
     &lt;/ul&gt;
     &lt;/li&gt;
 &lt;/ul&gt;
