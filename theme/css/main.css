@@ -113,7 +113,7 @@ em, i
 #content ul
   {
     list-style: circle;
-    margin: 0em 0 0 2em;
+    margin: 1em 0 0 2em;
   }
   
 #content ul li
@@ -432,7 +432,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
   }
 #banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited
   {
-    background: #9e4747;
+    background: #87b7b5;
     color: #fff;
     text-shadow: none !important;
   }
