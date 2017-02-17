@@ -281,6 +281,8 @@ div.note
     padding: 0px;
   }
 
+/**** PROJECTS *****/
+  
 .project
   {
     float: left;
@@ -293,12 +295,33 @@ div.note
     border-radius: 10px;
   }
   
-.project p
+.project span
   {
+    margin: 2px 0;
+    font-size: 13px;
   }
   
-.project img
+.project h2
   {
+    margin: 3px 0;
+  }
+  
+.project p
+  {
+    margin: 20px 0 3px;
+  }
+  
+.project-download
+  {
+    float: right;
+    clear: none;
+    margin: 10px 10px 0 0;
+    width: 25px;
+  }
+  
+.project-image
+  {
+    margin: 20px 0 0;
     width: 100%;
     position: relative;
     border: 1px solid rgb(100,100,100);
