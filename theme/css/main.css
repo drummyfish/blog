@@ -290,8 +290,9 @@ div.note
     padding: 20px;
     width: 260px;
     background-color: rgb(250,250,250);
-    background: linear-gradient(rgb(250,250,250),rgb(240,250,145));
-    border: 3px solid rgb(140,140,140);
+    background: linear-gradient(rgb(250,250,250),rgb(255,250,230));
+    border: 2px solid rgb(200,200,200);
+    box-shadow: 10px 10px 20px rgb(200,200,200);
     border-radius: 10px;
   }
   
@@ -311,7 +312,7 @@ div.note
     margin: 20px 0 3px;
   }
   
-.project-download
+.project-download img, .project-github img
   {
     float: right;
     clear: none;
