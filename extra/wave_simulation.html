@@ -1,25 +1,26 @@
-<!----------------------------------------------------------------------
+<!--====================================================================
 
  Simple wave, particle and force simulator.
 
  Miloslav Číž, 2013
 
------------------------------------------------------------------------>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html>
-  <head>
-    <title>waves simulation</title>
-
-    <meta charset="utf-8" />
-
-    <script src="raphael.js" type="text/javascript" charset="utf-8"></script>
-    <script src="jquery-1.9.1.js"></script>
-    <script src="jquery-ui.js"></script>
-    <link rel="stylesheet" href="jquery-ui.css" />
-
-    <script type="text/javascript">
+=====================================================================-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.2.0" />
+  <title>waves simulation</title>
+  <meta charset="utf-8" />
+  <script src="raphael.js" type="text/javascript" charset="utf-8">
+  </script>
+  <script src="jquery-1.9.1.js">
+  </script>
+  <script src="jquery-ui.js">
+  </script>
+  <link rel="stylesheet" href="jquery-ui.css" />
+  <script type="text/javascript">
+  //<![CDATA[
 
       var paper;           // graphic canvas
       var nodes;           // array of all the nodes
@@ -934,43 +935,44 @@
            return false;
          }
 
-    </script>
-  </head>
-
-  <body onload="on_load();">
-
-    <table style="height: 200px; background-color: rgb(200,200,200);">
-      <tr>
-        <td style="padding: 20px; width: 200px; background-color: white; vertical-align:text-top;">
-          <form action="" style="height: 95%">
-            <h1 style="font-size: 15px;"> waves simulation </h1> <br />
-
-            <input id="check_edit" type="radio" name="action" onchange="form_change();"> edit <span style="color: rgb(150,150,150)"> (right click to delete) </span> </input> <br />
-            &nbsp;&nbsp;&nbsp;<input id="check_move" type="radio" name="add_type" onchange="form_change();" checked> move </input> <br />
-            &nbsp;&nbsp;&nbsp;<input id="check_add_normal" type="radio" name="add_type" onchange="form_change();"> add normal node </input> <br />
-            &nbsp;&nbsp;&nbsp;<input id="check_add_fixed" type="radio" name="add_type" onchange="form_change();"> add fixed node </input> <br />
-            &nbsp;&nbsp;&nbsp;<input id="check_connect" type="radio" name="add_type" onchange="form_change();"> connect nodes </input> <br />
-            &nbsp;&nbsp;&nbsp;<button style="width: 100%; height: 30px;" onclick="return clear_all();"> <span style="color: red;"> clear all </span> </button>
-            &nbsp;&nbsp;&nbsp;<button style="width: 100%; height: 30px;" onclick="return create_model(0);"> create default </button>
-            &nbsp;&nbsp;&nbsp;<button style="width: 100%; height: 30px;" onclick="return create_model(1);"> create string </button>
-                        &nbsp;&nbsp;&nbsp;<button style="width: 100%; height: 30px;" onclick="return create_model(2);"> create net </button>
-            <hr style="margin: 30px 0;" />
-
-            <input id="check_simulate" type="radio" name="action" onchange="form_change();" checked> simulate <span style="color: rgb(150,150,150)"> (move nodes) </span> </input> <br />
-            &nbsp;&nbsp;&nbsp; gravity: <span id="gravity"></span> <div id="slider1"></div>
-            &nbsp;&nbsp;&nbsp; line tension: <span id="tension"></span> <div id="slider2"></div>
-            &nbsp;&nbsp;&nbsp; friction: <span id="friction"></span> <div id="slider3"></div>
-          </form>
-
-          <span style="color: rgb(150,150,150); font-size: 10pt;"> v 1.0, by Miloslav "tastyfish" Číž </span>
-        </td>
-
-        <td id="space_cell" style="background-color: white;" onmousedown="mousedown(event);" onmouseup="mouseup(event);" onmousemove="mousemove(event)"; oncontextmenu="return false;">
-          <div id="drawing_canvas" style="width:100%; height: 100%;" >
-          </div>
-        </td>
-      </tr>
-    </table>
-
-  </body>
+  //]]>
+  </script>
+</head>
+<body onload="on_load();">
+  <table style="height: 200px; background-color: rgb(200,200,200);">
+    <tr>
+      <td style="padding: 20px; width: 200px; background-color: white; vertical-align:text-top;">
+        <form action="" style="height: 95%">
+          <h1 style="font-size: 15px;">waves simulation</h1><br />
+          <input id="check_edit" type="radio" name="action" onchange="form_change();" />edit <span style=
+          "color: rgb(150,150,150)">(right click to delete)</span><br />
+          &nbsp;&nbsp;&nbsp;<input id="check_move" type="radio" name="add_type" onchange="form_change();" checked=
+          "checked" />move<br />
+          &nbsp;&nbsp;&nbsp;<input id="check_add_normal" type="radio" name="add_type" onchange="form_change();" />add
+          normal node<br />
+          &nbsp;&nbsp;&nbsp;<input id="check_add_fixed" type="radio" name="add_type" onchange="form_change();" />add
+          fixed node<br />
+          &nbsp;&nbsp;&nbsp;<input id="check_connect" type="radio" name="add_type" onchange="form_change();" />connect
+          nodes<br />
+          &nbsp;&nbsp;&nbsp; <button style="width: 100%; height: 30px;" onclick="return clear_all();"><span style=
+          "color: red;">clear all</span></button> &nbsp;&nbsp;&nbsp; <button style="width: 100%; height: 30px;"
+          onclick="return create_model(0);">create default</button> &nbsp;&nbsp;&nbsp; <button style=
+          "width: 100%; height: 30px;" onclick="return create_model(1);">create string</button> &nbsp;&nbsp;&nbsp;
+          <button style="width: 100%; height: 30px;" onclick="return create_model(2);">create net</button>
+          <hr style="margin: 30px 0;" />
+          <input id="check_simulate" type="radio" name="action" onchange="form_change();" checked="checked" />simulate
+          <span style="color: rgb(150,150,150)">(move nodes)</span><br />
+          &nbsp;&nbsp;&nbsp; gravity: <span id="gravity"></span>
+          <div id="slider1"></div>&nbsp;&nbsp;&nbsp; line tension: <span id="tension"></span>
+          <div id="slider2"></div>&nbsp;&nbsp;&nbsp; friction: <span id="friction"></span>
+          <div id="slider3"></div>
+        </form><span style="color: rgb(150,150,150); font-size: 10pt;">v 1.0, by Miloslav "tastyfish" Číž</span>
+      </td>
+      <td id="space_cell" style="background-color: white;" onmousedown="mousedown(event);" onmouseup="mouseup(event);"
+      onmousemove="mousemove(event)" oncontextmenu="return false;">
+        <div id="drawing_canvas" style="width:100%; height: 100%;"></div>
+      </td>
+    </tr>
+  </table>
+</body>
 </html>
