@@ -6074,41 +6074,49 @@ a &lt;em&gt;Stroj&lt;/em&gt;. Od třídy &lt;em&gt;Živočich&lt;/em&gt; odvodí
 &lt;em&gt;Robot&lt;/em&gt;. Třída &lt;em&gt;Živočich&lt;/em&gt; může mít různé atributy a metody typické pro
 živočicha, řekněme třeba &lt;em&gt;datum narození&lt;/em&gt; a stroji přiřkneme &lt;em&gt;výrobní
 číslo&lt;/em&gt; (viz obrázek).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/QOD0at7.png" /&gt;&lt;br /&gt;
-&lt;pre&gt;
-třída Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-datum narození&lt;/p&gt;
-&lt;p&gt;metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Stroj&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-výrobní číslo&lt;/p&gt;
-&lt;p&gt;metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Člověk, potomek třídy Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Kočka, potomek třídy Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Robot, potomek třídy Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Auto, potomek třídy Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;br /&gt;
-&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/QOD0at7.png" /&gt;  &lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;třída Živočich  
+{  
+atributy:  
+datum narození
+
+metody:  
+}
+
+třída Stroj  
+{  
+atributy:  
+výrobní číslo
+
+metody:  
+}
+
+třída Člověk, potomek třídy Živočich  
+{  
+atributy:  
+metody:  
+}
+
+třída Kočka, potomek třídy Živočich  
+{  
+atributy:  
+metody:  
+}
+
+třída Robot, potomek třídy Živočich  
+{  
+atributy:  
+metody:  
+}
+
+třída Auto, potomek třídy Živočich  
+{  
+atributy:  
+metody:  
+}
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;Všechno je zatím evidentně v pořádku, kočky a lidé budou mít svá data
 narození a auta a roboti výrobní čísla. Nyní nás ale může napadnout
 přidat např. metodu &lt;em&gt;mluv&lt;/em&gt;, již budou zcela logicky implementovat pouze
@@ -6128,47 +6136,56 @@ entity světa schopné mluvit. Této třídě přiřkne metodu &lt;em&gt;mluv&lt
 &lt;em&gt;Člověk&lt;/em&gt; a &lt;em&gt;Robot&lt;/em&gt; přikáže dědit vedle svých rodičovských tříd ještě
 navíc od třídy &lt;em&gt;Mluvící&lt;/em&gt;, čímž právě tyto třídy zdědí požadovanou metodu
 (viz obrázek). Rázem vidíme, jak elegantní naše řešení je.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/EGsk1He.png" /&gt;&lt;br /&gt;
-&lt;pre&gt;&lt;br /&gt;
-třída Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-datum narození&lt;/p&gt;
-&lt;p&gt;metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Stroj&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-výrobní číslo&lt;/p&gt;
-&lt;p&gt;metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Mluvící&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-mluv&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Člověk, potomek třídy Živočich a Mluvící&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Kočka, potomek třídy Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Robot, potomek třídy Živočich a Mluvící&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;/p&gt;
-&lt;p&gt;třída Auto, potomek třídy Živočich&lt;br /&gt;
-{&lt;br /&gt;
-atributy:&lt;br /&gt;
-metody:&lt;br /&gt;
-}&lt;br /&gt;
-&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="příklad" class="center" src="http://i.imgur.com/EGsk1He.png" /&gt;  &lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;třída Živočich  
+{  
+atributy:  
+datum narození
+
+metody:  
+}
+
+třída Stroj  
+{  
+atributy:  
+výrobní číslo
+
+metody:  
+}
+
+třída Mluvící  
+{  
+atributy:  
+metody:  
+mluv  
+}
+
+třída Člověk, potomek třídy Živočich a Mluvící  
+{  
+atributy:  
+metody:  
+}
+
+třída Kočka, potomek třídy Živočich  
+{  
+atributy:  
+metody:  
+}
+
+třída Robot, potomek třídy Živočich a Mluvící  
+{  
+atributy:  
+metody:  
+}
+
+třída Auto, potomek třídy Živočich  
+{  
+atributy:  
+metody:  
+}
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;Celé to má obrovskou výhodu – představme si nějakou funkci nebo metodu,
 která jako parametr požaduje objekt, který umí mluvit, a přitom je jí
 úplně jedno všechno ostatní ohledně tohoto objektu. Můžeme si představit
