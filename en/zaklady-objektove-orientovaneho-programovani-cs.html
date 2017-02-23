@@ -1,299 +1,240 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
+  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.2.0">
+  <meta charset="utf-8">
   <title>Základy objektově orientovaného programování</title>
-  <link rel="stylesheet" href="https://drummyfish.github.io/en/../theme/css/main.css" />
-  <link href="https://drummyfish.github.io/all.rss.xml" type="application/atom+xml" rel="alternate" title="tastyfish Atom Feed" />
+  <link rel="stylesheet" href="https://drummyfish.github.io/en/../theme/css/main.css">
+  <link href="https://drummyfish.github.io/all.rss.xml" type="application/atom+xml" rel="alternate" title=
+  "tastyfish Atom Feed">
   <!--[if IE]> <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <![endif]-->
 </head>
-
 <body id="index" class="home">
   <div class="language-select">
-      <a href="https://drummyfish.github.io/index.html"> <div class="lang-icon lang-cs" ></div> </a>
-      <a href="https://drummyfish.github.io/en/index.html"> <div class="lang-icon lang-en selected-lang" ></div> </a>
+    <a href="https://drummyfish.github.io/index.html">
+    <div class="lang-icon lang-cs"></div></a> <a href="https://drummyfish.github.io/en/index.html">
+    <div class="lang-icon lang-en selected-lang"></div></a>
   </div>
-
   <header id="banner" class="body">
     <div class="fish"></div>
-    
     <div id="logo"></div>
-    
     <nav>
-      <ul>            
-        <li ><a href="https://drummyfish.github.io/en/index.html">Intro</a></li>
-        <li ><a href="https://drummyfish.github.io/en/category/posts.html">Posts</a></li>
-        <li class="active"><a href="https://drummyfish.github.io/en/category/articles.html">Articles</a></li>
-        <li ><a href="https://drummyfish.github.io/en/pages/projekty.html">Projects</a></li>
-        <li ><a href="https://drummyfish.github.io/en/tags.html">Tags</a></li>
-        <li ><a href="https://drummyfish.github.io/en/pages/about.html">About me</a></li>
+      <ul>
+        <li>
+          <a href="https://drummyfish.github.io/en/index.html">Intro</a>
+        </li>
+        <li>
+          <a href="https://drummyfish.github.io/en/category/posts.html">Posts</a>
+        </li>
+        <li class="active">
+          <a href="https://drummyfish.github.io/en/category/articles.html">Articles</a>
+        </li>
+        <li>
+          <a href="https://drummyfish.github.io/en/pages/projekty.html">Projects</a>
+        </li>
+        <li>
+          <a href="https://drummyfish.github.io/en/tags.html">Tags</a>
+        </li>
+        <li>
+          <a href="https://drummyfish.github.io/en/pages/about.html">About me</a>
+        </li>
       </ul>
     </nav>
   </header>
-
   <section id="content" class="body">
     <article>
       <header>
-        <h1 class="entry-title">
-          <a href="https://drummyfish.github.io/en/zaklady-objektove-orientovaneho-programovani-cs.html" rel="bookmark" title="Permalink to Základy objektově orientovaného programování">Základy objektově orientovaného programování</a></h1>
+        <h1 class="entry-title"><a href=
+        "https://drummyfish.github.io/en/zaklady-objektove-orientovaneho-programovani-cs.html" rel="bookmark" title=
+        "Permalink to Základy objektově orientovaného programování">Základy objektově orientovaného
+        programování</a></h1>
       </header>
-
       <div class="entry-content">
-          <div class="post-info">
-            Út 11 prosinec 2012 <br />        
-            tastyfish <br />
-                        translations:
-            <a href="https://translate.google.com/translate?sl=auto&tl=en&ie=UTF-8&u=https%3A//drummyfish.github.io/en/zaklady-objektove-orientovaneho-programovani-cs.html"> en (google) </a>
-
-          </div>        
-<p>S objekty se dnes v informatice setkáváme nejen při programování,
-ale zcela běžně také při návrhu aplikací, jejich testování, budování
-databází a u nespočtu dalších klíčových činností. Zjednodušeně řečeno,
-objekty jsou všude kolem nás.</p>
-<p>Proč tomu tak je? Protože koncept objektů velmi dobře koresponduje s
-povahou našeho světa, který se většinou snažíme s jistou abstrakcí svými
-programy zachytit. Řekněme, že programujeme hru s různými postavami a
-zbraněmi. Automaticky tyto postavy a zbraně vidíme jako objekty, které
-spolu nějak interagují – postavy komunikují, sbírají a používají zbraně
-atd. Jiným příkladem může být třeba matematická aplikace, kde budou
-našimi objekty rovnice, výrazy a matematické funkce. Pokud program takto
-rozdělíme na vzájemně komunikující objekty, jež programujeme nezávisle
-na sobě, jsme schopni si v programu udržet lepší logickou strukturu, než
-když používáme pouze podprogramy.</p>
-<p>Chci se zde pokusit vysvětlit princip objektově orientovaného
-programování (dále raději jen OOP), nikoliv prezentovat konkrétní
-objektově orientovaný jazyk, místo kterého pro obecnost a jednoduchost
-použiju pseudokód, i když ke konci mám ke stažení i zdrojový kód v C++.
-Článek píšu pro čtenáře, kteří mají s programováním základní zkušenosti
-(zhruba do té míry, že vědí, co je to ukazatel) a chtějí se posunout o
-kousek dál k něčemu, co je dnes ve světě informatiky jedním z
-nejrozšířenějších přístupů k řešení problémů.</p>
-<p><img alt="OOP a okolní svět" class="center" src="http://i.imgur.com/trnFGUQ.png" /></p>
-<h2>Jak tedy OOP funguje?</h2>
-<p>Jak jste jistě vytušili, objektové programování je paradigma - určitá
-filozofie, podobně jako např. programování imperativní nebo
-funkcionální, napomáhající hlavně lepší logické struktuře programu, jeho
-přehlednosti a tedy logicky značné eliminaci chyb ve větších projektech.
-Objektové programy se zpravidla dobře navrhují, udržují a rozšiřují, jak
-zjistíme dále. Je ale nutné dodat, že OOP není lék na všechno a není
-automaticky nejlepším řešením pro každý projekt. Vždy je nutné se
-zamyslet - třeba při psaní malých programů může být tento přístup
-zbytečně složitý. Nicméně s dobrou znalostí problematiky se většinou
-jedná o skutečně mocný nástroj a my se zde pochopitelně zaměříme na jeho
-přednosti, jichž je opravdu velké množství.</p>
-<p>Pojďme si tedy konečně říct, jak se v praxi liší psaní "normálního" a
-objektového programu. Když píšeme program klasickým přístupem hledání
-algoritmu v podobě příkazů a rozkladem problému na podproblémy, např. v
-jazyce C nebo v Pascalu, zaměřujeme se hlavně na příkazy - snažíme se
-nalézt posloupnost instrukcí, které vyřeší daný problém. Při tom si
-samozřejmě můžeme pomáhat podprogramy, moduly a dalšími pomůckami. V
-centru našeho soustředění však neustále zůstává sekvence příkazů řešící
-problém.</p>
-<p>Při objektovém přístupu se snažíme nalézt objekty, jakési samostatné
-jednotky, které problém vyřeší samy vzájemnou spoluprací. Jakmile
-objekty identifikujeme, definujeme je v daném programovacím jazyce,
-naprogramujeme jejich chování a necháme je problém vyřešit. Programování
-objektů v praxi provádíme samozřejmě opět pomocí příkazů, ty však hrajou
-jen jakousi vedlejší roli, představují pomůcku pro popis chování
-objektů. Při pohledu na problém jako celek se nyní soustředíme především
-na objekty a jejich komunikaci.</p>
-<h2>Objekty a třídy</h2>
-<p>Základní koncept známe, ale abychom byli schopni začít objektově
-programovat, musíme se ponořit hlouběji, vysvětlit si pár pojmů a
-pochopit systém, kterým se OOP realizuje. Velmi základními pojmy jsou
-pro nás nyní objekt a třída.</p>
-<p>Objekt, jak už bylo řečeno, je určitá samostatná jednotka, popř. jakási
-černá skříňka řešící určitou úlohu. Každý objekt má dva typy komponent:</p>
-<p><img alt="objekt" class="right aligncenter" src="http://i.imgur.com/6OeKFQJ.png" /></p>
-<ol>
-<li>Data, nazývané atributy nebo vlastnosti. Jde v podstatě o vnitřní
-    proměnné objektu určující jeho stav. U objektu typu člověk by to
-    mohly být např. proměnné jako <em>jméno</em>, <em>věk</em> nebo <em>váha</em>.</li>
-<li>Metody sloužící jako rozhraní pro práci s objektem. Metody popisují
-    činnost a chování objektu a jsou to v podstatě funkce (podprogramy)
-    patřící objektu. Tyto funkce je možné volat a donutit tak objekt
-    k činnosti. Člověk může mít např. metodu <em>pozři jídlo</em>, která jako
-    parametr přebírá jídlo k pozření a na základě této informace se
-    patřičně zvýší hodnota atributu <em>váha</em> tohoto člověka.</li>
-</ol>
-<p>Objekt by měl být vytvořen podle určitých zásad, aby zachovával výhody
-OOP. Jednak by měl mít na starost pouze jeden úkol, podobně jako
-podprogram řeší jen jeden podproblém celkového problému. Dále by neměl
-poskytovat přímý přístup ke svým atributům, i když to programovací
-jazyky téměř vždy umožňují. Důvod, proč atributy skrývat, je ten, že
-zkrátka jde programovat bez přístupu k nim a hlavně se tak napomáhá
-jednoduchosti rozhraní objektu. Atributy by měly sloužit jen jako
-vnitřní paměť objektu a veškerá manipulace s ním by měla být umožněna
-jen skrze metody, které tvoří jakousi slupku zakrývající data (viz
-obrázek). U objektu člověka by tedy nemělo být možné přímo přistupovat
-např. k jeho atributu <em>váha</em> a pokud by jej bylo potřeba změnit, měla by
-být k dispozici metoda <em>Změň váhu</em>.</p>
-<p>Dobrou otázkou může být, jak objekty identifikovat. Je zřejmé, že vždy
-existuje mnoho možností, jak svět na objekty rozdělit, a je to ve
-skutečnosti jedna z nejdůležitějších otázek, které se při velkých
-projektech řeší. Odpověď tedy není vždy jednoduchá a záleží na
-programátorovi, aplikaci a míře abstrakce, kterou zvolíme. Platí zde víc
-než kde jinde dvakrát navrhuj, jednou programuj – je potřeba používat
-mozek a nepouštět se bez rozmyslu do bušení kódu.</p>
-<p>Nyní se podívejme na další důležitý pojem, jímž je třída. Ta je
-jednoduše řečeno šablonou pro objekt. Na základě toho, co známe, si
-třídu můžeme představit jako datový typ, přičemž objekty budou svým
-způsobem proměnné tohoto datového typu. Třídy vždy definujeme jako první
-podobně jako to děláme se složenými datovými typy (např. záznamy).
-Popíšeme v nich jména a datové typy atributů a také hlavičky (jméno,
-atributy a návratovou hodnotu) metod. Od takto definované třídy můžeme
-potom v programu začít vytvářet objekty, tzn. konkrétní výskyty neboli
-instance. Pokud bychom uvažovali výše zmíněný příklad, pak bychom
-definovali třídu <em>Člověk</em> a byli tak schopni vytvářet libovolné množství
-objektů této třídy, každý s rozdílnými hodnotami svých atributů <em>jméno</em>,
-<em>věk</em> a <em>váha</em>.</p>
-<p><img alt="třídy a objekty" class="right aligncenter" src="http://i.imgur.com/ThpLXzH.png" /></p>
-<p>Je nutné říct, že existují jazyky, které třídy nepoužívají a pracují
-pouze s objekty, jež vytvářejí ne na základě tříd, ale díky tzn.
-klonování. Při programování běžných aplikací se však častěji setkáme s
-jazyky třídními a proto zde budeme třídy i nadále uvažovat.</p>
-<p>Zkusme si nyní cvičně, jak by mohla vypadat deklarace třídy <em>Člověk</em> a
-vytváření objektů této třídy. Všimněte si speciální metody
-<em>konstruktor</em>, kterou má vždy automaticky každá třída a která se
-automaticky volá při vytváření objektu této třídy. Konstruktory se
-jmenují v různých jazycích různě, často bývá jeho název identický s
-názvem třídy. Do konstruktoru můžeme napsat kód, kterým chceme objekt
-inicializovat. Všimněte si taky, že může mít parametry. Podobně jako
-konstruktor existuje i destruktor, který se volá při rušení objektu, ale
-ten zde nebudeme zatím pro jednoduchost uvádět (destruktory se používají
-např. u složitějších datových struktur, kdy je potřeba při rušení
-objektu uvolňovat paměť či jiné zdroje). Při deklaraci atributů nebudeme
-uvádět datové typy a předpokládáme, že do ní lze přiřadit "cokoliv" (jak
-tomu většinou bývá ve skriptovacích jazycích).</p>
-<p>Je důležité si všimnout, jak pracujeme s objekty. Nejdřív deklarujeme
-proměnnou, která bude odkazem na objekt, nikoliv objektem samotným. Do
-této proměnné poté přiřadíme adresu objektu při jeho vytváření – k tomu
-dojde použitím klíčového slova (zde nový), které vytvoří nový objekt,
-nad ním zavolá konstruktor a uloží jej do nově alokované paměti. S
-objekty poté pracujeme právě pomocí proměnné s uloženým odkazem.</p>
-<h2>Zapouzdření, dědičnost a polymorfismus</h2>
-<p>Nyní se pomalu dostáváme k pravé síle objektového programování, jíž jsou
-možnosti zapouzdření objektů (encapsulation), dědičnosti tříd
-(inheritance) a polymorfismu (polymorphism). Uznávám, že se nám množina
-pojmů začíná nepříjemně rozrůstat, ale slibuji, že těmito třemi již
-pomalu budeme končit. Jedná se skutečně o podstatu OOP, bez níž nemá
-cenu se jím zabývat z jiného úhlu, proto si všechny tři pojmy vysvětlíme
-hezky popořadě.</p>
-<p>Se zapouzdřením jsme se již setkali. Nejde o nic složitého, byť je
-význam tohoto principu větší, než se začátečníkům mnohdy zdá.
-Zapouzdřený objekt je takový, který se chová jako černá skříňka a
-neumožňuje přístup ke svým vnitřnostem, jimiž se myslí jeho soukromé
-atributy (popř. i soukromé metody, které může objekt rovněž mít). Jak
-jsem již psal, objekt by pro svou manipulaci měl programátorovi
-poskytovat pouze rozhraní ve formě metod, které by mělo být co
-nejjednodušší a oproštěné od vnitřního fungování objektu. Zapouzdření
-velmi napomáhá abstrakci, přehlednosti, umožňuje rozdělovat práci na
-projektu mezi více programátorů a považuje se za jeden ze základních
-návyků v OOP.</p>
-<p>Trochu méně triviálním pojmem je dědičnost, která umožňuje vytvářet nové
-třídy na základě již existujících. Nejlépe asi bude demonstrovat
-dědičnost na příkladu. Výše jsme se bavili o třídě <em>Člověk</em>, od které
-jsme schopni vytvářet objekty představující konkrétní lidi. Nyní si
-představme, že chceme do svého programu zahrnout navíc třeba ještě psy.
-Klidně bychom mohli vytvořit novou třídu <em>Pes</em> tak, že bychom
-zkopírovali kód pro třídu <em>Člověk</em>, umazali bychom vlastnosti a metody,
-které u psa nechceme mít, a zároveň bychom nové věci přidali, např.
-metodu <em>sedni</em>. Jak ale víme, kopírování zdrojového kódu je známka
-redundance a především špatného programátora. Psi mají s lidmi spoustu
-společného, ale mají zároveň své specifické vlastnosti a chování, proto
-by bylo dobré vytvořit třídu <em>Pes</em>, která by měla něco společného s
-třídou <em>Člověk</em> a něco si k ní mohla přidat. Takové situace nastávají
-často a OOP pro ně má řešení, jímž je právě možnost dědičnosti tříd. Ta
-nám umožňuje, pokud máme vytvořenou nějakou třídu A, vytvořit třídu B,
-která zdědí všechny vlastnosti (atributy) a metody třídy A tak, že je
-již nemusíme explicitně deklarovat a zároveň můžeme deklarovat nové
-atributy a metody pouze pro třídu B. Dědičnost vnáší do tříd hierarchii
-a můžeme se proto bavit o třídách, které jsou rodiči a potomky jiných
-tříd (rodičovské třídy jsou obecnější, potomci představují konkrétnější
-objekty světa).</p>
-<p>Zkusme si tedy představit, že vytvoříme třídu se jménem <em>Živočich</em>,
-která bude mít vlastnost <em>jméno</em> a metodu <em>vydej zvuk</em>. Tato třída
-představuje obecného živočicha, např. člověka nebo psa, přičemž
-předpokládáme, že každý živočich má jméno a umí vydávat zvuk. Nyní
-můžeme vytvořit třídy <em>Pes</em> a <em>Člověk</em> a u každé uvedeme jako rodiče
-třídu <em>Živočich</em>, čímž jsme uvedli dědičnost v praxi. Třídy <em>Pes</em> a
-<em>Člověk</em> mají automaticky vlastnost <em>jméno</em> a metodu <em>vydej zvuk</em> a
-pokud v některé z nich vytvoříme nový atribut či novou metodu, např.
-metodu <em>sedni</em> u psa nebo atribut <em>příjmení</em> u člověka, bude ji mít už
-pouze tato třída sama. Ještě dodejme, že třída <em>Živočich</em> je typem
-třídy, která se označuje jako abstraktní – je to třída, která slouží
-pouze k dědění a nelze na jejím základě vytvářet žádné objekty.
-Pochopitelně ne vždy musí být rodičovská třída abstraktní, označují se
-tak zkrátka třídy, od nichž nemá smysl vytvářet instance.</p>
-<p>Nejsložitějším z pojmů je nejspíš polymorfismus neboli tzv.
-mnohotvarost. Umožňuje nám řešit další problém, který se v souvislosti s
-dědičností může vyskytnout a zároveň při správném využití poskytuje
-ohromné programátorské možnosti. Jak je zřejmé, třídy <em>Člověk</em> a <em>Pes</em>
-mají obě metodu <em>vydej zvuk</em>, což je naprosto v pořádku, neboť pes i
-člověk jistě dokáží nějaké zvuky vyluzovat. Problém je, že pes vydává
-jiné zvuky než člověk. Máme tedy implementovat metodu <em>vydej zvuk</em> ve
-třídě <em>Živočich</em> podle toho, jaké zvuky vydává pes nebo člověk? Odpověď
-zní, že díky polymorfismu můžeme udělat obojí. Nejdřív musíme označit
-metodu <em>vydej zvuk</em> ve třídě <em>Živočich</em> jako tzv. virtuální. Co to
-znamená? Znamená to, že tato metoda bude naprogramována různě pro různé
-třídy, i když bude mít stejné jméno. Co metoda ve skutečnosti udělá, se
-rozhodne až za běhu programu podle toho, nad kterým objektem bude
-volána. Nyní, když je metoda označena jako virtuální, můžeme napsat
-jeden kód pro třídu <em>Pes</em> (např. vypsání řetězce „haf“) a jeden pro
-třídu <em>Člověk</em> (např. vypsání „ahoj, já jsem ...“). Polymorfismus má
-opravdu velmi široké uplatnění.</p>
-<p>Představme si např. jinou situaci, kdy máme pole odkazů (ukazatelů) na
-objekty tříd, které jsou potomkem abstraktní třídy <em>Tvar</em> představující
-obecný geometrický útvar. Tyto objekty tedy můžou být instance třídy
-<em>Kružnice</em>, <em>Čtverec</em>, <em>Úsečka</em> apod. Nyní chceme vykreslit objekty v
-poli na obrazovku. Nezkušený programátor by nejspíš procházel pole po
-každém prvku a podmínkami zjišťoval, jaké je každý objekt třídy, podle
-čehož by objekty různým způsobem kreslil (neboť kružnice se bez pochyby
-kreslí jinak než čtverec). Mnohem výhodnější je ale deklarovat virtuální
-metodu <em>Vykresli se</em> třídě <em>Tvar</em> a u jejích potomků (<em>Kružnice</em>,
-<em>Čtverec</em>, <em>Úsečka</em>, ...) ji poté jen implementovat podle daného
-konkrétního tvaru. Potom stačí projít pole a nad každým objektem zavolat
-metodu <em>Vykresli se</em>. Program za běhu zjistí, kterou implementaci má u
-každého objektu použít a vykreslí správné tvary.</p>
-<h2>Příklad na závěr</h2>
-<p>Pochopit OOP jen z teoretického výkladu je skoro nemožné, proto si
-zkusíme uvést jeden konkrétní příklad, na němž ukážeme zapouzdření,
-dědičnost i polymorfismus. Využijeme v něm naše třídy <em>Živočich</em>, <em>Pes</em>
-a <em>Člověk</em>, které trochu upravíme. Zkuste si tedy projít následující kód
-a všimněte si, jak se deklarují třídy (velmi podobně jako datový typ
-záznam), jak se implementují jejich metody, jak se vytváří objekty
-(nejdřív vytvoříme ukazatele, do nichž uložíme adresy dynamicky
-vytvořených objektů) a jak se s nimi pracuje (volání metod). Jako bonus
-si můžete stáhnout zdrojový kód programu v C++ a rovnou si jej spustit,
-abyste viděli, že si nevymýšlím.</p>
-<p>Po spuštění nám dá program následující výstup:</p>
-<p>A na závěr ještě obrázek, jak náš program vlastně vypadá - obdelníky
-představují třídy a kolečka objekty. Rovné čáry naznačují dědičnost,
-zaoblené čáry ukazují, od kterých tříd jsou objekty odvozeny a
-přerušované čáry vyjadřují vztah "vlastnictví psa".</p>
-<p><img alt="obrázek programu" class="center aligncenter" src="http://i.imgur.com/t3NWNUt.png" /></p>
-<p>Příklad je snad víceméně jasný. Naučit se OOP důkladně samozřejmě není
-triviální věc a vyžaduje určitý čas. Jako vždy platí, nejlépe se
-programovat naučíte programováním. Proto si zkuste vybrat vhodný
-programovací jazyk, prohlédněte si svět kolem sebe plný objektů a zkuste
-jej nějakým způsobem ztvárnit. Uvidíte, že si OOP oblíbíte.</p>
-        
+        <div class="post-info">
+          Út 11 prosinec 2012<br>
+          tastyfish<br>
+          translations: <a href=
+          "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;ie=UTF-8&amp;u=https%3A//drummyfish.github.io/en/zaklady-objektove-orientovaneho-programovani-cs.html">
+          en (google)</a>
+        </div>
+        <p>S objekty se dnes v informatice setkáváme nejen při programování, ale zcela běžně také při návrhu aplikací,
+        jejich testování, budování databází a u nespočtu dalších klíčových činností. Zjednodušeně řečeno, objekty jsou
+        všude kolem nás.</p>
+        <p>Proč tomu tak je? Protože koncept objektů velmi dobře koresponduje s povahou našeho světa, který se většinou
+        snažíme s jistou abstrakcí svými programy zachytit. Řekněme, že programujeme hru s různými postavami a
+        zbraněmi. Automaticky tyto postavy a zbraně vidíme jako objekty, které spolu nějak interagují – postavy
+        komunikují, sbírají a používají zbraně atd. Jiným příkladem může být třeba matematická aplikace, kde budou
+        našimi objekty rovnice, výrazy a matematické funkce. Pokud program takto rozdělíme na vzájemně komunikující
+        objekty, jež programujeme nezávisle na sobě, jsme schopni si v programu udržet lepší logickou strukturu, než
+        když používáme pouze podprogramy.</p>
+        <p>Chci se zde pokusit vysvětlit princip objektově orientovaného programování (dále raději jen OOP), nikoliv
+        prezentovat konkrétní objektově orientovaný jazyk, místo kterého pro obecnost a jednoduchost použiju pseudokód,
+        i když ke konci mám ke stažení i zdrojový kód v C++. Článek píšu pro čtenáře, kteří mají s programováním
+        základní zkušenosti (zhruba do té míry, že vědí, co je to ukazatel) a chtějí se posunout o kousek dál k něčemu,
+        co je dnes ve světě informatiky jedním z nejrozšířenějších přístupů k řešení problémů.</p>
+        <p><img alt="OOP a okolní svět" class="center" src="http://i.imgur.com/trnFGUQ.png"></p>
+        <h2>Jak tedy OOP funguje?</h2>
+        <p>Jak jste jistě vytušili, objektové programování je paradigma - určitá filozofie, podobně jako např.
+        programování imperativní nebo funkcionální, napomáhající hlavně lepší logické struktuře programu, jeho
+        přehlednosti a tedy logicky značné eliminaci chyb ve větších projektech. Objektové programy se zpravidla dobře
+        navrhují, udržují a rozšiřují, jak zjistíme dále. Je ale nutné dodat, že OOP není lék na všechno a není
+        automaticky nejlepším řešením pro každý projekt. Vždy je nutné se zamyslet - třeba při psaní malých programů
+        může být tento přístup zbytečně složitý. Nicméně s dobrou znalostí problematiky se většinou jedná o skutečně
+        mocný nástroj a my se zde pochopitelně zaměříme na jeho přednosti, jichž je opravdu velké množství.</p>
+        <p>Pojďme si tedy konečně říct, jak se v praxi liší psaní "normálního" a objektového programu. Když píšeme
+        program klasickým přístupem hledání algoritmu v podobě příkazů a rozkladem problému na podproblémy, např. v
+        jazyce C nebo v Pascalu, zaměřujeme se hlavně na příkazy - snažíme se nalézt posloupnost instrukcí, které
+        vyřeší daný problém. Při tom si samozřejmě můžeme pomáhat podprogramy, moduly a dalšími pomůckami. V centru
+        našeho soustředění však neustále zůstává sekvence příkazů řešící problém.</p>
+        <p>Při objektovém přístupu se snažíme nalézt objekty, jakési samostatné jednotky, které problém vyřeší samy
+        vzájemnou spoluprací. Jakmile objekty identifikujeme, definujeme je v daném programovacím jazyce,
+        naprogramujeme jejich chování a necháme je problém vyřešit. Programování objektů v praxi provádíme samozřejmě
+        opět pomocí příkazů, ty však hrajou jen jakousi vedlejší roli, představují pomůcku pro popis chování objektů.
+        Při pohledu na problém jako celek se nyní soustředíme především na objekty a jejich komunikaci.</p>
+        <h2>Objekty a třídy</h2>
+        <p>Základní koncept známe, ale abychom byli schopni začít objektově programovat, musíme se ponořit hlouběji,
+        vysvětlit si pár pojmů a pochopit systém, kterým se OOP realizuje. Velmi základními pojmy jsou pro nás nyní
+        objekt a třída.</p>
+        <p>Objekt, jak už bylo řečeno, je určitá samostatná jednotka, popř. jakási černá skříňka řešící určitou úlohu.
+        Každý objekt má dva typy komponent:</p>
+        <p><img alt="objekt" class="right aligncenter" src="http://i.imgur.com/6OeKFQJ.png"></p>
+        <ol>
+          <li>Data, nazývané atributy nebo vlastnosti. Jde v podstatě o vnitřní proměnné objektu určující jeho stav. U
+          objektu typu člověk by to mohly být např. proměnné jako <em>jméno</em>, <em>věk</em> nebo <em>váha</em>.</li>
+          <li>Metody sloužící jako rozhraní pro práci s objektem. Metody popisují činnost a chování objektu a jsou to v
+          podstatě funkce (podprogramy) patřící objektu. Tyto funkce je možné volat a donutit tak objekt k činnosti.
+          Člověk může mít např. metodu <em>pozři jídlo</em>, která jako parametr přebírá jídlo k pozření a na základě
+          této informace se patřičně zvýší hodnota atributu <em>váha</em> tohoto člověka.</li>
+        </ol>
+        <p>Objekt by měl být vytvořen podle určitých zásad, aby zachovával výhody OOP. Jednak by měl mít na starost
+        pouze jeden úkol, podobně jako podprogram řeší jen jeden podproblém celkového problému. Dále by neměl
+        poskytovat přímý přístup ke svým atributům, i když to programovací jazyky téměř vždy umožňují. Důvod, proč
+        atributy skrývat, je ten, že zkrátka jde programovat bez přístupu k nim a hlavně se tak napomáhá jednoduchosti
+        rozhraní objektu. Atributy by měly sloužit jen jako vnitřní paměť objektu a veškerá manipulace s ním by měla
+        být umožněna jen skrze metody, které tvoří jakousi slupku zakrývající data (viz obrázek). U objektu člověka by
+        tedy nemělo být možné přímo přistupovat např. k jeho atributu <em>váha</em> a pokud by jej bylo potřeba změnit,
+        měla by být k dispozici metoda <em>Změň váhu</em>.</p>
+        <p>Dobrou otázkou může být, jak objekty identifikovat. Je zřejmé, že vždy existuje mnoho možností, jak svět na
+        objekty rozdělit, a je to ve skutečnosti jedna z nejdůležitějších otázek, které se při velkých projektech řeší.
+        Odpověď tedy není vždy jednoduchá a záleží na programátorovi, aplikaci a míře abstrakce, kterou zvolíme. Platí
+        zde víc než kde jinde dvakrát navrhuj, jednou programuj – je potřeba používat mozek a nepouštět se bez rozmyslu
+        do bušení kódu.</p>
+        <p>Nyní se podívejme na další důležitý pojem, jímž je třída. Ta je jednoduše řečeno šablonou pro objekt. Na
+        základě toho, co známe, si třídu můžeme představit jako datový typ, přičemž objekty budou svým způsobem
+        proměnné tohoto datového typu. Třídy vždy definujeme jako první podobně jako to děláme se složenými datovými
+        typy (např. záznamy). Popíšeme v nich jména a datové typy atributů a také hlavičky (jméno, atributy a
+        návratovou hodnotu) metod. Od takto definované třídy můžeme potom v programu začít vytvářet objekty, tzn.
+        konkrétní výskyty neboli instance. Pokud bychom uvažovali výše zmíněný příklad, pak bychom definovali třídu
+        <em>Člověk</em> a byli tak schopni vytvářet libovolné množství objektů této třídy, každý s rozdílnými hodnotami
+        svých atributů <em>jméno</em>, <em>věk</em> a <em>váha</em>.</p>
+        <p><img alt="třídy a objekty" class="right aligncenter" src="http://i.imgur.com/ThpLXzH.png"></p>
+        <p>Je nutné říct, že existují jazyky, které třídy nepoužívají a pracují pouze s objekty, jež vytvářejí ne na
+        základě tříd, ale díky tzn. klonování. Při programování běžných aplikací se však častěji setkáme s jazyky
+        třídními a proto zde budeme třídy i nadále uvažovat.</p>
+        <p>Zkusme si nyní cvičně, jak by mohla vypadat deklarace třídy <em>Člověk</em> a vytváření objektů této třídy.
+        Všimněte si speciální metody <em>konstruktor</em>, kterou má vždy automaticky každá třída a která se
+        automaticky volá při vytváření objektu této třídy. Konstruktory se jmenují v různých jazycích různě, často bývá
+        jeho název identický s názvem třídy. Do konstruktoru můžeme napsat kód, kterým chceme objekt inicializovat.
+        Všimněte si taky, že může mít parametry. Podobně jako konstruktor existuje i destruktor, který se volá při
+        rušení objektu, ale ten zde nebudeme zatím pro jednoduchost uvádět (destruktory se používají např. u
+        složitějších datových struktur, kdy je potřeba při rušení objektu uvolňovat paměť či jiné zdroje). Při
+        deklaraci atributů nebudeme uvádět datové typy a předpokládáme, že do ní lze přiřadit "cokoliv" (jak tomu
+        většinou bývá ve skriptovacích jazycích).</p>
+        <p>Je důležité si všimnout, jak pracujeme s objekty. Nejdřív deklarujeme proměnnou, která bude odkazem na
+        objekt, nikoliv objektem samotným. Do této proměnné poté přiřadíme adresu objektu při jeho vytváření – k tomu
+        dojde použitím klíčového slova (zde nový), které vytvoří nový objekt, nad ním zavolá konstruktor a uloží jej do
+        nově alokované paměti. S objekty poté pracujeme právě pomocí proměnné s uloženým odkazem.</p>
+        <h2>Zapouzdření, dědičnost a polymorfismus</h2>
+        <p>Nyní se pomalu dostáváme k pravé síle objektového programování, jíž jsou možnosti zapouzdření objektů
+        (encapsulation), dědičnosti tříd (inheritance) a polymorfismu (polymorphism). Uznávám, že se nám množina pojmů
+        začíná nepříjemně rozrůstat, ale slibuji, že těmito třemi již pomalu budeme končit. Jedná se skutečně o
+        podstatu OOP, bez níž nemá cenu se jím zabývat z jiného úhlu, proto si všechny tři pojmy vysvětlíme hezky
+        popořadě.</p>
+        <p>Se zapouzdřením jsme se již setkali. Nejde o nic složitého, byť je význam tohoto principu větší, než se
+        začátečníkům mnohdy zdá. Zapouzdřený objekt je takový, který se chová jako černá skříňka a neumožňuje přístup
+        ke svým vnitřnostem, jimiž se myslí jeho soukromé atributy (popř. i soukromé metody, které může objekt rovněž
+        mít). Jak jsem již psal, objekt by pro svou manipulaci měl programátorovi poskytovat pouze rozhraní ve formě
+        metod, které by mělo být co nejjednodušší a oproštěné od vnitřního fungování objektu. Zapouzdření velmi
+        napomáhá abstrakci, přehlednosti, umožňuje rozdělovat práci na projektu mezi více programátorů a považuje se za
+        jeden ze základních návyků v OOP.</p>
+        <p>Trochu méně triviálním pojmem je dědičnost, která umožňuje vytvářet nové třídy na základě již existujících.
+        Nejlépe asi bude demonstrovat dědičnost na příkladu. Výše jsme se bavili o třídě <em>Člověk</em>, od které jsme
+        schopni vytvářet objekty představující konkrétní lidi. Nyní si představme, že chceme do svého programu zahrnout
+        navíc třeba ještě psy. Klidně bychom mohli vytvořit novou třídu <em>Pes</em> tak, že bychom zkopírovali kód pro
+        třídu <em>Člověk</em>, umazali bychom vlastnosti a metody, které u psa nechceme mít, a zároveň bychom nové věci
+        přidali, např. metodu <em>sedni</em>. Jak ale víme, kopírování zdrojového kódu je známka redundance a především
+        špatného programátora. Psi mají s lidmi spoustu společného, ale mají zároveň své specifické vlastnosti a
+        chování, proto by bylo dobré vytvořit třídu <em>Pes</em>, která by měla něco společného s třídou
+        <em>Člověk</em> a něco si k ní mohla přidat. Takové situace nastávají často a OOP pro ně má řešení, jímž je
+        právě možnost dědičnosti tříd. Ta nám umožňuje, pokud máme vytvořenou nějakou třídu A, vytvořit třídu B, která
+        zdědí všechny vlastnosti (atributy) a metody třídy A tak, že je již nemusíme explicitně deklarovat a zároveň
+        můžeme deklarovat nové atributy a metody pouze pro třídu B. Dědičnost vnáší do tříd hierarchii a můžeme se
+        proto bavit o třídách, které jsou rodiči a potomky jiných tříd (rodičovské třídy jsou obecnější, potomci
+        představují konkrétnější objekty světa).</p>
+        <p>Zkusme si tedy představit, že vytvoříme třídu se jménem <em>Živočich</em>, která bude mít vlastnost
+        <em>jméno</em> a metodu <em>vydej zvuk</em>. Tato třída představuje obecného živočicha, např. člověka nebo psa,
+        přičemž předpokládáme, že každý živočich má jméno a umí vydávat zvuk. Nyní můžeme vytvořit třídy <em>Pes</em> a
+        <em>Člověk</em> a u každé uvedeme jako rodiče třídu <em>Živočich</em>, čímž jsme uvedli dědičnost v praxi.
+        Třídy <em>Pes</em> a <em>Člověk</em> mají automaticky vlastnost <em>jméno</em> a metodu <em>vydej zvuk</em> a
+        pokud v některé z nich vytvoříme nový atribut či novou metodu, např. metodu <em>sedni</em> u psa nebo atribut
+        <em>příjmení</em> u člověka, bude ji mít už pouze tato třída sama. Ještě dodejme, že třída <em>Živočich</em> je
+        typem třídy, která se označuje jako abstraktní – je to třída, která slouží pouze k dědění a nelze na jejím
+        základě vytvářet žádné objekty. Pochopitelně ne vždy musí být rodičovská třída abstraktní, označují se tak
+        zkrátka třídy, od nichž nemá smysl vytvářet instance.</p>
+        <p>Nejsložitějším z pojmů je nejspíš polymorfismus neboli tzv. mnohotvarost. Umožňuje nám řešit další problém,
+        který se v souvislosti s dědičností může vyskytnout a zároveň při správném využití poskytuje ohromné
+        programátorské možnosti. Jak je zřejmé, třídy <em>Člověk</em> a <em>Pes</em> mají obě metodu <em>vydej
+        zvuk</em>, což je naprosto v pořádku, neboť pes i člověk jistě dokáží nějaké zvuky vyluzovat. Problém je, že
+        pes vydává jiné zvuky než člověk. Máme tedy implementovat metodu <em>vydej zvuk</em> ve třídě <em>Živočich</em>
+        podle toho, jaké zvuky vydává pes nebo člověk? Odpověď zní, že díky polymorfismu můžeme udělat obojí. Nejdřív
+        musíme označit metodu <em>vydej zvuk</em> ve třídě <em>Živočich</em> jako tzv. virtuální. Co to znamená?
+        Znamená to, že tato metoda bude naprogramována různě pro různé třídy, i když bude mít stejné jméno. Co metoda
+        ve skutečnosti udělá, se rozhodne až za běhu programu podle toho, nad kterým objektem bude volána. Nyní, když
+        je metoda označena jako virtuální, můžeme napsat jeden kód pro třídu <em>Pes</em> (např. vypsání řetězce „haf“)
+        a jeden pro třídu <em>Člověk</em> (např. vypsání „ahoj, já jsem ...“). Polymorfismus má opravdu velmi široké
+        uplatnění.</p>
+        <p>Představme si např. jinou situaci, kdy máme pole odkazů (ukazatelů) na objekty tříd, které jsou potomkem
+        abstraktní třídy <em>Tvar</em> představující obecný geometrický útvar. Tyto objekty tedy můžou být instance
+        třídy <em>Kružnice</em>, <em>Čtverec</em>, <em>Úsečka</em> apod. Nyní chceme vykreslit objekty v poli na
+        obrazovku. Nezkušený programátor by nejspíš procházel pole po každém prvku a podmínkami zjišťoval, jaké je
+        každý objekt třídy, podle čehož by objekty různým způsobem kreslil (neboť kružnice se bez pochyby kreslí jinak
+        než čtverec). Mnohem výhodnější je ale deklarovat virtuální metodu <em>Vykresli se</em> třídě <em>Tvar</em> a u
+        jejích potomků (<em>Kružnice</em>, <em>Čtverec</em>, <em>Úsečka</em>, ...) ji poté jen implementovat podle
+        daného konkrétního tvaru. Potom stačí projít pole a nad každým objektem zavolat metodu <em>Vykresli se</em>.
+        Program za běhu zjistí, kterou implementaci má u každého objektu použít a vykreslí správné tvary.</p>
+        <h2>Příklad na závěr</h2>
+        <p>Pochopit OOP jen z teoretického výkladu je skoro nemožné, proto si zkusíme uvést jeden konkrétní příklad, na
+        němž ukážeme zapouzdření, dědičnost i polymorfismus. Využijeme v něm naše třídy <em>Živočich</em>, <em>Pes</em>
+        a <em>Člověk</em>, které trochu upravíme. Zkuste si tedy projít následující kód a všimněte si, jak se deklarují
+        třídy (velmi podobně jako datový typ záznam), jak se implementují jejich metody, jak se vytváří objekty
+        (nejdřív vytvoříme ukazatele, do nichž uložíme adresy dynamicky vytvořených objektů) a jak se s nimi pracuje
+        (volání metod). Jako bonus si můžete stáhnout zdrojový kód programu v C++ a rovnou si jej spustit, abyste
+        viděli, že si nevymýšlím.</p>
+        <p>Po spuštění nám dá program následující výstup:</p>
+        <p>A na závěr ještě obrázek, jak náš program vlastně vypadá - obdelníky představují třídy a kolečka objekty.
+        Rovné čáry naznačují dědičnost, zaoblené čáry ukazují, od kterých tříd jsou objekty odvozeny a přerušované čáry
+        vyjadřují vztah "vlastnictví psa".</p>
+        <p><img alt="obrázek programu" class="center aligncenter" src="http://i.imgur.com/t3NWNUt.png"></p>
+        <p>Příklad je snad víceméně jasný. Naučit se OOP důkladně samozřejmě není triviální věc a vyžaduje určitý čas.
+        Jako vždy platí, nejlépe se programovat naučíte programováním. Proto si zkuste vybrat vhodný programovací
+        jazyk, prohlédněte si svět kolem sebe plný objektů a zkuste jej nějakým způsobem ztvárnit. Uvidíte, že si OOP
+        oblíbíte.</p>
       </div><!-- /.entry-content -->
-
     </article>
   </section>
-        
-  <section id="extras" class="body">
-  </section>
+  <section id="extras" class="body"></section>
   <footer id="contentinfo" class="body">
     <address id="about" class="vcard body">
-      Powered by <a href="http://getpelican.com/">Pelican</a>, <a href="http://python.org">Python</a>, <a href="http://jinja.pocoo.org/">Jinja</a>, <a href="https://github.com/">GitHub</a>. <br />
-      Original theme by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, modified by Tastyfish. <br />
-      Emoji provided by <a href="http://emojione.com/">EmojiOne</a>. <br />
-      This website is open source, the source code is available <a href="https://github.com/drummyfish/drummyfish.github.io-src">here</a>. <br />
-      <span class="publish-info">publish version, built on: 23.02.2017, 14:10:50.</span>
+      Powered by <a href="http://getpelican.com/">Pelican</a>, <a href="http://python.org">Python</a>, <a href=
+      "http://jinja.pocoo.org/">Jinja</a>, <a href="https://github.com/">GitHub</a>.<br>
+      Original theme by <a href=
+      "http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>,
+      modified by Tastyfish.<br>
+      Emoji provided by <a href="http://emojione.com/">EmojiOne</a>.<br>
+      This website is open source, the source code is available <a href=
+      "https://github.com/drummyfish/drummyfish.github.io-src">here</a>.<br>
+      <span class="publish-info">publish version, built on: 23.02.2017, 15:23:18.</span>
     </address>
   </footer>
-    
 </body>
 </html>
