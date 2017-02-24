@@ -319,15 +319,24 @@ div.note
     background: linear-gradient(to bottom, #f4f2ef 0%,#fffef9 100%);   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f2ef', endColorstr='#fffef9',GradientType=0 ); /* IE6-9 */  }
 
-.project img
+.project div
   {
     width: 300px;
-    height: 210px;
-    float: right;
-    text-indent: -100000px;
-    padding: 0;
-    margin: 10px;
+    height: 200px;
+    overflow: hidden;
     border-radius: 10px;
+    float: right;
+    margin: 10px;
+  }
+    
+.project img
+  {
+    width: 100%;
+    height: auto;
+    text-indent: -100000px;
+    border-radius: 10px;
+    margin: 0;
+    padding: 0;
   }
   
 .project-stars, .project-size
@@ -918,6 +927,12 @@ li:last-child .hentry, #content > .hentry
   }
   
 /****** OTHER ******/
+
+#content ul.latest-articles
+  {
+    list-style: none;
+    margin-left: 10px;
+  }
 
 #content ul.tag-list
   {
