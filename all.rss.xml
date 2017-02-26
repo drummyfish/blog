@@ -2477,7 +2477,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 &lt;ul&gt;
   &lt;li&gt;
- credits (work hours) 185 (5180)
+ credits (work hours): 185 (5180)
   &lt;/li&gt;
 
   &lt;li&gt;
@@ -2530,7 +2530,7 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
 
 &lt;ul&gt;
   &lt;li&gt;
- credits (work hours) 122 (3416)
+ credits (work hours): 122 (3416)
   &lt;/li&gt;
 
   &lt;li&gt;
@@ -2575,6 +2575,83 @@ prospěchové stipendium: 0 Kč&lt;/p&gt;</content><category term="study"></cate
         &lt;li&gt; D: 2 &lt;/li&gt;
         &lt;li&gt; E: 3 &lt;/li&gt;
         &lt;li&gt; F: 2 &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;  Total study stats  &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+ credits (work hours):   
+    307
+ (8596)
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ points:       
+    4306
+ / 5300
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ exams:       
+    43
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ midterms:       
+    41
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ projects:       
+    74
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ courses:       
+    61
+
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ mean:       
+  1.860
+
+  &lt;/li&gt;
+
+
+  &lt;li&gt;
+ merit scholarship money:       
+    17587
+ Kč
+  &lt;/li&gt;
+
+  &lt;li&gt;
+ mark histogram:   
+    &lt;ul&gt;
+        &lt;li&gt; A:   
+    12
+ &lt;/li&gt;
+        &lt;li&gt; B:   
+    16
+ &lt;/li&gt;
+        &lt;li&gt; C:   
+    14
+ &lt;/li&gt;
+        &lt;li&gt; D:   
+    7
+ &lt;/li&gt;
+        &lt;li&gt; E:   
+    6
+ &lt;/li&gt;
+        &lt;li&gt; F:   
+    2
+ &lt;/li&gt;
     &lt;/ul&gt;
     &lt;/li&gt;
 &lt;/ul&gt;</content><category term="study"></category><category term="frontpage"></category></entry><entry><title>Diskuse, názory. Má to vůbec cenu?</title><link href="https://drummyfish.github.io/diskuse-nazory-ma-to-vubec-cenu.html" rel="alternate"></link><published>2016-04-18T14:08:00+02:00</published><updated>2016-04-18T14:08:00+02:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2016-04-18:/diskuse-nazory-ma-to-vubec-cenu.html</id><summary type="html">&lt;p&gt;Poslední dobou jsem měl dost často motivační krizi. Proč bych měl

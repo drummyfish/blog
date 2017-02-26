@@ -230,6 +230,28 @@
 
     quotes_en =
     [
+        quote_string("Blind belief in authority is the greatest enemy of truth.","A. Einstein"),        
+        quote_string("A man can do what he wants, but not will what he wants.","A. Einstein"),        
+        quote_string("Don't grow up, it's a trap.","unknown (graffiti)"),        
+        quote_string("I am so clever that sometimes I don't understand a single word of what I am saying.","Oscar Wilde"),        
+        quote_string("He jests at scars that never felt a wound.","William Shakespeare"),        
+        quote_string("God doesn't play dice.","A. Einstein"),        
+        quote_string("We don't stop playing because we grow old; we grow old because we stop playing.","George Bernard Shaw"),        
+        quote_string("Some people are so poor, all they have is money.","Patrick Meagher"),        
+        quote_string("I'm not popular enough to be different.","Homer Simpson"),        
+        quote_string("Wise men speak because they have something to say; fools because they have to say something.","Plato"),        
+        quote_string("If you tell the truth, you don't have to remember anything.","Mark Twain"),        
+        quote_string("Friendship ain't worth shit.","Sam (Mafia)"),        
+        quote_string("Idiots are geniuses at being idiots.","The Amazing Atheist"),        
+        quote_string("Who Are You and Why Should I Care?","Bender Bending Rodríguez"),        
+        quote_string("I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment.","Woody Allen..."),        
+        quote_string("You can easily judge the character of a man by how he treats those who can do nothing for him.","James D. Miles"),        
+        quote_string("Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.","William Gibson"),        
+        quote_string("I am sick, Dog, but it's a good sick, because we won.","Catdog"),        
+        quote_string("Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it.","Linus Torvalds"),        
+        quote_string("I don't trust linear regressions when it's harder to guess the direction of the correlation from the scatter plot than to find new constellations on it.","xkcd"),        
+        quote_string("In theory, theory and practice are the same. In practice, they are not.","unknown"),        
+        quote_string("There is no I in collaboraton.","KenM")        
     ];
 
     function write_random_item(title, choices, force_index)     // force index can be used to preview a certain text
@@ -238,6 +260,7 @@
       document.write ("<div class=\"random-text\"> <span> " + title + ": <\/span> <p> " + choices[index] + " <\/p> <\/div>");
     }
     </script>
+    <h1 class="entry-title">Intro</h1>
     <p>Welcome to my website <span class="emoji emoji-smile">:)</span> Its purpose is to store different things I'm
     interested in and want to share. Here are some quick links to key pages:</p>
     <ul>
@@ -246,9 +269,34 @@
       </li>
     </ul>
     <script>
-      write_random_item("Random fact", facts_en);
-      write_random_item("Random quote", quotes_en);
+    write_random_item("Random fact", facts_en);
+    write_random_item("Random quote", quotes_en);
     </script>
+    <hr>
+    <h1>Recently Added</h1>
+    <ul class="latest-articles">
+      <li>
+        <a href="ing5-cs.html">Ing. na FIT – 5. semestr</a>
+      </li>
+      <li>
+        <a href="harry-potter-a-proklete-dite-recenze-cs.html">Harry Potter a prokleté dítě – recenze</a>
+      </li>
+      <li>
+        <a href="grupy-pasovych-symetrii-cs.html">Grupy pásových symetrií</a>
+      </li>
+      <li>
+        <a href="ing4-cs.html">Ing. na FIT – 4. semestr</a>
+      </li>
+    </ul>
+    <div class="donate">
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <p>Do you like my work? You can support me.</p><input type="hidden" name="cmd" value="_s-xclick"> <input type=
+        "hidden" name="hosted_button_id" value="P5BRV7F29WYTQ"> <input type="image" src=
+        "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt=
+        "PayPal - The safer, easier way to pay online!"> <img alt="" border="0" src=
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+      </form>
+    </div>
     <div class="social">
       <ul>
         <li>
@@ -283,7 +331,7 @@
       Emoji provided by <a href="http://emojione.com/">EmojiOne</a>.<br>
       This website is open source, the source code is available <a href=
       "https://github.com/drummyfish/drummyfish.github.io-src">here</a>.<br>
-      <span class="publish-info">publish version, built on: 26.02.2017, 13:39:17.</span>
+      <span class="publish-info">publish version, built on: 26.02.2017, 14:02:42.</span>
     </address>
   </footer>
 </body>
