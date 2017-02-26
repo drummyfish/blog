@@ -16,14 +16,15 @@
 &lt;/ol&gt;
 &lt;p&gt;Teď, o pár týdnů později, mám nové stránky připravené ke spuštění. Důsledky jsou následující:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Stránky jsou teď open-source! Z toho plyne milion výhod, o kterých bych rád napsal a snad i napíšu.&lt;/li&gt;
-&lt;li&gt;Stránky už nejedou na Wordpressu, ale na méně populárním Pythonovém mikroframeworku Pelican, jehož podvýhody jsou:&lt;ul&gt;
+&lt;li&gt;Stránky jsou teď &lt;a href="https://github.com/drummyfish/drummyfish.github.io-src"&gt;open-source&lt;/a&gt;! Z toho plyne milion výhod, o kterých bych rád napsal a snad i napíšu.&lt;/li&gt;
+&lt;li&gt;Stránky už nejedou na Wordpressu, ale na méně populárním Pythonovém mikroframeworku &lt;a href="http://docs.getpelican.com/en/stable/"&gt;Pelican&lt;/a&gt;, jehož podvýhody jsou:&lt;ul&gt;
 &lt;li&gt;Je lightweight a KISS, jednoduchý, snadno modifikovatelný, transparentní.&lt;/li&gt;
 &lt;li&gt;Python!&lt;/li&gt;
 &lt;li&gt;Stránky jsou statické! Žádné PHP/SQL, jenom HTML/MD. Načítají se jak blesk a dají se hostovat úplně všude. Paráda.  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Hosting mám úplně zdarma na GitHubu, spolu se všemi svými ostatními projekty, tzn. všechno pěkně na jednom místě, updaty dělám z terminálu, mám uloženou historii atd.&lt;/li&gt;
+&lt;li&gt;Žádné komentáře, komentáře jsou na prd.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Užívejte brouzdání &lt;span class="emoji emoji-smile"&gt;:)&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Ing. na FIT – 5. semestr</title><link href="https://drummyfish.github.io/ing5.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2017-01-30:/ing5.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
 předměty jsou, to ano, ale rozhodl jsem se, možná trochu zbaběle leč
