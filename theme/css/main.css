@@ -24,9 +24,9 @@ nav::before
 
 body
   {
-    background-image: url('../images/page_background2.png');
+    background-image: url('../images/page_background3.png');
     background-repeat: repeat-x;
-    background-color: #f3fb77;
+    background-color: #fffd90;
     color: #000305;
     font-size: 17px; /* 87.5%; */ /* Base font size: 14px */
     font-family: 'Source Sans Pro', sans-serif;
@@ -494,7 +494,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #banner nav a:link, #banner nav a:visited
   {
-    color: #fff;
+    color: #1f2d33;
     display: inline-block;
     height: 30px;
     padding: 5px 20px;
