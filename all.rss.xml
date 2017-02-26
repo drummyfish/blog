@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>tastyfish</title><link href="https://drummyfish.github.io/" rel="alternate"></link><link href="https://drummyfish.github.io/all.rss.xml" rel="self"></link><id>https://drummyfish.github.io/</id><updated>2017-01-30T00:44:00+01:00</updated><entry><title>Ing. na FIT – 5. semestr</title><link href="https://drummyfish.github.io/ing5.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2017-01-30:/ing5.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
+<feed xmlns="http://www.w3.org/2005/Atom"><title>tastyfish</title><link href="https://drummyfish.github.io/" rel="alternate"></link><link href="https://drummyfish.github.io/all.rss.xml" rel="self"></link><id>https://drummyfish.github.io/</id><updated>2017-02-26T20:12:00+01:00</updated><entry><title>Nové stránky, jsou open-source!</title><link href="https://drummyfish.github.io/nove-stranky-jsou-open-source.html" rel="alternate"></link><published>2017-02-26T20:12:00+01:00</published><updated>2017-02-26T20:12:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2017-02-26:/nove-stranky-jsou-open-source.html</id><summary type="html">&lt;p&gt;Nastal u mne lavinový efekt:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Updatoval jsem tabulku na stránkách.&lt;/li&gt;
+&lt;li&gt;Všiml jsem si, že teď je už moc velká a mohl bych napsat skript, který by ji generoval.&lt;/li&gt;
+&lt;li&gt;Když už …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Nastal u mne lavinový efekt:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Updatoval jsem tabulku na stránkách.&lt;/li&gt;
+&lt;li&gt;Všiml jsem si, že teď je už moc velká a mohl bych napsat skript, který by ji generoval.&lt;/li&gt;
+&lt;li&gt;Když už to napíšu, mohl bych to zveřejnit na GitHubu, aby to mohli použít i ostatní.&lt;/li&gt;
+&lt;li&gt;Proč vlastně nemám celé stránky na GitHubu? Jde to vůbec?&lt;/li&gt;
+&lt;li&gt;Zjišťuju, že GitHub má přímou podporu pro hostování stránek, ale jenom statických.&lt;/li&gt;
+&lt;li&gt;Na co vlastně potřebuju dynamické stránky? Odpověď zní: nepotřebuju.&lt;/li&gt;
+&lt;li&gt;Není přechod na statické stránky krok zpět? Odpověď zní: ne.&lt;/li&gt;
+&lt;li&gt;Instaluju Pelican a jdu předělávat a migrovat celé stránky.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Teď, o pár týdnů později, mám nové stránky připravené ke spuštění. Důsledky jsou následující:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stránky jsou teď open-source! Z toho plyne milion výhod, o kterých bych rád napsal a snad i napíšu.&lt;/li&gt;
+&lt;li&gt;Stránky už nejedou na Wordpressu, ale na méně populárním Pythonovém mikroframeworku Pelican, jehož podvýhody jsou:&lt;ul&gt;
+&lt;li&gt;Je lightweight a KISS, jednoduchý, snadno modifikovatelný, transparentní.&lt;/li&gt;
+&lt;li&gt;Python!&lt;/li&gt;
+&lt;li&gt;Stránky jsou statické! Žádné PHP/SQL, jenom HTML/MD. Načítají se jak blesk a dají se hostovat úplně všude. Paráda.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hosting mám úplně zdarma na GitHubu, spolu se všemi svými ostatními projekty, tzn. všechno pěkně na jednom místě, updaty dělám z terminálu, mám uloženou historii atd.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Užívejte brouzdání &lt;span class="emoji emoji-smile"&gt;:)&lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Ing. na FIT – 5. semestr</title><link href="https://drummyfish.github.io/ing5.html" rel="alternate"></link><published>2017-01-30T00:44:00+01:00</published><updated>2017-01-30T00:44:00+01:00</updated><author><name>tastyfish</name></author><id>tag:drummyfish.github.io,2017-01-30:/ing5.html</id><summary type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
 předměty jsou, to ano, ale rozhodl jsem se, možná trochu zbaběle leč
 racionálně, že kvůli svým (nyní už …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tak a mám za sebou všechny předměty na FITu. Na doktorském další
 předměty jsou, to ano, ale rozhodl jsem se, možná trochu zbaběle leč
