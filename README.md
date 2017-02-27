@@ -1,7 +1,5 @@
 # tastyfish website
 
-WORK IN PROGRESS
-
 These are my personal websites hosted on GitHub, accesible [here](https://drummyfish.github.io/).
 
 The website itself resides in repository [here](https://github.com/drummyfish/drummyfish.github.io).
