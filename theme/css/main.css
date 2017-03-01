@@ -377,6 +377,13 @@ div.note
     writing-mode: vertical-lr;
   }
   
+.mark-A { background-color: #bdfb9e; }
+.mark-B { background-color: #ecf4a1; }
+.mark-C { background-color: #fced8f; }
+.mark-D { background-color: #f4ce90; }
+.mark-E { background-color: #ffb883; }
+.mark-F { background-color: red; }
+  
 /***** LANGUAGE ****/
 
 .selected-lang
