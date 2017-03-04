@@ -3,13 +3,77 @@
 <head>
   <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.2.0">
   <meta charset="utf-8">
+  <script>
+    function change_css(old_css, new_css)
+      {
+        var old_link = document.getElementsByTagName("link").item(0);
+        var new_href = old_link.getAttribute("href").replace(old_css,new_css);
+        var new_link = document.createElement("link");
+        new_link.setAttribute("rel", "stylesheet");
+        new_link.setAttribute("type", "text\/css");
+        new_link.setAttribute("href", new_href);
+        document.getElementsByTagName("head").item(0).replaceChild(new_link, old_link);
+      }
+
+    function get_cookie(name)
+      {
+        var value = "; " + document.cookie;
+        var parts = value.split("; " + name + "=");
+        if (parts.length == 2) return parts.pop().split(";").shift();
+      }
+
+    function reload_css()  // dynamically change the document css
+      {
+        if (get_cookie("unix") == "true")
+          {
+            old_css = "main.css";
+            new_css = "unix.css";
+          }  
+        else
+          {
+            old_css = "unix.css";
+            new_css = "main.css";
+          }
+
+        change_css(old_css,new_css);
+      }
+
+    function unix_click()      // on unix button click
+      {
+        if (get_cookie("unix") == "true")
+          value = "false";
+        else
+          value = "true";
+
+        expire_string = "Sun, 4 Mar 2040 18:54:31 +01:00";
+        document.cookie = "unix=" + value + ";expires=" + expire_string + ";path=\/";
+
+        reload_css();
+      }
+
+    function make_unix_button()
+      {
+        document.write("<div onclick=\"unix_click()\" id=\"unix-button\"><\/div>");
+      }
+  </script>
   <title>About me</title>
-  <link rel="stylesheet" href="https://drummyfish.github.io/en/../theme/css/main.css">
+  <script>
+    css_filename = "main.css";
+
+    if (get_cookie("unix") == "true")
+      css_filename = "unix.css";
+
+    document.write("<link rel=\"stylesheet\" href=\"https://drummyfish.github.io/en/../theme/css/" + css_filename + "\" />");
+  </script> <noscript>
+  <link rel="stylesheet" href="https://drummyfish.github.io/en/../theme/css/main.css"></noscript>
   <link href="https://drummyfish.github.io/all.rss.xml" type="application/atom+xml" rel="alternate" title=
   "tastyfish Atom Feed">
   <!--[if IE]> <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <![endif]-->
 </head>
 <body id="index" class="home">
+  <script>
+  make_unix_button(); 
+  </script>
   <div class="language-select">
     <a href="https://drummyfish.github.io/index.html">
     <div class="lang-icon lang-cs"></div></a> <a href="https://drummyfish.github.io/en/index.html">
@@ -112,7 +176,7 @@
       Emoji provided by <a href="http://emojione.com/">EmojiOne</a>.<br>
       This website is open source, the source code is available <a href=
       "https://github.com/drummyfish/drummyfish.github.io-src">here</a>.<br>
-      <span class="publish-info">publish version, built on: 04.03.2017, 15:07:10.</span>
+      <span class="publish-info">publish version, built on: 04.03.2017, 19:03:21.</span>
     </address>
   </footer>
 </body>

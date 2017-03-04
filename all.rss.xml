@@ -234,7 +234,7 @@ např. Rubikovy kostky.&lt;/p&gt;
 &lt;p&gt;Budeme se zaobírat tzv. pásovým dlážděním (line groups, frieze groups).
 U tohoto dláždění máme 2D vzor, který se ale opakuje jen v horizontálním
 směru, např. takto:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="real life" src="http://tastyfish.cz/wp-content/uploads/2016/08/real-life.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="real life" src="http://i.imgur.com/EhFuUXC.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Intuitivně vidíme, že tento vzor v sobě má něco symetrického. Naším
 úkolem je nyní toto intuitivní tušení vyjádřit matematicky. Abychom to
 však mohli udělat, musíme nejdřív, jako všechno v matematice, pojem
@@ -324,14 +324,14 @@ dokázáno, pro pásové vzory pouze 7. Jsou následující:&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;Takže např. symetrie č. 2 má dvě symetrie (vůči posunu a vůči posunu
 plus vertikálnímu překlopení, což se také nazývá gliding reflection):&lt;/p&gt;
-&lt;p&gt;&lt;img alt="animaion" src="http://tastyfish.cz/wp-content/uploads/2016/08/animaion.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="animaion" src="http://i.imgur.com/nzZWSWZ.gif" /&gt;&lt;/p&gt;
 &lt;p&gt;Zkuste si ověřit, že všechny zbývající vzorové příklady vykazují uvedené
 symetrie (a popřípadě napište, že jsem udělal chybu &lt;span class="emoji emoji-grin"&gt;:D&lt;/span&gt;).&lt;/p&gt;
 &lt;p&gt;Co mají ale s tímhle vším společného grupy? Vezmeme-li totiž naše
 základní transformace (P,V,H) jako množinu a skládání transformací (tj.
 +) jako operaci, dostaneme grupu pro každou ze sedmi uvedených symetrií.
 Můžeme si např. nakreslit graf prvků grupy symetrie č.1:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="g1" src="http://tastyfish.cz/wp-content/uploads/2016/08/g1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="g1" src="http://i.imgur.com/rykgekQ.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Vidíme, že platí všechno, co v grupě platit má - máme zde neutrální
 prvek (P), který když složíme (pomocí +) s jakýmkoliv prvkem, dostaneme
 vždy ten samý prvek. Každý prvek má svůj opačný prvek, tedy prvek, který
