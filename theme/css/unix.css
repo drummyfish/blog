@@ -28,6 +28,12 @@ img
     filter: sepia(1) hue-rotate(60deg) saturate(200%) contrast(4);
     max-width: 640px;
     text-indent: -100000px;
+    color: #3cff3c;
+  }
+
+.project img
+  {
+    width: 320px;
   }
 
 h1, h2, h3, h4, h5, h6
