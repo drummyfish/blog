@@ -1,0 +1,127 @@
+/*
+  Name: Unix
+  Author: Miloslav Číž
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+
+body, a
+  {
+    font-family: "Ubuntu Mono", monospace;
+    background-color: black;
+    font-size: 17px;
+    color: #3cff3c;
+  }
+
+img
+  {
+    filter: sepia(1) hue-rotate(60deg) saturate(200%) contrast(4);
+    width: 640px;
+    text-indent: -100000px;
+  }
+
+h1, h2, h3, h4, h5, h6
+  {
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+nav::before
+  {
+    white-space: pre;
+    content: "                               ___\a                             |\\/   \\\aT A S T Y F I S H           |  > O )\a=================           |/\\___/";
+    font-weight: bold;
+  }
+
+body
+  {
+    width: 800px;
+  }
+
+div.fit-but-cheatsheet
+  {
+    width: 120px;
+  }
+
+footer::before
+  {
+    content: "----------------------------------------------------------------------------------------------";
+  }
+
+ul
+  {
+    list-style: none;
+    padding-left: 17px;
+  }
+
+hr
+  {
+    border: none;
+  }
+
+hr::before
+  {
+    content: "______________________________________________________________________________________________";
+  }
+
+.social::before
+  {
+    content: "MY SOCIAL WEBSITE PROFILES:"
+  }
+
+table
+  {
+    border-collapse: collapse;
+  }
+
+.language-select
+  {
+    float: right;
+  }
+
+.language-select::before
+  {
+    content: "language:";
+  }
+
+.language-select div
+  {
+    display: inline;
+  }
+
+.language-select a div.lang-cs::before
+  {
+    content: "cz";
+  }
+
+.language-select a div.lang-en::before
+  {
+    content: "en";
+  }
+
+td
+  {
+    border: 1px solid;
+  }
+
+input[type="image"]
+  {
+    filter: brightness(2) contrast(200) hue-rotate(20deg);
+    margin: 0 20px 20px;
+  }
+
+ul li
+  {
+    display: block;
+  }
+
+ul li::before
+  {
+    content: "--";
+  }
+
+img
+  {
+    max-width: 100%
+  }
