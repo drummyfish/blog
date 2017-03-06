@@ -4,38 +4,11 @@
   <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.2.0">
   <meta charset="utf-8">
   <script>
-    function change_css(old_css, new_css)
-      {
-        var old_link = document.getElementsByTagName("link").item(0);
-        var new_href = old_link.getAttribute("href").replace(old_css,new_css);
-        var new_link = document.createElement("link");
-        new_link.setAttribute("rel", "stylesheet");
-        new_link.setAttribute("type", "text\/css");
-        new_link.setAttribute("href", new_href);
-        document.getElementsByTagName("head").item(0).replaceChild(new_link, old_link);
-      }
-
     function get_cookie(name)
       {
         var value = "; " + document.cookie;
         var parts = value.split("; " + name + "=");
         if (parts.length == 2) return parts.pop().split(";").shift();
-      }
-
-    function reload_css()  // dynamically change the document css
-      {
-        if (get_cookie("unix") == "true")
-          {
-            old_css = "main.css";
-            new_css = "unix.css";
-          }  
-        else
-          {
-            old_css = "unix.css";
-            new_css = "main.css";
-          }
-
-        change_css(old_css,new_css);
       }
 
     function unix_click()      // on unix button click
@@ -48,7 +21,7 @@
         expire_string = "Sun, 4 Mar 2040 18:54:31 +01:00";
         document.cookie = "unix=" + value + ";expires=" + expire_string + ";path=\/";
 
-        reload_css();
+        location.reload();
       }
 
     function make_unix_button()
@@ -218,7 +191,7 @@
       Emoji provided by <a href="http://emojione.com/">EmojiOne</a>.<br>
       This website is open source, the source code is available <a href=
       "https://github.com/drummyfish/drummyfish.github.io-src">here</a>.<br>
-      <span class="publish-info">publish version, built on: 04.03.2017, 19:10:33.</span>
+      <span class="publish-info">publish version, built on: 06.03.2017, 15:18:01.</span>
     </address>
   </footer>
 </body>
