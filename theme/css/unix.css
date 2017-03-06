@@ -25,7 +25,7 @@ body, a
 
 img
   {
-    filter: sepia(1) hue-rotate(60deg) saturate(200%) contrast(4);
+    filter: url(#unix);
     max-width: 640px;
     text-indent: -100000px;
     color: #3cff3c;
@@ -119,6 +119,7 @@ table
 td
   {
     border: 1px solid;
+    padding: 3px;
   }
 
 input[type="image"]   /* donate button */
