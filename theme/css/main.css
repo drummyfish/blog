@@ -215,7 +215,7 @@ td
     top: 0;
     left: 0;
     cursor: pointer; cursor: hand;
-    color: green;
+    color: #406140;
   }
 
 #unix-button:before
