@@ -7,7 +7,7 @@ sepíšu shrnutí a pocity jako update článku &lt;a href="/ing5.html"&gt;o pos
 &lt;p&gt;Zároveň pod záminkou tohoto updatu přidávám pár dalších novinek:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Konečně jsem přešel na textový editor vim - tento update píšu v něm. Potvrzuji, že je to nejlepší editor.&lt;/li&gt;
-&lt;li&gt;Stáhl jsem přes 36 000 diplomek z oboru informatiky a udělal jejich &lt;a href=""&gt;otevřenou databázi&lt;/a&gt;.
+&lt;li&gt;Stáhl jsem přes 36 000 diplomek z oboru informatiky a udělal jejich &lt;a href="https://github.com/drummyfish/thesis_db"&gt;otevřenou databázi&lt;/a&gt;.
   Může se vám hodit, pokud např. sami píšete diplomku, a chcete si vyhledat, zda někdo něco
   podobného už realizoval, popř. jak. Taky můžete zabíjet čas vyhledáváním bizarních prací. V repozitáři jsou k
   dispozici rovněž zajímavé statistiky, které jsem z dat shromáždil (mrkněte např. na nejdelší název diplomky).&lt;/li&gt;
