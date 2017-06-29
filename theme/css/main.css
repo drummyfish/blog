@@ -953,13 +953,13 @@ li:last-child .hentry, #content > .hentry
   
 /****** OTHER ******/
 
-#content ul.latest-articles
+#content ul.latest-articles, #content ul.latest-commits
   {
     list-style: none;
     margin-left: 10px;
   }
 
-#content ul.latest-articles li
+#content ul.latest-articles li, #content ul.latest-commits li
   {
     margin-bottom: 7px;
     font-size: 20px;
